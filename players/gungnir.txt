@@ -1,0 +1,11 @@
+Player: gungnir
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to hadoukenmd (1532)
+lost to xero (1499)

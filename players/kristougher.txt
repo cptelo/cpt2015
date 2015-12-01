@@ -1,0 +1,13 @@
+Player: kristougher
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::TFC::::
+lost to redmage138 (1512)
+defeated papa giasso (1474)
+defeated dunham (1491)
+lost to rikkafresh (1511)

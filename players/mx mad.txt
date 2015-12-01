@@ -1,0 +1,11 @@
+Player: mx mad
+Rating: 1480
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to lu|alex valle (1530)
+lost to ta|chris g (1629)

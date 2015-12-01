@@ -1,0 +1,12 @@
+Player: m.a.d.e. gameover
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to callisto (1512)
+defeated jiraiya kurokaze (1476)
+lost to wfga higgs bison (1511)

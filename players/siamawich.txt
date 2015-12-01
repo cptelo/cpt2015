@@ -1,0 +1,12 @@
+Player: siamawich
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to dickson (1538)
+defeated el-psy (1474)
+lost to totallydrew (1511)

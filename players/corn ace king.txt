@@ -1,0 +1,15 @@
+Player: corn ace king
+Rating: 1524
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Combo Breaker::::
+lost to viscant (1512)
+defeated mr. gu (1474)
+defeated top hat (1485)
+defeated saltybetts (1498)
+defeated glb (1558)
+lost to mean saltine (1539)

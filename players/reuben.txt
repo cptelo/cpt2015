@@ -1,0 +1,11 @@
+Player: reuben
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to lom|vegedow (1512)
+lost to ed|vsf|jinty (1490)

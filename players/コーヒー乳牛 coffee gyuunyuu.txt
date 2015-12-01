@@ -1,0 +1,14 @@
+Player: コーヒー乳牛 coffee gyuunyuu
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Nine States::::
+lost to kawaguchi (1608)
+defeated のび太 (1474)
+defeated くりぱぱ kuripapa (1486)
+defeated g.y.r.o (1505)
+lost to dunhill (1526)

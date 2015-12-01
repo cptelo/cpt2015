@@ -1,0 +1,11 @@
+Player: sft|alexandro
+Rating: 1498
+Played: 2
+Won: 1
+Lost: 1
+%: 50
+
+Results:
+::::CPT Brazil::::
+defeated sft|dark817 (1487)
+lost to soa|xr prometo (1500)

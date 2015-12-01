@@ -1,0 +1,13 @@
+Player: ua|wholio
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated chris belman (1487)
+defeated sherryjenix (1500)
+lost to tommy gunzss (1524)
+lost to rida (1555)

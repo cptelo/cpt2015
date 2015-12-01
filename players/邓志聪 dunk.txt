@@ -1,0 +1,13 @@
+Player: 邓志聪 dunk
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::HK::::
+defeated lee ho lun the killer (1487)
+defeated daiki matsubara so (1499)
+lost to qanba douyu|dakou (1636)
+lost to 谭飞 fei (1539)

@@ -1,0 +1,12 @@
+Player: elicota
+Rating: 1462
+Played: 3
+Won: 0
+Lost: 3
+%: 0
+
+Results:
+::::SCR::::
+lost to macabremonster (1512)
+lost to viennahotdog (1511)
+lost to viennahotdog (1522)

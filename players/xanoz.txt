@@ -1,0 +1,12 @@
+Player: xanoz
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated feo grande (1487)
+lost to nice1 (1556)
+lost to goldteamrules (1511)

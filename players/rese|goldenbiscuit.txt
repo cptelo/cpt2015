@@ -1,0 +1,11 @@
+Player: rese|goldenbiscuit
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to mx|mad (1512)
+lost to sherryjenix (1521)

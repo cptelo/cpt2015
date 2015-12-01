@@ -1,0 +1,20 @@
+Player: kwyjibo
+Rating: 1523
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated eddydangerous (1487)
+lost to avm|gamerbee (1634)
+defeated zero_hour (1486)
+defeated gpl- flashkoto (1502)
+lost to ph|jame (1526)
+::::CEO::::
+lost to pxg wiseguy (1513)
+defeated rocketsmith (1475)
+defeated xdsc-knowledgereup (1498)
+defeated srm|the white beast (1520)
+lost to qanba douyu|kurenai (1550)

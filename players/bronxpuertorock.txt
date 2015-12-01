@@ -1,0 +1,14 @@
+Player: bronxpuertorock
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated frank lotion (1499)
+defeated xxstealthsneakxx (1500)
+lost to tsc|sanford kelly (1605)
+defeated viscant (1535)
+lost to ta psycho (1560)

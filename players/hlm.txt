@@ -1,0 +1,12 @@
+Player: hlm
+Rating: 1495
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Red Fight District::::
+lost to rize|ind|pro fluke (1640)
+defeated rsd beef (1473)
+lost to lll|mbr (1611)

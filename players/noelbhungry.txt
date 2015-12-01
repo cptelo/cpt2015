@@ -1,0 +1,14 @@
+Player: noelbhungry
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::TFC::::
+defeated anbu_mrfrayfray (1487)
+lost to tampa bison (1640)
+defeated hold dat l (1486)
+defeated kuraudo (1485)
+lost to redpanda knuckledust (1527)

@@ -1,0 +1,17 @@
+Player: judge ashen
+Rating: 1549
+Played: 8
+Won: 6
+Lost: 2
+%: 75
+
+Results:
+::::CEO::::
+lost to gankula (1512)
+defeated dojo_grandknight (1486)
+defeated usin (1499)
+defeated moduspwnens (1486)
+defeated triiifector (1525)
+defeated glb (1556)
+defeated sa cuby (1538)
+lost to iperu (1572)

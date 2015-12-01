@@ -1,0 +1,14 @@
+Player: armageddon
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::KO Fighting Game Festival::::
+defeated samuraispirit (1487)
+lost to rzr|xian (1771)
+defeated second_son_5ald (1475)
+defeated shido_ (1487)
+lost to wtq8|elcaptain (1514)

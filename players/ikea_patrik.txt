@@ -1,0 +1,14 @@
+Player: ikea_patrik
+Rating: 1449
+Played: 5
+Won: 0
+Lost: 5
+%: 0
+
+Results:
+::::Dreamhack Summer::::
+lost to brillz (1512)
+lost to agi.rsd.charmingrogue (1499)
+lost to md|luffy (1721)
+lost to pedro unchained (1510)
+lost to lll|mbr (1594)

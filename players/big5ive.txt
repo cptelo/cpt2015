@@ -1,0 +1,15 @@
+Player: big5ive
+Rating: 1524
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated 'daitarn 3 (1487)
+lost to zaferino (1609)
+defeated dgskater (1475)
+defeated king koopa (1474)
+defeated bringbackiceclimbers (1498)
+lost to cj tajh (1558)

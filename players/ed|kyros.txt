@@ -1,0 +1,22 @@
+Player: ed|kyros
+Rating: 1498
+Played: 11
+Won: 5
+Lost: 6
+%: 45
+
+Results:
+::::Hypespotting::::
+defeated vs hustle crowe (1487)
+defeated btm brian (1545)
+defeated doom (1511)
+lost to flawless deku (1589)
+lost to rize|ind|boltstrike (1564)
+::::VS Fighting::::
+lost to rde|akraat (1538)
+defeated confz (1486)
+defeated lom|vegedow (1498)
+lost to chaos time (1548)
+::::EGX::::
+lost to gonzales (1611)
+lost to rize|ind|boltstrike (1568)

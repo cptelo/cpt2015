@@ -1,0 +1,30 @@
+Player: iperu
+Rating: 1566
+Played: 19
+Won: 11
+Lost: 8
+%: 57
+
+Results:
+::::NorCal Regionals::::
+defeated mr. sparkle (1489)
+defeated ninjamatic (1501)
+defeated bryan papa (1513)
+lost to eg|k-brad (1630)
+defeated kineda (1526)
+lost to eg|k-brad (1640)
+lost to eg|k-brad (1649)
+defeated vicious (1557)
+lost to ex pugera (1663)
+::::CEO::::
+defeated gankula (1501)
+defeated job gdx (1512)
+defeated lil evil (1513)
+lost to mcz|tokido (1718)
+defeated judge ashen (1549)
+lost to eg|pr balrog (1659)
+::::SCR::::
+defeated bcw-gaara_sand (1501)
+defeated asc.sd alexis pinto (1514)
+lost to eg|pr balrog (1696)
+lost to ma lung fan (1547)

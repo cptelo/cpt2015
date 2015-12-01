@@ -1,0 +1,37 @@
+Player: ind.spb|rize|ind|ixion
+Rating: 1582
+Played: 26
+Won: 17
+Lost: 9
+%: 65
+
+Results:
+::::Hypespotting::::
+lost to bsc|ruok (1514)
+defeated sfo|tscooler (1476)
+defeated scavenger xiii (1488)
+defeated bsc|ruok (1501)
+defeated muirtron (1488)
+defeated ed|lavell up (1524)
+lost to andreas (1637)
+lost to apollo steed (1578)
+::::Dreamhack Summer::::
+defeated remes (1501)
+defeated doxus (1503)
+defeated archiba (1465)
+defeated james deen (1488)
+defeated remes (1481)
+lost to um|imstilldadaddy (1632)
+defeated ettelman (1543)
+lost to wso|andreas (1633)
+lost to duppsko (1520)
+::::Dreamhack Winter::::
+defeated fruit (1509)
+defeated qphj (1477)
+defeated op|sick bubblegum (1471)
+defeated op|flcl (1505)
+lost to fa|ryan hart (1701)
+defeated esr|gonzales (1642)
+lost to md|luffy (1793)
+defeated kreymore (1535)
+lost to um|btm|rmz (1612)

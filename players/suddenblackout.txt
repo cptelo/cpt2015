@@ -1,0 +1,13 @@
+Player: suddenblackout
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to willpower (1512)
+defeated eliver ling (1474)
+defeated seventh trumpet (1489)
+lost to thrillhouse (1523)

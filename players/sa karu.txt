@@ -1,0 +1,13 @@
+Player: sa karu
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated ctrl rayray (1498)
+lost to dayosha (1524)
+defeated feo grande (1474)
+lost to manualcrowcaine (1525)

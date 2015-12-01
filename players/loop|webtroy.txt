@@ -1,0 +1,12 @@
+Player: loop|webtroy
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated koifishing (1487)
+lost to detroit coco (1512)
+lost to epic|narcissistic (1499)

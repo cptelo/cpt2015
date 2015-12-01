@@ -1,0 +1,15 @@
+Player: ttl|shinba
+Rating: 1542
+Played: 5
+Won: 2
+Lost: 3
+%: 40
+
+Results:
+::::EVO::::
+lost to wfx|801 strider (1697)
+::::Ultra Hyakkishu Cup::::
+lost to rzr|xian (1784)
+defeated oni. (1478)
+defeated noriyasu (1490)
+lost to wao (1554)

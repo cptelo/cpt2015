@@ -1,0 +1,11 @@
+Player: hootington
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to native impact (1608)
+lost to emo (1500)

@@ -1,0 +1,13 @@
+Player: profx
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated sean9217 (1487)
+defeated captain steel (1487)
+lost to btm|real menace (1571)
+lost to pun pun (1511)

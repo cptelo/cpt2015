@@ -1,0 +1,20 @@
+Player: vs|bigfool
+Rating: 1511
+Played: 10
+Won: 5
+Lost: 5
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated rst|ryrie (1487)
+defeated benners (1499)
+lost to ed|lavell up (1536)
+defeated benners (1510)
+defeated dawgtanian (1523)
+defeated rs|ladnopoka (1511)
+lost to rzr|xian (1780)
+lost to vs|milligano (1557)
+::::EVO::::
+lost to r/kappa|poongko (1743)
+lost to gg|epic l.gg|onisan (1580)

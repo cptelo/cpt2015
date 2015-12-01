@@ -1,0 +1,11 @@
+Player: jackiechanningtatum
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Saigon Cup::::
+lost to pine (1512)
+lost to lk (1499)

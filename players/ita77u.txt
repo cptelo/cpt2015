@@ -1,0 +1,13 @@
+Player: ita77u
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Milan Games Week::::
+defeated lorenzo pieracci (1487)
+lost to ybk|shiro (1659)
+defeated nicoy tiengo (1475)
+lost to ba b_5 (1523)

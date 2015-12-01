@@ -1,0 +1,22 @@
+Player: jet
+Rating: 1498
+Played: 12
+Won: 6
+Lost: 6
+%: 50
+
+Results:
+::::Dreamhack Summer::::
+defeated pylo (1487)
+lost to avm|gamerbee (1704)
+defeated jns (1475)
+defeated dreadleif (1492)
+lost to ind.saltykid (1525)
+defeated yagami (1522)
+lost to um|imstilldadaddy (1638)
+lost to brillz (1534)
+::::Dreamhack Winter::::
+lost to fgcbr|keoma (1650)
+lost to ts|reiketsu (1662)
+defeated maven (1466)
+defeated c0ckman007 (1483)

@@ -1,0 +1,13 @@
+Player: onslaught
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to sd|tempest (1512)
+defeated nastynizzzle1 (1474)
+defeated ks|cbrn|nighttwo (1489)
+lost to falcomist (1523)

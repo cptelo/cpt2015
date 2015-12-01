@@ -1,0 +1,16 @@
+Player: rize|ind|kwiddo
+Rating: 1526
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::Dreamhack Winter::::
+defeated gingerv1k1ng (1487)
+lost to ccg|humanbomb (1666)
+defeated bashfest (1541)
+defeated kobra (1480)
+defeated cdv|melty|will2pac (1604)
+lost to kig|problem x (1711)
+lost to gxc|damascus (1606)

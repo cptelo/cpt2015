@@ -1,0 +1,17 @@
+Player: lom|vegedow
+Rating: 1487
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::VS Fighting::::
+defeated reuben (1487)
+defeated sfo|ghost (1487)
+lost to mmg|abswing (1530)
+lost to ed|kyros (1526)
+::::EGX::::
+lost to snake belmont (1512)
+defeated ninja shinryu (1537)
+lost to bsc|shek (1517)

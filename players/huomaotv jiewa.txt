@@ -1,0 +1,11 @@
+Player: huomaotv jiewa
+Rating: 1487
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::South East Asia Major::::
+lost to qanba douyu|xiaohai (1672)
+lost to avm|gamerbee (1709)

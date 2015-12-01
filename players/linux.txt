@@ -1,0 +1,13 @@
+Player: linux
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+lost to dan krolikowski (1512)
+defeated notbab hadoukant (1474)
+defeated vhs classics (1486)
+lost to rockdan (1530)

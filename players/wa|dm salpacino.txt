@@ -1,0 +1,14 @@
+Player: wa|dm salpacino
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated qed (1487)
+defeated rice_crackers (1499)
+lost to kelvin jeon (1576)
+defeated qed (1510)
+lost to jared (1549)

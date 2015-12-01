@@ -1,0 +1,30 @@
+Player: ph|nando tovar
+Rating: 1603
+Played: 19
+Won: 13
+Lost: 6
+%: 68
+
+Results:
+::::NorCal Regionals::::
+defeated beastbamba (1489)
+lost to team seaslug (1526)
+defeated ngamer3k (1491)
+lost to alex myers (1611)
+::::Northwest Majors::::
+defeated artemis (1489)
+defeated white gun (1518)
+defeated dogura (1558)
+defeated native impact (1611)
+defeated native impact (1608)
+lost to ph|lpn (1609)
+lost to ta|chris g (1616)
+::::SCR::::
+defeated combo kash (1490)
+defeated surruso (1502)
+defeated ccg|air (1629)
+defeated rb|snake eyez (1736)
+defeated rb|snake eyez (1732)
+defeated nekromantik187 (1539)
+lost to ts|reiketsu (1658)
+lost to sd|pnoy (1616)

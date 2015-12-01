@@ -1,0 +1,11 @@
+Player: mdzor
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Saigon Cup::::
+lost to tuan mario (1512)
+lost to baotrung3108 (1515)

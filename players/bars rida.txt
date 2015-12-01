@@ -1,0 +1,14 @@
+Player: bars rida
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated frogboat (1487)
+defeated doscubanos (1487)
+lost to orlando (1536)
+defeated the best in west palm beach (1512)
+lost to stvg crespo (1541)

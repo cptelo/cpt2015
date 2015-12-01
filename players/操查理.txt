@@ -1,0 +1,13 @@
+Player: 操查理
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+lost to twmsp (1512)
+defeated hke|toyz(hong kong) (1474)
+defeated talkbow (1490)
+lost to jay (1511)

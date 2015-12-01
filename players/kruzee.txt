@@ -1,0 +1,14 @@
+Player: kruzee
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated mike cue (1487)
+lost to sherryjenix (1527)
+defeated chilli_palmer (1474)
+defeated juniblaze xxx (1486)
+lost to nyc yuusha (1523)

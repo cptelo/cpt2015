@@ -1,0 +1,13 @@
+Player: misteranthropy
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to team seaslug (1512)
+defeated beastbamba (1476)
+defeated skullied (1489)
+lost to smbg|bakedmotatoes (1523)

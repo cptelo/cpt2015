@@ -1,0 +1,14 @@
+Player: sephro8h89
+Rating: 1509
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Milan Games Week::::
+defeated berri (1487)
+lost to pahn (1512)
+defeated midas (1474)
+defeated fancylaine (1501)
+lost to splendidnull (1516)

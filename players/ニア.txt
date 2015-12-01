@@ -1,0 +1,17 @@
+Player: ニア
+Rating: 1457
+Played: 8
+Won: 2
+Lost: 6
+%: 25
+
+Results:
+::::Nine States::::
+lost to mizoteru (1560)
+lost to ナックル nakkuru (1499)
+defeated ちゃー (1486)
+lost to アミユ (1523)
+lost to のえ (1515)
+defeated ちゃー (1494)
+lost to アミユ (1550)
+lost to のえ (1527)

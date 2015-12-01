@@ -1,0 +1,14 @@
+Player: alexarandom
+Rating: 1522
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Milan Games Week::::
+defeated squibb (1487)
+defeated mazinkaiser (1499)
+lost to rzr|xian (1807)
+defeated the lyl3 (1510)
+lost to raygo blayde|afii (1645)

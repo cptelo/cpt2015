@@ -1,0 +1,11 @@
+Player: dion
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Abuget Cup::::
+lost to xiaolong (1560)
+lost to ardi (1503)

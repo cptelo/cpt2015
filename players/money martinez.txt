@@ -1,0 +1,12 @@
+Player: money martinez
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated kermit alexander (1487)
+lost to eg|justin wong (1739)
+lost to assan chop (1500)

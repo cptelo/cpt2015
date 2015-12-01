@@ -1,0 +1,112 @@
+Player: esr|gonzales
+Rating: 1648
+Played: 89
+Won: 58
+Lost: 31
+%: 65
+
+Results:
+::::CPTA KR::::
+defeated prettyminky (1491)
+lost to dark jiewa (1668)
+defeated spabobin (1466)
+defeated prettyminky (1505)
+lost to dark jiewa (1666)
+::::KSB 2015::::
+lost to シロマティ (1516)
+defeated ＭＡＳＴ (1484)
+defeated スコア (1495)
+lost to reiketsu (1615)
+::::EVO::::
+lost to li joe (1515)
+defeated tampa bison (1637)
+::::FV Cup::::
+defeated jonathan swee (1490)
+defeated gl|saunic (1579)
+defeated kim1234 (1561)
+lost to bonchan (1701)
+defeated ybk|shiro (1626)
+lost to leslie (1582)
+::::Taiwan::::
+defeated 謝漢傑 (1490)
+defeated ssvs-allen (1502)
+defeated 豪鬼王/tomy huang (1513)
+lost to rzr|itabashi zangief (1692)
+defeated 豪鬼王/tomy huang (1527)
+lost to rzr|itabashi zangief (1695)
+defeated codynp (1531)
+defeated ybk|shiro (1632)
+lost to qanba douyu|dark jiewa (1641)
+::::HK::::
+lost to ryoji masaki chanson (1515)
+defeated yip kai cheong barlowlism (1453)
+defeated cord krohn ahgama (1489)
+defeated 梁伟知 todayceo (1524)
+defeated ricky xft_softegg (1500)
+defeated ho wai kit cs/u2 (1519)
+defeated cheungyik memory (1518)
+defeated kok (1608)
+lost to ybk|shiro (1647)
+::::Manila Cup::::
+defeated nishikin (1649)
+lost to qanba douyu|dark jiewa (1662)
+lost to rzr|itabashi zangief (1696)
+::::Saigon Cup::::
+defeated heodzodzien (1491)
+lost to rzr|gackt (1613)
+defeated heodzodzien (1505)
+lost to rzr|gackt (1617)
+defeated shaun (1509)
+defeated chuan (1636)
+defeated ybk|shiro (1645)
+lost to tonpy (1682)
+::::EGX::::
+defeated ed|kyros (1503)
+defeated vs|rde|edinbulba (1579)
+lost to rize|ind|pro fluke (1649)
+defeated chaos time (1538)
+defeated bx3|phenom (1648)
+defeated btm|hurricane (1636)
+defeated flawless deku (1582)
+lost to fa|ryan hart (1688)
+::::Call of Ragnarok::::
+defeated packz (1612)
+defeated rize|ind|pro fluke (1637)
+defeated bx3|veggey (1605)
+defeated bx3|phenom (1651)
+lost to ybk|shiro (1660)
+lost to ybk|shiro (1664)
+::::Red Fight District::::
+defeated big mara ramiz (1492)
+defeated iplay|sheva (1560)
+lost to wso|andreas (1650)
+defeated iplay|yougenius (1502)
+defeated lll|emersion (1544)
+defeated raygo blayde|afii (1642)
+lost to eg|k-brad (1680)
+::::Ultra Hyakkishu Cup::::
+defeated initial kyouso (1492)
+defeated ybk|kichiken (1579)
+lost to hydebuffy (1556)
+lost to wao (1569)
+::::Milan Games Week::::
+defeated fabio zeta (1503)
+defeated splendidnull (1503)
+defeated easyman (1575)
+defeated md|luffy (1788)
+lost to rzr|fuudo (1736)
+lost to fa|ryan hart (1706)
+::::Canada Cup::::
+lost to rb|snake eyez (1748)
+defeated rize|ind|pro fluke (1631)
+lost to rzr|xian (1803)
+::::Dreamhack Winter::::
+defeated peatdefeat (1479)
+defeated bobbis (1503)
+defeated kata (1455)
+defeated eh nd|majintenshinhan (1501)
+lost to ind.spb|rize|ind|ixion (1586)
+defeated warbio (1464)
+defeated cuongster (1590)
+defeated bx3|veggey (1606)
+lost to md|luffy (1790)

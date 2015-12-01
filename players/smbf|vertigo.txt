@@ -1,0 +1,11 @@
+Player: smbf|vertigo
+Rating: 1473
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to lom|warteacher (1524)
+lost to rst|launchpad mcross (1474)

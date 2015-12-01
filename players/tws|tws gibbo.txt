@@ -1,0 +1,17 @@
+Player: tws|tws gibbo
+Rating: 1488
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Hypespotting::::
+lost to sfo zxmx (1512)
+lost to david cameron.gov (1499)
+::::VS Fighting::::
+lost to kubisa (1511)
+defeated captain steel (1473)
+defeated bfl|popidge (1486)
+defeated lom|slim (1488)
+lost to sfo|zxmx (1535)

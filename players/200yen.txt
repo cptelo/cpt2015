@@ -1,0 +1,13 @@
+Player: 200yen
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated demonlos (1487)
+defeated hydro (1499)
+lost to liquid|nuckledu (1711)
+lost to dchong (1523)

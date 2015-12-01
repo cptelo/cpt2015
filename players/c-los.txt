@@ -1,0 +1,13 @@
+Player: c-los
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to glb (1560)
+defeated majesticstylez (1474)
+defeated mattdaddy916 (1489)
+lost to phdinspd (1523)

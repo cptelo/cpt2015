@@ -1,0 +1,14 @@
+Player: 海龙
+Rating: 1519
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated indmou (1487)
+lost to rzr|fuudo (1727)
+defeated 具体哥 (1489)
+defeated qanba douyu|hurtch_vr (1560)
+lost to 眉山拳王 (1532)

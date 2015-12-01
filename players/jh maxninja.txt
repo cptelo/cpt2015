@@ -1,0 +1,13 @@
+Player: jh maxninja
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated babycakes (1487)
+lost to yomi cardell (1512)
+defeated tomjw88 (1474)
+lost to daymo (1511)

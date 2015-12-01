@@ -1,0 +1,12 @@
+Player: shane
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to jd (1511)
+defeated leonlum (1490)
+lost to tanka tanky (1493)

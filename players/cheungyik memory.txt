@@ -1,0 +1,14 @@
+Player: cheungyik memory
+Rating: 1518
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::HK::::
+defeated 陈智聪 坑头仔 (1487)
+defeated niceblock skenming (1476)
+defeated ricky xft_softegg (1510)
+lost to qanba douyu|xiaohai (1710)
+lost to gonzales (1608)

@@ -1,0 +1,28 @@
+Player: forward dash
+Rating: 1481
+Played: 17
+Won: 7
+Lost: 10
+%: 41
+
+Results:
+::::Dreamhack Summer::::
+defeated dr. cat (1487)
+lost to lyhs (1503)
+lost to yagami (1536)
+defeated jeparianen (1441)
+lost to wso|andreas (1626)
+lost to avm|gamerbee (1714)
+defeated doxus (1482)
+lost to bashfest (1553)
+::::Red Fight District::::
+lost to gl|rb|valmaster (1696)
+defeated mdz kampfkeks667 (1474)
+lost to keftaroz (1515)
+::::Dreamhack Winter::::
+defeated ippolit (1486)
+lost to gxc|damascus (1595)
+defeated kilmer (1461)
+defeated shonk (1476)
+lost to kig|problem x (1709)
+lost to cdv|melty|will2pac (1607)

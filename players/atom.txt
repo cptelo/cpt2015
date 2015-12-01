@@ -1,0 +1,14 @@
+Player: atom
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Taiwan::::
+lost to tonpy (1636)
+defeated aski (1474)
+defeated 小鍾 (1486)
+defeated sion (1503)
+lost to rockpon (1539)

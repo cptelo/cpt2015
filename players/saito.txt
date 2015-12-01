@@ -1,0 +1,12 @@
+Player: saito
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+defeated brz|dj basket (1487)
+lost to javits (1512)
+lost to od|hollow (1511)

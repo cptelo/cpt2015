@@ -1,0 +1,10 @@
+Player: luken
+Rating: 1512
+Played: 1
+Won: 1
+Lost: 0
+%: 100
+
+Results:
+::::Final Round::::
+defeated flash metroid (1487)

@@ -1,0 +1,12 @@
+Player: manny
+Rating: 1532
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+lost to fancylaine (1514)
+defeated cenerebb (1490)
+lost to daniel ta87 (1527)

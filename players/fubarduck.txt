@@ -1,0 +1,13 @@
+Player: fubarduck
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KSB 2015::::
+defeated カリスマ (1487)
+defeated haitani (1536)
+lost to r/kappa|kazunoko (1719)
+lost to meu (1537)

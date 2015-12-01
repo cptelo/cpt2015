@@ -1,0 +1,13 @@
+Player: borralí
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::First Attack::::
+lost to javy jitters (1524)
+defeated prk|razor (1486)
+defeated peluco (1491)
+lost to rbl|ronaldihno (1539)

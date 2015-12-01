@@ -1,0 +1,14 @@
+Player: pylo
+Rating: 1443
+Played: 5
+Won: 0
+Lost: 5
+%: 0
+
+Results:
+::::Dreamhack Summer::::
+lost to jet (1512)
+lost to ind.saltykid (1512)
+lost to avm|gamerbee (1708)
+lost to dreadleif (1503)
+lost to jns (1481)

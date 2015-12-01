@@ -1,0 +1,51 @@
+Player: mov
+Rating: 1646
+Played: 36
+Won: 20
+Lost: 16
+%: 55
+
+Results:
+::::EVO::::
+defeated r/kappa|alex myers (1632)
+defeated tsc|sanford kelly (1593)
+defeated ccg|lapchi (1491)
+::::HK::::
+defeated 蔡楚锋 528000 (1492)
+defeated chan king kiu cs|fa (1503)
+defeated qanba douyu|dark jiewa (1637)
+defeated gz-ben (1564)
+defeated chuan (1647)
+defeated ccg|humanbomb (1657)
+lost to r/kappa|infilitration (1785)
+defeated tonpy (1662)
+lost to r/kappa|infilitration (1788)
+::::Tokyo Game Show::::
+defeated eg|pr balrog (1694)
+lost to -6 (1632)
+lost to mf|tonpy (1679)
+::::Ultra Hyakkishu Cup::::
+defeated kindevu (1600)
+defeated ybk|shiro (1656)
+lost to be|nemo (1754)
+lost to misse (1675)
+::::Milan Games Week::::
+defeated danilo (1504)
+lost to kindevu (1620)
+defeated ponzaman (1500)
+defeated arika (1563)
+lost to ts|reiketsu (1661)
+::::Canada Cup::::
+defeated eg|pr balrog (1679)
+lost to rb|bonchan (1775)
+defeated ccg|chi-rithy (1593)
+lost to eg|justin wong (1715)
+::::CPTA Finals::::
+lost to be|nemo (1762)
+defeated rzr|xian (1793)
+lost to r/kappa|misse (1671)
+defeated qanba douyu|xiaohai (1716)
+lost to rb|bonchan (1757)
+lost to kindevu (1647)
+lost to qanba douyu|dakou (1636)
+lost to r/kappa|poongko (1749)

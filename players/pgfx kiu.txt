@@ -1,0 +1,13 @@
+Player: pgfx kiu
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated recon elite (1487)
+defeated ohgrr (1499)
+lost to eg|k-brad (1658)
+lost to danny boy peru (1536)

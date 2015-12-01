@@ -1,0 +1,13 @@
+Player: 大盗
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated 紫月 (1487)
+lost to mf|tonpy (1676)
+defeated ch (invitation pending) (1486)
+lost to 太虎 (1523)

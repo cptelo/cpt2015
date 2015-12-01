@@ -1,0 +1,11 @@
+Player: shiro(xiao bai)
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA KR::::
+lost to dark jiewa (1658)
+lost to prettyminky (1503)

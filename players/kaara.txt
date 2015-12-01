@@ -1,0 +1,13 @@
+Player: kaara
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to naio (1512)
+defeated skunk (1476)
+defeated izumi kouta (1493)
+lost to shinto~ (1528)

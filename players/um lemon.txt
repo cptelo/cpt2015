@@ -1,0 +1,13 @@
+Player: um lemon
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::EGX::::
+defeated sfo willo (1487)
+lost to btm|hurricane (1640)
+defeated vsf jinty (1475)
+lost to ninja shalz (1519)

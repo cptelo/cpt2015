@@ -1,0 +1,12 @@
+Player: scavenger xiii
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+defeated vexatiousidler (1487)
+lost to muirtron (1512)
+lost to ind.spb|ixion (1555)

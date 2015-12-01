@@ -1,0 +1,18 @@
+Player: deku deku tree
+Rating: 1511
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::EGX::::
+defeated fuzzy (1531)
+lost to rize|ind|pro fluke (1645)
+defeated snake belmont (1504)
+lost to vs|rde|edinbulba (1586)
+::::Red Fight District::::
+lost to fa|ryan hart (1689)
+defeated obake (1474)
+defeated devil reapers jimmy (1494)
+lost to lll|emersion (1543)

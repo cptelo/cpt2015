@@ -1,0 +1,20 @@
+Player: smbg|tangent
+Rating: 1527
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::NorCal Regionals::::
+lost to dm|casual phil (1512)
+defeated scar (1476)
+defeated armageddon8 (1493)
+defeated wolf street (1498)
+lost to julio (1597)
+::::SCR::::
+defeated jed (1487)
+defeated poncho the blue volcano (1488)
+defeated futile (1515)
+lost to corn|alucard (1621)
+lost to filipinoman (1632)

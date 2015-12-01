@@ -1,0 +1,11 @@
+Player: tombstone
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to ctrl|unknown (1522)
+lost to eog rico (1499)

@@ -1,0 +1,13 @@
+Player: jing
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+lost to 司超 群顿 (1512)
+defeated xiaowei xia mohai (1474)
+defeated junkohawley 19 (1476)
+lost to kang 康 (1523)

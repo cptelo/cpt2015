@@ -1,0 +1,10 @@
+Player: mdz|emtpysys
+Rating: 1493
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::FFM-Rumble::::
+lost to gl|valmaster (1689)

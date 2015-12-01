@@ -1,0 +1,12 @@
+Player: ymb9 dutchie
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to vs|rde|edinbulba (1560)
+defeated a4|andre (1476)
+lost to bsc|hadoshrooms (1511)

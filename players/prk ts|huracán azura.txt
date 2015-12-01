@@ -1,0 +1,17 @@
+Player: prk ts|huracán azura
+Rating: 1535
+Played: 8
+Won: 5
+Lost: 3
+%: 62
+
+Results:
+::::First Attack::::
+defeated mamobelty (1487)
+defeated javy jitters (1511)
+lost to eg|k-brad (1672)
+defeated rbl|ronaldihno (1525)
+lost to eg|k-brad (1675)
+defeated javits (1513)
+defeated goldman (1528)
+lost to ta|chris g (1632)

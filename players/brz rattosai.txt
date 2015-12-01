@@ -1,0 +1,13 @@
+Player: brz rattosai
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::First Attack::::
+defeated gibran (1487)
+lost to prk benji (1512)
+defeated elpr|tkd wolf (1486)
+lost to kreymore (1515)

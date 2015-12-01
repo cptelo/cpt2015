@@ -1,0 +1,16 @@
+Player: thrillhouse
+Rating: 1536
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::NorCal Regionals::::
+defeated vdon (1487)
+lost to g-dragon (1524)
+defeated ldo (1492)
+defeated suddenblackout (1498)
+defeated ce|boba tapioca (1504)
+defeated t3p valiant (1522)
+lost to marq teddy (1626)

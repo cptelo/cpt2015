@@ -1,0 +1,14 @@
+Player: ultrabram
+Rating: 1497
+Played: 5
+Won: 2
+Lost: 3
+%: 40
+
+Results:
+::::Saigon Cup::::
+defeated lk (1487)
+lost to rzr|itabashi zangief (1698)
+defeated lk (1498)
+lost to rzr|itabashi zangief (1700)
+lost to silg|stanick (1509)

@@ -1,0 +1,14 @@
+Player: et
+Rating: 1518
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Taiwan::::
+defeated chen陳振銘 (1487)
+defeated sulabee (1499)
+lost to inco (1689)
+defeated ares016 (1516)
+lost to rzr|rb (1619)

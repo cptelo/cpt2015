@@ -1,0 +1,12 @@
+Player: sfo|dragonman
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated ds|jamusan (1487)
+lost to um|btm|imstilldadaddy (1638)
+lost to ninja shinryu (1535)

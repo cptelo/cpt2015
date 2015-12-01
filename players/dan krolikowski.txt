@@ -1,0 +1,13 @@
+Player: dan krolikowski
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated linux (1487)
+defeated uli (1499)
+lost to yg|joel (1634)
+lost to rockdan (1541)

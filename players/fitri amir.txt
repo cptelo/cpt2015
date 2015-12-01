@@ -1,0 +1,13 @@
+Player: fitri amir
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::FV Cup::::
+defeated renzuo (1487)
+defeated bram (1499)
+lost to tonpy (1637)
+lost to battousai (1539)

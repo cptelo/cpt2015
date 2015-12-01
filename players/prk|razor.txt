@@ -1,0 +1,12 @@
+Player: prk|razor
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+lost to rbl|ronaldihno (1512)
+defeated mamobelty (1474)
+lost to borralí (1499)

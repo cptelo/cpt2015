@@ -1,0 +1,14 @@
+Player: qphj
+Rating: 1447
+Played: 5
+Won: 0
+Lost: 5
+%: 0
+
+Results:
+::::Dreamhack Winter::::
+lost to op|flcl (1512)
+lost to ind.spb|rize|ind|ixion (1578)
+lost to fruit (1513)
+lost to fa|ryan hart (1698)
+lost to op|sick bubblegum (1496)

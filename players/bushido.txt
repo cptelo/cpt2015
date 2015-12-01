@@ -1,0 +1,12 @@
+Player: bushido
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+lost to ponzaman (1492)
+defeated jorge arana (1493)
+lost to the lyl3 (1523)

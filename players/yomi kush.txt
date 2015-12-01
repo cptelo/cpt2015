@@ -1,0 +1,13 @@
+Player: yomi kush
+Rating: 1530
+Played: 4
+Won: 3
+Lost: 1
+%: 75
+
+Results:
+::::TFC::::
+defeated anbu bpoilspill (1487)
+defeated engravings (1499)
+lost to rb|snake eyez (1736)
+defeated engravings (1510)

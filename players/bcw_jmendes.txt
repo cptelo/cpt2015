@@ -1,0 +1,13 @@
+Player: bcw_jmendes
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::TFC::::
+defeated surgingstorm (1487)
+defeated xaiah (1512)
+lost to lu|alex valle (1526)
+lost to mx|mad (1535)

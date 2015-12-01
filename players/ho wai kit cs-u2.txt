@@ -1,0 +1,14 @@
+Player: ho wai kit cs/u2
+Rating: 1519
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::HK::::
+defeated gary artairias (1487)
+defeated cord krohn ahgama (1499)
+lost to qanba douyu|xiaohai (1708)
+defeated ryoji masaki chanson (1512)
+lost to gonzales (1605)

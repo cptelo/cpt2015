@@ -1,0 +1,14 @@
+Player: duffman
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated mio bison (1487)
+lost to eg|pr balrog (1652)
+defeated benteezy (1475)
+defeated jun10r123 (1487)
+lost to berserk (1519)

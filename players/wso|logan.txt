@@ -1,0 +1,18 @@
+Player: wso|logan
+Rating: 1506
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated shirkerbee (1487)
+lost to mcz|mago (1659)
+defeated bfl|mowatman (1486)
+lost to bsc nevillebamshew (1528)
+::::VS Fighting::::
+defeated rhinostarr (1487)
+lost to btm|tyrant (1622)
+defeated ed|aixy (1508)
+lost to jason (1535)

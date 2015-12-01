@@ -1,0 +1,11 @@
+Player: laoghe
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Milan Games Week::::
+lost to john (1512)
+lost to schiacci sempre (1499)

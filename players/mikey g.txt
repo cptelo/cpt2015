@@ -1,0 +1,14 @@
+Player: mikey g
+Rating: 1509
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+lost to sa cuby (1512)
+defeated down right fierce (1474)
+defeated kmc hurricane (1486)
+defeated mikej (1486)
+lost to tosfhq sj (1514)

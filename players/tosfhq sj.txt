@@ -1,0 +1,13 @@
+Player: tosfhq sj
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated dojo_grandknight (1499)
+lost to glb (1566)
+defeated mikey g (1509)
+lost to sa cuby (1540)

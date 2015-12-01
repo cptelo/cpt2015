@@ -1,0 +1,12 @@
+Player: vx
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+defeated ba b_5 (1499)
+lost to ybk|shiro (1662)
+lost to arika (1567)

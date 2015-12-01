@@ -1,0 +1,11 @@
+Player: feo grande
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to xanoz (1512)
+lost to sa karu (1511)

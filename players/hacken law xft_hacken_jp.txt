@@ -1,0 +1,12 @@
+Player: hacken law xft_hacken_jp
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::HK::::
+lost to chan shing chi xft_sonicbeta (1512)
+defeated tony tyrant (1474)
+lost to chan sau cheong terry (1515)

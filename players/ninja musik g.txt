@@ -1,0 +1,13 @@
+Player: ninja musik g
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA KR::::
+lost to kimlegend (1512)
+defeated drakefang (1480)
+defeated no-leaf_clover76 (1493)
+lost to kimlegend (1534)

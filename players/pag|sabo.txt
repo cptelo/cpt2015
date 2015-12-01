@@ -1,0 +1,23 @@
+Player: pag|sabo
+Rating: 1505
+Played: 12
+Won: 6
+Lost: 6
+%: 50
+
+Results:
+::::CEO::::
+defeated hnh rs huggybear (1487)
+lost to ao omega tom hanks (1512)
+defeated schmidt (1474)
+defeated flavored (1500)
+lost to buttermilk chris (1527)
+::::Summer Jam::::
+lost to kig|problem x (1708)
+lost to julio (1613)
+::::First Attack::::
+defeated metaldb (1487)
+defeated od|hollow (1487)
+lost to javits (1524)
+defeated will (1515)
+lost to jarbo (1531)

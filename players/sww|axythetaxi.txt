@@ -1,0 +1,12 @@
+Player: sww|axythetaxi
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated mba|dread (1486)
+lost to vs|the janitor (1536)
+lost to sww|baconjacob (1523)

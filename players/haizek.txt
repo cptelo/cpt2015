@@ -1,0 +1,16 @@
+Player: haizek
+Rating: 1527
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::First Attack::::
+defeated blanco negro (1487)
+defeated amaury (1499)
+defeated snake eyez (1717)
+lost to snake eyez (1719)
+defeated blazing (1522)
+lost to snake eyez (1721)
+lost to kreymore (1538)

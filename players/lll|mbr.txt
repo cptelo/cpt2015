@@ -1,0 +1,51 @@
+Player: lll|mbr
+Rating: 1636
+Played: 37
+Won: 25
+Lost: 12
+%: 67
+
+Results:
+::::Cannes Winter Clash::::
+lost to poongko (1660)
+defeated fuhajin (1524)
+lost to valmaster (1701)
+::::FFM-Rumble::::
+lost to dark jiewa (1639)
+lost to bonchan (1714)
+::::Dreamhack Summer::::
+lost to md|luffy (1720)
+defeated agi.rsd.charmingrogue (1488)
+defeated brillz (1513)
+defeated pedro unchained (1500)
+defeated ikea_patrik (1449)
+defeated nayte (1546)
+lost to problem x (1681)
+defeated remes (1470)
+defeated brillz (1523)
+defeated tyrant (1616)
+defeated phenom (1638)
+lost to problem x (1684)
+::::EVO::::
+defeated ybk|shiro (1624)
+::::Red Fight District::::
+defeated streetmonkeys gotthemojo (1491)
+lost to cuongster (1594)
+defeated hlm (1495)
+defeated dn sf4killedus (1504)
+defeated lll doomdomainn (1505)
+defeated iplay demulant (1530)
+defeated wso|andreas (1639)
+defeated packz (1620)
+defeated gagapa (1631)
+lost to eg|k-brad (1688)
+::::Dreamhack Winter::::
+defeated quaka (1479)
+defeated tekei (1503)
+defeated thwisteh (1473)
+lost to kig|problem x (1707)
+defeated gxc|damascus (1599)
+lost to ccg|humanbomb (1678)
+defeated cdv|melty|will2pac (1602)
+defeated ts|reiketsu (1654)
+lost to kig|problem x (1709)

@@ -1,0 +1,14 @@
+Player: audriolen
+Rating: 1457
+Played: 4
+Won: 0
+Lost: 4
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to rzr|fuudo (1727)
+lost to bcw-rapidrunx (1499)
+::::SCR::::
+lost to hf yoga (1511)
+lost to pragmag (1497)

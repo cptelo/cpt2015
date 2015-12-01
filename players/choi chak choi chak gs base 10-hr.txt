@@ -1,0 +1,11 @@
+Player: choi chak choi chak gs base 10/hr
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::HK::::
+lost to codynp (1535)
+lost to xft_fire xft_fire (1499)

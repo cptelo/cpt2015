@@ -1,0 +1,11 @@
+Player: solda
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Milan Games Week::::
+lost to ba b_5 (1512)
+lost to moor (1515)

@@ -1,0 +1,17 @@
+Player: tss|marsh d teach
+Rating: 1522
+Played: 8
+Won: 5
+Lost: 3
+%: 62
+
+Results:
+::::Texas Showdown::::
+lost to cublanco (1541)
+defeated arkanis (1474)
+defeated crisium (1498)
+defeated phs slip n slide (1486)
+defeated hebrew hammer (1521)
+defeated vgp joe love (1500)
+lost to cublanco (1567)
+lost to hunted chimera (1534)

@@ -1,0 +1,14 @@
+Player: rida
+Rating: 1555
+Played: 5
+Won: 5
+Lost: 0
+%: 100
+
+Results:
+::::Texas Showdown::::
+defeated angel (1487)
+defeated itz mark kin4 (1475)
+defeated itz mark kin4 (1464)
+defeated chris belman (1487)
+defeated ua|wholio (1499)

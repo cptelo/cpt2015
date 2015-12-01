@@ -1,0 +1,13 @@
+Player: sa tempun
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated pewchee (1487)
+defeated bcw big tone (1487)
+lost to stvg asiandemon (1524)
+lost to image0/nobody (1535)

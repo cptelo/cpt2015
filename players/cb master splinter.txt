@@ -1,0 +1,14 @@
+Player: cb master splinter
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Combo Breaker::::
+defeated grasshoppa (1487)
+lost to ts|arturo sanchez (1666)
+defeated rgt crazy blk dude (1486)
+defeated diddy sinatra (1510)
+lost to mjb (1524)

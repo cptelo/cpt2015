@@ -1,0 +1,14 @@
+Player: izzy
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Combo Breaker::::
+lost to catchtheselegs (1512)
+defeated b&b mm_food (1474)
+defeated ishotto (1487)
+defeated greedychun (1498)
+lost to catchtheselegs (1523)

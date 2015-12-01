@@ -1,0 +1,13 @@
+Player: 黃勇 rc
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::HK::::
+defeated xft jin tai xft jin tai (1487)
+defeated kenny kenny (1499)
+lost to ybk|shiro (1643)
+lost to 刘锦发 chilunsin (1517)

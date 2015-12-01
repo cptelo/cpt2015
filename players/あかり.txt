@@ -1,0 +1,11 @@
+Player: あかり
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::KSB 2015::::
+lost to meu (1512)
+lost to ずん (1501)

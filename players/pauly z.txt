@@ -1,0 +1,13 @@
+Player: pauly z
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated dj_malady (1499)
+lost to pxg|integra (1560)
+defeated finalsweek (1511)
+lost to dj_malady (1545)

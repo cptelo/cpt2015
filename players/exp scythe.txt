@@ -1,0 +1,11 @@
+Player: exp scythe
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to soupbase (1512)
+lost to bab munn3y (1499)

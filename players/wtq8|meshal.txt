@@ -1,0 +1,14 @@
+Player: wtq8|meshal
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::KO Fighting Game Festival::::
+defeated gvoice (1499)
+lost to wtq8|gannoon (1570)
+defeated wtq8|bo bader (1486)
+defeated hamu chan (1502)
+lost to wtq8|gannoon (1570)

@@ -1,0 +1,13 @@
+Player: mullen
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA KR::::
+defeated cameraman (1475)
+lost to r/kappa|kazunoko (1708)
+defeated phdeejay (no psn id) (1488)
+lost to mintcheerios (1525)

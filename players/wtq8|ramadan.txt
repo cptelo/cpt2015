@@ -1,0 +1,12 @@
+Player: wtq8|ramadan
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KO Fighting Game Festival::::
+lost to evilyoshi (1560)
+defeated jaguar_murad (1497)
+lost to majinshinken musa (1527)

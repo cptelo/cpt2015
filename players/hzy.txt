@@ -1,0 +1,15 @@
+Player: hzy
+Rating: 1540
+Played: 5
+Won: 2
+Lost: 3
+%: 40
+
+Results:
+::::Final Round::::
+lost to eg|pr balrog (1707)
+::::CPTA Last Chance Qualifier::::
+defeated wuming (1489)
+defeated daniel thia (1500)
+lost to eg|pr balrog (1681)
+lost to daniel thia (1537)

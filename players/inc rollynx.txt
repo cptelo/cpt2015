@@ -1,0 +1,12 @@
+Player: inc rollynx
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated paul ho (1487)
+lost to eg|pr balrog (1678)
+lost to wuming (1513)

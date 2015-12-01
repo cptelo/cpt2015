@@ -1,0 +1,13 @@
+Player: eh nd|majintenshinhan
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Dreamhack Winter::::
+defeated peatdefeat (1487)
+defeated kata (1475)
+lost to bobbis (1516)
+lost to esr|gonzales (1648)

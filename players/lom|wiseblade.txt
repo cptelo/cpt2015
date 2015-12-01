@@ -1,0 +1,22 @@
+Player: lom|wiseblade
+Rating: 1565
+Played: 12
+Won: 7
+Lost: 5
+%: 58
+
+Results:
+::::Hypespotting::::
+defeated thunderlips (1489)
+lost to gl|saunic (1568)
+defeated vs tss paladin (1476)
+defeated emerald chaos (1502)
+defeated shaunjs (1490)
+lost to tyrant (1632)
+defeated bsc|shek (1513)
+lost to vs|rde|edinbulba (1591)
+::::VS Fighting::::
+defeated rde|sddowns (1480)
+defeated fi3nd x godmode (1501)
+lost to btm|isam (1583)
+lost to ikimashouu (1548)

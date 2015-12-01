@@ -1,0 +1,15 @@
+Player: flaquito
+Rating: 1528
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::SCR::::
+defeated sherryjenix (1513)
+lost to ccg|chris tatarian (1653)
+defeated pragmag (1484)
+defeated dmt - mr. d (1498)
+defeated hf yoga (1504)
+lost to akg shinji (1540)

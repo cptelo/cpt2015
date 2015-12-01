@@ -1,0 +1,12 @@
+Player: keno
+Rating: 1585
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Manila Cup::::
+lost to ybk|kim1234 (1566)
+defeated james (1482)
+lost to stormkubo (1678)

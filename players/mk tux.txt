@@ -1,0 +1,13 @@
+Player: mk tux
+Rating: 1497
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated vs|hustle crowe (1487)
+lost to platinum kid (1512)
+defeated kaptain (1474)
+lost to ed|vsf|jinty (1503)

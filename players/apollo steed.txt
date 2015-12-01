@@ -1,0 +1,18 @@
+Player: apollo steed
+Rating: 1575
+Played: 9
+Won: 6
+Lost: 3
+%: 66
+
+Results:
+::::Hypespotting::::
+defeated madvillain (1489)
+lost to rize|ind|pro fluke (1619)
+defeated sprint (1488)
+defeated brylarke (1500)
+defeated rde sefsins (1503)
+lost to infexious (1599)
+defeated ind.spb|ixion (1561)
+defeated ymb9|pappacrimson (1515)
+lost to gl|saunic (1586)

@@ -1,0 +1,12 @@
+Player: muratto
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to choiboy (1560)
+defeated pewpewu (1474)
+lost to dkt (1511)

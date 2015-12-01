@@ -1,0 +1,12 @@
+Player: joutai
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to crackfiend (1560)
+defeated shinobee (1474)
+lost to k/d_heyzeus775 (1513)

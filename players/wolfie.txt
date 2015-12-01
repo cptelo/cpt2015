@@ -1,0 +1,12 @@
+Player: wolfie
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to rockdan (1512)
+defeated b0tes (1481)
+lost to em cush (1515)

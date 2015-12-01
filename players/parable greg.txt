@@ -1,0 +1,16 @@
+Player: parable greg
+Rating: 1478
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::Hypespotting::::
+defeated ornstein (1487)
+defeated vsf|justinxavier (1499)
+lost to hurricane (1620)
+lost to flawless deku (1578)
+::::Red Fight District::::
+lost to lll doomdomainn (1512)
+lost to ettelman (1531)

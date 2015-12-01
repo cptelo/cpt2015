@@ -1,0 +1,13 @@
+Player: glasgow kev
+Rating: 1506
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+lost to rzr|xian (1768)
+defeated launchpad mcross (1474)
+defeated pun pun (1486)
+lost to akraat (1523)

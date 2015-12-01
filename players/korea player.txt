@@ -1,0 +1,14 @@
+Player: korea player
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Nine States::::
+lost to 仮面の魔術師 (1512)
+defeated とまとたいがー (1486)
+defeated 無刑 (1498)
+defeated まいけるたん (1486)
+lost to 和泉康太 (1535)

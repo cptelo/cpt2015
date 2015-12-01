@@ -1,0 +1,18 @@
+Player: sfo|ghost
+Rating: 1560
+Played: 9
+Won: 7
+Lost: 2
+%: 77
+
+Results:
+::::VS Fighting::::
+lost to lom|vegedow (1524)
+defeated star (1473)
+defeated vs|hustle crowe (1486)
+defeated jd (1499)
+defeated smbf|yts buttface (1503)
+defeated shaunjs (1494)
+defeated platinum kid (1526)
+defeated gxc|damascus (1592)
+lost to rize|ind|pro fluke (1644)

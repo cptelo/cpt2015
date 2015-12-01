@@ -1,0 +1,13 @@
+Player: サエ
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Nine States::::
+defeated のび太 (1487)
+lost to kawaguchi (1617)
+defeated 霧雨 kirisame (1486)
+lost to okome man (1523)

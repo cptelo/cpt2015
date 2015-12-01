@@ -1,0 +1,22 @@
+Player: stvg|flocker
+Rating: 1525
+Played: 11
+Won: 6
+Lost: 5
+%: 54
+
+Results:
+::::CEO::::
+defeated onealsky (1499)
+lost to yg|joel (1651)
+defeated shogun dynamite (1498)
+lost to fge olivo (1550)
+::::TFC::::
+lost to julio (1623)
+defeated itsther (1482)
+defeated wave foomy (1536)
+defeated damdai (1543)
+lost to brentt (1622)
+::::Defend the North::::
+defeated dafeetlee (1601)
+lost to tsc|sanford kelly (1594)

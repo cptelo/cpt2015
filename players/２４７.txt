@@ -1,0 +1,12 @@
+Player: ２４７
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Nine States::::
+defeated これ!どれ?アレ!ん kore!dore? are! n (1487)
+lost to kok (1617)
+lost to ナックル nakkuru (1511)

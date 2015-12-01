@@ -1,0 +1,18 @@
+Player: ishotto
+Rating: 1498
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated be|kane blueriver (1520)
+lost to bab zachary unitedstates (1524)
+lost to izzy (1511)
+::::CEO::::
+defeated ryer (1487)
+lost to ranmasama (1546)
+defeated blitzking109 (1486)
+defeated drake von duke (1491)
+lost to louzy (1511)

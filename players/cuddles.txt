@@ -1,0 +1,11 @@
+Player: cuddles
+Rating: 1482
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to conmystro (1512)
+lost to eg|justin wong (1735)

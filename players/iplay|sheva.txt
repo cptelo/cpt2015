@@ -1,0 +1,17 @@
+Player: iplay|sheva
+Rating: 1559
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::FFM-Rumble::::
+defeated lll|emersion (1530)
+defeated iplay|maruko (1489)
+lost to dark jiewa (1643)
+::::Red Fight District::::
+defeated visual badmuts24 (1489)
+lost to gonzales (1638)
+defeated ettelman (1526)
+lost to cdv|melty|will2pac (1597)

@@ -1,0 +1,13 @@
+Player: daiki matsubara so
+Rating: 1497
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::HK::::
+defeated auto au auto (1487)
+lost to 邓志聪 dunk (1524)
+defeated wong wai tak steve wong (1478)
+lost to 刘锦发 chilunsin (1505)

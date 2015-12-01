@@ -1,0 +1,16 @@
+Player: berserk
+Rating: 1545
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::CEO::::
+defeated p skelly (1499)
+lost to avm|gamerbee (1715)
+defeated duffman (1512)
+defeated thereflexwonder (1512)
+defeated yomi cardell (1504)
+defeated cj tajh (1557)
+lost to eg|pr balrog (1656)

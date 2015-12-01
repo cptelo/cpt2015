@@ -1,0 +1,13 @@
+Player: kino
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated hf|dreiss (1487)
+defeated firstnevermore (1499)
+lost to snake eyez (1711)
+lost to mikey r (1537)

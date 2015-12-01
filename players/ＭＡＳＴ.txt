@@ -1,0 +1,11 @@
+Player: ＭＡＳＴ
+Rating: 1484
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::KSB 2015::::
+lost to bonchan (1725)
+lost to gonzales (1594)

@@ -1,0 +1,11 @@
+Player: rocketsmith
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to ramen addict (1536)
+lost to kwyjibo (1512)

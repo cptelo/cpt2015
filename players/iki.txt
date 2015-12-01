@@ -1,0 +1,17 @@
+Player: iki
+Rating: 1490
+Played: 8
+Won: 3
+Lost: 5
+%: 37
+
+Results:
+::::Dreamhack Summer::::
+defeated iahadima (1487)
+lost to brick (1561)
+defeated paranoiar (1453)
+lost to ettelman (1568)
+lost to rize|ind|pro fluke (1642)
+lost to um|imstilldadaddy (1635)
+defeated yagami (1508)
+lost to ryan hart (1684)

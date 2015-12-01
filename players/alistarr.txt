@@ -1,0 +1,12 @@
+Player: alistarr
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to rmz (1608)
+defeated snoopylooker (1474)
+lost to j miller (1511)

@@ -1,0 +1,13 @@
+Player: ray
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::HK::::
+defeated +dq+ (1487)
+defeated 林諾勤 kennklam (1499)
+lost to misse (1684)
+lost to po yuen chan xft_nana (1535)

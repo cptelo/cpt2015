@@ -1,0 +1,12 @@
+Player: みやこ
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Nine States::::
+lost to とまとたいがー (1512)
+defeated あきやま (1474)
+lost to 仮面の魔術師 (1511)

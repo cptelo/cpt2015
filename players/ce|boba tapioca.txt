@@ -1,0 +1,13 @@
+Player: ce|boba tapioca
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated eliver ling (1487)
+defeated willpower (1499)
+lost to eg|ricki ortiz (1706)
+lost to thrillhouse (1535)

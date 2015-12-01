@@ -1,0 +1,13 @@
+Player: design
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated down right fierce (1487)
+lost to sa cuby (1524)
+defeated leafyboy12 (1474)
+lost to triiifector (1528)

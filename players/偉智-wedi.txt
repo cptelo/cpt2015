@@ -1,0 +1,11 @@
+Player: 偉智/wedi
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to sasuke (1512)
+lost to millertime(usa) (1499)

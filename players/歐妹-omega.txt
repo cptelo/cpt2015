@@ -1,0 +1,14 @@
+Player: 歐妹/omega
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Taiwan::::
+lost to onigiri kai (1512)
+defeated 大俠趕羚羊 (1474)
+defeated 睡大/sleeplong (1486)
+defeated 南哥的小戀人/陳二 (1498)
+lost to ccg|humanbomb (1648)

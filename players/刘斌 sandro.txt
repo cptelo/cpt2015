@@ -1,0 +1,15 @@
+Player: 刘斌 sandro
+Rating: 1528
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CPTA Shanghai::::
+defeated 郑凯 znk (1487)
+defeated 郑诚 lutak (1499)
+lost to rzr|xian (1752)
+defeated 郑凯 znk (1510)
+defeated 梁伟知 todayceo (1528)
+lost to ab ab (1531)

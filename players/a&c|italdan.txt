@@ -1,0 +1,14 @@
+Player: a&c|italdan
+Rating: 1538
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Summer Jam::::
+lost to eg|k-brad (1667)
+defeated remybleu (1480)
+lost to liquid|nuckledu (1755)
+::::Canada Cup::::
+lost to tsc|yomi|dieminion (1717)

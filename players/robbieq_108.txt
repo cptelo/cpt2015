@@ -1,0 +1,14 @@
+Player: robbieq_108
+Rating: 1535
+Played: 5
+Won: 4
+Lost: 1
+%: 80
+
+Results:
+::::Hypespotting::::
+defeated fsh (1487)
+lost to gatk dr sloan (1524)
+defeated matashoo (1486)
+defeated faisaldante23 (1501)
+defeated gatk dr sloan (1501)

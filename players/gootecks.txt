@@ -1,0 +1,10 @@
+Player: gootecks
+Rating: 1489
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::EVO::::
+lost to haitani (1570)

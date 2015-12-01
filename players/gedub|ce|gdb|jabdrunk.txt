@@ -1,0 +1,19 @@
+Player: gedub|ce|gdb|jabdrunk
+Rating: 1516
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::Northwest Majors::::
+defeated dean of games (1487)
+lost to eg|justin wong (1717)
+defeated drunkenbanana (1488)
+lost to mean saltine (1523)
+::::SCR::::
+defeated jctustin (1487)
+defeated plu (1488)
+lost to arrow (1542)
+defeated cprbeastlybubble (1511)
+lost to mc|xsk samurai (1583)

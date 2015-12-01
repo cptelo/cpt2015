@@ -1,0 +1,12 @@
+Player: 島主
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to zalk (1512)
+defeated kerick (1478)
+lost to tkd (1517)

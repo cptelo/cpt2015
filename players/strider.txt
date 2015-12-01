@@ -1,0 +1,15 @@
+Player: strider
+Rating: 1501
+Played: 6
+Won: 3
+Lost: 3
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated drm steikachay (1487)
+defeated rde|porcupine (1499)
+lost to mcz|tokido (1658)
+defeated kingquaka (1510)
+lost to codynp (1540)
+lost to vs|milligano (1529)

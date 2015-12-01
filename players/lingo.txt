@@ -1,0 +1,10 @@
+Player: lingo
+Rating: 1542
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::Final Round::::
+lost to eg|ricki ortiz (1707)

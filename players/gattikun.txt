@@ -1,0 +1,19 @@
+Player: gattikun
+Rating: 1562
+Played: 10
+Won: 7
+Lost: 3
+%: 70
+
+Results:
+::::Nine States::::
+defeated すけっち (1487)
+defeated クンスト (1499)
+defeated dbkoopa (1547)
+lost to kindo (1584)
+defeated kyabetsu (1555)
+lost to kindo (1594)
+defeated pepeday (1633)
+defeated anton (1539)
+defeated mizoteru (1583)
+lost to poongko (1734)

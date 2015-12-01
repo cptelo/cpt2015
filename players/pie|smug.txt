@@ -1,0 +1,60 @@
+Player: pie|smug
+Rating: 1673
+Played: 44
+Won: 27
+Lost: 17
+%: 61
+
+Results:
+::::Final Round::::
+defeated brentt (1589)
+lost to rzr|itabashi zangief (1671)
+lost to mcz|daigo (1709)
+::::NorCal Regionals::::
+defeated hf|inorite (1492)
+defeated nacer (1504)
+defeated brentt (1604)
+defeated eg|pr balrog (1682)
+defeated eg|pr balrog (1678)
+defeated eg|pr balrog (1665)
+defeated bj unchained (1622)
+defeated poongko (1745)
+lost to mcz|daigo (1740)
+lost to avm|gamerbee (1690)
+::::CEO::::
+defeated tbr last dragon (1505)
+defeated @deejonious (1517)
+defeated j campos (1529)
+defeated cast blanka (1576)
+defeated eg|momochi (1753)
+defeated mcz|tokido (1717)
+lost to r/kappa|kazunoko (1741)
+defeated tsc|dieminion (1692)
+lost to eg|pr balrog (1687)
+::::EVO::::
+lost to r/kappa|infilitration (1771)
+lost to inco (1683)
+::::Summer Jam::::
+defeated cuby (1493)
+lost to zaferino (1623)
+lost to mom|eh|velociraptor (1644)
+::::TFC::::
+defeated ctrl|unknown (1515)
+defeated red_panda_0bjection (1505)
+lost to wfx|801 strider (1696)
+defeated mob|princess slim (1533)
+lost to wfx|801 strider (1700)
+defeated hadoukenmd (1527)
+defeated julio (1614)
+defeated corn|alucard (1612)
+defeated lu|alex valle (1531)
+lost to wfx|801 strider (1705)
+::::Defend the North::::
+defeated dcb|afterdeath (1515)
+defeated l1|zaferino (1599)
+defeated fno|crazysalvi (1508)
+lost to eg|justin wong (1700)
+lost to og|shine (1618)
+::::Canada Cup::::
+lost to r/kappa|zv|kazunoko (1755)
+lost to ccg|air (1632)

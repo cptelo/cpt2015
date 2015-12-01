@@ -1,0 +1,11 @@
+Player: marcorydah
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Milan Games Week::::
+lost to dimmer (1512)
+lost to dr thomas (1511)

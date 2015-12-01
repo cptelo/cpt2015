@@ -1,0 +1,12 @@
+Player: aimforthefeet
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+defeated l4 (1487)
+lost to kuraudo (1512)
+lost to anbu_mrfrayfray (1511)

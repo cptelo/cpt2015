@@ -1,0 +1,11 @@
+Player: pain
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::KO Fighting Game Festival::::
+lost to wtq8|gannoon (1560)
+lost to gvoice (1511)

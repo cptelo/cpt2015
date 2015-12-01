@@ -1,0 +1,12 @@
+Player: adan
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+lost to the lyl3 (1512)
+defeated tissuemon (1474)
+lost to dario (1516)

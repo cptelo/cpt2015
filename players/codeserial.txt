@@ -1,0 +1,12 @@
+Player: codeserial
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to koryu (1512)
+defeated 138zod (1481)
+lost to raoul (1511)

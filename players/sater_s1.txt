@@ -1,0 +1,11 @@
+Player: sater_s1
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Milan Games Week::::
+lost to bitta89 (1512)
+lost to daddario (1514)

@@ -1,0 +1,12 @@
+Player: 陈桓
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated 阿翰 (1487)
+lost to qanba douyu|dark jiewa (1662)
+lost to tom (1513)

@@ -1,0 +1,11 @@
+Player: お花畑
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Nine States::::
+lost to つけめん (1512)
+lost to そらネコ (1513)

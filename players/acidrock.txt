@@ -1,0 +1,12 @@
+Player: acidrock
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+defeated bon weiu (1487)
+lost to rzr|itabashi zangief (1678)
+lost to suktuck (1523)

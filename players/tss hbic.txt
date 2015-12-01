@@ -1,0 +1,12 @@
+Player: tss hbic
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated ucc|mattikus (1487)
+lost to tampa bison (1636)
+lost to mr. shoushi (1500)

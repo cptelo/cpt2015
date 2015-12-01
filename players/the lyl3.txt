@@ -1,0 +1,14 @@
+Player: the lyl3
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Milan Games Week::::
+defeated adan (1487)
+lost to neopunisher (1524)
+defeated master sarayut (1474)
+defeated bushido (1486)
+lost to alexarandom (1531)

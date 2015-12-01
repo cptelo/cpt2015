@@ -1,0 +1,19 @@
+Player: ip man
+Rating: 1546
+Played: 10
+Won: 7
+Lost: 3
+%: 70
+
+Results:
+::::Texas Showdown::::
+defeated ghostshock (1487)
+lost to image (1512)
+defeated readyforpowwow (1474)
+defeated daisuketensei (1487)
+defeated dawgenhower (1498)
+defeated image (1503)
+defeated txs raph (1503)
+lost to eg|k-brad (1645)
+defeated chrisdat (1513)
+lost to hsien chang (1577)

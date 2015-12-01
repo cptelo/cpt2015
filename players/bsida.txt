@@ -1,0 +1,14 @@
+Player: bsida
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Texas Showdown::::
+defeated rauce (1487)
+defeated setx|hd (1487)
+lost to nashfan (1513)
+defeated sherryjenix (1520)
+lost to tommy gunzss (1523)

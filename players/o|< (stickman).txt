@@ -1,0 +1,15 @@
+Player: o|< (stickman)
+Rating: 1526
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::VS Fighting::::
+defeated oenomaus (1487)
+defeated skarfelt (1487)
+defeated bfl|mowatman (1487)
+lost to kig|problem x (1695)
+defeated jason (1522)
+lost to rize|ind|alaughinggoblin (1539)

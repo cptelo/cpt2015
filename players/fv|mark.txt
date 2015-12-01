@@ -1,0 +1,17 @@
+Player: fv|mark
+Rating: 1487
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::FV Cup::::
+lost to rzr|rb (1626)
+defeated dr rock (1486)
+lost to silg@duncan (1515)
+::::Saigon Cup::::
+defeated marn (1487)
+lost to silg|stanick (1496)
+defeated quang (1474)
+lost to flashy (1517)

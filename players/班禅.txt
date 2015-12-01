@@ -1,0 +1,14 @@
+Player: 班禅
+Rating: 1518
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated 小宝 (1487)
+lost to ccg|humanbomb (1661)
+defeated 张灂曦 (1490)
+defeated 小宝 (1498)
+lost to kok (1612)

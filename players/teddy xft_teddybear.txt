@@ -1,0 +1,11 @@
+Player: teddy xft_teddybear
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::HK::::
+lost to kok (1609)
+lost to ip hoi wang xft_whip (1499)

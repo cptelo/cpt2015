@@ -1,0 +1,15 @@
+Player: bigbates
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+lost to ta psycho (1512)
+defeated ken-kots (1474)
+defeated gs|gllty (1521)
+defeated nsm fancyyancy (1498)
+defeated xxstealthsneakxx (1478)
+lost to ta psycho (1537)

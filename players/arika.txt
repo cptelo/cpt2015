@@ -1,0 +1,30 @@
+Player: arika
+Rating: 1564
+Played: 18
+Won: 10
+Lost: 8
+%: 55
+
+Results:
+::::KO Fighting Game Festival::::
+defeated boahmad (1500)
+defeated wtq8|aziz (1501)
+lost to rzr|fuudo (1721)
+defeated wtq8|aziz (1514)
+lost to rzr|fuudo (1724)
+lost to fa|ryan hart (1676)
+::::Milan Games Week::::
+lost to shin87 (1526)
+defeated mr wolf (1475)
+defeated lucamago (1504)
+defeated vx (1493)
+lost to mov (1671)
+::::Canada Cup::::
+lost to wfx|801 strider (1697)
+::::CPTA Last Chance Qualifier::::
+defeated jen (1489)
+lost to ganguro (1526)
+defeated silg|stanick (1487)
+defeated iz juri (1500)
+defeated skz (1500)
+lost to brawl|haitani (1589)

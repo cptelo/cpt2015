@@ -1,0 +1,12 @@
+Player: cyberchink
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated j.baysik (1487)
+lost to eg|ricki ortiz (1700)
+lost to t3p valiant (1511)

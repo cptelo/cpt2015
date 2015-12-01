@@ -1,0 +1,17 @@
+Player: ce jabdrunk
+Rating: 1528
+Played: 8
+Won: 5
+Lost: 3
+%: 62
+
+Results:
+::::NorCal Regionals::::
+defeated drago_drk (1487)
+lost to lamerboi (1524)
+lost to ex pugera (1625)
+defeated nefarious al (1486)
+defeated norcal joe (1498)
+defeated tyram (1501)
+defeated lamerboi (1514)
+lost to ph|lpn (1621)

@@ -1,0 +1,16 @@
+Player: mba|the bp tank
+Rating: 1473
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to sol (1512)
+lost to rst mambo penguin (1501)
+::::VS Fighting::::
+defeated kb-zey (1486)
+lost to sfo|brylarke (1512)
+defeated insertbrainhere (1474)
+lost to sml|shinmael (1499)

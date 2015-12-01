@@ -1,0 +1,15 @@
+Player: pts kool-aid
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Texas Showdown::::
+defeated 2iq|dangerous person (1487)
+lost to kungfutreachery (1512)
+defeated setx|tyler (yo.) (1474)
+defeated phs buster chen (1487)
+defeated geomonstaah (1499)
+lost to be|kane blueriver (1538)

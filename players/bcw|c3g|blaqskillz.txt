@@ -1,0 +1,20 @@
+Player: bcw|c3g|blaqskillz
+Rating: 1508
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::NorCal Regionals::::
+defeated dm|nothing man (1487)
+lost to arrow (1524)
+lost to dirty paws (1513)
+::::EVO::::
+defeated eg|chocoblanka (1486)
+defeated rzr|perfect legend (1535)
+::::SCR::::
+defeated du ma guile (1487)
+lost to f99|driftwood (1496)
+defeated tof (1475)
+lost to viennahotdog (1534)

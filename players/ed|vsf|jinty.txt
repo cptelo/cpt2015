@@ -1,0 +1,20 @@
+Player: ed|vsf|jinty
+Rating: 1529
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::Hypespotting::::
+lost to rde|sleight (1512)
+lost to armdevil (1499)
+::::VS Fighting::::
+defeated star (1486)
+lost to um|btm|rmz (1610)
+defeated reuben (1474)
+defeated mk tux (1497)
+defeated nfgc|moogle (1486)
+defeated d4rkn3ss aveng (1502)
+defeated rde|akraat (1532)
+lost to um|btm|rmz (1614)

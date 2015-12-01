@@ -1,0 +1,14 @@
+Player: rig elchakotay
+Rating: 1525
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Summer Jam::::
+lost to bx3|phenom (1635)
+defeated raj obee (1478)
+defeated coach steve (1490)
+defeated liquid|nuckledu (1747)
+lost to zaferino (1621)

@@ -1,0 +1,13 @@
+Player: 196|patrik
+Rating: 1459
+Played: 4
+Won: 0
+Lost: 4
+%: 0
+
+Results:
+::::Dreamhack Winter::::
+lost to jns (1482)
+lost to rzr|xian (1784)
+lost to ettelman (1518)
+lost to afi (1530)

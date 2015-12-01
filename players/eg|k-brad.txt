@@ -1,0 +1,101 @@
+Player: eg|k-brad
+Rating: 1673
+Played: 79
+Won: 54
+Lost: 25
+%: 68
+
+Results:
+::::Final Round::::
+defeated ccg|air (1595)
+lost to eg|momochi (1718)
+lost to snake eyez (1692)
+::::NorCal Regionals::::
+defeated wrathmatics (1490)
+defeated kapwan (1502)
+defeated kineda (1514)
+defeated iperu (1568)
+defeated iperu (1568)
+defeated iperu (1558)
+lost to mcz|daigo (1732)
+lost to pnoy (1591)
+::::Texas Showdown::::
+defeated krisimbored (1503)
+defeated image (1503)
+defeated txs raph (1515)
+defeated ip man (1547)
+defeated dl|four wude (1601)
+defeated snake eyez (1693)
+defeated ta|chris g (1632)
+lost to r/kappa|infilitration (1784)
+lost to snake eyez (1712)
+::::Combo Breaker::::
+defeated stuntastic (1504)
+defeated ne yooyoung (1504)
+defeated pgfx kiu (1516)
+defeated joshua alexander (1515)
+defeated corn sethlolol (1539)
+lost to wolfkrone (1616)
+defeated yg|joel (1645)
+lost to ts|arturo sanchez (1678)
+::::CEO::::
+defeated qanba douyu|kurenai (1504)
+defeated polarbite (1515)
+defeated ramen addict (1538)
+lost to mcz|daigo (1773)
+defeated ramen addict (1543)
+lost to liquid|nuckledu (1763)
+::::EVO::::
+defeated tlc|saga (1492)
+::::Summer Jam::::
+defeated italdan (1541)
+defeated ta|chris g (1628)
+defeated bx3|phenom (1634)
+lost to tsc|yomi|dieminion (1696)
+lost to kig|problem x (1715)
+::::First Attack::::
+defeated rbl|ronaldihno (1504)
+defeated peluco (1504)
+defeated prk ts|huracán azura (1516)
+defeated prk ts|huracán azura (1521)
+lost to r/kappa|infilitration (1795)
+defeated kreymore (1530)
+defeated evb ds ray (1541)
+lost to rb|snake eyez (1721)
+::::TFC::::
+defeated nyc vega (1504)
+defeated ace unlimited (1518)
+defeated ta|chris g (1628)
+defeated ta|chris g (1626)
+lost to lu|alex valle (1537)
+defeated sean why (1499)
+defeated yg|joel (1652)
+defeated liquid|nuckledu (1733)
+lost to brentt (1627)
+::::Tokyo Game Show::::
+lost to ybk|kawaguchi (1612)
+lost to meu (1545)
+::::Red Fight District::::
+defeated agilo (1464)
+defeated ctrl b (1504)
+defeated rize|ind|pro fluke (1638)
+lost to md|luffy (1783)
+defeated fa|ryan hart (1684)
+defeated gonzales (1639)
+defeated bx3|phenom (1651)
+defeated lll|mbr (1630)
+lost to gl|rb|valmaster (1709)
+::::SCR::::
+defeated cartoon hero (1505)
+defeated cc (1516)
+lost to hsien chang (1597)
+lost to valiant (1555)
+::::Milan Games Week::::
+defeated dimmer (1504)
+defeated um|btm|rmz (1603)
+defeated brawl|haitani (1580)
+lost to rzr|xian (1813)
+defeated rize|ind|pro fluke (1639)
+lost to fa|ryan hart (1702)
+::::Canada Cup::::
+lost to rzr|xian (1808)

@@ -1,0 +1,11 @@
+Player: kec|sl burnout
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA KR::::
+lost to mulverrine (1512)
+lost to zzlnsanezz (1504)

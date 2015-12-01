@@ -1,0 +1,12 @@
+Player: fujiq8
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KO Fighting Game Festival::::
+defeated second_son_5ald (1487)
+lost to wtq8|elcaptain (1512)
+lost to samuraispirit (1499)

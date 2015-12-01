@@ -1,0 +1,19 @@
+Player: duncan
+Rating: 1517
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::Northwest Majors::::
+defeated gdlk.co|churro (1487)
+lost to el cubano loco (1524)
+defeated #bajaboys fullbleed (1487)
+lost to kizzie kay (1540)
+::::Texas Showdown::::
+defeated sm gill (1487)
+defeated k tousen (1487)
+lost to twg arthur (1524)
+defeated loyalsol (1514)
+lost to liquid|nuckledu (1746)

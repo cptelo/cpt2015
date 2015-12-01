@@ -1,0 +1,11 @@
+Player: 大俠趕羚羊
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to 小布 (1512)
+lost to 歐妹/omega (1499)

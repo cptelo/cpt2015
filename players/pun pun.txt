@@ -1,0 +1,20 @@
+Player: pun pun
+Rating: 1522
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::Hypespotting::::
+defeated akraat (1487)
+lost to ajay (1524)
+lost to glasgow kev (1519)
+::::VS Fighting::::
+lost to ed|lavell up (1524)
+defeated tani (1486)
+defeated usfal|boony12 (1486)
+defeated profx (1499)
+defeated hcliam (1511)
+defeated rs|cobelcog (1495)
+lost to sml|solidjin (1581)

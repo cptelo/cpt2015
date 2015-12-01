@@ -1,0 +1,12 @@
+Player: militarymind510
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to vicious (1560)
+defeated professor beef (1474)
+lost to disabel (1517)

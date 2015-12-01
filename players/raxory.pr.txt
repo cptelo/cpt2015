@@ -1,0 +1,12 @@
+Player: raxory.pr
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+lost to spawn (1512)
+defeated olivo (1474)
+lost to the steam co|bacardi (1511)

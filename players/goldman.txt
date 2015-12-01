@@ -1,0 +1,15 @@
+Player: goldman
+Rating: 1528
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::First Attack::::
+defeated ig|bole (1487)
+defeated kreymore (1503)
+defeated prk benji (1511)
+defeated kreymore (1525)
+lost to snake eyez (1723)
+lost to prk ts|huracán azura (1545)

@@ -1,0 +1,15 @@
+Player: swirlyglasses
+Rating: 1519
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Texas Showdown::::
+defeated tss brother joshua (1487)
+lost to chrisdat (1512)
+defeated setx|dlowe (1474)
+defeated ua|m.betty (1473)
+defeated samzo (1490)
+lost to chrisdat (1525)

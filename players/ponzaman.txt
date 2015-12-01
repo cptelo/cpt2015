@@ -1,0 +1,17 @@
+Player: ponzaman
+Rating: 1500
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to nyanshi (1512)
+lost to ts|reiketsu (1644)
+::::Milan Games Week::::
+defeated bushido (1486)
+lost to rzr|rb (1619)
+defeated kiandres (1474)
+defeated dario (1502)
+lost to mov (1668)

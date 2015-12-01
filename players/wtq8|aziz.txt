@@ -1,0 +1,14 @@
+Player: wtq8|aziz
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::KO Fighting Game Festival::::
+defeated mohammad_ (1499)
+lost to arika (1571)
+defeated salem akuma (1499)
+defeated boochi (1515)
+lost to arika (1574)

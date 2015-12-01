@@ -1,0 +1,18 @@
+Player: noc|leviathan
+Rating: 1502
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated cuddles|fadc|nasty (1487)
+defeated chaotix (1545)
+lost to ta|chris g (1610)
+lost to clim (1548)
+::::SCR::::
+lost to maromas mxl (1512)
+defeated stepmasterryan (1474)
+defeated babaghanoush1985 (1493)
+lost to bokkin (1529)

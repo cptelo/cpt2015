@@ -1,0 +1,11 @@
+Player: 古奇 古奇
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to 吴滨 marstv.cornetto (1512)
+lost to qanba douyu|cuishao (1512)

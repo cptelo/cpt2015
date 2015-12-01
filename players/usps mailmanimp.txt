@@ -1,0 +1,11 @@
+Player: usps mailmanimp
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Texas Showdown::::
+lost to solidxpanda (1524)
+lost to jvdsc txk|mrh (1522)

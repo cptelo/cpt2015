@@ -1,0 +1,13 @@
+Player: ed|noonez
+Rating: 1497
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated kylexxpro (1487)
+lost to shaunjs (1503)
+defeated bfl|mr stabbie (1474)
+lost to flb|victor (1512)

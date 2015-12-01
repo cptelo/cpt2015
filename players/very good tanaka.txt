@@ -1,0 +1,12 @@
+Player: very good tanaka
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to nakahara (1512)
+defeated twiggy (1529)
+lost to jinzou (1514)

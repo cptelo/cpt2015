@@ -1,0 +1,11 @@
+Player: notbab hadoukant
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to uli (1512)
+lost to linux (1499)

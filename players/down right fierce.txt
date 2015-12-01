@@ -1,0 +1,11 @@
+Player: down right fierce
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to design (1512)
+lost to mikey g (1499)

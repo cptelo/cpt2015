@@ -1,0 +1,14 @@
+Player: sasaki
+Rating: 1557
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to kitasenju dj (1610)
+defeated chanson (1476)
+defeated torimeshi (1490)
+defeated harumii (1500)
+lost to eita (1604)

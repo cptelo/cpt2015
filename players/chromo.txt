@@ -1,0 +1,12 @@
+Player: chromo
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to danphan (1512)
+defeated tay soul (1486)
+lost to pnoy (1567)

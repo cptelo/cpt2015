@@ -1,0 +1,13 @@
+Player: da|scottfree
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated epyon (1487)
+lost to snake eyez (1690)
+defeated rocketgruntmark (1475)
+lost to unforunatefleshgolem (1512)

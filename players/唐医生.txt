@@ -1,0 +1,14 @@
+Player: 唐医生
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated wang (1487)
+lost to um|btm|rmz (1611)
+defeated oc (1475)
+defeated wang (1498)
+lost to um|btm|rmz (1610)

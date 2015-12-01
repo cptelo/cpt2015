@@ -1,0 +1,15 @@
+Player: ちーたん
+Rating: 1475
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::Nine States::::
+lost to kim1234 (1560)
+defeated あきやま (1450)
+lost to そぼろんぐ (1514)
+lost to kim1234 (1566)
+defeated あきやま (1426)
+lost to そぼろんぐ (1514)

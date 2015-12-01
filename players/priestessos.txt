@@ -1,0 +1,12 @@
+Player: priestessos
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+defeated steve (1487)
+lost to vs gm punk (1524)
+lost to ash (1511)

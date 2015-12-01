@@ -1,0 +1,14 @@
+Player: iron bullet
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Hypespotting::::
+defeated rs|mikenyan (1487)
+lost to afii (1617)
+defeated joel bowl (1475)
+defeated roukanken (1487)
+lost to pappacrimson (1526)

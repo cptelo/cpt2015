@@ -1,0 +1,11 @@
+Player: mob slim
+Rating: 1477
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Summer Jam::::
+lost to dcb dark child (1512)
+lost to shine (1592)

@@ -1,0 +1,15 @@
+Player: たーやん
+Rating: 1533
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::KSB 2015::::
+lost to kawaguchi (1610)
+defeated ミゾテル (1474)
+defeated kok (1601)
+defeated jeppa~ (1501)
+defeated tarezou (1508)
+lost to shiro (1643)

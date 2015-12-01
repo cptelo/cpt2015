@@ -1,0 +1,11 @@
+Player: 30f|teyah
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to be|kane blueriver (1512)
+lost to dave o (1502)

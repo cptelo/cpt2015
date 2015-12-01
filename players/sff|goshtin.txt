@@ -1,0 +1,12 @@
+Player: sff|goshtin
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated legend of negro (1487)
+lost to btm|gunslinga (1561)
+lost to ikimashouu (1499)

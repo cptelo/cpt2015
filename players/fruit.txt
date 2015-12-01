@@ -1,0 +1,17 @@
+Player: fruit
+Rating: 1485
+Played: 7
+Won: 1
+Lost: 6
+%: 14
+
+Results:
+::::Saigon Cup::::
+lost to tiger uppercut (1514)
+lost to anubis (1504)
+::::Dreamhack Winter::::
+lost to ind.spb|rize|ind|ixion (1575)
+lost to fa|ryan hart (1694)
+defeated qphj (1465)
+lost to op|sick bubblegum (1485)
+lost to op|flcl (1517)

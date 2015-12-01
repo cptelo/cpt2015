@@ -1,0 +1,11 @@
+Player: john a falcon
+Rating: 1481
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to tsc|yomi|dieminion (1703)
+lost to sean why (1506)

@@ -1,0 +1,12 @@
+Player: misfitpenguin
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to be|kane blueriver (1518)
+defeated hectorputrid (1486)
+lost to iusedoom (1528)

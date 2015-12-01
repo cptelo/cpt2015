@@ -1,0 +1,14 @@
+Player: tamashiro
+Rating: 1516
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+defeated urbanexpression (1487)
+lost to botb|marq teddy (1626)
+defeated gatoradmiral (1475)
+defeated jc (1502)
+lost to 801|jayce the ace (1617)

@@ -1,0 +1,14 @@
+Player: bravery
+Rating: 1516
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to kaiser (1560)
+defeated vgd (1474)
+defeated lexblade (1490)
+defeated sachiko (1500)
+lost to chuan (1630)

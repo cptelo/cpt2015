@@ -1,0 +1,11 @@
+Player: yeison
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::First Attack::::
+lost to sa justice (1512)
+lost to ig|zonvolt (1514)

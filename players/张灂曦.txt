@@ -1,0 +1,12 @@
+Player: 张灂曦
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to kok (1611)
+defeated fatdog (1474)
+lost to 班禅 (1516)

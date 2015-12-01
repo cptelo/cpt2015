@@ -1,0 +1,14 @@
+Player: 天下人
+Rating: 1520
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated ch (invitation pending) (1487)
+defeated 太虎 (1499)
+lost to mf|tonpy (1678)
+defeated 太虎 (1510)
+lost to rzr|itabashi zangief (1691)

@@ -1,0 +1,13 @@
+Player: snx
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated near (1487)
+lost to sww|tearod (1512)
+defeated tiger zebra (1474)
+lost to daniel dillips (1511)

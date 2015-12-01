@@ -1,0 +1,15 @@
+Player: cxr|@dk_brawler
+Rating: 1529
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Northwest Majors::::
+defeated edgyjohnny (1487)
+lost to alex myers (1631)
+defeated da 206 80z (1501)
+defeated jimli (1502)
+defeated orikasa (1502)
+lost to alex myers (1623)

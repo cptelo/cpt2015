@@ -1,0 +1,12 @@
+Player: sasuke
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+defeated 偉智/wedi (1487)
+lost to yoro (1524)
+lost to jay (1499)

@@ -1,0 +1,10 @@
+Player: player32
+Rating: 1487
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::South East Asia Major::::
+lost to g.y.r.o (1517)

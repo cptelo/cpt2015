@@ -1,0 +1,12 @@
+Player: jiji
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated mba|yingah (1487)
+lost to rize|ind|pro fluke (1638)
+lost to chaos time (1536)

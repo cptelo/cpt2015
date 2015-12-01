@@ -1,0 +1,36 @@
+Player: pg|filipino champ
+Rating: 1563
+Played: 22
+Won: 12
+Lost: 10
+%: 54
+
+Results:
+::::Final Round::::
+defeated ace unlimited (1480)
+::::NorCal Regionals::::
+defeated newbtrait (1489)
+defeated pnoy (1547)
+lost to white gun (1538)
+defeated dirty paws (1514)
+lost to pnoy (1589)
+::::Northwest Majors::::
+defeated drunkenbanana (1489)
+defeated romora (1501)
+lost to dickson (1538)
+defeated mean saltine (1512)
+defeated bunsen burner (1518)
+lost to dickson (1545)
+::::EVO::::
+lost to r/kappa|infilitration (1773)
+lost to haitani (1583)
+::::SCR::::
+defeated bombskeez (1501)
+lost to ts|reiketsu (1642)
+defeated cwalker special (1512)
+defeated t3p|wrathmatics (1537)
+lost to bj unchained (1612)
+::::Canada Cup::::
+defeated rize|ind|pro fluke (1632)
+lost to mcz|tokido (1708)
+lost to rize|ind|pro fluke (1636)

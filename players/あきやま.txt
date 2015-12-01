@@ -1,0 +1,15 @@
+Player: あきやま
+Rating: 1426
+Played: 6
+Won: 0
+Lost: 6
+%: 0
+
+Results:
+::::Nine States::::
+lost to chiaki (1512)
+lost to みやこ (1499)
+lost to めりっぷ (1511)
+lost to ちーたん (1500)
+lost to めりっぷ (1498)
+lost to ちーたん (1487)

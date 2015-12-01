@@ -1,0 +1,14 @@
+Player: wa private joker
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+lost to alex myers (1620)
+defeated insidious vince (1474)
+defeated zay (1487)
+defeated ex (1474)
+lost to rlbs (1558)

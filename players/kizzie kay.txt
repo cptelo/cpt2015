@@ -1,0 +1,20 @@
+Player: kizzie kay
+Rating: 1528
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated hf|tierney (1487)
+defeated dm|katzu (1499)
+lost to rzr|fuudo (1734)
+defeated ramen addict (1513)
+lost to ultima (1553)
+::::Northwest Majors::::
+defeated emo (1488)
+lost to native impact (1617)
+defeated phd zeal (1487)
+defeated duncan (1499)
+lost to dogura (1569)

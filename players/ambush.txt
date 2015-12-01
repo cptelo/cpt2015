@@ -1,0 +1,12 @@
+Player: ambush
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated majesticstylez (1487)
+lost to glb (1570)
+lost to gpl- flashkoto (1515)

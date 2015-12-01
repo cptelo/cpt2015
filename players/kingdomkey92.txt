@@ -1,0 +1,13 @@
+Player: kingdomkey92
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+lost to solphum (1512)
+defeated pandorascrate (1485)
+defeated franky (1493)
+lost to sd|ilija (1528)

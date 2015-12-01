@@ -1,0 +1,11 @@
+Player: captain steel
+Rating: 1473
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to profx (1524)
+lost to tws|tws gibbo (1475)

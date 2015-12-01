@@ -1,0 +1,12 @@
+Player: ymb 9 big boss
+Rating: 1494
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+defeated flicky (1487)
+lost to luffy (1677)
+lost to tyrant (1603)

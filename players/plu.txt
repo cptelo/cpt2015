@@ -1,0 +1,12 @@
+Player: plu
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to gedub|ce|gdb|jabdrunk (1528)
+defeated 1atk.lxg.infrit (1486)
+lost to dinlee (1523)

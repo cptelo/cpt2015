@@ -1,0 +1,14 @@
+Player: tgz|wt kami
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+lost to asc.sd alexis pinto (1512)
+defeated lilloco562 (1475)
+defeated tatsushoryu (1492)
+defeated fillossofherr (1486)
+lost to asc.sd alexis pinto (1526)

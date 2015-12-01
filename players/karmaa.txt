@@ -1,0 +1,13 @@
+Player: karmaa
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated pigeon (1487)
+defeated lamune (1499)
+lost to hsien chang (1580)
+lost to clim (1540)

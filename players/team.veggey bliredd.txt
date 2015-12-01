@@ -1,0 +1,17 @@
+Player: team.veggey bliredd
+Rating: 1477
+Played: 8
+Won: 3
+Lost: 5
+%: 37
+
+Results:
+::::Dreamhack Summer::::
+defeated zelpher (1487)
+defeated nake (1499)
+lost to papz (1504)
+defeated tm robofobe (1462)
+lost to tyrant (1612)
+lost to phenom (1635)
+lost to bashfest (1550)
+lost to ind.king funk (1502)

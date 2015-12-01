@@ -1,0 +1,11 @@
+Player: gatoradmiral
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to dirty dan (1512)
+lost to tamashiro (1514)

@@ -1,0 +1,13 @@
+Player: revolver sagod
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to peejay (1512)
+defeated snow cone (1477)
+defeated dm|mr. tails (1492)
+lost to hargi (1523)

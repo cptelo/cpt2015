@@ -1,0 +1,13 @@
+Player: cody
+Rating: 1546
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Abuget Cup::::
+defeated saman (1489)
+lost to chuan (1618)
+defeated aho (1488)
+lost to xiaolong (1571)

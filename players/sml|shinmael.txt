@@ -1,0 +1,13 @@
+Player: sml|shinmael
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+lost to jason (1524)
+defeated mba|the bp tank (1473)
+defeated sww|phoenix (1479)
+lost to lom|warteacher (1535)

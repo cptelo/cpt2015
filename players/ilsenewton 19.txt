@@ -1,0 +1,12 @@
+Player: ilsenewton 19
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+defeated ah xi (1487)
+lost to 赵渭炯 小迷 (1524)
+lost to 徐云龙 shinxcloud (1499)

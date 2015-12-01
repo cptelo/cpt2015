@@ -1,0 +1,12 @@
+Player: xft_fire xft_fire
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::HK::::
+lost to 陈俊宇 藏人 (1512)
+defeated choi chak choi chak gs base 10/hr (1475)
+lost to christopher lo greenboxer (1511)

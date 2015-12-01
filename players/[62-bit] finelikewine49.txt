@@ -1,0 +1,14 @@
+Player: [62-bit] finelikewine49
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Northwest Majors::::
+defeated serpent (1487)
+lost to orikasa (1524)
+defeated mek (1490)
+defeated edgyjohnny (1499)
+lost to alex myers (1620)

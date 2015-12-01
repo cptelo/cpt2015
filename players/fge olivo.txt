@@ -1,0 +1,16 @@
+Player: fge olivo
+Rating: 1536
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::CEO::::
+defeated lilman (1487)
+lost to snake eyez (1715)
+defeated butts mckenzie (1475)
+defeated sfhappyfeet (1487)
+defeated xzalis (1492)
+defeated flocker (1504)
+lost to orlando (1542)

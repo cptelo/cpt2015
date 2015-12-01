@@ -1,0 +1,26 @@
+Player: g.y.r.o
+Rating: 1482
+Played: 14
+Won: 6
+Lost: 8
+%: 42
+
+Results:
+::::Nine States::::
+defeated okome man (1487)
+lost to poongko (1724)
+defeated よしかずさん。yoshikazu san (1486)
+lost to コーヒー乳牛 coffee gyuunyuu (1527)
+::::South East Asia Major::::
+defeated player32 (1487)
+lost to mcz|mago (1695)
+lost to kim1234 (1561)
+::::FV Cup::::
+lost to rinda wan (1512)
+lost to suryan nair (1499)
+::::Ultra Hyakkishu Cup::::
+defeated spanky (1486)
+defeated meu (1539)
+lost to -6 (1654)
+defeated shinto~ (1513)
+lost to eita (1607)

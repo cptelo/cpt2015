@@ -1,0 +1,15 @@
+Player: quiquikof rank 11
+Rating: 1525
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CPTA Shanghai::::
+lost to qanba douyu|qqel (1568)
+defeated 吕尔德 八神 (1486)
+defeated 萧说说 萧说说 (1486)
+defeated xiao jj (1502)
+defeated qanba douyu|红中大大 (1525)
+lost to qanba douyu|qqel (1578)

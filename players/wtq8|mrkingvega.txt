@@ -1,0 +1,14 @@
+Player: wtq8|mrkingvega
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::KO Fighting Game Festival::::
+defeated jaguar_murad (1499)
+lost to evilyoshi (1570)
+defeated gunner85 (1508)
+defeated majinshinken musa (1514)
+lost to evilyoshi (1571)

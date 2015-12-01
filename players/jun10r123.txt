@@ -1,0 +1,12 @@
+Player: jun10r123
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to carlos c (1524)
+defeated 'daitarn 3 (1474)
+lost to duffman (1526)

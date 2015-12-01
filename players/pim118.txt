@@ -1,0 +1,11 @@
+Player: pim118
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to rice_crackers (1512)
+lost to qed (1499)

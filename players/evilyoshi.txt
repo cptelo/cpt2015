@@ -1,0 +1,15 @@
+Player: evilyoshi
+Rating: 1548
+Played: 6
+Won: 3
+Lost: 3
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated wtq8|ramadan (1489)
+defeated wtq8|mrkingvega (1501)
+lost to ybk|santarouman (1656)
+defeated wtq8|mrkingvega (1514)
+lost to ybk|santarouman (1659)
+lost to wtq8|nox (1575)

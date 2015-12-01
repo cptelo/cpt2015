@@ -1,0 +1,14 @@
+Player: 周怿 angle
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::HK::::
+defeated tony tsui gummy2015 (1487)
+lost to rockpon (1563)
+defeated willis (1491)
+defeated jimmy hon maskjimmy (1501)
+lost to kay zhong kay(fs) (1527)

@@ -1,0 +1,11 @@
+Player: doc
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to mc|xsk samurai (1571)
+lost to gs|gllty (1514)

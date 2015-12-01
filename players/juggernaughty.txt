@@ -1,0 +1,12 @@
+Player: juggernaughty
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to marq teddy (1608)
+defeated bigdamaul (1473)
+lost to willpower (1511)

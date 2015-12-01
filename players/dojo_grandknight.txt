@@ -1,0 +1,12 @@
+Player: dojo_grandknight
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated mr traumallama (1487)
+lost to tosfhq sj (1512)
+lost to judge ashen (1499)

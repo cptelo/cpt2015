@@ -1,0 +1,13 @@
+Player: vivaldi
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated ssj hotdog (1499)
+defeated louzy (1499)
+lost to qanba douyu|xiaohai (1683)
+lost to ranmasama (1568)

@@ -1,0 +1,11 @@
+Player: ipt.dru
+Rating: 1484
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Manila Cup::::
+lost to ts|reiketsu (1641)
+lost to nishikin (1653)

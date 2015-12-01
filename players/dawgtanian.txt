@@ -1,0 +1,19 @@
+Player: dawgtanian
+Rating: 1513
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::Hypespotting::::
+defeated sfo|tscooler (1487)
+defeated bsc|ruok (1501)
+defeated muirtron (1499)
+lost to vs|bigfool (1535)
+defeated bfl|zaus (1514)
+lost to afii (1638)
+::::Ultra Hyakkishu Cup::::
+lost to kyabetsu (1558)
+defeated hame-tamu (1476)
+lost to ybk|kichiken (1589)

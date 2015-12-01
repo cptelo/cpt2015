@@ -1,0 +1,11 @@
+Player: setx spurs21
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Texas Showdown::::
+lost to finalsweek (1512)
+lost to dj_malady (1511)

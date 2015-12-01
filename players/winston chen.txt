@@ -1,0 +1,12 @@
+Player: winston chen
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+defeated lele (1487)
+lost to chuan (1631)
+lost to zoro (1511)

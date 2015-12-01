@@ -1,0 +1,15 @@
+Player: wfga higgs bison
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Combo Breaker::::
+defeated j fabulous (1487)
+lost to spriggan (1524)
+defeated m.a.d.e. gameover (1486)
+defeated ee eseif (1510)
+defeated tong (1500)
+lost to kas_shadow (1536)

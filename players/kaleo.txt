@@ -1,0 +1,14 @@
+Player: kaleo
+Rating: 1516
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Northwest Majors::::
+defeated collusion spark (1487)
+defeated ph|jame (1512)
+lost to eg|pr balrog (1667)
+defeated chg joeystorm (1512)
+lost to ph|jame (1545)

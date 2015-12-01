@@ -1,0 +1,11 @@
+Player: vsf justin
+Rating: 1477
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::EGX::::
+lost to btm|gunslinga (1584)
+lost to sfo willo (1499)

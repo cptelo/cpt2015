@@ -1,0 +1,14 @@
+Player: llama
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Texas Showdown::::
+defeated masterninja (1487)
+lost to beastchan23 (1512)
+defeated 2iq|mothman (1474)
+defeated kung_fru (1486)
+lost to chaotix (1575)

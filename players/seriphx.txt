@@ -1,0 +1,12 @@
+Player: seriphx
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+defeated mclovin (1487)
+lost to lu|alex valle (1517)
+lost to sherryjenix (1525)

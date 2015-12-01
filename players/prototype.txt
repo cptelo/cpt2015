@@ -1,0 +1,13 @@
+Player: prototype
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::TFC::::
+defeated max'd out (1487)
+lost to rb|snake eyez (1734)
+defeated silentnova (1486)
+lost to engravings (1523)

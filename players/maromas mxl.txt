@@ -1,0 +1,13 @@
+Player: maromas mxl
+Rating: 1497
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated noc|leviathan (1491)
+lost to dumabalrog (1524)
+defeated pinecone (1474)
+lost to eg|chocoblanka (1497)

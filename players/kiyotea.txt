@@ -1,0 +1,12 @@
+Player: kiyotea
+Rating: 1521
+Played: 3
+Won: 2
+Lost: 1
+%: 66
+
+Results:
+::::EVO::::
+defeated dogura (1564)
+defeated lu|alex valle (1522)
+lost to mcz|daigo (1757)

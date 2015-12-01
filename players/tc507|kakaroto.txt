@@ -1,0 +1,12 @@
+Player: tc507|kakaroto
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::True Challengers Costa Rica::::
+defeated berzack (1487)
+lost to eg|pr balrog (1695)
+lost to doomsday507 (1533)

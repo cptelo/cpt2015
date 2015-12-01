@@ -1,0 +1,23 @@
+Player: clim
+Rating: 1543
+Played: 13
+Won: 9
+Lost: 4
+%: 69
+
+Results:
+::::NorCal Regionals::::
+defeated dchong (1487)
+lost to liquid|nuckledu (1705)
+defeated pigeon (1486)
+defeated hydro (1498)
+defeated karmaa (1501)
+defeated dchong (1511)
+lost to hsien chang (1583)
+::::Northwest Majors::::
+defeated s̶c̶u̶b̶a̶s̶t̶e̶v̶e̶2̶5̶3̶ ̶-̶ ̶w (1488)
+lost to bokkin (1525)
+defeated cuddles|fadc|nasty (1487)
+defeated be|kane blueriver (1502)
+defeated noc|leviathan (1504)
+lost to chaotix (1587)

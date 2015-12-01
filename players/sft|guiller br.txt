@@ -1,0 +1,13 @@
+Player: sft|guiller br
+Rating: 1509
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPT Brazil::::
+defeated fgc|r/kappa|pepeday (1626)
+lost to reversal|chuchu (1706)
+defeated aag|baby brasil (1499)
+lost to soa|ibukiman (1535)

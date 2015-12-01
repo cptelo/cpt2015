@@ -1,0 +1,13 @@
+Player: leung yau chun tomo
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::HK::::
+defeated maes alexis hittheplane (1487)
+lost to chuan (1646)
+defeated saor (ireland) (1486)
+lost to 東 xft_tung (1523)

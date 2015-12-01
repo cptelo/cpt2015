@@ -1,0 +1,12 @@
+Player: epyon
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+lost to da|scottfree (1512)
+defeated kabukii (1486)
+lost to raich (1523)

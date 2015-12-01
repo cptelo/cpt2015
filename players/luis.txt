@@ -1,0 +1,14 @@
+Player: luis
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Combo Breaker::::
+defeated locojoe (1487)
+defeated ifd humbag (1499)
+lost to holdy (1536)
+defeated bab yee kwang soo (1510)
+lost to gs|gllty (1539)

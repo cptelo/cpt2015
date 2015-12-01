@@ -1,0 +1,12 @@
+Player: 睡大/sleeplong
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+defeated 屠村客 (1487)
+lost to sasa (1524)
+lost to 歐妹/omega (1511)

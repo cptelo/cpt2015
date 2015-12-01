@@ -1,0 +1,13 @@
+Player: 謝漢傑
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+lost to gonzales (1589)
+defeated reco子親愛的 (1474)
+defeated 小捷 (1486)
+lost to toby lin (1529)

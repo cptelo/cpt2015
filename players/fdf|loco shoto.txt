@@ -1,0 +1,12 @@
+Player: fdf|loco shoto
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated rbr|ecchi mane (1487)
+lost to ua nori (1512)
+lost to el maleman (1499)

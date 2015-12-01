@@ -1,0 +1,32 @@
+Player: kreymore
+Rating: 1535
+Played: 19
+Won: 11
+Lost: 8
+%: 57
+
+Results:
+::::Final Round::::
+defeated ranmasama (1535)
+::::EVO::::
+lost to dl|four wude (1613)
+::::First Attack::::
+defeated nexon (1499)
+lost to goldman (1524)
+defeated brz rattosai (1498)
+defeated gibran (1510)
+defeated prk benji (1499)
+lost to goldman (1548)
+defeated haizek (1527)
+lost to eg|k-brad (1674)
+::::Defend the North::::
+defeated sp|teiga (1488)
+lost to yg|yomi|joel (1641)
+::::Dreamhack Winter::::
+defeated prowners (1488)
+defeated brick (1562)
+defeated gtr (1520)
+lost to md|luffy (1788)
+lost to cuongster (1599)
+defeated bobbis (1508)
+lost to ind.spb|rize|ind|ixion (1587)

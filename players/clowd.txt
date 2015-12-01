@@ -1,0 +1,12 @@
+Player: clowd
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated hertzshmertz (1487)
+lost to ph|lpn (1608)
+lost to iplay4food (1511)

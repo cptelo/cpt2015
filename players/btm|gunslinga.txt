@@ -1,0 +1,21 @@
+Player: btm|gunslinga
+Rating: 1581
+Played: 11
+Won: 7
+Lost: 4
+%: 63
+
+Results:
+::::VS Fighting::::
+defeated sff|goshtin (1500)
+defeated clangers (1505)
+defeated vs|the janitor (1524)
+defeated btm|isam (1570)
+lost to md|luffy (1744)
+lost to packz (1638)
+::::EGX::::
+defeated vsf justin (1490)
+defeated rs|cobelcog (1502)
+lost to wso|andreas (1634)
+defeated btm|isam (1576)
+lost to btm|tyrant (1639)

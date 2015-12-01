@@ -1,0 +1,64 @@
+Player: um|btm|rmz
+Rating: 1619
+Played: 48
+Won: 31
+Lost: 17
+%: 64
+
+Results:
+::::Hypespotting::::
+defeated alistarr (1491)
+defeated alioune85 (1502)
+defeated rde ind gillstolemyride (1514)
+defeated akraat (1537)
+lost to andreas (1649)
+lost to gxc|damascus (1606)
+::::FFM-Rumble::::
+defeated rsd|momi (1539)
+lost to r/kappa|ebi (1574)
+lost to demulant (1556)
+::::Dreamhack Summer::::
+defeated pr0digy_013 (1490)
+defeated ryan hart (1679)
+defeated nayte (1567)
+defeated ind.king funk (1496)
+defeated agilo (1471)
+defeated pedro unchained (1485)
+lost to tyrant (1626)
+defeated ettelman (1542)
+defeated ind.king funk (1507)
+lost to um|imstilldadaddy (1637)
+::::VS Fighting::::
+defeated ed|vsf|jinty (1478)
+defeated platinum kid (1502)
+lost to gxc|damascus (1603)
+defeated chaos time (1537)
+defeated ed|vsf|jinty (1529)
+lost to rize|ind|pro fluke (1640)
+::::EGX::::
+defeated sfo brylarke (1491)
+defeated gamachan (1503)
+lost to kig|problem x (1717)
+lost to cdv|will2pac (1604)
+::::Ze Fighting Game Champion::::
+defeated heidibardon (1491)
+defeated 唐医生 (1502)
+lost to qanba douyu|xiaohai (1721)
+defeated 唐医生 (1515)
+lost to fdy|devil_reapers|stormkubo (1674)
+::::Milan Games Week::::
+defeated bonehead (1502)
+lost to eg|k-brad (1679)
+lost to fa|ryan hart (1684)
+::::Dreamhack Winter::::
+defeated fgdojo|ninio (1490)
+defeated juicyjoe (1502)
+defeated atrosh (1471)
+lost to bx3|phenom (1663)
+defeated dafeetlee (1606)
+lost to rzr|xian (1789)
+defeated afi (1522)
+defeated ind.spb|rize|ind|ixion (1582)
+defeated fa|ryan hart (1693)
+defeated kig|problem x (1702)
+lost to ccg|humanbomb (1683)

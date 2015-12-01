@@ -1,0 +1,13 @@
+Player: 眉山拳王
+Rating: 1532
+Played: 4
+Won: 3
+Lost: 1
+%: 75
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated souler (1487)
+defeated qanba douyu|hurtch_vr (1565)
+lost to rzr|fuudo (1729)
+defeated 海龙 (1519)

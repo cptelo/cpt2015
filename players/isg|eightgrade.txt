@@ -1,0 +1,17 @@
+Player: isg|eightgrade
+Rating: 1564
+Played: 8
+Won: 6
+Lost: 2
+%: 75
+
+Results:
+::::SCR::::
+defeated martin s (1487)
+defeated soulless (1499)
+defeated 801|jayce the ace (1614)
+defeated botb|marq teddy (1623)
+defeated 801|jayce the ace (1619)
+defeated julio (1629)
+lost to rb|bonchan (1747)
+lost to filipinoman (1645)

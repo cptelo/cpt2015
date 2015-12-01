@@ -1,0 +1,12 @@
+Player: sfo ghost
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::EGX::::
+defeated ngi lom wiseblade (1487)
+lost to um|btm|imstilldadaddy (1639)
+lost to chaos time (1539)

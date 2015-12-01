@@ -1,0 +1,32 @@
+Player: spabobin
+Rating: 1457
+Played: 19
+Won: 7
+Lost: 12
+%: 36
+
+Results:
+::::Nine States::::
+lost to そぼろんぐ (1512)
+defeated めりっぷ (1487)
+lost to ちゃー (1522)
+lost to そぼろんぐ (1512)
+defeated めりっぷ (1474)
+lost to ちゃー (1528)
+::::CPTA KR::::
+lost to sketch (1511)
+defeated dav0s (1478)
+lost to gonzales (1605)
+::::KSB 2015::::
+lost to eita (1631)
+lost to ローキン (1502)
+::::TFC::::
+defeated dark mavid (1485)
+defeated kuraudo (1497)
+lost to tampa bison (1645)
+lost to redpanda knuckledust (1537)
+::::SCR::::
+defeated shakugan (1485)
+defeated battery pack (1497)
+lost to eg|pr balrog (1693)
+lost to ma lung fan (1522)

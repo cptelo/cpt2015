@@ -1,0 +1,12 @@
+Player: rf
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KSB 2015::::
+lost to reiketsu (1608)
+defeated クンスト (1464)
+lost to meu (1513)

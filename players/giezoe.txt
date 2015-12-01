@@ -1,0 +1,14 @@
+Player: giezoe
+Rating: 1508
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Taiwan::::
+defeated 娃娃 (1487)
+defeated 清哥 (1499)
+lost to sketch (1484)
+defeated jnana (1498)
+lost to codynp (1538)

@@ -1,0 +1,11 @@
+Player: gg|alioufe
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Saigon Cup::::
+lost to hideo (1512)
+lost to duy (1499)

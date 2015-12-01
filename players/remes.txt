@@ -1,0 +1,19 @@
+Player: remes
+Rating: 1470
+Played: 10
+Won: 3
+Lost: 7
+%: 30
+
+Results:
+::::Dreamhack Summer::::
+defeated james deen (1487)
+lost to ind.spb|ixion (1571)
+lost to um|imstilldadaddy (1615)
+defeated archiba (1474)
+lost to doxus (1524)
+lost to ind.spb|ixion (1584)
+lost to um|imstilldadaddy (1624)
+lost to rize|ind|pro fluke (1646)
+defeated lyhs (1479)
+lost to lll|mbr (1597)

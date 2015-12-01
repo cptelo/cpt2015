@@ -1,0 +1,14 @@
+Player: superfabiano
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Milan Games Week::::
+defeated alteredturbomax (1487)
+lost to templar (1524)
+defeated marcoflight (1476)
+defeated bryanpro (1487)
+lost to sfo|brylarke (1528)

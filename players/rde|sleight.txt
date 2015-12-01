@@ -1,0 +1,14 @@
+Player: rde|sleight
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Hypespotting::::
+defeated ed|jinty (1487)
+lost to codynp (1524)
+defeated lark0 (1474)
+defeated armdevil (1498)
+lost to codynp (1528)

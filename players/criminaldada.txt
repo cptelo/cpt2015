@@ -1,0 +1,13 @@
+Player: criminaldada
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated zoro (1487)
+defeated 小龍包 (1499)
+lost to kok (1614)
+lost to zoro (1535)

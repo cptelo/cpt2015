@@ -1,0 +1,16 @@
+Player: afi
+Rating: 1522
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::Dreamhack Winter::::
+defeated ettelman (1520)
+lost to rzr|xian (1783)
+defeated jns (1482)
+defeated 196|patrik (1459)
+lost to bx3|veggey (1611)
+defeated yagami (1519)
+lost to um|btm|rmz (1608)

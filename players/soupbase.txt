@@ -1,0 +1,12 @@
+Player: soupbase
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated exp scythe (1487)
+lost to derrick legend (1524)
+lost to tones (^_^) (1523)

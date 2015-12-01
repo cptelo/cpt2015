@@ -1,0 +1,14 @@
+Player: realistic
+Rating: 1516
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated jblaze (1487)
+defeated gs|gllty (1527)
+defeated jmob (1499)
+lost to bonchan (1699)
+lost to ta psycho (1549)

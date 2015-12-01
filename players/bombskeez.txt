@@ -1,0 +1,13 @@
+Player: bombskeez
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated holding (1487)
+lost to pg|filipino champ (1567)
+defeated r-gonaut (1475)
+lost to t3p|wrathmatics (1538)

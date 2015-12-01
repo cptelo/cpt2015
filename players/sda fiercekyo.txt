@@ -1,0 +1,14 @@
+Player: sda fiercekyo
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+lost to holdy (1549)
+defeated flex in the city (1481)
+defeated raion (1500)
+defeated snoop (1487)
+lost to taboc1 (1529)

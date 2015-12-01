@@ -1,0 +1,12 @@
+Player: tony cha cha
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to 宗慶/k (1512)
+defeated 石頭 (1479)
+lost to 南哥的小戀人/陳二 (1511)

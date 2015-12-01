@@ -1,0 +1,11 @@
+Player: unclesatan
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to ph|lpn (1587)
+lost to pewpewu (1475)

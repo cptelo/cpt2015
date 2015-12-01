@@ -1,0 +1,12 @@
+Player: greateacher
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+lost to koji miyake (1512)
+defeated vinness ho (1474)
+lost to rv_raihan (1516)

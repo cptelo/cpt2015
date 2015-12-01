@@ -1,0 +1,12 @@
+Player: tommy chiam
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+defeated ao3 (1487)
+lost to rzr|rb (1634)
+lost to leon lum (1512)

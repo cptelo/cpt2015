@@ -1,0 +1,14 @@
+Player: tekkablade
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::KO Fighting Game Festival::::
+defeated soulash (1487)
+lost to ybk|dashio (1683)
+defeated talal eg (1475)
+defeated iigtrii (1487)
+lost to wtq8|boxer4ever (1514)

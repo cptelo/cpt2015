@@ -1,0 +1,13 @@
+Player: k tousen
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+lost to duncan (1523)
+defeated gameguys nero (1476)
+defeated johnnylamonte (1498)
+lost to liquid|nuckledu (1744)

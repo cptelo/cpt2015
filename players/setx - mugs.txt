@@ -1,0 +1,12 @@
+Player: setx - mugs
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+lost to re: dandy cage (1524)
+defeated ua|mrhoward123 (1474)
+lost to mr. shoushi (1512)

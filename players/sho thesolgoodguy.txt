@@ -1,0 +1,12 @@
+Player: sho thesolgoodguy
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated hom philocypher (1487)
+lost to gg|epic l.gg|onisan (1572)
+lost to ral (1528)

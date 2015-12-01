@@ -1,0 +1,13 @@
+Player: ep1cp33
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+lost to /r/streetfighter chaos goose (1512)
+defeated rut jabikuta (1474)
+defeated eminent (1498)
+lost to bklynexpress (1513)

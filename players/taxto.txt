@@ -1,0 +1,12 @@
+Player: taxto
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+lost to amaury (1512)
+defeated r-18 hand holding (1486)
+lost to blazing (1523)

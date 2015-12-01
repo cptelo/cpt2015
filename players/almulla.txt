@@ -1,0 +1,12 @@
+Player: almulla
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KO Fighting Game Festival::::
+defeated kayto_aa (1487)
+lost to ybk|kichiken (1561)
+lost to bomsa (1511)

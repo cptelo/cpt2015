@@ -1,0 +1,12 @@
+Player: fno|crazysalvi
+Rating: 1502
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Defend the North::::
+defeated tsc|sanford kelly (1590)
+lost to pie|smug (1697)
+lost to tsc|yomi|dieminion (1722)

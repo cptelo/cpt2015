@@ -1,0 +1,12 @@
+Player: gailim
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to blazing (1512)
+defeated conmystro (1486)
+lost to cs icedarkness (1523)

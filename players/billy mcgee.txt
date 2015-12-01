@@ -1,0 +1,11 @@
+Player: billy mcgee
+Rating: 1473
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to joshua alexander (1499)
+lost to wh vicious (1499)

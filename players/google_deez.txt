@@ -1,0 +1,13 @@
+Player: google_deez
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated yuki (1487)
+lost to jono dori (1524)
+defeated premiumtax (1474)
+lost to sa teamkhris (1525)

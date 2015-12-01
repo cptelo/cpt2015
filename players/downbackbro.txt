@@ -1,0 +1,12 @@
+Player: downbackbro
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated archangel (1487)
+lost to packz (1596)
+lost to sww|baconjacob (1511)

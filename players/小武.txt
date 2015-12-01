@@ -1,0 +1,13 @@
+Player: 小武
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated jian hua (1487)
+lost to rzr|rb (1619)
+defeated chen陳振銘 (1486)
+lost to ares016 (1529)

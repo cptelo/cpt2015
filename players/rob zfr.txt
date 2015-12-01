@@ -1,0 +1,18 @@
+Player: rob zfr
+Rating: 1497
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated shindoru (1487)
+lost to rize|ind|pro fluke (1635)
+defeated plats (1475)
+defeated mba|yingah (1486)
+lost to smbf|yts buttface (1516)
+::::EGX::::
+lost to bsc|shek (1516)
+defeated hells w1nd (1476)
+lost to snake belmont (1517)

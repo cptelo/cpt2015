@@ -1,0 +1,13 @@
+Player: jono dori
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated morphtoxic (1487)
+defeated google_deez (1499)
+lost to julio (1615)
+lost to rm emp kdz (1573)

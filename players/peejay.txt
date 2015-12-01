@@ -1,0 +1,15 @@
+Player: peejay
+Rating: 1528
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::NorCal Regionals::::
+defeated revolver sagod (1487)
+lost to brentt (1616)
+defeated 775 ya0 (1492)
+defeated nacer (1503)
+defeated kurokiba (1504)
+lost to brentt (1622)

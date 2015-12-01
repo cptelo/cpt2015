@@ -1,0 +1,14 @@
+Player: roccblaze
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+lost to blockbuster jon (1543)
+defeated mochalatteee (1474)
+defeated tomarre (1492)
+defeated ttf|jamaal jackson (1498)
+lost to blockbuster jon (1547)

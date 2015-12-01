@@ -1,0 +1,18 @@
+Player: agilo
+Rating: 1465
+Played: 8
+Won: 2
+Lost: 6
+%: 25
+
+Results:
+::::Dreamhack Summer::::
+lost to nayte (1560)
+defeated pr0digy_013 (1477)
+lost to ind.king funk (1495)
+lost to ryan hart (1684)
+lost to um|rmz (1607)
+::::Red Fight District::::
+lost to eg|k-brad (1669)
+defeated man filth (1473)
+lost to dn sf4killedus (1514)

@@ -1,0 +1,12 @@
+Player: lost boy
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated beast mode (1487)
+lost to ccg|air (1624)
+lost to dj_malady (1534)

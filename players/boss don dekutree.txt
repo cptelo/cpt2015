@@ -1,0 +1,14 @@
+Player: boss don dekutree
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Hypespotting::::
+defeated ansatsusha (1487)
+lost to infexious (1592)
+defeated rgt murasaki (1486)
+defeated rde saltmine (1501)
+lost to infexious (1587)

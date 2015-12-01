@@ -1,0 +1,11 @@
+Player: まーやー
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::KSB 2015::::
+lost to inco (1666)
+lost to なお (1502)

@@ -1,0 +1,11 @@
+Player: vs tss paladin
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Hypespotting::::
+lost to mba yingah (1512)
+lost to wiseblade (1557)

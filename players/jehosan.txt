@@ -1,0 +1,15 @@
+Player: jehosan
+Rating: 1590
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Cannes Winter Clash::::
+defeated luffy (1682)
+defeated phenom (1594)
+defeated tonpy (1606)
+lost to infilitration (1733)
+defeated valmaster (1712)
+lost to sako (1648)

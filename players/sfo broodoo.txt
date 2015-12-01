@@ -1,0 +1,17 @@
+Player: sfo broodoo
+Rating: 1490
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Hypespotting::::
+defeated rs|simon “the truth” lau (1487)
+defeated dangief (1499)
+lost to bsc|ultrasquaddy (1536)
+lost to dangief (1535)
+::::EGX::::
+defeated platinum kid (1512)
+lost to btm|tyrant (1633)
+lost to chaos time (1535)

@@ -1,0 +1,12 @@
+Player: lemoncrimes
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to chris nguyen (1512)
+defeated sd|feist (1481)
+lost to hnh kizzie kay (1515)

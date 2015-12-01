@@ -1,0 +1,45 @@
+Player: wso|andreas
+Rating: 1639
+Played: 32
+Won: 22
+Lost: 10
+%: 68
+
+Results:
+::::Hypespotting::::
+defeated wilksy15 (1491)
+defeated faisaldante23 (1502)
+defeated gatk dr sloan (1514)
+defeated ind.spb|ixion (1574)
+defeated rmz (1622)
+lost to rzr|xian (1783)
+lost to rize|ind|pro fluke (1638)
+::::FFM-Rumble::::
+lost to md|luffy (1704)
+lost to gl|valmaster (1695)
+::::Dreamhack Summer::::
+defeated lyhs (1478)
+defeated yagami (1525)
+defeated jeparianen (1466)
+defeated lyhs (1505)
+defeated dr. cat (1467)
+defeated forward dash (1488)
+defeated dreadleif (1483)
+defeated ind.spb|ixion (1578)
+lost to md|luffy (1734)
+lost to ryan hart (1691)
+::::EGX::::
+defeated vws|j miller (1518)
+defeated smbf walkerfam (1503)
+defeated btm|gunslinga (1581)
+lost to fa|ryan hart (1688)
+defeated ninja shalz (1548)
+defeated raygo blayde|afii (1645)
+defeated kig|problem x (1708)
+lost to fa|ryan hart (1692)
+::::Red Fight District::::
+defeated fuhajin (1515)
+defeated cdv|melty|will2pac (1590)
+defeated gonzales (1633)
+lost to gl|rb|valmaster (1705)
+lost to lll|mbr (1625)

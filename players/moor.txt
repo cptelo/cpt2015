@@ -1,0 +1,14 @@
+Player: moor
+Rating: 1490
+Played: 5
+Won: 2
+Lost: 3
+%: 40
+
+Results:
+::::Milan Games Week::::
+defeated crash (1487)
+lost to ts|reiketsu (1656)
+defeated solda (1475)
+lost to cla75 (1526)
+lost to cla75 (1537)

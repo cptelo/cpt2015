@@ -1,0 +1,11 @@
+Player: ipt.garret
+Rating: 1484
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Manila Cup::::
+lost to qanba douyu|dark jiewa (1658)
+lost to nishikin (1651)

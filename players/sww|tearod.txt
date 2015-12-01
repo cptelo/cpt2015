@@ -1,0 +1,12 @@
+Player: sww|tearod
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated snx (1499)
+lost to smbf|nebbiez (1524)
+lost to hcliam (1524)

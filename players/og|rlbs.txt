@@ -1,0 +1,18 @@
+Player: og|rlbs
+Rating: 1546
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::CEO::::
+defeated corn bootlegwinner (1500)
+lost to #jarbo (1537)
+defeated wa private joker (1514)
+lost to alex myers (1625)
+::::Defend the North::::
+defeated qcb|klitschko (1489)
+lost to fno|bobbyblunts (1532)
+defeated gw|sketch (1490)
+lost to tsc|yomi|dieminion (1720)

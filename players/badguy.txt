@@ -1,0 +1,11 @@
+Player: badguy
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to ph|crackfiend (1570)
+lost to samblack (1499)

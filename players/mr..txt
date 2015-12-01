@@ -1,0 +1,12 @@
+Player: mr.
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Northwest Majors::::
+lost to bklynexpress (1512)
+defeated seventh trumpet (1463)
+lost to scha (1518)

@@ -1,0 +1,11 @@
+Player: jed
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to smbg|tangent (1524)
+lost to dkt (1528)

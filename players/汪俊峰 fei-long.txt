@@ -1,0 +1,11 @@
+Player: 汪俊峰 fei-long
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to 张嘉程 fat dog (1512)
+lost to 陳政宏 bemechen (1511)

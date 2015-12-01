@@ -1,0 +1,12 @@
+Player: aho
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Abuget Cup::::
+lost to cameraman (1512)
+defeated kenmike (1476)
+lost to cody (1559)

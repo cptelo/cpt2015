@@ -1,0 +1,12 @@
+Player: zero_hour
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to ph|jame (1512)
+defeated dux_ryu (1474)
+lost to kwyjibo (1515)

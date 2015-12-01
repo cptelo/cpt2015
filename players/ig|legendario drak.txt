@@ -1,0 +1,12 @@
+Player: ig|legendario drak
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+lost to zoke16 (1512)
+defeated hugo-andore (1474)
+lost to m. crash (1523)

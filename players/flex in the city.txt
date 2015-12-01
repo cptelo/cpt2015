@@ -1,0 +1,11 @@
+Player: flex in the city
+Rating: 1481
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to r/kappa|kazunoko (1721)
+lost to sda fiercekyo (1500)

@@ -1,0 +1,15 @@
+Player: 潘权迪 xiaoye
+Rating: 1465
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::CPTA Shanghai::::
+lost to 张尧 haveshit (1512)
+lost to sonydafa (1511)
+::::HK::::
+defeated hon yu sum troublemaker (1486)
+lost to gz-ben (1564)
+lost to 蔡楚锋 528000 (1515)

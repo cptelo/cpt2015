@@ -1,0 +1,12 @@
+Player: zzlnsanezz
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA KR::::
+lost to shiro (1641)
+defeated kec|sl burnout (1474)
+lost to saulabis (1518)

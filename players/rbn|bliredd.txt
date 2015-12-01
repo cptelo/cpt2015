@@ -1,0 +1,12 @@
+Player: rbn|bliredd
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Call of Ragnarok::::
+lost to bashfest (1558)
+defeated badi lootion (1479)
+lost to rize|ind|pro fluke (1640)

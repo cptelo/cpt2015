@@ -1,0 +1,12 @@
+Player: krs t3p valiant
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to tampa bison (1636)
+defeated 765p fizzykups (1492)
+lost to exfinitus (1523)

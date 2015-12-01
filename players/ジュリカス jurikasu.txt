@@ -1,0 +1,11 @@
+Player: ジュリカス jurikasu
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Nine States::::
+lost to 水 mizu (1512)
+lost to よしかずさん。yoshikazu san (1499)

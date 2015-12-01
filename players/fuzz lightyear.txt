@@ -1,0 +1,11 @@
+Player: fuzz lightyear
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to hydro (1512)
+lost to demonlos (1499)

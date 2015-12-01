@@ -1,0 +1,11 @@
+Player: hellamindgames choi
+Rating: 1486
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to eg|momochi (1746)
+lost to ccg|air (1601)

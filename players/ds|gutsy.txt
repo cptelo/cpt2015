@@ -1,0 +1,12 @@
+Player: ds|gutsy
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+lost to sfo|whoshabzthisis (1512)
+defeated archangel (1474)
+lost to s1ngho (1511)

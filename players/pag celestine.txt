@@ -1,0 +1,12 @@
+Player: pag celestine
+Rating: 1485
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to khadell (1512)
+defeated teachable (1474)
+lost to flash metroid (1488)

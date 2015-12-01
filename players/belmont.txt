@@ -1,0 +1,12 @@
+Player: belmont
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to krhs tan-tan (1512)
+defeated hedgiex (1474)
+lost to cs icedarkness (1511)

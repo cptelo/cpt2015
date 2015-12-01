@@ -1,0 +1,12 @@
+Player: nyc vega
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+defeated jesse hamilton (1487)
+lost to eg|k-brad (1674)
+lost to allen hunt (1501)

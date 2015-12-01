@@ -1,0 +1,12 @@
+Player: gt tier3 wolf
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to alex turner (1512)
+defeated simplyktg (1474)
+lost to abyss gouken respek (1523)

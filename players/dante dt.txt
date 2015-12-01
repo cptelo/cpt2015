@@ -1,0 +1,14 @@
+Player: dante dt
+Rating: 1494
+Played: 5
+Won: 2
+Lost: 3
+%: 40
+
+Results:
+::::CPTA Shanghai::::
+defeated 夏伟 minaさん (1499)
+lost to kok (1607)
+lost to kok (1610)
+defeated sonydafa (1509)
+lost to 何琪 heqi0129 (1536)

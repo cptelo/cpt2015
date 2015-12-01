@@ -1,0 +1,11 @@
+Player: macfaltine
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to kelvin jeon (1556)
+lost to mr|jetpackjohnny (1499)

@@ -1,0 +1,16 @@
+Player: okkun
+Rating: 1516
+Played: 6
+Won: 3
+Lost: 3
+%: 50
+
+Results:
+::::EVO::::
+lost to eg|pr balrog (1685)
+::::Ultra Hyakkishu Cup::::
+defeated keijin (1535)
+lost to neogaf|r/kappa|koji kog (1664)
+defeated ushijima (1486)
+defeated kai (1513)
+lost to mf|tonpy (1667)

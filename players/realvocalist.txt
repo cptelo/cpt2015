@@ -1,0 +1,12 @@
+Player: realvocalist
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA KR::::
+lost to chuan (1620)
+defeated spiritzero (1474)
+lost to dunbine (1517)

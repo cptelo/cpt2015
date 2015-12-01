@@ -1,0 +1,16 @@
+Player: sa teamkhris
+Rating: 1535
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::CEO::::
+defeated gh dsc thenyion (1487)
+lost to julio (1612)
+defeated dllinftl (1475)
+defeated google_deez (1498)
+defeated tal (1506)
+defeated anbu exking (1521)
+lost to ts min (1527)

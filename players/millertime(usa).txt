@@ -1,0 +1,12 @@
+Player: millertime(usa)
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to yoro (1512)
+defeated 偉智/wedi (1474)
+lost to daimon (1513)

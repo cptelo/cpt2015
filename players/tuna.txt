@@ -1,0 +1,12 @@
+Player: tuna
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to ybk|kichiken (1590)
+defeated initial kyouso (1479)
+lost to kai (1527)

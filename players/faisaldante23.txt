@@ -1,0 +1,13 @@
+Player: faisaldante23
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated matashoo (1487)
+lost to andreas (1617)
+defeated fsh (1486)
+lost to robbieq_108 (1523)

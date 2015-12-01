@@ -1,0 +1,11 @@
+Player: deibu
+Rating: 1473
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to rde|sddowns (1490)
+lost to smbf|cogs quora (1499)

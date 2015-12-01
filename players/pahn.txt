@@ -1,0 +1,13 @@
+Player: pahn
+Rating: 1507
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Milan Games Week::::
+defeated sephro8h89 (1499)
+lost to brawl|haitani (1584)
+defeated fabio zeta (1511)
+lost to fa|ryan hart (1686)

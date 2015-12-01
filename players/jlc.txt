@@ -1,0 +1,12 @@
+Player: jlc
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to btm brian (1560)
+defeated vs hustle crowe (1474)
+lost to chewmandinga (1500)

@@ -1,0 +1,13 @@
+Player: formerlyunknown
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::TFC::::
+lost to rikkafresh (1512)
+defeated tal (1480)
+defeated themanseries (1486)
+lost to redmage138 (1516)

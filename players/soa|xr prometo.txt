@@ -1,0 +1,13 @@
+Player: soa|xr prometo
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPT Brazil::::
+lost to aag|pr3da (1512)
+defeated sft|alexandro (1498)
+defeated soa|caju (1494)
+lost to reversal|chuchu (1696)

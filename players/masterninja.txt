@@ -1,0 +1,13 @@
+Player: masterninja
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+lost to llama (1512)
+defeated tss cambam (1487)
+defeated maxipoo (1488)
+lost to pent (1524)

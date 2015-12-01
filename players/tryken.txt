@@ -1,0 +1,12 @@
+Player: tryken
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to srm|the white beast (1545)
+defeated gobant (1474)
+lost to haber (1523)

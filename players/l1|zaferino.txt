@@ -1,0 +1,25 @@
+Player: l1|zaferino
+Rating: 1604
+Played: 14
+Won: 8
+Lost: 6
+%: 57
+
+Results:
+::::CEO::::
+defeated big5ive (1502)
+defeated thereflexwonder (1513)
+lost to avm|gamerbee (1718)
+lost to cj tajh (1563)
+::::Summer Jam::::
+defeated wfx|801 strider (1679)
+defeated pie|smug (1693)
+lost to tsc|yomi|dieminion (1692)
+defeated rig elchakotay (1525)
+lost to bx3|phenom (1643)
+::::Defend the North::::
+lost to pie|smug (1695)
+defeated emp|hiro (1577)
+defeated tsc|sanford kelly (1589)
+defeated fno|bobbyblunts (1515)
+lost to og|shine (1603)

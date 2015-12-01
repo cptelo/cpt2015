@@ -1,0 +1,14 @@
+Player: chg joeystorm
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Northwest Majors::::
+defeated n4us (1476)
+lost to german luger (1571)
+defeated canjs|cxr|bionicfraud (1487)
+defeated droomighty (1501)
+lost to kaleo (1529)

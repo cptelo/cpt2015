@@ -1,0 +1,12 @@
+Player: gameguys danny express
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated crisium (1499)
+lost to cublanco (1552)
+lost to hebrew hammer (1534)

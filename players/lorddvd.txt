@@ -1,0 +1,11 @@
+Player: lorddvd
+Rating: 1531
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Cannes Winter Clash::::
+lost to infilitration (1707)
+lost to will2pac (1597)

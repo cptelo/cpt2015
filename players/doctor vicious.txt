@@ -1,0 +1,11 @@
+Player: doctor vicious
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to jimli (1514)
+lost to micronukex (1512)

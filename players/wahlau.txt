@@ -1,0 +1,12 @@
+Player: wahlau
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+lost to kim1234 (1562)
+defeated azrul (1486)
+lost to gl|saunic (1582)

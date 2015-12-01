@@ -1,0 +1,14 @@
+Player: suktuck
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::FV Cup::::
+lost to leslie (1512)
+defeated anotheryou (1474)
+defeated shazli (1478)
+defeated acidrock (1491)
+lost to leslie (1527)

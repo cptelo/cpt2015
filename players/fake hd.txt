@@ -1,0 +1,11 @@
+Player: fake hd
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to 可樂ヤン (1512)
+lost to 丫合 (1503)

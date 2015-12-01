@@ -1,0 +1,28 @@
+Player: bashfest
+Rating: 1537
+Played: 17
+Won: 9
+Lost: 8
+%: 52
+
+Results:
+::::Dreamhack Summer::::
+lost to problem x (1670)
+defeated knix (1474)
+defeated dragonfangs (1462)
+defeated warbio (1505)
+defeated duppsko (1490)
+defeated team.veggey bliredd (1490)
+lost to md|luffy (1731)
+defeated forward dash (1484)
+defeated duppsko (1508)
+lost to phenom (1644)
+::::Call of Ragnarok::::
+defeated rbn|bliredd (1489)
+lost to bx3|phenom (1653)
+lost to packz (1619)
+::::Dreamhack Winter::::
+lost to kobra (1514)
+defeated gingerv1k1ng (1476)
+lost to rize|ind|kwiddo (1518)
+lost to ccg|humanbomb (1671)

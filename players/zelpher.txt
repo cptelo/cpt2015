@@ -1,0 +1,17 @@
+Player: zelpher
+Rating: 1486
+Played: 8
+Won: 3
+Lost: 5
+%: 37
+
+Results:
+::::Dreamhack Summer::::
+lost to team.veggey bliredd (1512)
+defeated tm robofobe (1474)
+defeated papz (1491)
+lost to phenom (1627)
+defeated nake (1464)
+lost to tyrant (1617)
+lost to problem x (1678)
+lost to nayte (1556)

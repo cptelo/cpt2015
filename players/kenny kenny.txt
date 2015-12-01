@@ -1,0 +1,12 @@
+Player: kenny kenny
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::HK::::
+defeated lee chun ho lee (1487)
+lost to 黃勇 rc (1524)
+lost to billy wong billy (1516)

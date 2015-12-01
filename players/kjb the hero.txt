@@ -1,0 +1,11 @@
+Player: kjb the hero
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to dave o (1501)
+lost to finchomatic (1499)

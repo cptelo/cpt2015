@@ -1,0 +1,15 @@
+Player: iplay4food
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::SCR::::
+lost to ttf|jamaal jackson (1512)
+defeated missingno. (1474)
+defeated clowd (1489)
+defeated 2rawkets (1486)
+defeated kaising (1504)
+lost to blockbuster jon (1551)

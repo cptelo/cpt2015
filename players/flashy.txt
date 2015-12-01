@@ -1,0 +1,13 @@
+Player: flashy
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Saigon Cup::::
+defeated quang (1487)
+lost to qanba douyu|xiaohai (1704)
+defeated fv|mark (1487)
+lost to silg|stanick (1503)

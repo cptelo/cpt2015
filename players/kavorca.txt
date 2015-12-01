@@ -1,0 +1,13 @@
+Player: kavorca
+Rating: 1454
+Played: 4
+Won: 0
+Lost: 4
+%: 0
+
+Results:
+::::Dreamhack Winter::::
+lost to japf (1512)
+lost to fa|big bird (1569)
+lost to frametrap|the prince (1511)
+lost to sfo brylarke (1517)

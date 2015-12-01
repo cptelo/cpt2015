@@ -1,0 +1,13 @@
+Player: cc armoredx
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated eyoh_ajax (1487)
+defeated sgc mwisk (1499)
+lost to ts|arturo sanchez (1669)
+lost to damurgood (1548)

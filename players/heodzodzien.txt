@@ -1,0 +1,13 @@
+Player: heodzodzien
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Saigon Cup::::
+lost to gonzales (1607)
+defeated duc nguyen (1474)
+defeated moonflow (1489)
+lost to gonzales (1605)

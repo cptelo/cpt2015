@@ -1,0 +1,13 @@
+Player: pepeding
+Rating: 1509
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated chuan (1629)
+defeated 天朝贵族 (1499)
+lost to 罗晓虎 (1542)
+lost to rzr|itabashi zangief (1689)

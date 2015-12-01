@@ -1,0 +1,12 @@
+Player: otaku strawberryball
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to nacer (1512)
+defeated hf|inorite (1479)
+lost to hargi (1511)

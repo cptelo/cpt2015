@@ -1,0 +1,11 @@
+Player: /r/sf|rawbertson
+Rating: 1502
+Played: 2
+Won: 1
+Lost: 1
+%: 50
+
+Results:
+::::Canada Cup::::
+defeated r/kappa|hagejin (1574)
+lost to ccg|snafoo (1519)

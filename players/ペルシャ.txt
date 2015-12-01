@@ -1,0 +1,12 @@
+Player: ペルシャ
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KSB 2015::::
+lost to tarezou (1512)
+defeated ぷりん (1480)
+lost to kindo (1584)

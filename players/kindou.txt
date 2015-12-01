@@ -1,0 +1,10 @@
+Player: kindou
+Rating: 1489
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::Tokyo Game Show::::
+lost to brawl|haitani (1571)

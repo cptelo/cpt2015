@@ -1,0 +1,12 @@
+Player: dinasaur king
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to frostynuggs (1512)
+defeated lsteveboxl (1474)
+lost to boltstrike (1557)

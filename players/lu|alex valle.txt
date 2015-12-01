@@ -1,0 +1,31 @@
+Player: lu|alex valle
+Rating: 1520
+Played: 19
+Won: 10
+Lost: 9
+%: 52
+
+Results:
+::::Texas Showdown::::
+defeated 482|jelly (1499)
+lost to hsien chang (1573)
+defeated ctrl rayray (1511)
+lost to hsien chang (1577)
+defeated coin up|ludovic (1539)
+lost to dl|four wude (1610)
+::::EVO::::
+defeated bonchan (1697)
+defeated dm|willpower (1498)
+lost to kiyotea (1527)
+lost to eita (1606)
+::::TFC::::
+defeated seriphx (1499)
+defeated mx|mad (1499)
+defeated bcw_jmendes (1511)
+defeated mx mad (1488)
+defeated eg|k-brad (1676)
+lost to rb|snake eyez (1743)
+lost to pie|smug (1695)
+::::Canada Cup::::
+lost to ian (1513)
+lost to r/kappa|hagejin (1584)

@@ -1,0 +1,13 @@
+Player: radirgy
+Rating: 1450
+Played: 4
+Won: 0
+Lost: 4
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to clangers (1516)
+lost to marcher29 (1499)
+lost to vapourzz i (1511)
+lost to mba|yingah (1498)

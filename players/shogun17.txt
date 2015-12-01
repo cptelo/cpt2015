@@ -1,0 +1,12 @@
+Player: shogun17
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to corn bootlegwinner (1512)
+defeated sisf (1474)
+lost to kenshiro (1511)

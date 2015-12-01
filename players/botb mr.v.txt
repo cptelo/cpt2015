@@ -1,0 +1,11 @@
+Player: botb mr.v
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Texas Showdown::::
+lost to 3nigmat1c (1524)
+lost to unforunatefleshgolem (1499)

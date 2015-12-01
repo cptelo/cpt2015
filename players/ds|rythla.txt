@@ -1,0 +1,11 @@
+Player: ds|rythla
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to mmg|abswing (1518)
+lost to vs|hustle crowe (1499)

@@ -1,0 +1,14 @@
+Player: readyforpowwow
+Rating: 1452
+Played: 4
+Won: 0
+Lost: 4
+%: 0
+
+Results:
+::::Texas Showdown::::
+lost to dawgenhower (1512)
+lost to ip man (1511)
+::::SCR::::
+lost to sd|tempest (1530)
+lost to bokkin (1517)

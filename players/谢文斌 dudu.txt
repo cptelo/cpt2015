@@ -1,0 +1,18 @@
+Player: 谢文斌 dudu
+Rating: 1508
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+lost to qanba douyu|god of sky (1560)
+defeated laoshenjiang (1486)
+lost to qanba douyu|bei bei (1526)
+::::HK::::
+defeated ken yeung kenyeung (1487)
+defeated bosco bosmoko (1499)
+defeated summer xft_summer (1511)
+lost to r/kappa|infilitration (1776)
+lost to chow chin pang xft_baoice (1554)

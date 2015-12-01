@@ -1,0 +1,11 @@
+Player: nashi
+Rating: 1483
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to ybk|shiro (1661)
+lost to kindevu (1608)

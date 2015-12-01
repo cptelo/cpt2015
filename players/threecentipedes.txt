@@ -1,0 +1,13 @@
+Player: threecentipedes
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to steeeeve (1512)
+defeated doons (1474)
+defeated dojo_got_trees (1493)
+lost to dkt (1523)

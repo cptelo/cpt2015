@@ -1,0 +1,12 @@
+Player: tiger uppercut
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Saigon Cup::::
+defeated fruit (1535)
+lost to chuan (1640)
+lost to anubis (1516)

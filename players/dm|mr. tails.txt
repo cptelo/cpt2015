@@ -1,0 +1,12 @@
+Player: dm|mr. tails
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated chibz (1487)
+lost to eg|pr balrog (1690)
+lost to revolver sagod (1511)

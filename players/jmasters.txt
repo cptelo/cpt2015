@@ -1,0 +1,12 @@
+Player: jmasters
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+defeated the street writer (1499)
+lost to shoryusengan (1580)
+lost to the street writer (1534)

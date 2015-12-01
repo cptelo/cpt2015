@@ -1,0 +1,12 @@
+Player: honda tropical
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+defeated dr sharpy (1487)
+lost to ta|chris g (1631)
+lost to sa justice (1534)

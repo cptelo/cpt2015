@@ -1,0 +1,13 @@
+Player: smbf walkerfam
+Rating: 1507
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::EGX::::
+defeated daniel dillips (1485)
+lost to wso|andreas (1630)
+defeated rising superstar alfie (1503)
+lost to raygo blayde|afii (1639)

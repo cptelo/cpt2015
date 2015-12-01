@@ -1,0 +1,13 @@
+Player: 必然也
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to qanba douyu|cuishao (1534)
+defeated vsl sizzla971 (1479)
+defeated 直播弟 (1490)
+lost to ybk|shiro (1663)

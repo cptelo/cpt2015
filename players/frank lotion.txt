@@ -1,0 +1,15 @@
+Player: frank lotion
+Rating: 1521
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated arson (1487)
+lost to bronxpuertorock (1512)
+defeated nwm lueshi (1486)
+defeated grubbs (1486)
+defeated jmob (1487)
+lost to viscant (1541)

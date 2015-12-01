@@ -1,0 +1,15 @@
+Player: silg@shaun
+Rating: 1527
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::FV Cup::::
+defeated fv sangbubu (1487)
+lost to gl|saunic (1585)
+defeated jonathan swee (1477)
+defeated kevin lee (1488)
+defeated gl|saunic (1576)
+lost to kim1234 (1565)

@@ -1,0 +1,19 @@
+Player: arrow
+Rating: 1520
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::NorCal Regionals::::
+defeated dmf (1487)
+defeated blaqskillz (1499)
+lost to r/kappa|kazunoko (1699)
+lost to pnoy (1577)
+::::SCR::::
+defeated bcw-carlos danger (1487)
+defeated dinlee (1499)
+defeated gedub|ce|gdb|jabdrunk (1515)
+lost to srkuw|botb|fawwaz (1589)
+lost to mc|xsk samurai (1587)

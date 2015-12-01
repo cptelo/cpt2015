@@ -1,0 +1,16 @@
+Player: tal
+Rating: 1480
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::CEO::::
+defeated loseygosey (1487)
+defeated exg rosiechan92 (1499)
+lost to r/kappa|infilitration (1770)
+lost to sa teamkhris (1537)
+::::TFC::::
+lost to dunham (1512)
+lost to formerlyunknown (1499)

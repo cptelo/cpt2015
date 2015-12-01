@@ -1,0 +1,13 @@
+Player: 邢岚 烤鱼
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+defeated 屠双奇 t mug (1487)
+defeated kang 康 (1499)
+lost to qanba douyu|god of sky (1580)
+lost to qanba douyu|bei bei (1538)

@@ -1,0 +1,12 @@
+Player: narudo
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to izumi kouta (1512)
+defeated usami mushiko (1481)
+lost to naio (1513)

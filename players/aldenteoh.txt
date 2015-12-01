@@ -1,0 +1,13 @@
+Player: aldenteoh
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::FV Cup::::
+lost to eugene yap (1512)
+defeated terry kok (1474)
+defeated jafar (1476)
+lost to scott k wai kit (1517)

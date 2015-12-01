@@ -1,0 +1,11 @@
+Player: skarfelt
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to o|< (stickman) (1524)
+lost to kaworu (1521)

@@ -1,0 +1,12 @@
+Player: sfo willo
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::EGX::::
+lost to um lemon (1512)
+defeated vsf justin (1477)
+lost to packz (1624)

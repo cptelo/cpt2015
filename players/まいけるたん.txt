@@ -1,0 +1,12 @@
+Player: まいけるたん
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Nine States::::
+defeated 仮面の魔術師 (1499)
+lost to anton (1536)
+lost to korea player (1523)

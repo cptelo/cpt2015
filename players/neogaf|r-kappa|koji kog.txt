@@ -1,0 +1,49 @@
+Player: neogaf|r/kappa|koji kog
+Rating: 1657
+Played: 35
+Won: 23
+Lost: 12
+%: 65
+
+Results:
+::::Northwest Majors::::
+defeated datc (1502)
+defeated srkuw|kpop (1502)
+defeated ph|crackfiend (1568)
+defeated brentt (1620)
+defeated brentt (1619)
+defeated ccg|air (1617)
+lost to eg|justin wong (1730)
+defeated ta|chris g (1615)
+defeated ts|arturo sanchez (1662)
+defeated ph|lpn (1605)
+lost to eg|justin wong (1737)
+::::KSB 2015::::
+defeated こま (1493)
+lost to shiro (1641)
+defeated raykay (1498)
+defeated matsuri (1551)
+defeated akimo (1583)
+defeated eita (1624)
+defeated kawaguchi (1615)
+lost to nemo (1687)
+::::EVO::::
+defeated f99|tim (1493)
+lost to rzr|xian (1760)
+lost to begetaminb (1566)
+::::Taiwan::::
+defeated applemouse (1493)
+lost to sketch (1479)
+defeated f99|tim (1485)
+lost to minos (1529)
+::::Tokyo Game Show::::
+defeated mcz|tokido (1709)
+defeated fgc|pepeday (1637)
+lost to avm|gamerbee (1749)
+lost to be|nemo (1745)
+::::Ultra Hyakkishu Cup::::
+defeated oppoi (1492)
+defeated okkun (1499)
+defeated kyabetsu (1559)
+lost to be|nemo (1757)
+lost to rokkun (1640)

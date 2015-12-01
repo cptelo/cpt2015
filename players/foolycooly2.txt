@@ -1,0 +1,12 @@
+Player: foolycooly2
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to super uriajjo (1512)
+defeated zenny (1477)
+lost to kyoku (1573)

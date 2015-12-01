@@ -1,0 +1,11 @@
+Player: dfw|saltime
+Rating: 1501
+Played: 2
+Won: 1
+Lost: 1
+%: 50
+
+Results:
+::::Defend the North::::
+defeated pie|poem (1487)
+lost to pxg|vgp|integra (1573)

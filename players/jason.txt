@@ -1,0 +1,15 @@
+Player: jason
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::VS Fighting::::
+defeated mr.e (1487)
+defeated sml|shinmael (1487)
+lost to sfo|brylarke (1524)
+defeated ed|wilksy15 (1489)
+defeated wso|logan (1506)
+lost to o|< (stickman) (1539)

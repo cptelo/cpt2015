@@ -1,0 +1,12 @@
+Player: stiqman
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated señor goggles (1487)
+lost to sd|pnoy (1593)
+lost to bloodyziff (1511)

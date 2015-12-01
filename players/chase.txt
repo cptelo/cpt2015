@@ -1,0 +1,11 @@
+Player: chase
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to 3e.ttf|unprotectedsex (1512)
+lost to tsid n8theoreat (1499)

@@ -1,0 +1,18 @@
+Player: okome man
+Rating: 1497
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Nine States::::
+lost to g.y.r.o (1512)
+defeated ホルト horuto (1481)
+defeated 水 mizu (1486)
+defeated サエ (1501)
+lost to たんげ tange (1529)
+::::Ultra Hyakkishu Cup::::
+defeated jay (1485)
+lost to dogura (1566)
+lost to ojisan (1517)

@@ -1,0 +1,12 @@
+Player: kenneth hernandez
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+defeated fgerizu (1487)
+lost to shadowchild (1512)
+lost to prk crank (1524)

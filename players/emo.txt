@@ -1,0 +1,13 @@
+Player: emo
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+lost to kizzie kay (1528)
+defeated hootington (1478)
+defeated ebomb (1488)
+lost to white gun (1541)

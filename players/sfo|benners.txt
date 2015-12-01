@@ -1,0 +1,20 @@
+Player: sfo|benners
+Rating: 1524
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::Hypespotting::::
+defeated bfl|popidge (1487)
+lost to bigfool (1524)
+defeated dread (1486)
+defeated rs|ayjayirl (1498)
+lost to bigfool (1523)
+::::VS Fighting::::
+defeated mba|armdevil (1485)
+lost to f-word (1615)
+defeated ds|jamusan (1499)
+defeated ed|lavell up (1521)
+lost to sml|solidjin (1570)

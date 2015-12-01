@@ -1,0 +1,14 @@
+Player: saulabis
+Rating: 1521
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA KR::::
+defeated jkkk (1487)
+lost to poongko (1743)
+defeated zzlnsanezz (1491)
+defeated mulverrine (1501)
+lost to shiro (1643)

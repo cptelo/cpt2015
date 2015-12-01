@@ -1,0 +1,12 @@
+Player: mohamedo
+Rating: 1496
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to r/kappa|poongko (1724)
+defeated rokotsu (1474)
+lost to kindo (1586)

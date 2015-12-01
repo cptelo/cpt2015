@@ -1,0 +1,12 @@
+Player: mto
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to beno (1512)
+defeated pez man 81 (1474)
+lost to pills (1511)

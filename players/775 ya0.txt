@@ -1,0 +1,12 @@
+Player: 775 ya0
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to eg|pr balrog (1684)
+defeated chibz (1474)
+lost to peejay (1514)

@@ -1,0 +1,12 @@
+Player: azrul
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+lost to kevin lee (1512)
+defeated fv sangbubu (1474)
+lost to wahlau (1501)

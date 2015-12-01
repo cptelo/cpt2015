@@ -1,0 +1,14 @@
+Player: paranoiar
+Rating: 1446
+Played: 5
+Won: 0
+Lost: 5
+%: 0
+
+Results:
+::::Dreamhack Summer::::
+lost to ettelman (1560)
+lost to brick (1550)
+lost to iahadima (1489)
+lost to iki (1511)
+lost to rize|ind|pro fluke (1639)

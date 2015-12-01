@@ -1,0 +1,15 @@
+Player: vdon
+Rating: 1463
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::NorCal Regionals::::
+lost to thrillhouse (1512)
+lost to t3p valiant (1499)
+::::Northwest Majors::::
+lost to boeken (1511)
+defeated biscuit (1473)
+lost to muscle steel sex appeal (1512)

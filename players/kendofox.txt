@@ -1,0 +1,11 @@
+Player: kendofox
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to qanba douyu|dark jiewa (1630)
+lost to blue (1499)

@@ -1,0 +1,44 @@
+Player: fdy|devil_reapers|dr|stormkubo
+Rating: 1655
+Played: 30
+Won: 19
+Lost: 11
+%: 63
+
+Results:
+::::Taiwan::::
+defeated kerick (1491)
+defeated zalk (1502)
+defeated rzr|rb (1613)
+defeated inco (1683)
+defeated inco (1681)
+defeated ts|reiketsu (1640)
+lost to rzr|itabashi zangief (1701)
+defeated qanba douyu|dark jiewa (1636)
+defeated chuan (1640)
+defeated rzr|itabashi zangief (1689)
+lost to misse (1678)
+::::Manila Cup::::
+defeated qanba douyu|god of sky (1559)
+lost to ccg|humanbomb (1658)
+defeated keno (1585)
+lost to rzr|itabashi zangief (1700)
+::::Tokyo Game Show::::
+lost to mcz|daigo (1765)
+::::Ze Fighting Game Champion::::
+defeated 郭大喜 (1493)
+defeated mint310 (1504)
+lost to rzr|gackt (1648)
+defeated 嘟嘟 (1519)
+defeated um|btm|rmz (1605)
+lost to rzr|fuudo (1727)
+::::Ultra Hyakkishu Cup::::
+defeated koyasu (1493)
+defeated re: (1504)
+lost to r/kappa|ebi (1595)
+defeated ybk|shiro (1656)
+lost to mf|tonpy (1672)
+::::Canada Cup::::
+defeated gol|ranmasama (1550)
+lost to avm|gamerbee (1740)
+lost to gol|ranmasama (1556)

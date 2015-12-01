@@ -1,0 +1,13 @@
+Player: nakahara
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated very good tanaka (1487)
+defeated torimeshi (1501)
+lost to fgc|dunhill (1549)
+lost to kindo (1592)

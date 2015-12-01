@@ -1,0 +1,13 @@
+Player: s1ngho
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+lost to ed|the claw of god (1512)
+defeated pnd|i2 gaug3 (1487)
+defeated ds|gutsy (1486)
+lost to rh|f4rhann (1518)

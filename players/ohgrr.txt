@@ -1,0 +1,15 @@
+Player: ohgrr
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Combo Breaker::::
+defeated zaybak (1487)
+lost to pgfx kiu (1524)
+defeated moony blues (1498)
+defeated wh vicious (1498)
+defeated doctorstantz (1498)
+lost to danny boy peru (1548)

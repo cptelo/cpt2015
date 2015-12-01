@@ -1,0 +1,13 @@
+Player: fsr wupai
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated pag vgcj maestro (1487)
+defeated kbb mad titan (1498)
+lost to ta|chris g (1633)
+lost to tbr last dragon (1540)

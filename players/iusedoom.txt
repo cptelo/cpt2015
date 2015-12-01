@@ -1,0 +1,15 @@
+Player: iusedoom
+Rating: 1526
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated kingblack (1487)
+lost to mcz|mago (1716)
+defeated benji v. (1475)
+defeated misfitpenguin (1488)
+defeated j. caesar ii (1502)
+lost to buttermilk chris (1539)

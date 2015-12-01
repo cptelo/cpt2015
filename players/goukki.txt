@@ -1,0 +1,11 @@
+Player: goukki
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to sprint (1500)
+lost to bfl|popidge (1500)

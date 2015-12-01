@@ -1,0 +1,43 @@
+Player: rzr|rb
+Rating: 1640
+Played: 30
+Won: 20
+Lost: 10
+%: 66
+
+Results:
+::::South East Asia Major::::
+defeated misse (1645)
+lost to mcz|tokido (1699)
+defeated eita (1609)
+defeated qiuqiukof (1558)
+lost to mcz|daigo (1769)
+::::FV Cup::::
+defeated mark (1491)
+defeated tommy chiam (1503)
+defeated chuan (1618)
+lost to koji miyake (1557)
+lost to leslie (1569)
+::::Taiwan::::
+defeated pompom (1491)
+defeated 小武 (1503)
+lost to stormkubo (1629)
+defeated tkd (1519)
+defeated et (1518)
+lost to inco (1687)
+::::HK::::
+defeated small tom 細tommy (1491)
+defeated kung sai kit xft_saiki (1503)
+defeated wong ho ching river (1514)
+lost to misse (1688)
+defeated po yuen chan xft_nana (1537)
+lost to tonpy (1649)
+::::Milan Games Week::::
+defeated ponzaman (1483)
+defeated bx3|phenom (1648)
+defeated gl|rb|valmaster (1702)
+defeated mf|tonpy (1673)
+lost to rzr|xian (1815)
+defeated md|luffy (1785)
+defeated fa|ryan hart (1700)
+lost to rzr|fuudo (1735)

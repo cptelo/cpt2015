@@ -1,0 +1,13 @@
+Player: yeti
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated 385wdb|beermir (1487)
+lost to 801|jayce the ace (1609)
+defeated hawt salsa (1475)
+lost to zakotou (1514)

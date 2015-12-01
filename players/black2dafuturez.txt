@@ -1,0 +1,11 @@
+Player: black2dafuturez
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to ed|lavell up (1535)
+lost to ed|undeadjim (1499)

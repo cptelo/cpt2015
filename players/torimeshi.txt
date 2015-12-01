@@ -1,0 +1,12 @@
+Player: torimeshi
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated twiggy (1544)
+lost to nakahara (1524)
+lost to sasaki (1559)

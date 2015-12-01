@@ -1,0 +1,12 @@
+Player: fibonacci
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to gs|gllty (1513)
+defeated cg projo (1474)
+lost to ric104 (1514)

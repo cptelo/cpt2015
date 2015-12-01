@@ -1,0 +1,12 @@
+Player: srd|blahblah
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+defeated flex negative (1487)
+lost to dcb|afterdeath (1537)
+lost to dbc (1523)

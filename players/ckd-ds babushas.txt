@@ -1,0 +1,16 @@
+Player: ckd/ds babushas
+Rating: 1533
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::SCR::::
+defeated tof (1487)
+lost to commander jesse (1561)
+defeated du ma guile (1474)
+defeated du ma guile (1462)
+defeated khio (1498)
+defeated f99|driftwood (1473)
+lost to commander jesse (1576)

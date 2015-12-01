@@ -1,0 +1,16 @@
+Player: l.grinta
+Rating: 1475
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to dkt (1512)
+defeated marquezsf (1474)
+defeated rmfluffy (1488)
+lost to trevonte (1523)
+::::SCR::::
+lost to bruin (1512)
+lost to kelvin jeon (1560)

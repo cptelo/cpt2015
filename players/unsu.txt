@@ -1,0 +1,11 @@
+Player: unsu
+Rating: 1477
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to brawl|haitani (1576)
+lost to ryutarou (1499)

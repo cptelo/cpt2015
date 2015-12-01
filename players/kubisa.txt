@@ -1,0 +1,13 @@
+Player: kubisa
+Rating: 1496
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated tws|tws gibbo (1462)
+lost to rs|cobelcog (1504)
+defeated sean9217 (1474)
+lost to sprint (1511)

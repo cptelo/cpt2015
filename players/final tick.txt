@@ -1,0 +1,13 @@
+Player: final tick
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::TFC::::
+lost to dbc (1512)
+defeated flex negative (1474)
+defeated silent hero (1475)
+lost to pokchop (1529)

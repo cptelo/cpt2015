@@ -1,0 +1,15 @@
+Player: solrac naej
+Rating: 1527
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::First Attack::::
+defeated hugo-andore (1487)
+lost to liquid|nuckledu (1749)
+defeated msd xavi (1486)
+defeated zoke16 (1487)
+defeated yeral (1506)
+lost to evb ds ray (1531)

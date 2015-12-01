@@ -1,0 +1,11 @@
+Player: dpgl menard
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::First Attack::::
+lost to nexon (1512)
+lost to elpr|tkd wolf (1499)

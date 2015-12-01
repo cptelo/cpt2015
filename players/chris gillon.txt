@@ -1,0 +1,11 @@
+Player: chris gillon
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Hypespotting::::
+lost to mcz|tokido (1642)
+lost to kingquaka (1499)

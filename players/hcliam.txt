@@ -1,0 +1,14 @@
+Player: hcliam
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::VS Fighting::::
+defeated thurrabred (1487)
+lost to sml|solidjin (1561)
+defeated sww|crumpets (1486)
+defeated sww|tearod (1486)
+lost to pun pun (1523)

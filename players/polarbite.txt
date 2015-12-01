@@ -1,0 +1,13 @@
+Player: polarbite
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated ifd delusion (1462)
+defeated sroasha (1487)
+lost to eg|k-brad (1664)
+lost to hadoukenmd (1535)

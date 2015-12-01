@@ -1,0 +1,14 @@
+Player: scott k wai kit
+Rating: 1518
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::FV Cup::::
+defeated fv edwin (1487)
+lost to bonchan (1695)
+defeated aldenteoh (1498)
+defeated eugene yap (1501)
+lost to rzr|gackt (1582)

@@ -1,0 +1,12 @@
+Player: mysticnamja
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to valiant (1512)
+defeated rocksteady (1474)
+lost to cartoon hero (1517)

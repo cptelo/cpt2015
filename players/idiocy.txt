@@ -1,0 +1,11 @@
+Player: idiocy
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to kapwan (1512)
+lost to wrathmatics (1502)

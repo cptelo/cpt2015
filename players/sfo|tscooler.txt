@@ -1,0 +1,11 @@
+Player: sfo|tscooler
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Hypespotting::::
+lost to dawgtanian (1512)
+lost to ind.spb|ixion (1545)

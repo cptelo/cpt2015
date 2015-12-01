@@ -1,0 +1,18 @@
+Player: sabohani
+Rating: 1565
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::EVO::::
+defeated tsc|yomi|dieminion (1684)
+::::Tokyo Game Show::::
+lost to kyoku (1553)
+::::Ultra Hyakkishu Cup::::
+defeated skunk (1489)
+defeated naio (1501)
+defeated dogura (1561)
+lost to kitasenju dj (1640)
+lost to fgc|ex pugera (1679)

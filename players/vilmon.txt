@@ -1,0 +1,13 @@
+Player: vilmon
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+lost to nacer (1515)
+defeated moist (1474)
+defeated spenttime (1474)
+lost to deadmoo5 (1513)

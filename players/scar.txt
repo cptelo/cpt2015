@@ -1,0 +1,11 @@
+Player: scar
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to mc|xsk samurai (1560)
+lost to smbg|tangent (1499)

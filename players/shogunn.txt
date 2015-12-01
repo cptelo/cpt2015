@@ -1,0 +1,13 @@
+Player: shogunn
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated tsid n8theoreat (1487)
+lost to 3e.ttf|unprotectedsex (1524)
+defeated legendarygamer (1474)
+lost to dkt (1539)

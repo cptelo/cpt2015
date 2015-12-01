@@ -1,0 +1,11 @@
+Player: gearbox63
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to hsien chang (1560)
+lost to gpl - tommy pickles (1499)

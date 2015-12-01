@@ -1,0 +1,11 @@
+Player: sanchez
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to dmt - mr. d (1512)
+lost to wl chris king (1499)

@@ -1,0 +1,14 @@
+Player: callisto
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Combo Breaker::::
+defeated m.a.d.e. gameover (1487)
+lost to alucard (1570)
+defeated j fabulous (1486)
+defeated vs roy (1498)
+lost to kas_shadow (1524)

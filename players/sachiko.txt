@@ -1,0 +1,13 @@
+Player: sachiko
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated vgd (1487)
+lost to kaiser (1570)
+defeated domo (1480)
+lost to bravery (1525)

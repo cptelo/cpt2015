@@ -1,0 +1,14 @@
+Player: loyalsol
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Texas Showdown::::
+defeated demitri (1487)
+lost to liquid|nuckledu (1750)
+defeated batman (1475)
+defeated oneaboveall ad (1489)
+lost to duncan (1523)

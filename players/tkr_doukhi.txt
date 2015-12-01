@@ -1,0 +1,13 @@
+Player: tkr_doukhi
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated bo_aseel (1487)
+lost to wtq8|fizzie (1512)
+defeated lord devil (1498)
+lost to finalzero (1514)

@@ -1,0 +1,14 @@
+Player: pieguy
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated nastynizzzle1 (1487)
+lost to sd|tempest (1524)
+defeated n4us (1489)
+defeated raoul (1498)
+lost to ta|chris g (1600)

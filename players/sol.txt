@@ -1,0 +1,12 @@
+Player: sol
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+defeated the bp tank (1487)
+lost to shoryusengan (1570)
+lost to king of the jews (1500)

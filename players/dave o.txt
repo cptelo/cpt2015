@@ -1,0 +1,17 @@
+Player: dave o
+Rating: 1491
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Northwest Majors::::
+lost to julio (1602)
+defeated 30f|teyah (1474)
+lost to frisco (1514)
+::::Combo Breaker::::
+defeated kjb the hero (1487)
+defeated ninjaspy (1499)
+lost to mor|rico suave (1612)
+lost to gs|gllty (1535)

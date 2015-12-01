@@ -1,0 +1,11 @@
+Player: flb azizul
+Rating: 1480
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::EGX::::
+lost to gl|rb|valmaster (1684)
+lost to sfo jlm (1511)

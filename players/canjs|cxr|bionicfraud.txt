@@ -1,0 +1,12 @@
+Player: canjs|cxr|bionicfraud
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Northwest Majors::::
+lost to gutter trash (1512)
+defeated lueshi (1490)
+lost to chg joeystorm (1513)

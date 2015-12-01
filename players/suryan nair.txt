@@ -1,0 +1,12 @@
+Player: suryan nair
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+lost to peanutryu (1512)
+defeated g.y.r.o (1473)
+lost to dianminion (1499)

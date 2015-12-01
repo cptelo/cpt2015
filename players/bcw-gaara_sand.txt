@@ -1,0 +1,13 @@
+Player: bcw-gaara_sand
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated fillossofherr (1487)
+lost to iperu (1572)
+defeated shakugan (1484)
+lost to ma lung fan (1512)

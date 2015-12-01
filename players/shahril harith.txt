@@ -1,0 +1,11 @@
+Player: shahril harith
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::FV Cup::::
+lost to rv_raihan (1512)
+lost to fv tkc (1504)

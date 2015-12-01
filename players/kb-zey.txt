@@ -1,0 +1,12 @@
+Player: kb-zey
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+lost to mba|the bp tank (1487)
+defeated bye (1491)
+lost to sfo|tiger flowsion (1511)

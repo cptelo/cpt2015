@@ -1,0 +1,15 @@
+Player: 罗晓虎
+Rating: 1541
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated lutak (1487)
+defeated rzr|itabashi zangief (1681)
+defeated pepeding (1516)
+defeated mf|tonpy (1671)
+lost to ccg|humanbomb (1673)
+lost to rzr|gackt (1656)

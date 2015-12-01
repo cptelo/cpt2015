@@ -1,0 +1,13 @@
+Player: frametrap|the prince
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Dreamhack Winter::::
+lost to sfo brylarke (1506)
+defeated japf (1498)
+defeated kavorca (1465)
+lost to fa|big bird (1588)

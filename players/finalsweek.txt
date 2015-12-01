@@ -1,0 +1,14 @@
+Player: finalsweek
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Texas Showdown::::
+defeated setx spurs21 (1487)
+lost to ccg|air (1621)
+defeated styxtbm (1475)
+defeated peter sauce (1487)
+lost to pauly z (1513)

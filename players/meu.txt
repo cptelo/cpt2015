@@ -1,0 +1,21 @@
+Player: meu
+Rating: 1525
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::KSB 2015::::
+defeated あかり (1487)
+lost to dogura (1588)
+defeated rf (1489)
+defeated シロマティ (1510)
+defeated fubarduck (1505)
+lost to misse (1656)
+::::Tokyo Game Show::::
+defeated eg|k-brad (1667)
+::::Ultra Hyakkishu Cup::::
+defeated jeppa~ (1490)
+lost to g.y.r.o (1484)
+lost to oitajin (1517)

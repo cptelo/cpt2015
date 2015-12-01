@@ -1,0 +1,18 @@
+Player: shoryusengan
+Rating: 1601
+Played: 9
+Won: 7
+Lost: 2
+%: 77
+
+Results:
+::::Hypespotting::::
+defeated rst mambo penguin (1489)
+defeated sol (1501)
+defeated jmasters (1501)
+defeated butterbeefbison (1525)
+defeated bsc|shek (1525)
+defeated codynp (1543)
+lost to mcz|tokido (1689)
+defeated hurricane (1632)
+lost to rize|ind|pro fluke (1642)

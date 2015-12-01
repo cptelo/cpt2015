@@ -1,0 +1,12 @@
+Player: pine
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Saigon Cup::::
+defeated jackiechanningtatum (1487)
+lost to rzr|itabashi zangief (1696)
+lost to lk (1511)

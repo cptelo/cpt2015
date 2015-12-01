@@ -1,0 +1,13 @@
+Player: sfo jlm
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::EGX::::
+lost to syn chuck (1512)
+defeated dry captain ook (1474)
+defeated flb azizul (1480)
+lost to cdv|will2pac (1581)

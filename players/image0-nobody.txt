@@ -1,0 +1,17 @@
+Player: image0/nobody
+Rating: 1544
+Played: 8
+Won: 6
+Lost: 2
+%: 75
+
+Results:
+::::CEO::::
+defeated teaseeoh (1487)
+lost to chocoblanka (1512)
+defeated crazed rice (1486)
+defeated aicalier (1486)
+defeated sa tempun (1498)
+defeated miamix-alex (1526)
+defeated flako (1516)
+lost to stvg asiandemon (1544)

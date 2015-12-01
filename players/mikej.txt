@@ -1,0 +1,12 @@
+Player: mikej
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to triiifector (1512)
+defeated metal bender (1486)
+lost to mikey g (1523)

@@ -1,0 +1,18 @@
+Player: kdit|ren
+Rating: 1461
+Played: 7
+Won: 2
+Lost: 5
+%: 28
+
+Results:
+::::Texas Showdown::::
+defeated ua|mrhoward123 (1487)
+lost to brolylegs (1512)
+defeated [kf] mdrm (1474)
+lost to hypersurge (1511)
+::::EVO::::
+lost to rockpon (1512)
+::::EGX::::
+lost to vws|j miller (1522)
+lost to rs nutrient (1500)

@@ -1,0 +1,11 @@
+Player: hf|tierney
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to kizzie kay (1512)
+lost to romeo (1499)

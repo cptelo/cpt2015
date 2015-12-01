@@ -1,0 +1,11 @@
+Player: yuosham
+Rating: 1480
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::KO Fighting Game Festival::::
+lost to ybk|santarouman (1639)
+lost to gunner85 (1522)

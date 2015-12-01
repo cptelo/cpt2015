@@ -1,0 +1,13 @@
+Player: fno|bobbyblunts
+Rating: 1515
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Defend the North::::
+defeated kig|problem x (1696)
+defeated og|rlbs (1543)
+lost to liquid|nuckledu (1726)
+lost to l1|zaferino (1610)

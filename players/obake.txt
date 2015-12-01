@@ -1,0 +1,11 @@
+Player: obake
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Red Fight District::::
+lost to tr mac (1507)
+lost to deku deku tree (1511)

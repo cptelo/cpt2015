@@ -1,0 +1,12 @@
+Player: uryo
+Rating: 1543
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Tokyo Game Show::::
+lost to r/kappa|aiai (1599)
+defeated ybk|shiro (1638)
+lost to ph|hoodaman (1616)

@@ -1,0 +1,21 @@
+Player: latif
+Rating: 1659
+Played: 11
+Won: 8
+Lost: 3
+%: 72
+
+Results:
+::::EVO::::
+defeated haitani (1571)
+defeated fa|ryan hart (1682)
+defeated bx3|phenom (1632)
+lost to filipinoman (1628)
+::::KO Fighting Game Festival::::
+defeated hamu chan (1503)
+defeated wtq8|gannoon (1559)
+defeated wtq8|gannoon (1560)
+defeated ybk|kichiken (1591)
+defeated rzr|itabashi zangief (1688)
+lost to rzr|fuudo (1733)
+lost to rzr|xian (1774)

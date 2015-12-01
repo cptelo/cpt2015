@@ -1,0 +1,17 @@
+Player: lyhs
+Rating: 1479
+Played: 8
+Won: 3
+Lost: 5
+%: 37
+
+Results:
+::::Dreamhack Summer::::
+lost to yagami (1524)
+lost to wso|andreas (1611)
+defeated jeparianen (1474)
+defeated forward dash (1498)
+defeated dr. cat (1475)
+lost to wso|andreas (1620)
+lost to ind.saltykid (1551)
+lost to remes (1479)

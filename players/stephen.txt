@@ -1,0 +1,14 @@
+Player: stephen
+Rating: 1516
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated keetro (1499)
+defeated rbr anbu deadlyclaw (1487)
+defeated udlr highbeast (1510)
+lost to 801 strider (1678)
+lost to vgp|andre west (1546)

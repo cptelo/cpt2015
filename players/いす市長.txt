@@ -1,0 +1,11 @@
+Player: いす市長
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Nine States::::
+lost to そらネコ (1512)
+lost to キヌイト (1503)

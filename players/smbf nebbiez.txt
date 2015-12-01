@@ -1,0 +1,12 @@
+Player: smbf nebbiez
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::EGX::::
+lost to flawless deku (1576)
+defeated metalqueersolid (1474)
+lost to rising superstar alfie (1517)

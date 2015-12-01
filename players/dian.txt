@@ -1,0 +1,13 @@
+Player: dian
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Abuget Cup::::
+defeated aldy (1487)
+lost to dark jiewa (1617)
+defeated ardi (1490)
+lost to saman (1525)

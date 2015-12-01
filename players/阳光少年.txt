@@ -1,0 +1,12 @@
+Player: 阳光少年
+Rating: 1496
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to qanba douyu|dakou (1635)
+defeated py (1474)
+lost to ybk|shiro (1661)

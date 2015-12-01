@@ -1,0 +1,16 @@
+Player: stekoh
+Rating: 1532
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::FV Cup::::
+lost to voltrix (1512)
+defeated sketch (1459)
+defeated dikdik (1474)
+defeated abelity (1490)
+defeated bryan (1499)
+defeated fv bison wong (1502)
+lost to leslie (1554)

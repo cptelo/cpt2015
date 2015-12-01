@@ -1,0 +1,13 @@
+Player: もふもふ
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Nine States::::
+defeated 和泉康太 (1487)
+defeated hyde (1487)
+lost to chiaki (1536)
+lost to 和泉康太 (1523)

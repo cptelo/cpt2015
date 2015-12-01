@@ -1,0 +1,13 @@
+Player: gdlk.co|churro
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+lost to duncan (1512)
+defeated pote (1474)
+defeated welcome to you're doom! (1474)
+lost to white gun (1530)

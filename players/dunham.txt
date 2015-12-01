@@ -1,0 +1,12 @@
+Player: dunham
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+defeated tal (1493)
+lost to yg|joel (1650)
+lost to kristougher (1511)

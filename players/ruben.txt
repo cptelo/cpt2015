@@ -1,0 +1,14 @@
+Player: ruben
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Milan Games Week::::
+defeated bryanpro (1487)
+defeated schiacci sempre (1487)
+lost to easyman (1586)
+defeated dimmer (1514)
+lost to splendidnull (1528)

@@ -1,0 +1,14 @@
+Player: sherm
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+lost to eric m (1512)
+defeated d.veritas (1490)
+defeated the beav (1487)
+defeated sa kooky (1504)
+lost to vgp|andre west (1542)

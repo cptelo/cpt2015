@@ -1,0 +1,11 @@
+Player: 么么小吉吉 么么小吉吉
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to 陳政宏 bemechen (1512)
+lost to chenzhou (1499)

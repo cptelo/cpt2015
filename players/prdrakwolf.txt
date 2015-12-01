@@ -1,0 +1,11 @@
+Player: prdrakwolf
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::First Attack::::
+lost to blazing (1517)
+lost to ifrit (1517)

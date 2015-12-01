@@ -1,0 +1,12 @@
+Player: jappa
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+defeated colonel suave (1487)
+lost to wfx|801 strider (1683)
+lost to 4bidden (1500)

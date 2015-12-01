@@ -1,0 +1,14 @@
+Player: 郑凯 znk
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA Shanghai::::
+lost to 刘斌 sandro (1512)
+defeated tuyetmiles9 22 (1474)
+defeated 章毅骏 阿骏 (1485)
+defeated 徐云龙 shinxcloud (1486)
+lost to 刘斌 sandro (1530)

@@ -1,0 +1,15 @@
+Player: orlando
+Rating: 1533
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated bloodmasterlink (1487)
+defeated og bunch (1487)
+defeated bars rida (1511)
+lost to snake eyez (1719)
+defeated fge olivo (1536)
+lost to yg|joel (1652)

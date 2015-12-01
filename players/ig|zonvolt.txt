@@ -1,0 +1,14 @@
+Player: ig|zonvolt
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::First Attack::::
+defeated legendary mako (1487)
+lost to ta|chris g (1628)
+defeated yeison (1475)
+defeated boti (1487)
+lost to uvg|noel brown (1512)

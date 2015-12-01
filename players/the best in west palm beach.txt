@@ -1,0 +1,14 @@
+Player: the best in west palm beach
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated clipstream casshern (1487)
+lost to yg|joel (1648)
+defeated sbh|intehweeds (1475)
+defeated lilman (1487)
+lost to bars rida (1524)

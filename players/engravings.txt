@@ -1,0 +1,14 @@
+Player: engravings
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::TFC::::
+defeated silentnova (1487)
+lost to yomi kush (1524)
+defeated oc 919 (1493)
+defeated prototype (1505)
+lost to yomi kush (1530)

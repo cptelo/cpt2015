@@ -1,0 +1,21 @@
+Player: jay
+Rating: 1472
+Played: 10
+Won: 4
+Lost: 6
+%: 40
+
+Results:
+::::CEO::::
+lost to rugalitarian (1512)
+defeated set (1474)
+lost to be|kane blueriver (1518)
+::::Taiwan::::
+lost to daimon (1512)
+defeated satc1014 (1475)
+defeated sasuke (1486)
+defeated 操查理 (1498)
+lost to 小靠 (1525)
+::::Ultra Hyakkishu Cup::::
+lost to okome man (1522)
+lost to asunyan (1501)

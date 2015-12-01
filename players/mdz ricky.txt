@@ -1,0 +1,12 @@
+Player: mdz ricky
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Red Fight District::::
+lost to bx3|phenom (1649)
+defeated vt kirat (1474)
+lost to lll|emersion (1539)

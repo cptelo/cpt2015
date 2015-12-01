@@ -1,0 +1,13 @@
+Player: orikasa
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated ake nupa (1487)
+defeated [62-bit] finelikewine49 (1499)
+lost to ts|arturo sanchez (1659)
+lost to cxr|@dk_brawler (1539)

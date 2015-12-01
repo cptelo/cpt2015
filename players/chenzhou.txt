@@ -1,0 +1,14 @@
+Player: chenzhou
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA Shanghai::::
+lost to lcx wh1sper (1512)
+defeated 么么小吉吉 么么小吉吉 (1474)
+defeated afaliq bin yusof afaliq90 (1474)
+defeated color (1488)
+lost to lcx wh1sper (1529)

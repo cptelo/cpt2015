@@ -1,0 +1,12 @@
+Player: poncho the blue volcano
+Rating: 1496
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to smbg|tangent (1535)
+defeated yg|joel (1637)
+lost to filipinoman (1623)

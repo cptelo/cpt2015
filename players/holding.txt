@@ -1,0 +1,11 @@
+Player: holding
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to bombskeez (1512)
+lost to cwalker special (1513)

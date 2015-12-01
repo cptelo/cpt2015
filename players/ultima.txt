@@ -1,0 +1,16 @@
+Player: ultima
+Rating: 1542
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::NorCal Regionals::::
+defeated bcw-rapidrunx (1487)
+lost to rzr|fuudo (1732)
+defeated tharimrattler (1486)
+defeated dm|katzu (1498)
+defeated sailor venus (1502)
+defeated kizzie kay (1517)
+lost to hoodaman (1627)

@@ -1,0 +1,11 @@
+Player: biscuit
+Rating: 1473
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to n1 kupo (1512)
+lost to vdon (1475)

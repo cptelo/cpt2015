@@ -1,0 +1,19 @@
+Player: sfo brylarke
+Rating: 1495
+Played: 9
+Won: 4
+Lost: 5
+%: 44
+
+Results:
+::::EGX::::
+lost to um|btm|rmz (1612)
+defeated ed|lavell up (1513)
+lost to vs|rde|edinbulba (1582)
+::::Dreamhack Winter::::
+defeated frametrap|the prince (1487)
+lost to fa|big bird (1560)
+defeated japf (1485)
+defeated kavorca (1454)
+lost to rize|ind|pro fluke (1645)
+lost to chinoooo (1529)

@@ -1,0 +1,13 @@
+Player: ssj hotdog
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated violent repent (1487)
+lost to vivaldi (1512)
+defeated tm (1486)
+lost to burnside the gr8 (1522)

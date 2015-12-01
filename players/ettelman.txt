@@ -1,0 +1,26 @@
+Player: ettelman
+Rating: 1516
+Played: 15
+Won: 6
+Lost: 9
+%: 40
+
+Results:
+::::Dreamhack Summer::::
+defeated paranoiar (1489)
+defeated iahadima (1477)
+lost to rize|ind|pro fluke (1637)
+defeated iki (1500)
+lost to brick (1582)
+lost to ind.spb|ixion (1583)
+defeated dreadleif (1472)
+lost to um|rmz (1609)
+::::Red Fight District::::
+lost to hmd1050 (1514)
+defeated parable greg (1478)
+lost to iplay|sheva (1571)
+::::Dreamhack Winter::::
+lost to afi (1513)
+lost to jns (1495)
+defeated 196|patrik (1470)
+lost to rzr|xian (1786)

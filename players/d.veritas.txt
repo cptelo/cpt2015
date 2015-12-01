@@ -1,0 +1,15 @@
+Player: d.veritas
+Rating: 1466
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::CEO::::
+defeated uvg the professional (1487)
+lost to 801 strider (1672)
+lost to sherm (1500)
+::::TFC::::
+lost to wave foomy (1523)
+lost to wagahai (1510)

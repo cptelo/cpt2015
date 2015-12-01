@@ -1,0 +1,13 @@
+Player: yoro
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated millertime(usa) (1487)
+defeated sasuke (1499)
+lost to ybk|shiro (1635)
+lost to daimon (1537)

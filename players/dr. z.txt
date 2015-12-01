@@ -1,0 +1,12 @@
+Player: dr. z
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to bars sida (1512)
+defeated opienus (1474)
+lost to flash metroid (1500)

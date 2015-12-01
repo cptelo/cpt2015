@@ -1,0 +1,12 @@
+Player: cenerebb
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+defeated pan (1487)
+lost to bx3|veggey (1605)
+lost to manny (1546)

@@ -1,0 +1,11 @@
+Player: naryx
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to rey (1512)
+lost to s.i.r. straycrit (1499)

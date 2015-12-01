@@ -1,0 +1,15 @@
+Player: kai
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::EVO::::
+defeated corn|alucard (1612)
+::::Ultra Hyakkishu Cup::::
+defeated hame-tamu (1488)
+lost to kyabetsu (1569)
+defeated tuna (1489)
+lost to okkun (1524)

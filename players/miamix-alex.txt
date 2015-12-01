@@ -1,0 +1,15 @@
+Player: miamix-alex
+Rating: 1526
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated shinra (1487)
+lost to ts|arturo sanchez (1675)
+defeated pewchee (1475)
+defeated dickson (1522)
+defeated srm_leonil (1505)
+lost to image0/nobody (1547)

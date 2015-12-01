@@ -1,0 +1,12 @@
+Player: peluco
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+defeated joker (1487)
+lost to eg|k-brad (1669)
+lost to borralí (1511)

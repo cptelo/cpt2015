@@ -1,0 +1,13 @@
+Player: ben ho
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+lost to hero504 (1512)
+defeated 482|jelly (1486)
+defeated spencerjs (1486)
+lost to ctrl rayray (1513)

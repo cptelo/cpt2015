@@ -1,0 +1,12 @@
+Player: shougai adashi-ku min
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated mizoguchi akikimi (1487)
+lost to be|nemo (1750)
+lost to fgc|bean (1498)

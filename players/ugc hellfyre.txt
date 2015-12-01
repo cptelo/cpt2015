@@ -1,0 +1,12 @@
+Player: ugc hellfyre
+Rating: 1494
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated reno (1499)
+lost to r/kappa|zv|kazunoko (1741)
+lost to boeken (1543)

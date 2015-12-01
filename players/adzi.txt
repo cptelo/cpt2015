@@ -1,0 +1,14 @@
+Player: adzi
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::VS Fighting::::
+defeated ed|mantis (1487)
+lost to rize|ind|boltstrike (1565)
+defeated one2remember80 (1474)
+defeated smbf|cogs quora (1486)
+lost to clangers (1518)

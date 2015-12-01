@@ -1,0 +1,14 @@
+Player: 五股淫棍王
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Taiwan::::
+defeated dna (1487)
+defeated 小鍾 (1499)
+lost to misse (1652)
+defeated cn (1510)
+lost to rockpon (1551)

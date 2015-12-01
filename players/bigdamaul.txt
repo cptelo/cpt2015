@@ -1,0 +1,21 @@
+Player: bigdamaul
+Rating: 1482
+Played: 10
+Won: 4
+Lost: 6
+%: 40
+
+Results:
+::::Nine States::::
+lost to 大分人 (1524)
+defeated dmひでぶ～ (1490)
+defeated そらネ� (1487)
+lost to はげじん (1516)
+::::NorCal Regionals::::
+lost to seventh trumpet (1512)
+lost to juggernaughty (1503)
+::::CPTA KR::::
+defeated kage (1486)
+defeated almond42 (1505)
+lost to humanbomb (1642)
+lost to kok (1615)

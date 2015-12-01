@@ -1,0 +1,11 @@
+Player: kevin munoz
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to xaiah (1525)
+lost to surgingstorm (1511)

@@ -1,0 +1,13 @@
+Player: md calin
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Red Fight District::::
+lost to dn sf4killedus (1512)
+defeated cex|goukifafa (1506)
+defeated ctrl b (1491)
+lost to iplay|yougenius (1511)

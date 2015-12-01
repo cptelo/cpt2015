@@ -1,0 +1,14 @@
+Player: christopher lo greenboxer
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::HK::::
+defeated yip kai cheong barlowlism (1487)
+lost to 何浩华 gz.roadman (1524)
+defeated xft_fire xft_fire (1486)
+defeated wong tin pui shiro fans (1498)
+lost to lee g.y.r.o (1524)

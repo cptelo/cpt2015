@@ -1,0 +1,12 @@
+Player: 阿翰
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to 陈桓 (1512)
+defeated lieselottetietje (1479)
+lost to 张意 (1513)

@@ -1,0 +1,12 @@
+Player: 宅桑
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to 嘟嘟 (1512)
+defeated vidacarstensen (1479)
+lost to mint310 (1516)

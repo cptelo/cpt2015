@@ -1,0 +1,16 @@
+Player: 谭飞 fei
+Rating: 1540
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::HK::::
+defeated wong wai tak steve wong (1487)
+lost to ybk|shiro (1640)
+defeated lee ho lun the killer (1486)
+defeated billy wong billy (1503)
+defeated 邓志聪 dunk (1502)
+defeated 刘锦发 chilunsin (1505)
+lost to qanba douyu|dakou (1634)

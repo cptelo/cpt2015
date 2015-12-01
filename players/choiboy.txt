@@ -1,0 +1,15 @@
+Player: choiboy
+Rating: 1575
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::NorCal Regionals::::
+defeated muratto (1489)
+defeated rmfluffy (1501)
+defeated steeeeve (1513)
+lost to eg|momochi (1743)
+defeated steeeeve (1525)
+lost to eg|momochi (1745)

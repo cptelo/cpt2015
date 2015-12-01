@@ -1,0 +1,14 @@
+Player: gankula
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated judge ashen (1487)
+lost to iperu (1564)
+defeated mr traumallama (1475)
+defeated condit (1486)
+lost to sa cuby (1529)

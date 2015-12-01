@@ -1,0 +1,12 @@
+Player: thezuluwarrior
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated noctis_786 (1487)
+lost to btm|tyrant (1619)
+lost to scc|unw4nt3d (1500)

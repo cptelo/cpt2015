@@ -1,0 +1,13 @@
+Player: han fengshui
+Rating: 1512
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+defeated snake eyez (1712)
+lost to qanba douyu|abang (1536)
+defeated 黄之均 mustarday2 (1515)
+lost to snake eyez (1720)

@@ -1,0 +1,15 @@
+Player: eric m
+Rating: 1530
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated sherm (1487)
+defeated court (1487)
+defeated vgp|andre west (1534)
+lost to liquid|nuckledu (1765)
+defeated ace unlimited (1517)
+lost to vgp|andre west (1550)

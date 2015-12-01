@@ -1,0 +1,13 @@
+Player: 仮面の魔術師
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Nine States::::
+defeated korea player (1487)
+lost to まいけるたん (1512)
+defeated みやこ (1486)
+lost to 和泉康太 (1511)

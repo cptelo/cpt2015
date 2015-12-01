@@ -1,0 +1,12 @@
+Player: きょく
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KSB 2015::::
+lost to rzr|itabashi zangief (1668)
+defeated べー (1479)
+lost to jeppa~ (1514)

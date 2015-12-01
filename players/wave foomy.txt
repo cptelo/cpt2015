@@ -1,0 +1,16 @@
+Player: wave foomy
+Rating: 1536
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::TFC::::
+defeated xero (1487)
+defeated d.veritas (1478)
+defeated redninja (1499)
+defeated hadoukenmd (1530)
+defeated hadoukenmd (1530)
+lost to wfx|801 strider (1703)
+lost to flocker (1521)

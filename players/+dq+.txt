@@ -1,0 +1,11 @@
+Player: +dq+
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::HK::::
+lost to ray (1512)
+lost to gala tse dabugala (1499)

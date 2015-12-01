@@ -1,0 +1,14 @@
+Player: nyc yuusha
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated emmcub3d (1487)
+defeated opienus (1487)
+lost to espr fga mono (1535)
+defeated kruzee (1510)
+lost to bars sida (1551)

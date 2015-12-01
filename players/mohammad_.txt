@@ -1,0 +1,12 @@
+Player: mohammad_
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KO Fighting Game Festival::::
+defeated ali_ahli (1487)
+lost to wtq8|aziz (1512)
+lost to blue kaizer (1499)

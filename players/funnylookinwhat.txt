@@ -1,0 +1,12 @@
+Player: funnylookinwhat
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to eminent (1512)
+defeated nekoyuki (1486)
+lost to /r/streetfighter chaos goose (1528)

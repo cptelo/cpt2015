@@ -1,0 +1,15 @@
+Player: 可樂ヤン
+Rating: 1526
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Taiwan::::
+defeated fake hd (1487)
+lost to ts|reiketsu (1634)
+defeated rm9 (1486)
+defeated negator (1498)
+defeated david shen (1502)
+lost to hitbox rose (1539)

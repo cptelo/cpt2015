@@ -1,0 +1,11 @@
+Player: dragonglove
+Rating: 1477
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to ccg|air (1600)
+lost to ipg|dcb staticgorilla (1511)

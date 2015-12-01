@@ -1,0 +1,11 @@
+Player: colonel suave
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::First Attack::::
+lost to jappa (1512)
+lost to the steam co|bacardi (1499)

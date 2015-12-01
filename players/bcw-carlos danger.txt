@@ -1,0 +1,13 @@
+Player: bcw-carlos danger
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+lost to arrow (1518)
+defeated dm|mayho (1474)
+defeated saturnize (1487)
+lost to cprbeastlybubble (1524)

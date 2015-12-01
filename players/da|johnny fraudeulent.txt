@@ -1,0 +1,14 @@
+Player: da|johnny fraudeulent
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Texas Showdown::::
+defeated jtd (1487)
+defeated 2iq|discount marx (1487)
+lost to coin up|ludovic (1561)
+defeated nhem lee (1499)
+lost to epic|boi toi (1573)

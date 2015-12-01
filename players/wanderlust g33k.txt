@@ -1,0 +1,15 @@
+Player: wanderlust g33k
+Rating: 1523
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Combo Breaker::::
+defeated ojg benjamin (1487)
+defeated hogosha (1499)
+lost to rm emp kdz (1536)
+defeated al|servo (1516)
+defeated ifd tuboware (1517)
+lost to rm emp kdz (1542)

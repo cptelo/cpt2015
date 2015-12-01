@@ -1,0 +1,11 @@
+Player: joel bowl
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Hypespotting::::
+lost to pappacrimson (1512)
+lost to iron bullet (1513)

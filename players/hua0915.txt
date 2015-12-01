@@ -1,0 +1,12 @@
+Player: hua0915
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to kumasa (1512)
+defeated 吉米 (1474)
+lost to ssvs-allen (1514)

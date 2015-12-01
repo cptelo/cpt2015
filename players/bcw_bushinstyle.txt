@@ -1,0 +1,15 @@
+Player: bcw_bushinstyle
+Rating: 1526
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::SCR::::
+defeated glb (1550)
+lost to hsien chang (1587)
+defeated mlp triox (1487)
+defeated panoptic (1498)
+defeated cc (1503)
+lost to valiant (1538)

@@ -1,0 +1,13 @@
+Player: rize|ind|mug|rdubstepper
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated david cameron.gov (1487)
+defeated sfo zxmx (1499)
+lost to rs|ladnopoka (1524)
+lost to cex|goukifafa (1535)

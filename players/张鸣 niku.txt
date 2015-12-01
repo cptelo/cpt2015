@@ -1,0 +1,13 @@
+Player: 张鸣 niku
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+defeated dianpao (1487)
+defeated justin chu darkras (1487)
+lost to qanba douyu|qqel (1578)
+lost to qanba douyu|红中大大 (1538)

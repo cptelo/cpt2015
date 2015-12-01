@@ -1,0 +1,12 @@
+Player: rm9
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to david shen (1512)
+defeated yanyan(japan) (1474)
+lost to 可樂ヤン (1515)

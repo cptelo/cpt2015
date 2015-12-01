@@ -1,0 +1,54 @@
+Player: julio
+Rating: 1625
+Played: 38
+Won: 24
+Lost: 14
+%: 63
+
+Results:
+::::Final Round::::
+lost to gs|gllty (1516)
+::::NorCal Regionals::::
+defeated mathlete (1490)
+defeated xtr sd|alexis (1502)
+lost to mc|xsk samurai (1583)
+defeated smbg|tangent (1512)
+defeated xtr sd|alexis (1527)
+lost to mc|xsk samurai (1588)
+::::Northwest Majors::::
+defeated dave o (1490)
+defeated be|kane blueriver (1502)
+defeated bokkin (1515)
+lost to ta|chris g (1615)
+defeated ta|chris g (1609)
+defeated ta|chris g (1608)
+lost to eg|justin wong (1726)
+lost to native impact (1632)
+::::CEO::::
+defeated sa teamkhris (1502)
+defeated jono dori (1514)
+defeated ts min (1514)
+defeated pokchop (1524)
+lost to bonchan (1708)
+lost to eg|pr balrog (1663)
+::::EVO::::
+defeated haitani (1559)
+::::Summer Jam::::
+lost to corn|alucard (1617)
+defeated sabo (1494)
+defeated anbu sonyono (1503)
+defeated mom|eh|velociraptor (1638)
+defeated dcb dark child (1508)
+lost to kig|problem x (1711)
+::::TFC::::
+defeated flocker (1495)
+lost to liquid|nuckledu (1745)
+lost to pie|smug (1690)
+::::SCR::::
+defeated romfinite (1491)
+defeated bokkin (1507)
+defeated liquid|nuckledu (1728)
+defeated sd|tempest (1541)
+defeated liquid|nuckledu (1727)
+lost to isg|eightgrade (1583)
+lost to rb|snake eyez (1738)

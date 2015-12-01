@@ -1,0 +1,13 @@
+Player: ttf|jamaal jackson
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated iplay4food (1487)
+lost to kaising (1524)
+defeated hertzshmertz (1474)
+lost to roccblaze (1524)

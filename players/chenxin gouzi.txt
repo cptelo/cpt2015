@@ -1,0 +1,13 @@
+Player: chenxin gouzi
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+lost to 王辉 dexter hui (1524)
+defeated meo wei meo.w (1486)
+defeated vincent (1498)
+lost to chengfei (1529)

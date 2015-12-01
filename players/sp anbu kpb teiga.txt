@@ -1,0 +1,15 @@
+Player: sp anbu kpb teiga
+Rating: 1526
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated el-psy (1487)
+defeated dickson (1524)
+lost to ts|arturo sanchez (1677)
+defeated ctrl|unknown (1510)
+defeated chocoblanka (1500)
+lost to stvg asiandemon (1531)

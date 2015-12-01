@@ -1,0 +1,13 @@
+Player: dumabalrog
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated stepmasterryan (1487)
+defeated maromas mxl (1499)
+lost to sd|tempest (1551)
+lost to bokkin (1540)

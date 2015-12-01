@@ -1,0 +1,13 @@
+Player: crisium
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated setx|[kf] @iwasblocking (1487)
+lost to gameguys danny express (1512)
+defeated moddren-l fuego (1474)
+lost to marsh d teach (1512)

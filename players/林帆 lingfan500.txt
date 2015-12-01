@@ -1,0 +1,11 @@
+Player: 林帆 lingfan500
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to qanba douyu|qqel (1558)
+lost to zhudongyu (1511)

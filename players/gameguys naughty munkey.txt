@@ -1,0 +1,14 @@
+Player: gameguys naughty munkey
+Rating: 1509
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Texas Showdown::::
+defeated nick rb (1487)
+lost to krucial b (1512)
+defeated iyokuu (1474)
+defeated eta ralstaanley (1503)
+lost to justrun (1512)

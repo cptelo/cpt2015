@@ -1,0 +1,21 @@
+Player: btm|isam
+Rating: 1576
+Played: 11
+Won: 7
+Lost: 4
+%: 63
+
+Results:
+::::VS Fighting::::
+defeated pnd|i2 gaug3 (1500)
+defeated sfo|whoshabzthisis (1501)
+defeated lom|wiseblade (1571)
+lost to btm|gunslinga (1594)
+defeated rize|ind|boltstrike (1566)
+lost to packz (1628)
+::::EGX::::
+defeated rs nutrient (1489)
+lost to cuongster (1593)
+defeated um makai (1505)
+defeated ajay (1510)
+lost to btm|gunslinga (1586)

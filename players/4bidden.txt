@@ -1,0 +1,12 @@
+Player: 4bidden
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+lost to godzilla (1512)
+defeated jappa (1491)
+lost to flan (1511)

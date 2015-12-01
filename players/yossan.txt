@@ -1,0 +1,16 @@
+Player: yossan
+Rating: 1590
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated meisai ningyo (1489)
+defeated ybk|shin (1501)
+defeated nishikin (1649)
+lost to r/kappa|poongko (1733)
+defeated eita (1601)
+defeated hagejin (1590)
+lost to kitasenju dj (1642)

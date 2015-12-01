@@ -1,0 +1,87 @@
+Player: eg|momochi
+Rating: 1776
+Played: 70
+Won: 53
+Lost: 17
+%: 75
+
+Results:
+::::Final Round::::
+defeated mom|velociraptor (1608)
+defeated eg|k-brad (1602)
+defeated emp|hiro (1574)
+lost to rzr|xian (1740)
+defeated ts|arturo sanchez (1635)
+defeated r/kappa|kazunoko (1695)
+defeated rzr|fuudo (1722)
+lost to rzr|xian (1764)
+::::NorCal Regionals::::
+defeated apocaalypse (1494)
+defeated dojo_got_trees (1506)
+defeated mookmonster (1518)
+defeated choiboy (1572)
+defeated choiboy (1575)
+defeated hellamindgames choi (1495)
+lost to 801 strider (1675)
+defeated ta|chris g (1601)
+defeated pnoy (1588)
+lost to avm|gamerbee (1680)
+::::Stunfest::::
+defeated rzr|xian (1763)
+defeated mcz|daigo (1747)
+defeated r/kappa|infilitration (1780)
+lost to mcz|daigo (1764)
+lost to mcz|daigo (1768)
+::::South East Asia Major::::
+defeated qiuqiukof (1543)
+lost to r/kappa|kazunoko (1721)
+defeated somniac (1542)
+defeated humanbomb (1642)
+defeated rzr|fuudo (1715)
+defeated r/kappa|infilitration (1767)
+lost to r/kappa|kazunoko (1725)
+::::CEO::::
+defeated /r/streetfighter chaos goose (1506)
+defeated the time dictator (1518)
+defeated nice1 (1559)
+defeated hsien chang (1592)
+defeated nice1 (1562)
+defeated hsien chang (1589)
+lost to pie|smug (1711)
+lost to alucard (1622)
+::::EVO::::
+defeated gl|rb|valmaster (1688)
+defeated rzr|gackt (1570)
+defeated rzr|xian (1754)
+defeated ybk|santarouman (1642)
+defeated mcz|tokido (1717)
+defeated r/kappa|infilitration (1779)
+lost to avm|gamerbee (1742)
+defeated avm|gamerbee (1737)
+::::SCR::::
+defeated axlshingo (1507)
+defeated hf yoga (1517)
+defeated ccg|chris tatarian (1652)
+defeated ccg|chris tatarian (1651)
+lost to tsc|yomi|dieminion (1731)
+defeated kelvin jeon (1575)
+lost to filipinoman (1641)
+::::Ultra Hyakkishu Cup::::
+defeated ninomae (1544)
+defeated kindo (1583)
+defeated eita (1600)
+defeated -6 (1645)
+lost to rb|bonchan (1770)
+defeated r/kappa|aiai (1630)
+defeated kitasenju dj (1633)
+defeated ybk|kawaguchi (1627)
+lost to be|nemo (1764)
+::::Canada Cup::::
+defeated ocv|12m.ocv|riceata (1603)
+defeated ccg|snafoo (1514)
+lost to mcz|tokido (1718)
+defeated eg|justin wong (1710)
+defeated mcz|mago (1696)
+defeated rzr|itabashi zangief (1699)
+defeated avm|gamerbee (1741)
+lost to rzr|fuudo (1761)

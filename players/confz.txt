@@ -1,0 +1,21 @@
+Player: confz
+Rating: 1484
+Played: 10
+Won: 4
+Lost: 6
+%: 40
+
+Results:
+::::VS Fighting::::
+lost to jd (1524)
+defeated kylexxpro (1474)
+lost to ed|kyros (1514)
+::::Red Fight District::::
+lost to enfont pordu a easyman (1511)
+lost to daddy-sensei (1499)
+::::Milan Games Week::::
+defeated mr wolf (1486)
+lost to packz (1623)
+defeated beppe yagami79 (1473)
+defeated coccocco713 (1500)
+lost to raygo blayde|afii (1642)

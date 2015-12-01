@@ -1,0 +1,12 @@
+Player: pedram
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Call of Ragnarok::::
+lost to rosso (1512)
+defeated eunbeen (1478)
+lost to kig|problem x (1706)

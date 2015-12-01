@@ -1,0 +1,13 @@
+Player: hismit
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Saigon Cup::::
+lost to kok (1611)
+defeated gaumin (1474)
+defeated kontoru (1490)
+lost to kok (1609)

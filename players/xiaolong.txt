@@ -1,0 +1,21 @@
+Player: xiaolong
+Rating: 1589
+Played: 11
+Won: 7
+Lost: 4
+%: 63
+
+Results:
+::::Abuget Cup::::
+defeated dion (1489)
+lost to humanbomb (1618)
+defeated susubabi (1492)
+defeated cody (1546)
+defeated saunic (1546)
+lost to chuan (1625)
+::::CPTA Shanghai::::
+defeated 方思 ice (1501)
+defeated 何琪 heqi0129 (1513)
+defeated kok (1604)
+lost to mcz|tokido (1722)
+lost to qanba douyu|qqel (1597)

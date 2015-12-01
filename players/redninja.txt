@@ -1,0 +1,12 @@
+Player: redninja
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+defeated wagahai (1487)
+lost to wave foomy (1535)
+lost to xero (1523)

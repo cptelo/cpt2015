@@ -1,0 +1,13 @@
+Player: atrosh
+Rating: 1483
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Dreamhack Winter::::
+lost to juicyjoe (1512)
+lost to bx3|phenom (1656)
+lost to um|btm|rmz (1608)
+defeated fgdojo|ninio (1457)

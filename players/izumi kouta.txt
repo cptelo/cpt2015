@@ -1,0 +1,12 @@
+Player: izumi kouta
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated narudo (1487)
+lost to rzr|fuudo (1719)
+lost to kaara (1511)

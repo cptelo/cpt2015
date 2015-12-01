@@ -1,0 +1,14 @@
+Player: ck-vnz
+Rating: 1498
+Played: 5
+Won: 2
+Lost: 3
+%: 40
+
+Results:
+::::Saigon Cup::::
+defeated duy (1487)
+lost to qanba douyu|dark jiewa (1657)
+defeated hideo (1503)
+lost to qanba douyu|dark jiewa (1660)
+lost to kok (1607)

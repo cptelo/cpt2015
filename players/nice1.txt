@@ -1,0 +1,21 @@
+Player: nice1
+Rating: 1572
+Played: 11
+Won: 6
+Lost: 5
+%: 54
+
+Results:
+::::Combo Breaker::::
+lost to eg|justin wong (1743)
+defeated cj tajh (1539)
+lost to yg|joel (1658)
+::::CEO::::
+defeated xanoz (1500)
+defeated bklynexpress (1500)
+lost to eg|momochi (1753)
+defeated bklynexpress (1501)
+lost to eg|momochi (1757)
+defeated dayosha (1526)
+defeated afterdeath (1515)
+lost to hsien chang (1593)

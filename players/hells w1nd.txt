@@ -1,0 +1,11 @@
+Player: hells w1nd
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::EGX::::
+lost to incognitus (1564)
+lost to rob zfr (1510)

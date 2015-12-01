@@ -1,0 +1,12 @@
+Player: bloodzure
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated danny boy peru (1542)
+lost to xxstealthsneakxx (1513)
+lost to grubbs (1499)

@@ -1,0 +1,13 @@
+Player: koichi
+Rating: 1508
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated y (1535)
+defeated 666 (1499)
+lost to inco (1685)
+lost to kindevu (1618)

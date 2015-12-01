@@ -1,0 +1,14 @@
+Player: smbg|bakedmotatoes
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated sean-go (1487)
+lost to ce|kumo (1528)
+defeated antman (1486)
+defeated misteranthropy (1498)
+lost to team seaslug (1528)

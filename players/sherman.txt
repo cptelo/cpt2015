@@ -1,0 +1,13 @@
+Player: sherman
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated kim il songbo (1487)
+lost to brawl|haitani (1587)
+defeated goodjazz (1486)
+lost to wongtoutou (1523)

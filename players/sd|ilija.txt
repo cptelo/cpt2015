@@ -1,0 +1,15 @@
+Player: sd|ilija
+Rating: 1531
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::SCR::::
+defeated franky (1487)
+defeated jesse fong (1487)
+lost to qanba douyu|dakou (1667)
+defeated kingdomkey92 (1498)
+defeated wolf street (1513)
+lost to qanba douyu|dakou (1662)

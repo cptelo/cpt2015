@@ -1,0 +1,60 @@
+Player: mcz|daigo
+Rating: 1751
+Played: 45
+Won: 34
+Lost: 11
+%: 75
+
+Results:
+::::Final Round::::
+defeated eg|pr balrog (1694)
+lost to rzr|fuudo (1730)
+defeated pie|smug (1636)
+lost to r/kappa|kazunoko (1677)
+::::NorCal Regionals::::
+defeated asimulation (1493)
+defeated disabel (1505)
+defeated crackfiend (1562)
+defeated vicious (1574)
+defeated vicious (1578)
+defeated vicious (1570)
+defeated eg|k-brad (1639)
+defeated 801 strider (1664)
+defeated pie|smug (1703)
+defeated liquid|nuckledu (1754)
+defeated avm|gamerbee (1695)
+::::Stunfest::::
+defeated luffy (1701)
+lost to eg|momochi (1748)
+defeated avm|gamerbee (1702)
+defeated mcz|tokido (1693)
+defeated r/kappa|infilitration (1774)
+defeated eg|momochi (1748)
+defeated eg|momochi (1743)
+::::South East Asia Major::::
+defeated kim1234 (1552)
+defeated shiro (1638)
+lost to qanba douyu|xiaohai (1682)
+defeated rb (1618)
+defeated rzr|xian (1754)
+lost to mcz|tokido (1705)
+::::CEO::::
+defeated pxg wiseguy (1508)
+defeated yomi|shin phoenix (1519)
+defeated magnegro (1565)
+defeated eg|k-brad (1663)
+lost to 801 strider (1690)
+lost to qanba douyu|xiaohai (1691)
+::::EVO::::
+lost to aiai (1569)
+defeated brolylegs (1530)
+defeated gachikun (1594)
+defeated kiyotea (1521)
+defeated misse (1643)
+defeated wfx|801 strider (1686)
+defeated snake eyez (1718)
+lost to avm|gamerbee (1718)
+::::Tokyo Game Show::::
+defeated fdy|stormkubo (1669)
+lost to -6 (1618)
+lost to rzr|fuudo (1709)

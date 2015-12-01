@@ -1,0 +1,13 @@
+Player: allen hunt
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::TFC::::
+lost to ace unlimited (1521)
+defeated nyc vega (1490)
+defeated shonuff122 (1467)
+lost to ace unlimited (1526)

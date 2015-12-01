@@ -1,0 +1,14 @@
+Player: bigvic340
+Rating: 1509
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated lupasan (1487)
+lost to yomi da knut (1524)
+defeated twiggyflacko (1474)
+defeated toucan steve (1501)
+lost to mister keebler (1512)

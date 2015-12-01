@@ -1,0 +1,13 @@
+Player: gustavo
+Rating: 1451
+Played: 4
+Won: 0
+Lost: 4
+%: 0
+
+Results:
+::::Dreamhack Winter::::
+lost to warbio (1463)
+lost to raego (1522)
+lost to doxus (1466)
+lost to cuongster (1592)

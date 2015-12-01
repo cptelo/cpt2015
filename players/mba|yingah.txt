@@ -1,0 +1,12 @@
+Player: mba|yingah
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+lost to jiji (1512)
+defeated radirgy (1450)
+lost to rob zfr (1525)

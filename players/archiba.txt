@@ -1,0 +1,14 @@
+Player: archiba
+Rating: 1446
+Played: 5
+Won: 0
+Lost: 5
+%: 0
+
+Results:
+::::Dreamhack Summer::::
+lost to doxus (1512)
+lost to remes (1504)
+lost to ind.spb|ixion (1578)
+lost to james deen (1498)
+lost to um|imstilldadaddy (1628)

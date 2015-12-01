@@ -1,0 +1,19 @@
+Player: lom|luckboxq
+Rating: 1506
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::VS Fighting::::
+defeated jeebius (1487)
+lost to d4rkn3ss aveng (1512)
+defeated ed|neodurge (1474)
+defeated mba|ermok (1490)
+defeated sww|rycroft (1500)
+lost to platinum kid (1527)
+::::EGX::::
+lost to rising superstar alfie (1513)
+defeated bsc|ultrasquaddy (1510)
+lost to um makai (1516)

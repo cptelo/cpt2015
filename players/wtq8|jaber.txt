@@ -1,0 +1,12 @@
+Player: wtq8|jaber
+Rating: 1494
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KO Fighting Game Festival::::
+defeated faisalalmutairi (1487)
+lost to rzr|xian (1772)
+lost to noob_player (1524)

@@ -1,0 +1,12 @@
+Player: taitsu
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+lost to bram (1512)
+defeated nigel lee (1486)
+lost to battousai (1515)

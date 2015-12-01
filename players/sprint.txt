@@ -1,0 +1,18 @@
+Player: sprint
+Rating: 1498
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Hypespotting::::
+lost to rde sefsins (1512)
+defeated flupty (1474)
+lost to apollo steed (1559)
+::::VS Fighting::::
+defeated goukki (1487)
+lost to bsc|ruok (1513)
+defeated volkmair (1473)
+defeated kubisa (1496)
+lost to ed|lavell up (1534)

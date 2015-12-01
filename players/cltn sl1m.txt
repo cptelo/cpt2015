@@ -1,0 +1,12 @@
+Player: cltn sl1m
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to rm emp kdz (1566)
+defeated gohancachat (1474)
+lost to anbu exking (1522)

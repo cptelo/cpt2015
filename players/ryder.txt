@@ -1,0 +1,14 @@
+Player: ryder
+Rating: 1520
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated abyss gouken respek (1499)
+defeated havocvstheworld (1511)
+lost to r/kappa|kazunoko (1726)
+defeated taboc1 (1516)
+lost to ag|native impact (1647)

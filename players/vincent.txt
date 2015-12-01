@@ -1,0 +1,13 @@
+Player: vincent
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+defeated dylan campbell dcampb (1487)
+lost to 陈佳锋 幻镜/magic mirror (1524)
+defeated 施晓波 820821 (1474)
+lost to chenxin gouzi (1511)

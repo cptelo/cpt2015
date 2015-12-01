@@ -1,0 +1,13 @@
+Player: lele
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+lost to winston chen (1512)
+defeated 鍾竹軒/hsuan (1478)
+defeated 小龍包 (1486)
+lost to wataru (japan) (1523)

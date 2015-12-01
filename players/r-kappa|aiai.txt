@@ -1,0 +1,30 @@
+Player: r/kappa|aiai
+Rating: 1630
+Played: 19
+Won: 13
+Lost: 6
+%: 68
+
+Results:
+::::EVO::::
+defeated mcz|daigo (1751)
+defeated qanba douyu|xiaohai (1692)
+defeated liquid|nuckledu (1761)
+lost to r/kappa|infilitration (1785)
+lost to be|nemo (1739)
+::::Tokyo Game Show::::
+defeated uryo (1538)
+defeated rb|snake eyez (1746)
+defeated rb|bonchan (1708)
+lost to mcz|mago (1713)
+lost to rb|bonchan (1718)
+::::Ultra Hyakkishu Cup::::
+lost to rb|bonchan (1758)
+defeated electribe (1479)
+defeated kuroda (1495)
+defeated harideshi (1562)
+defeated kyabetsu (1548)
+defeated misse (1669)
+defeated hydebuffy (1535)
+defeated ts|reiketsu (1653)
+lost to eg|momochi (1770)

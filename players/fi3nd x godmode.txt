@@ -1,0 +1,13 @@
+Player: fi3nd x godmode
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated mba|sono (1474)
+lost to lom|wiseblade (1577)
+defeated nfgc|carnageprincess (1499)
+lost to sfo|whoshabzthisis (1525)

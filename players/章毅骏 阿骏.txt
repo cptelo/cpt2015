@@ -1,0 +1,12 @@
+Player: 章毅骏 阿骏
+Rating: 1485
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+defeated 张琦 xiyiji (1469)
+lost to ab ab (1512)
+lost to 郑凯 znk (1511)

@@ -1,0 +1,20 @@
+Player: damdai
+Rating: 1529
+Played: 8
+Won: 3
+Lost: 5
+%: 37
+
+Results:
+::::Final Round::::
+lost to mcz|mago (1658)
+lost to mcz|mago (1649)
+::::EVO::::
+defeated snafoo (1488)
+::::TFC::::
+lost to eg|ricki ortiz (1701)
+defeated bcw greyskarr (1480)
+defeated shotty (1526)
+lost to flocker (1534)
+::::Defend the North::::
+lost to dcb|afterdeath (1520)

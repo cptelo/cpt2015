@@ -1,0 +1,11 @@
+Player: krono
+Rating: 1473
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to ddrsensation (1512)
+lost to bass ns (1475)

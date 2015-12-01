@@ -1,0 +1,12 @@
+Player: dr rock
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+lost to koh kok sun (1512)
+defeated ao3 (1474)
+lost to mark (1503)

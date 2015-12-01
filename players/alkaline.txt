@@ -1,0 +1,12 @@
+Player: alkaline
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated cult of sirlin (1487)
+lost to eg|justin wong (1676)
+lost to qed (1511)

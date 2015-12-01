@@ -1,0 +1,13 @@
+Player: シロマティ
+Rating: 1510
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KSB 2015::::
+defeated gonzales (1585)
+lost to bonchan (1727)
+defeated 大分人 (1518)
+lost to meu (1525)

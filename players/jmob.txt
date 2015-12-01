@@ -1,0 +1,12 @@
+Player: jmob
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated nsm fancyyancy (1499)
+lost to realistic (1537)
+lost to frank lotion (1534)

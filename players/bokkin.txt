@@ -1,0 +1,20 @@
+Player: bokkin
+Rating: 1533
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::Northwest Majors::::
+defeated yopumpkinhead (1487)
+defeated clim (1536)
+lost to julio (1614)
+lost to chaotix (1576)
+::::SCR::::
+defeated iebg dreammerchant (1487)
+lost to julio (1620)
+defeated readyforpowwow (1452)
+defeated noc|leviathan (1502)
+defeated dumabalrog (1500)
+lost to liquid|nuckledu (1732)

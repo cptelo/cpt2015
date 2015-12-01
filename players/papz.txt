@@ -1,0 +1,15 @@
+Player: papz
+Rating: 1480
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::Dreamhack Summer::::
+lost to tyrant (1615)
+defeated team.veggey bliredd (1510)
+lost to zelpher (1511)
+defeated nake (1476)
+lost to tm robofobe (1460)
+lost to phenom (1638)

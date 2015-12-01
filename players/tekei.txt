@@ -1,0 +1,13 @@
+Player: tekei
+Rating: 1483
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Dreamhack Winter::::
+defeated thwisteh (1487)
+lost to lll|mbr (1636)
+lost to quaka (1486)
+lost to kig|problem x (1703)

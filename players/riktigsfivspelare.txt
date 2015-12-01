@@ -1,0 +1,13 @@
+Player: riktigsfivspelare
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Dreamhack Winter::::
+lost to knix (1491)
+lost to rize|ind|pro fluke (1634)
+defeated opostrophe (1461)
+defeated 194 pedro (1477)

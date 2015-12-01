@@ -1,0 +1,12 @@
+Player: dm|soothsayer
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated bluebomber (1487)
+lost to snake eyez (1705)
+lost to sba big arch (1514)

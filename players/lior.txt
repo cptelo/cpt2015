@@ -1,0 +1,11 @@
+Player: lior
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Cannes Winter Clash::::
+lost to dieminion (1657)
+lost to perplex (1504)

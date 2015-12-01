@@ -1,0 +1,13 @@
+Player: finalzero
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated alafasy_23 (1487)
+lost to akimo (1598)
+defeated tkr_doukhi (1498)
+lost to hunter (1523)

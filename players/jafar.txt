@@ -1,0 +1,11 @@
+Player: jafar
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::FV Cup::::
+lost to rzr|gackt (1571)
+lost to aldenteoh (1511)

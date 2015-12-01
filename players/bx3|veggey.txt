@@ -1,0 +1,28 @@
+Player: bx3|veggey
+Rating: 1606
+Played: 17
+Won: 11
+Lost: 6
+%: 64
+
+Results:
+::::Call of Ragnarok::::
+defeated eunbeen (1491)
+defeated rosso (1502)
+lost to gonzales (1636)
+lost to kig|problem x (1712)
+::::Milan Games Week::::
+defeated cenerebb (1502)
+lost to mba|rize|ind|infexious (1644)
+defeated cameraman (1484)
+defeated sfo|brylarke (1524)
+lost to brawl|haitani (1585)
+::::Dreamhack Winter::::
+defeated crosshatched (1478)
+defeated moe (1502)
+defeated mr.magiclove (1478)
+defeated salty kid (1524)
+defeated afi (1520)
+lost to bx3|phenom (1670)
+defeated dafeetlee (1603)
+lost to esr|gonzales (1652)

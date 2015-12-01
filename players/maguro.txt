@@ -1,0 +1,13 @@
+Player: maguro
+Rating: 1456
+Played: 4
+Won: 0
+Lost: 4
+%: 0
+
+Results:
+::::Dreamhack Winter::::
+lost to cfc|joão jotão (1512)
+lost to mba|rize|ind|infexious (1639)
+lost to chinoooo (1534)
+lost to nake @iran #32 (1503)

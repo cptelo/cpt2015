@@ -1,0 +1,14 @@
+Player: qed
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+lost to wa|dm salpacino (1512)
+defeated pim118 (1474)
+defeated alkaline (1491)
+defeated mr|jetpackjohnny (1498)
+lost to wa|dm salpacino (1525)

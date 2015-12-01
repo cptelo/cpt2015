@@ -1,0 +1,12 @@
+Player: finchomatic
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to ninjaspy (1512)
+defeated kjb the hero (1474)
+lost to ifd humbag (1511)

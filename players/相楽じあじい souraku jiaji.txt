@@ -1,0 +1,14 @@
+Player: 相楽じあじい souraku jiaji
+Rating: 1517
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Nine States::::
+lost to kok (1608)
+defeated これ!どれ?アレ!ん kore!dore? are! n (1474)
+defeated めろんそーだ meronn soda (1488)
+defeated 豆腐 tofu (1498)
+lost to kok (1613)

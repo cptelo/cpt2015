@@ -1,0 +1,12 @@
+Player: bcw-rapidrunx
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to ultima (1512)
+defeated audriolen (1481)
+lost to 801 mr gork (1511)

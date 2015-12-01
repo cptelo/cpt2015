@@ -1,0 +1,13 @@
+Player: hero504
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated ben ho (1487)
+lost to ctrl rayray (1512)
+defeated takuyasugi (1474)
+lost to veym|noobster (1513)

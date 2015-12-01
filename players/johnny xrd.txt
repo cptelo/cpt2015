@@ -1,0 +1,12 @@
+Player: johnny xrd
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated betterbryan (1487)
+lost to elchakotay (1580)
+lost to azteczar (1511)

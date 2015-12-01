@@ -1,0 +1,17 @@
+Player: bab khangaroo
+Rating: 1558
+Played: 8
+Won: 6
+Lost: 2
+%: 75
+
+Results:
+::::Combo Breaker::::
+defeated zer0islife (1499)
+defeated jamarvelous (1499)
+defeated jthamind (1511)
+defeated srm|the white beast (1523)
+defeated mor|rico suave (1605)
+lost to liquid|nuckledu (1749)
+defeated rm emp kdz (1562)
+lost to ccg|air (1639)

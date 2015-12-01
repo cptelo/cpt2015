@@ -1,0 +1,15 @@
+Player: iplay demulant
+Rating: 1530
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Red Fight District::::
+defeated vt kirat (1487)
+lost to bx3|phenom (1652)
+defeated annoobilation (1487)
+defeated gamein (1542)
+defeated iplay halibel (1503)
+lost to lll|mbr (1620)

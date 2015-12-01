@@ -1,0 +1,11 @@
+Player: b&b venison
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to srm h0odless (1512)
+lost to vs roy (1499)

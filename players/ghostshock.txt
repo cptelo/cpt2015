@@ -1,0 +1,11 @@
+Player: ghostshock
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Texas Showdown::::
+lost to ip man (1512)
+lost to jayto (1499)

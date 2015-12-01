@@ -1,0 +1,11 @@
+Player: raj obee
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Summer Jam::::
+lost to brentt (1617)
+lost to rig elchakotay (1504)

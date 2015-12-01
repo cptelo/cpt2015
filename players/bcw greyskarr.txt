@@ -1,0 +1,11 @@
+Player: bcw greyskarr
+Rating: 1480
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to corn|alucard (1617)
+lost to damdai (1545)

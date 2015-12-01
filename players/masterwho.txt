@@ -1,0 +1,12 @@
+Player: masterwho
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to yg|joel (1618)
+defeated scaryeyes (1474)
+lost to rockdan (1518)

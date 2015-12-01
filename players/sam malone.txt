@@ -1,0 +1,12 @@
+Player: sam malone
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to jamarvelous (1512)
+defeated zer0islife (1486)
+lost to 「346pro|ＹＡＳＥ」 fog_e (1511)

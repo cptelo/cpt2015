@@ -1,0 +1,11 @@
+Player: shunshun
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to shinto~ (1512)
+lost to ojisan (1505)

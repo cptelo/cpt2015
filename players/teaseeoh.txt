@@ -1,0 +1,11 @@
+Player: teaseeoh
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to image0/nobody (1512)
+lost to ctrl|unknown (1511)

@@ -1,0 +1,17 @@
+Player: chiaki
+Rating: 1522
+Played: 8
+Won: 5
+Lost: 3
+%: 62
+
+Results:
+::::Nine States::::
+defeated あきやま (1487)
+defeated とまとたいがー (1499)
+defeated もふもふ (1511)
+lost to anton (1548)
+defeated 和泉康太 (1522)
+lost to anton (1560)
+defeated hikarin (1481)
+lost to kindo (1593)

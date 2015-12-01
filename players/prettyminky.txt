@@ -1,0 +1,13 @@
+Player: prettyminky
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA KR::::
+lost to gonzales (1608)
+defeated shiro(xiao bai) (1479)
+defeated sketch (1490)
+lost to gonzales (1614)

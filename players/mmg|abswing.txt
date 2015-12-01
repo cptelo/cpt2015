@@ -1,0 +1,18 @@
+Player: mmg|abswing
+Rating: 1508
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated launchpad mcross (1487)
+lost to rzr|xian (1772)
+lost to akraat (1511)
+::::VS Fighting::::
+defeated kaptain (1487)
+defeated ds|rythla (1487)
+defeated lom|vegedow (1511)
+lost to rize|ind|pro fluke (1641)
+lost to platinum kid (1539)

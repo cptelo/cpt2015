@@ -1,0 +1,11 @@
+Player: sennette
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Saigon Cup::::
+lost to baotrung3108 (1512)
+lost to phuong (1499)

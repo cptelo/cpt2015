@@ -1,0 +1,13 @@
+Player: lk
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Saigon Cup::::
+lost to ultrabram (1512)
+defeated jackiechanningtatum (1474)
+defeated pine (1492)
+lost to ultrabram (1517)

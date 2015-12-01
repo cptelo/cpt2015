@@ -1,0 +1,12 @@
+Player: minoxxx
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+lost to daddario (1512)
+defeated bitta89 (1486)
+lost to fabio zeta (1525)

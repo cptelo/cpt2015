@@ -1,0 +1,12 @@
+Player: daft
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to wolf street (1512)
+defeated ifd delusion (1474)
+lost to xtr sd|alexis (1514)

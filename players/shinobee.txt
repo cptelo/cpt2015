@@ -1,0 +1,19 @@
+Player: shinobee
+Rating: 1467
+Played: 8
+Won: 2
+Lost: 6
+%: 25
+
+Results:
+::::NorCal Regionals::::
+lost to sherryjenix (1512)
+lost to joutai (1501)
+::::CPTA KR::::
+lost to poongko (1741)
+defeated jkkk (1473)
+lost to mulverrine (1514)
+::::SCR::::
+defeated viscant (1529)
+lost to rb|snake eyez (1741)
+lost to combo kash (1513)

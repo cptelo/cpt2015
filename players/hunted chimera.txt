@@ -1,0 +1,16 @@
+Player: hunted chimera
+Rating: 1521
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::Texas Showdown::::
+defeated kabukii (1499)
+defeated ua|brandon chun (1499)
+lost to snake eyez (1694)
+defeated ua|brandon chun (1511)
+lost to snake eyez (1696)
+defeated tss|marsh d teach (1522)
+lost to hamago (1557)

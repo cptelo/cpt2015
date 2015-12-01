@@ -1,0 +1,13 @@
+Player: dcb dark child
+Rating: 1508
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Summer Jam::::
+defeated mob slim (1487)
+defeated coach steve (1503)
+lost to snake eyez (1721)
+lost to julio (1624)

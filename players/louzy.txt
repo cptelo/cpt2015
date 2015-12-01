@@ -1,0 +1,14 @@
+Player: louzy
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated burnside the gr8 (1498)
+lost to vivaldi (1524)
+defeated ishotto (1498)
+defeated drenxan (1514)
+lost to hamad (1615)

@@ -1,0 +1,24 @@
+Player: botb|marq teddy
+Rating: 1617
+Played: 14
+Won: 8
+Lost: 6
+%: 57
+
+Results:
+::::NorCal Regionals::::
+defeated juggernaughty (1491)
+defeated seventh trumpet (1502)
+defeated g-dragon (1514)
+lost to eg|ricki ortiz (1715)
+defeated thrillhouse (1536)
+lost to eg|ricki ortiz (1724)
+lost to eg|ricki ortiz (1727)
+defeated mc|xsk samurai (1561)
+defeated rzr|fuudo (1730)
+lost to bonchan (1694)
+::::SCR::::
+defeated tamashiro (1503)
+defeated dl|four wude (1611)
+lost to isg|eightgrade (1554)
+lost to 801|jayce the ace (1626)

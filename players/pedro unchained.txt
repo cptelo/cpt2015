@@ -1,0 +1,16 @@
+Player: pedro unchained
+Rating: 1472
+Played: 7
+Won: 2
+Lost: 5
+%: 28
+
+Results:
+::::Dreamhack Summer::::
+defeated agi.rsd.charmingrogue (1487)
+lost to brillz (1524)
+defeated ikea_patrik (1457)
+lost to lll|mbr (1591)
+lost to md|luffy (1725)
+lost to um|rmz (1610)
+lost to duppsko (1505)

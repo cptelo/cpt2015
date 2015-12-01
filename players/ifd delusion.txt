@@ -1,0 +1,14 @@
+Player: ifd delusion
+Rating: 1450
+Played: 4
+Won: 0
+Lost: 4
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to haywad (1512)
+lost to daft (1499)
+::::CEO::::
+lost to polarbite (1511)
+lost to haber (1511)

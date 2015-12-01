@@ -1,0 +1,12 @@
+Player: pandorascrate
+Rating: 1485
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated ottokbron (1487)
+lost to nekromantik187 (1504)
+lost to kingdomkey92 (1499)

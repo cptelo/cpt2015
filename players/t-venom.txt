@@ -1,0 +1,12 @@
+Player: t-venom
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to bryan papa (1512)
+defeated shing07 (1474)
+lost to kapwan (1514)

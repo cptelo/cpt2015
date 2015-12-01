@@ -1,0 +1,20 @@
+Player: sd|tempest
+Rating: 1534
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated onslaught (1487)
+defeated pieguy (1499)
+defeated blockbuster jon (1511)
+lost to r/kappa|infilitration (1742)
+lost to ta|chris g (1618)
+::::SCR::::
+defeated readyforpowwow (1463)
+defeated eg|chocoblanka (1471)
+defeated dumabalrog (1512)
+lost to julio (1629)
+lost to liquid|nuckledu (1734)

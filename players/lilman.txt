@@ -1,0 +1,12 @@
+Player: lilman
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to fge olivo (1512)
+defeated onealsky (1486)
+lost to the best in west palm beach (1526)

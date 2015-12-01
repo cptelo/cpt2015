@@ -1,0 +1,12 @@
+Player: oc 919
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+lost to rb|snake eyez (1732)
+defeated max'd out (1474)
+lost to engravings (1511)

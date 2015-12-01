@@ -1,0 +1,13 @@
+Player: 豆腐 tofu
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Nine States::::
+defeated チキチキン (1487)
+lost to りゅうきち (1524)
+defeated かいひも (1490)
+lost to 相楽じあじい souraku jiaji (1527)

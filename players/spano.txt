@@ -1,0 +1,12 @@
+Player: spano
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Saigon Cup::::
+defeated tam (1487)
+lost to tonpy (1675)
+lost to yuki (1476)

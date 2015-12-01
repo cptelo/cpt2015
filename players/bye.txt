@@ -1,0 +1,12 @@
+Player: bye
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated insertbrainhere (1487)
+lost to kig|problem x (1691)
+lost to kb-zey (1499)

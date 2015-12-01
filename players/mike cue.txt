@@ -1,0 +1,12 @@
+Player: mike cue
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to kruzee (1512)
+defeated eligtkderic (1474)
+lost to kit potato salad (1512)

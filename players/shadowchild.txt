@@ -1,0 +1,13 @@
+Player: shadowchild
+Rating: 1507
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::First Attack::::
+defeated kenneth hernandez (1499)
+defeated ranmasama (1552)
+lost to ex pugera (1666)
+lost to ranmasama (1564)

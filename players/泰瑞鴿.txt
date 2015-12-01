@@ -1,0 +1,12 @@
+Player: 泰瑞鴿
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to rockpon (1524)
+defeated sman (1474)
+lost to sion (1516)

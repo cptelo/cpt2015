@@ -1,0 +1,13 @@
+Player: dmt - mr. d
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated sanchez (1487)
+lost to akg shinji (1524)
+defeated og killatofu (1474)
+lost to flaquito (1529)

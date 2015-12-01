@@ -1,0 +1,13 @@
+Player: zhudongyu
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+defeated 吕尔德 八神 (1487)
+lost to xiao jj (1524)
+defeated 林帆 lingfan500 (1476)
+lost to qanba douyu|红中大大 (1526)

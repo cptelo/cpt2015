@@ -1,0 +1,14 @@
+Player: mintcheerios
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA KR::::
+defeated legato974 (1487)
+lost to laugh (1570)
+defeated al (1492)
+defeated mullen (1504)
+lost to laugh (1573)

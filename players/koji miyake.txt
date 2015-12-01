@@ -1,0 +1,19 @@
+Player: koji miyake
+Rating: 1551
+Played: 9
+Won: 6
+Lost: 3
+%: 66
+
+Results:
+::::FV Cup::::
+defeated greateacher (1487)
+defeated keane_hi (1499)
+defeated ccg|humanbomb (1649)
+defeated rzr|rb (1629)
+lost to bonchan (1704)
+lost to rzr|gackt (1605)
+::::CPTA Last Chance Qualifier::::
+defeated rchan (1500)
+lost to kindevu (1624)
+defeated mflo (1514)

@@ -1,0 +1,15 @@
+Player: stvg crespo
+Rating: 1532
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated sbh|intehweeds (1487)
+defeated sfhappyfeet (1487)
+lost to snake eyez (1717)
+defeated twitch.tv/tuboware (1513)
+defeated bars rida (1511)
+lost to yg|joel (1649)

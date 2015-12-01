@@ -1,0 +1,22 @@
+Player: derrick legend
+Rating: 1501
+Played: 11
+Won: 5
+Lost: 6
+%: 45
+
+Results:
+::::Combo Breaker::::
+defeated bab munn3y (1487)
+defeated soupbase (1499)
+defeated burger time (1511)
+defeated ikari panda (1523)
+lost to ts|arturo sanchez (1675)
+lost to rm emp kdz (1564)
+::::CEO::::
+defeated zay (1500)
+lost to the mechanic (1536)
+lost to corn bootlegwinner (1536)
+::::Summer Jam::::
+lost to tsc|yomi|dieminion (1686)
+lost to eg|ricki ortiz (1706)

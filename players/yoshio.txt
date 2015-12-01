@@ -1,0 +1,12 @@
+Player: yoshio
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+lost to templar (1512)
+defeated alteredturbomax (1474)
+lost to fa|ryan hart (1679)

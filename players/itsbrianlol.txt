@@ -1,0 +1,11 @@
+Player: itsbrianlol
+Rating: 1481
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to tsc|yomi|dieminion (1711)
+lost to dragon ninja (1499)

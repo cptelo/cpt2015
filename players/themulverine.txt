@@ -1,0 +1,11 @@
+Player: themulverine
+Rating: 1481
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA KR::::
+lost to bonchan (1704)
+lost to weirdoneo (1499)

@@ -1,0 +1,11 @@
+Player: eyoh_ajax
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to cc armoredx (1512)
+lost to job mr. travis (1499)

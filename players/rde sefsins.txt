@@ -1,0 +1,13 @@
+Player: rde sefsins
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated sprint (1487)
+defeated brylarke (1499)
+lost to rize|ind|pro fluke (1628)
+lost to apollo steed (1579)

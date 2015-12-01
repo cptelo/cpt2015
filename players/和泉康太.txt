@@ -1,0 +1,15 @@
+Player: 和泉康太
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Nine States::::
+lost to もふもふ (1512)
+defeated マスタング (1486)
+defeated 仮面の魔術師 (1498)
+defeated もふもふ (1498)
+defeated korea player (1510)
+lost to chiaki (1535)

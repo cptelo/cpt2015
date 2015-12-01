@@ -1,0 +1,11 @@
+Player: deanthrax
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to leland (1512)
+lost to rbr anbu deadlyclaw (1499)

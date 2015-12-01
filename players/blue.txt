@@ -1,0 +1,12 @@
+Player: blue
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to 阿光 (1512)
+defeated kendofox (1478)
+lost to negator (1511)

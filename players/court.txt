@@ -1,0 +1,11 @@
+Player: court
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to eric m (1524)
+lost to uvg the professional (1499)

@@ -1,0 +1,23 @@
+Player: holdy
+Rating: 1542
+Played: 13
+Won: 9
+Lost: 4
+%: 69
+
+Results:
+::::Combo Breaker::::
+defeated cg projo (1487)
+defeated gs|gllty (1500)
+defeated luis (1511)
+lost to mor|rico suave (1621)
+defeated gs|gllty (1533)
+defeated srm|the white beast (1523)
+lost to german luger (1580)
+::::CEO::::
+defeated sda fiercekyo (1488)
+lost to taboc1 (1514)
+defeated bobcustomgamer (1476)
+defeated devon scheer (1504)
+defeated havocvstheworld (1499)
+lost to ag|native impact (1640)

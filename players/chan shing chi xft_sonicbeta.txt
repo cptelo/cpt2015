@@ -1,0 +1,13 @@
+Player: chan shing chi xft_sonicbeta
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::HK::::
+defeated hacken law xft_hacken_jp (1487)
+lost to lau chi hung joe gameouttt (1524)
+defeated jason liu satc1014 (1491)
+lost to 蔡楚锋 528000 (1527)

@@ -1,0 +1,13 @@
+Player: panoptic
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated rocksteady (1487)
+lost to valiant (1524)
+defeated geronimo (1474)
+lost to bcw_bushinstyle (1527)

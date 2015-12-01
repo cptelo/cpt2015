@@ -1,0 +1,13 @@
+Player: geomonstaah
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated setx|tyler (yo.) (1487)
+defeated bass ns (1487)
+lost to gg|onisan (1571)
+lost to pts kool-aid (1535)

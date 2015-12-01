@@ -1,0 +1,13 @@
+Player: willgetpaid
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated lf|luoji - fenru (1487)
+lost to bonchan (1705)
+defeated funplayer3s (1486)
+lost to shbl tim (1536)

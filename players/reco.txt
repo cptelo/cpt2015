@@ -1,0 +1,11 @@
+Player: reco
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to negator (1512)
+lost to 孟澤 (1499)

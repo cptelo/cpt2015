@@ -1,0 +1,12 @@
+Player: moonflow
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Saigon Cup::::
+defeated duc nguyen (1487)
+lost to rzr|gackt (1609)
+lost to heodzodzien (1515)

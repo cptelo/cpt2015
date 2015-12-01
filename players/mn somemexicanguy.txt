@@ -1,0 +1,13 @@
+Player: mn somemexicanguy
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated zds (1487)
+lost to ifd tuboware (1524)
+defeated leadman (1498)
+lost to al|servo (1530)

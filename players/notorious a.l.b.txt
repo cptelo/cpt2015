@@ -1,0 +1,12 @@
+Player: notorious a.l.b
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated megaphonejones66 (1487)
+lost to bfl|zaus (1526)
+lost to ed|undeadjim (1511)

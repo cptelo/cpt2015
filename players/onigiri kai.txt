@@ -1,0 +1,16 @@
+Player: onigiri kai
+Rating: 1544
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::Taiwan::::
+defeated 歐妹/omega (1487)
+defeated 小布 (1499)
+defeated ccg|humanbomb (1645)
+defeated sasa (1523)
+defeated sasa (1526)
+lost to chuan (1645)
+lost to qanba douyu|dark jiewa (1637)

@@ -1,0 +1,12 @@
+Player: tokles
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to revolver dropsalot (1524)
+defeated gh dsc thenyion (1474)
+lost to better metal dingo (1522)

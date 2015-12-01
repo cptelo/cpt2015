@@ -1,0 +1,12 @@
+Player: wizlife69
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+defeated boti (1487)
+lost to cocaneta (1512)
+lost to sa justice (1523)

@@ -1,0 +1,11 @@
+Player: simplyktg
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to havocvstheworld (1524)
+lost to gt tier3 wolf (1499)

@@ -1,0 +1,12 @@
+Player: frank the tank
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+lost to yomi|shin phoenix (1518)
+defeated kit potato salad (1488)
+lost to yg|joel (1657)

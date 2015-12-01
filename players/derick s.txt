@@ -1,0 +1,11 @@
+Player: derick s
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to chaotix (1560)
+lost to cuddles|fadc|nasty (1499)

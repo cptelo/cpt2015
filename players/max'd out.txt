@@ -1,0 +1,11 @@
+Player: max'd out
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to prototype (1512)
+lost to oc 919 (1506)

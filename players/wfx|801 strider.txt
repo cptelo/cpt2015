@@ -1,0 +1,89 @@
+Player: wfx|801 strider
+Rating: 1686
+Played: 71
+Won: 50
+Lost: 21
+%: 70
+
+Results:
+::::NorCal Regionals::::
+defeated accurate (1491)
+defeated onetimehero (1502)
+defeated team seaslug (1516)
+defeated ccg|air (1609)
+defeated ccg|air (1610)
+defeated ccg|air (1598)
+defeated eg|momochi (1739)
+lost to mcz|daigo (1736)
+lost to bonchan (1698)
+::::Texas Showdown::::
+defeated aes|nolafrog (1504)
+defeated epic|boi toi (1551)
+defeated coin up|ludovic (1551)
+defeated coin up|ludovic (1554)
+defeated hsien chang (1573)
+lost to r/kappa|infilitration (1777)
+defeated ccg|air (1632)
+defeated magneto1080p (1614)
+defeated ta|chris g (1627)
+lost to snake eyez (1708)
+::::CEO::::
+defeated d.veritas (1504)
+defeated jimli (1517)
+defeated stephen (1528)
+defeated liquid|nuckledu (1758)
+defeated mcz|daigo (1766)
+defeated tsc|dieminion (1686)
+defeated mcz|mago (1725)
+lost to r/kappa|kazunoko (1745)
+defeated eg|pr balrog (1682)
+lost to r/kappa|kazunoko (1749)
+::::EVO::::
+defeated ttl|shinba (1542)
+lost to ybk|santarouman (1651)
+lost to mcz|daigo (1764)
+::::Summer Jam::::
+lost to zaferino (1608)
+defeated cuby (1486)
+defeated a-team pag ne glitch (1525)
+defeated corn|alucard (1614)
+lost to bx3|phenom (1639)
+::::First Attack::::
+defeated jappa (1505)
+defeated prk famous (1505)
+defeated godzilla (1528)
+defeated prk famous (1533)
+defeated cocaneta (1547)
+lost to r/kappa|infilitration (1798)
+defeated ta|chris g (1627)
+lost to rb|snake eyez (1725)
+::::TFC::::
+defeated mob|princess slim (1505)
+defeated j8slim (1505)
+defeated pie|smug (1686)
+defeated pie|smug (1684)
+defeated wave foomy (1551)
+lost to tampa bison (1656)
+defeated ta|chris g (1633)
+defeated pie|smug (1690)
+lost to eg|ricki ortiz (1709)
+::::SCR::::
+defeated tomarre (1505)
+defeated kaising (1517)
+lost to ph|lpn (1618)
+defeated blockbuster jon (1547)
+lost to ph|lpn (1624)
+defeated bj unchained (1603)
+lost to eg|pr balrog (1698)
+::::True Challengers Costa Rica::::
+lost to rzr|itabashi zangief (1694)
+defeated tg|bebedero (1505)
+defeated doomsday507 (1525)
+defeated eg|pr balrog (1683)
+defeated rzr|itabashi zangief (1693)
+lost to rzr|itabashi zangief (1698)
+::::Canada Cup::::
+defeated ed ma (1493)
+defeated arika (1559)
+lost to mcz|mago (1700)
+lost to eg|ricki ortiz (1707)

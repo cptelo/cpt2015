@@ -1,0 +1,14 @@
+Player: ryoji masaki chanson
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::HK::::
+defeated gonzales (1589)
+lost to ricky xft_softegg (1523)
+defeated 李博 b春 (1486)
+defeated niceblock skenming (1476)
+lost to ho wai kit cs/u2 (1529)

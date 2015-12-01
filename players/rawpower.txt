@@ -1,0 +1,12 @@
+Player: rawpower
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+lost to bonehead (1512)
+defeated jimmy89 (1492)
+lost to dr thomas (1523)

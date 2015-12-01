@@ -1,0 +1,13 @@
+Player: norcal joe
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to s0n1c w0lf (1512)
+defeated floe (1474)
+defeated brasssmunkye (1489)
+lost to ce jabdrunk (1514)

@@ -1,0 +1,13 @@
+Player: thamer1977
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated jacopdr (1487)
+lost to akimo (1595)
+defeated abodora (1475)
+lost to alafasy_23 (1512)

@@ -1,0 +1,17 @@
+Player: redpanda knuckledust
+Rating: 1530
+Played: 8
+Won: 5
+Lost: 3
+%: 62
+
+Results:
+::::TFC::::
+defeated hold dat l (1487)
+lost to tampa bison (1643)
+defeated anbu_mrfrayfray (1498)
+defeated noelbhungry (1513)
+defeated spabobin (1455)
+lost to tampa bison (1648)
+defeated dcb|afterdeath (1518)
+lost to corn|alucard (1616)

@@ -1,0 +1,12 @@
+Player: no name 0_o
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated darealsteven (1487)
+lost to jthamind (1524)
+lost to q (1523)

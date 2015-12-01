@@ -1,0 +1,11 @@
+Player: volkmair
+Rating: 1473
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to bfl|popidge (1499)
+lost to sprint (1499)

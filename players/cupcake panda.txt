@@ -1,0 +1,12 @@
+Player: cupcake panda
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated peter sauce (1487)
+lost to pxg|integra (1549)
+lost to dj_malady (1523)

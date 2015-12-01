@@ -1,0 +1,11 @@
+Player: ホルト horuto
+Rating: 1481
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Nine States::::
+lost to poongko (1719)
+lost to okome man (1499)

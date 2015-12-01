@@ -1,0 +1,13 @@
+Player: alafasy_23
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+lost to finalzero (1512)
+defeated bo_aseel (1474)
+defeated thamer1977 (1499)
+lost to hunter (1511)

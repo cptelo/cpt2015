@@ -1,0 +1,14 @@
+Player: raich
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Texas Showdown::::
+defeated unforunatefleshgolem (1487)
+lost to ua|brandon chun (1512)
+defeated cecil (1474)
+defeated epyon (1486)
+lost to 3nigmat1c (1529)

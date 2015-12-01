@@ -1,0 +1,13 @@
+Player: yomi cardell
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated jh maxninja (1499)
+defeated bringbackiceclimbers (1511)
+lost to eg|pr balrog (1658)
+lost to berserk (1542)

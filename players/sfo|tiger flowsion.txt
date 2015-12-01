@@ -1,0 +1,13 @@
+Player: sfo|tiger flowsion
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+lost to sww|thebirdlives (1512)
+defeated mr.e (1474)
+defeated kb-zey (1486)
+lost to sfo|the pro fka pro ho (1515)

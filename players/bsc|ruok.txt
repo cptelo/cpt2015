@@ -1,0 +1,18 @@
+Player: bsc|ruok
+Rating: 1500
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated ind.spb|ixion (1535)
+lost to dawgtanian (1524)
+defeated vexatiousidler (1475)
+lost to ind.spb|ixion (1565)
+::::VS Fighting::::
+defeated sprint (1487)
+lost to rs|cobelcog (1516)
+defeated ed|undeadjim (1498)
+lost to ninja shinryu (1546)

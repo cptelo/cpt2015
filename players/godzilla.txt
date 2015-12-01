@@ -1,0 +1,14 @@
+Player: godzilla
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::First Attack::::
+defeated 4bidden (1487)
+defeated the steam co|bacardi (1487)
+defeated rr|mr gork (1511)
+lost to wfx|801 strider (1687)
+lost to prk famous (1541)

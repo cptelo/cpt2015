@@ -1,0 +1,13 @@
+Player: @theb00st
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+lost to kenshiro (1512)
+defeated gilky (1476)
+defeated merlock (1475)
+lost to gka soul below (1511)

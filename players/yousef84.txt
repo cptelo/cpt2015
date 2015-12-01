@@ -1,0 +1,12 @@
+Player: yousef84
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KO Fighting Game Festival::::
+lost to gunner85 (1512)
+defeated mortal_comebax (1474)
+lost to jaguar_murad (1511)

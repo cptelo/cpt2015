@@ -1,0 +1,14 @@
+Player: trevonte
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated doons (1487)
+lost to steeeeve (1524)
+defeated apocaalypse (1493)
+defeated l.grinta (1498)
+lost to mookmonster (1530)

@@ -1,0 +1,13 @@
+Player: dean of games
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+lost to gedub|ce|jabdrunk (1512)
+defeated big betty swalls (1492)
+defeated romora (1488)
+lost to yabukistyle (1523)

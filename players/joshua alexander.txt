@@ -1,0 +1,18 @@
+Player: joshua alexander
+Rating: 1503
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Texas Showdown::::
+lost to winchester (1512)
+defeated fickle platypus (1474)
+lost to dmansland (1523)
+::::Combo Breaker::::
+defeated billy mcgee (1486)
+defeated danny boy peru (1499)
+defeated doctorstantz (1511)
+lost to eg|k-brad (1661)
+lost to danny boy peru (1559)

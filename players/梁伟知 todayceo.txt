@@ -1,0 +1,20 @@
+Player: 梁伟知 todayceo
+Rating: 1524
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::CPTA Shanghai::::
+defeated 徐云龙 shinxcloud (1487)
+lost to rzr|xian (1750)
+defeated 孙子隆 kimoji (1486)
+defeated 郑诚 lutak (1497)
+defeated 赵渭炯 小迷 (1499)
+lost to 刘斌 sandro (1542)
+::::HK::::
+lost to niceblock skenming (1488)
+defeated 陈智聪 坑头仔 (1475)
+defeated cheng chun hung 天下布武 (1493)
+lost to gonzales (1599)

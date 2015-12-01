@@ -1,0 +1,14 @@
+Player: iahadima
+Rating: 1471
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::Dreamhack Summer::::
+lost to iki (1512)
+lost to ettelman (1569)
+defeated paranoiar (1465)
+lost to brick (1570)
+lost to rize|ind|pro fluke (1644)

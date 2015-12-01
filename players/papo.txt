@@ -1,0 +1,12 @@
+Player: papo
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated adil g (1487)
+lost to ta|chris g (1630)
+lost to aes|nolafrog (1501)

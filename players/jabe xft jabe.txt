@@ -1,0 +1,13 @@
+Player: jabe xft jabe
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::HK::::
+defeated tata chan tata (1487)
+lost to gl|saunic (1583)
+defeated chau pui hing jeono (1486)
+lost to tong ka wing kawing (1523)

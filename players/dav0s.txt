@@ -1,0 +1,11 @@
+Player: dav0s
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA KR::::
+lost to rzr|itabashi zangief (1660)
+lost to spabobin (1475)

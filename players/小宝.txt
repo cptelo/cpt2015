@@ -1,0 +1,13 @@
+Player: 小宝
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to 班禅 (1512)
+defeated zemerick (1479)
+defeated ceo (1489)
+lost to 班禅 (1528)

@@ -1,0 +1,12 @@
+Player: vsf|justinxavier
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+defeated jgt1201 (1487)
+lost to parable greg (1524)
+lost to sfo|willo (1501)

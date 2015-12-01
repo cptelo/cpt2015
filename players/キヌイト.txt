@@ -1,0 +1,12 @@
+Player: キヌイト
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Nine States::::
+lost to shiro (1608)
+defeated いす市長 (1474)
+lost to つけめん (1511)

@@ -1,0 +1,15 @@
+Player: kineda
+Rating: 1526
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::NorCal Regionals::::
+defeated biscuitpinoy (1487)
+defeated hf|hainix (1499)
+lost to eg|k-brad (1619)
+defeated wrathmatics (1513)
+defeated hf|hainix (1522)
+lost to iperu (1579)

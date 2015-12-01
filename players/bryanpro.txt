@@ -1,0 +1,12 @@
+Player: bryanpro
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+lost to ruben (1512)
+defeated john (1490)
+lost to superfabiano (1523)

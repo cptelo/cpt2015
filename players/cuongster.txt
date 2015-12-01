@@ -1,0 +1,30 @@
+Player: cuongster
+Rating: 1590
+Played: 18
+Won: 10
+Lost: 8
+%: 55
+
+Results:
+::::Cannes Winter Clash::::
+lost to f-word (1612)
+lost to taunt (1507)
+::::EGX::::
+defeated rs doom (1501)
+defeated btm|isam (1567)
+lost to btm|hurricane (1647)
+lost to raygo blayde|afii (1643)
+::::Red Fight District::::
+defeated butterbeefbison (1510)
+defeated lll|mbr (1608)
+lost to packz (1625)
+defeated btm|tyrant (1630)
+lost to fa|ryan hart (1690)
+::::Dreamhack Winter::::
+defeated doxus (1461)
+defeated warbio (1459)
+defeated gustavo (1451)
+defeated raego (1497)
+defeated kreymore (1536)
+lost to fa|ryan hart (1706)
+lost to esr|gonzales (1648)

@@ -1,0 +1,29 @@
+Player: dogura
+Rating: 1557
+Played: 17
+Won: 9
+Lost: 8
+%: 52
+
+Results:
+::::Northwest Majors::::
+defeated fullmetal-alex (1500)
+defeated ebomb (1501)
+lost to nando tovar (1577)
+defeated kizzie kay (1528)
+defeated white gun (1540)
+lost to native impact (1622)
+::::KSB 2015::::
+defeated ずん (1489)
+defeated meu (1501)
+lost to bonchan (1730)
+lost to haitani (1570)
+::::EVO::::
+defeated nb|souji (1489)
+lost to kiyotea (1514)
+lost to brolylegs (1536)
+::::Ultra Hyakkishu Cup::::
+defeated asunyan (1489)
+defeated okome man (1510)
+lost to sabohani (1585)
+lost to ts|reiketsu (1653)

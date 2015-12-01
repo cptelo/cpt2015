@@ -1,0 +1,27 @@
+Player: ugc|vicious
+Rating: 1558
+Played: 16
+Won: 8
+Lost: 8
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated militarymind510 (1489)
+defeated schowda (1501)
+defeated ccg|chi-rithy (1557)
+lost to mcz|daigo (1720)
+defeated ccg|chi-rithy (1567)
+lost to mcz|daigo (1727)
+lost to mcz|daigo (1729)
+lost to iperu (1570)
+::::Northwest Majors::::
+defeated joe young (1489)
+defeated muscle steel sex appeal (1501)
+lost to srkuw you know who it is (1538)
+defeated boeken (1511)
+defeated muscle steel sex appeal (1524)
+lost to srkuw you know who it is (1569)
+lost to eg|ricki ortiz (1719)
+::::EVO::::
+lost to iansanity (1514)

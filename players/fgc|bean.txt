@@ -1,0 +1,16 @@
+Player: fgc|bean
+Rating: 1490
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::South East Asia Major::::
+lost to r/kappa|infilitration (1775)
+lost to somniac (1549)
+::::Ultra Hyakkishu Cup::::
+lost to charisma (1511)
+defeated tarezou (1485)
+defeated shougai adashi-ku min (1492)
+lost to ybk|shiro (1661)

@@ -1,0 +1,13 @@
+Player: starks
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated gp romora (1487)
+lost to tsc|dieminion (1678)
+defeated gi_vantinel (1475)
+lost to sir reginald bigglesworth (1523)

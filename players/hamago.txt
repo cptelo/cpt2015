@@ -1,0 +1,16 @@
+Player: hamago
+Rating: 1545
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::Texas Showdown::::
+defeated ins dumbluck (1499)
+defeated kungfutreachery (1499)
+defeated gg|onisan (1556)
+defeated gg|epic l.gg|onisan (1553)
+lost to r/kappa|infilitration (1774)
+defeated hunted chimera (1521)
+lost to hsien chang (1581)

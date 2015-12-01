@@ -1,0 +1,14 @@
+Player: wongtoutou
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated jayson (1487)
+lost to carzydog (1524)
+defeated domo (1489)
+defeated sherman (1501)
+lost to brawl|haitani (1585)

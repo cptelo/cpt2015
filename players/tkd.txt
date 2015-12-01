@@ -1,0 +1,14 @@
+Player: tkd
+Rating: 1519
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Taiwan::::
+defeated 餃子 (1487)
+lost to inco (1687)
+defeated 島主 (1486)
+defeated sulabee (1498)
+lost to rzr|rb (1616)

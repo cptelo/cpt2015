@@ -1,0 +1,16 @@
+Player: od|chairman
+Rating: 1526
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::Texas Showdown::::
+defeated (setx) willcola (1499)
+lost to r/kappa|infilitration (1769)
+defeated dmansland (1509)
+defeated winchester (1527)
+defeated xx your disease (1507)
+lost to r/kappa|infilitration (1772)
+lost to gg|epic l.gg|onisan (1564)

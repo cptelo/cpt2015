@@ -1,0 +1,36 @@
+Player: mc|xsk samurai
+Rating: 1582
+Played: 24
+Won: 14
+Lost: 10
+%: 58
+
+Results:
+::::NorCal Regionals::::
+defeated scar (1489)
+defeated dm|casual phil (1501)
+defeated julio (1587)
+lost to poongko (1743)
+defeated julio (1593)
+lost to poongko (1745)
+lost to poongko (1747)
+lost to marq teddy (1618)
+::::Northwest Majors::::
+defeated doc (1489)
+defeated zakotou (1502)
+defeated 30f|slayer-san (1513)
+lost to ph|lpn (1599)
+lost to 801|jayce the ace (1632)
+::::EVO::::
+defeated eita (1603)
+defeated eg|ricki ortiz (1712)
+lost to qanba douyu|xiaohai (1695)
+::::SCR::::
+defeated saturnize (1500)
+lost to srkuw|botb|fawwaz (1585)
+defeated dinlee (1512)
+defeated gedub|ce|gdb|jabdrunk (1516)
+defeated arrow (1520)
+lost to srkuw|botb|fawwaz (1593)
+defeated ph|crackfiend (1578)
+lost to sd|pnoy (1608)

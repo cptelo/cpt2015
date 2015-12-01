@@ -1,0 +1,14 @@
+Player: dirty paws
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+lost to pnoy (1560)
+defeated newbtrait (1476)
+defeated blaqskillz (1486)
+defeated danphan (1504)
+lost to filipino champ (1577)

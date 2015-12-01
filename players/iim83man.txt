@@ -1,0 +1,13 @@
+Player: iim83man
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA KR::::
+lost to humanbomb (1624)
+defeated ilovepjw (1477)
+defeated almond42 (1492)
+lost to kok (1612)

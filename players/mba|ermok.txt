@@ -1,0 +1,12 @@
+Player: mba|ermok
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated tom b (1487)
+lost to btm|hurricane (1640)
+lost to lom|luckboxq (1523)

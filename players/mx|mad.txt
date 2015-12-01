@@ -1,0 +1,14 @@
+Player: mx|mad
+Rating: 1535
+Played: 5
+Won: 4
+Lost: 1
+%: 80
+
+Results:
+::::TFC::::
+defeated rese|goldenbiscuit (1487)
+lost to lu|alex valle (1521)
+defeated surgingstorm (1498)
+defeated xaiah (1511)
+defeated bcw_jmendes (1498)

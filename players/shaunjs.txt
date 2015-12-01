@@ -1,0 +1,17 @@
+Player: shaunjs
+Rating: 1494
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Hypespotting::::
+defeated mba yingah (1499)
+lost to gl|saunic (1578)
+lost to wiseblade (1577)
+::::VS Fighting::::
+defeated ed|noonez (1498)
+defeated nfgc|moogle (1499)
+lost to btm|hurricane (1646)
+lost to sfo|ghost (1546)

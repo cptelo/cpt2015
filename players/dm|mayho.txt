@@ -1,0 +1,11 @@
+Player: dm|mayho
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to dinlee (1512)
+lost to bcw-carlos danger (1499)

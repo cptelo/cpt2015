@@ -1,0 +1,13 @@
+Player: droomighty
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated ipg|dcb staticgorilla (1487)
+lost to ccg|air (1603)
+defeated pdx waifu mobile (goggles) (1487)
+lost to chg joeystorm (1525)

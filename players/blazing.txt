@@ -1,0 +1,19 @@
+Player: blazing
+Rating: 1522
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::CEO::::
+defeated gailim (1487)
+defeated eg|justin wong (1734)
+lost to bagelobo (1536)
+lost to yomi|stan (1535)
+::::First Attack::::
+defeated prdrakwolf (1487)
+lost to snake eyez (1725)
+defeated taxto (1486)
+defeated amaury (1499)
+lost to haizek (1548)

@@ -1,0 +1,13 @@
+Player: burger time
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated thores (1487)
+defeated banto (1499)
+lost to derrick legend (1536)
+lost to bab munn3y (1535)

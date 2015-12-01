@@ -1,0 +1,13 @@
+Player: kurokiba
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated ex (1487)
+defeated hargi (1499)
+lost to eg|pr balrog (1696)
+lost to peejay (1538)

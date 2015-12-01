@@ -1,0 +1,12 @@
+Player: phs buster chen
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+lost to gg|onisan (1550)
+defeated ins dumbluck (1486)
+lost to pts kool-aid (1523)

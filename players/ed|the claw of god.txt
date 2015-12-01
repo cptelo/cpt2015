@@ -1,0 +1,13 @@
+Player: ed|the claw of god
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated s1ngho (1487)
+defeated sww|baconjacob (1487)
+lost to packz (1605)
+lost to mba|dread (1522)

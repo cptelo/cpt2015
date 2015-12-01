@@ -1,0 +1,14 @@
+Player: baotrung3108
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Saigon Cup::::
+defeated sennette (1487)
+lost to ccg|humanbomb (1665)
+defeated mdzor (1475)
+defeated phuong (1487)
+lost to tuan mario (1528)

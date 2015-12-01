@@ -1,0 +1,20 @@
+Player: mister keebler
+Rating: 1532
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::CEO::::
+defeated conmystro (1499)
+lost to pag lionheart (1524)
+defeated bigvic340 (1509)
+defeated krhs tan-tan (1527)
+lost to alucard (1604)
+::::SCR::::
+defeated pd|n4us (1453)
+defeated doctorstantz (1486)
+lost to rb|snake eyez (1743)
+defeated surruso (1512)
+lost to ccg|air (1635)

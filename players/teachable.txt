@@ -1,0 +1,11 @@
+Player: teachable
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to darkhonor90 (1512)
+lost to pag celestine (1499)

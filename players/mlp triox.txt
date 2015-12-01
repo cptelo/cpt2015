@@ -1,0 +1,12 @@
+Player: mlp triox
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to biobillybonez (1525)
+defeated geenoh (1474)
+lost to bcw_bushinstyle (1515)

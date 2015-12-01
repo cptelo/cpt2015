@@ -1,0 +1,12 @@
+Player: ushijima
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to hydebuffy (1524)
+defeated hame na geru shogun (1479)
+lost to okkun (1511)

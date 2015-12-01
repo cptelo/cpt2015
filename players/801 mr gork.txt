@@ -1,0 +1,18 @@
+Player: 801 mr gork
+Rating: 1496
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated dtflipper (1487)
+lost to sailor venus (1524)
+defeated bcw-rapidrunx (1486)
+lost to ramen addict (1526)
+::::Northwest Majors::::
+lost to yabukistyle (1512)
+defeated rain (1474)
+defeated tuan (1474)
+lost to mean saltine (1511)

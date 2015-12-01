@@ -1,0 +1,13 @@
+Player: schmoo
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+lost to squall (1512)
+defeated s.i.r. dinky (1474)
+defeated beno (1486)
+lost to yomi glass sword (1525)

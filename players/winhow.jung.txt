@@ -1,0 +1,12 @@
+Player: winhow.jung
+Rating: 1485
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to sketch (1472)
+defeated applemouse (1480)
+lost to jnana (1499)

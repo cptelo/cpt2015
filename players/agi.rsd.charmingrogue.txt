@@ -1,0 +1,14 @@
+Player: agi.rsd.charmingrogue
+Rating: 1470
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::Dreamhack Summer::::
+lost to pedro unchained (1512)
+defeated ikea_patrik (1474)
+lost to lll|mbr (1572)
+lost to md|luffy (1723)
+lost to brillz (1524)

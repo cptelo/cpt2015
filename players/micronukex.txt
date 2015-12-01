@@ -1,0 +1,14 @@
+Player: micronukex
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated lostperfection (1487)
+lost to vgp|andre west (1548)
+defeated doctor vicious (1474)
+defeated uvg the professional (1486)
+lost to udlr highbeast (1523)

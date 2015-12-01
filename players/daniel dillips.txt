@@ -1,0 +1,17 @@
+Player: daniel dillips
+Rating: 1485
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::VS Fighting::::
+defeated duke (1487)
+lost to smbf|nebbiez (1512)
+defeated snx (1498)
+lost to sfo|zxmx (1524)
+::::EGX::::
+lost to smbf walkerfam (1512)
+defeated mba spartan throne (1474)
+lost to vws|j miller (1522)

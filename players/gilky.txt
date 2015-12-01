@@ -1,0 +1,11 @@
+Player: gilky
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to elchakotay (1560)
+lost to @theb00st (1499)

@@ -1,0 +1,13 @@
+Player: salem akuma
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+lost to boochi (1524)
+defeated ali_ahli (1474)
+defeated trainerfox (1503)
+lost to wtq8|aziz (1513)

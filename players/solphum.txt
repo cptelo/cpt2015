@@ -1,0 +1,13 @@
+Player: solphum
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated kingdomkey92 (1487)
+lost to qanba douyu|dakou (1664)
+defeated ottokbron (1475)
+lost to shockbeast (1512)

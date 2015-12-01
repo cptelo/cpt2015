@@ -1,0 +1,11 @@
+Player: christian
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to 张意 (1512)
+lost to tom (1501)

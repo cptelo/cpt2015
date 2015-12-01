@@ -1,0 +1,15 @@
+Player: hitbox rose
+Rating: 1529
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Taiwan::::
+defeated 孟澤 (1487)
+defeated negator (1499)
+lost to ts|reiketsu (1637)
+defeated 龜仙人 (1510)
+defeated 可樂ヤン (1526)
+lost to qanba douyu|dark jiewa (1634)

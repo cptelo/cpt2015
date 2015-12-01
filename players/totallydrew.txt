@@ -1,0 +1,14 @@
+Player: totallydrew
+Rating: 1509
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated clxjames (1487)
+lost to stvg asiandemon (1512)
+defeated siamawich (1487)
+defeated shinra (1486)
+lost to chocoblanka (1512)

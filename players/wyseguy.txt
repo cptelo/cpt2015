@@ -1,0 +1,13 @@
+Player: wyseguy
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated s.i.r. straycrit (1487)
+defeated rey (1499)
+lost to ikari panda (1536)
+lost to tones (^_^) (1546)

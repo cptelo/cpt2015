@@ -1,0 +1,12 @@
+Player: jimmy89
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+defeated lord lorenz (1487)
+lost to rzr|fuudo (1724)
+lost to rawpower (1500)

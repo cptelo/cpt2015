@@ -1,0 +1,17 @@
+Player: kermit alexander
+Rating: 1489
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Texas Showdown::::
+lost to money martinez (1512)
+lost to josue (1499)
+::::Combo Breaker::::
+defeated chima (1486)
+defeated top hat (1498)
+defeated mean saltine (1522)
+lost to jebailey (1549)
+lost to mean saltine (1543)

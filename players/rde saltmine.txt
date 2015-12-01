@@ -1,0 +1,13 @@
+Player: rde saltmine
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+lost to infexious (1583)
+defeated ansatsusha (1474)
+defeated reimalken (1486)
+lost to boss don dekutree (1526)

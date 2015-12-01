@@ -1,0 +1,13 @@
+Player: dunbine
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA KR::::
+defeated weirdoneo (1487)
+lost to bonchan (1706)
+defeated realvocalist (1490)
+lost to weirdoneo (1523)

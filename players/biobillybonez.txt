@@ -1,0 +1,18 @@
+Player: biobillybonez
+Rating: 1500
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated beamsprouts (1487)
+lost to bonchan (1699)
+defeated lf|luoji - fenru (1475)
+defeated joser (1502)
+lost to dm john b (1524)
+::::SCR::::
+defeated mlp triox (1488)
+lost to cc (1524)
+lost to glb (1554)

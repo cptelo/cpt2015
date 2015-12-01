@@ -1,0 +1,11 @@
+Player: papatiwawa
+Rating: 1486
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::South East Asia Major::::
+lost to rzr|xian (1758)
+lost to eita (1615)

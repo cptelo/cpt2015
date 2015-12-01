@@ -1,0 +1,17 @@
+Player: yomi excited beast
+Rating: 1493
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::CEO::::
+defeated svr ascender (1487)
+lost to cast blanka (1561)
+defeated rjd (1486)
+defeated kaiser rose (1486)
+lost to white gun (1542)
+::::TFC::::
+lost to rb|snake eyez (1738)
+lost to nerdjosh (1530)

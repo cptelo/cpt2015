@@ -1,0 +1,12 @@
+Player: juniblaze xxx
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to chemical ali (1524)
+defeated justincredible47 (1474)
+lost to kruzee (1523)

@@ -1,0 +1,12 @@
+Player: reno
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated urban shakedown (1487)
+lost to ugc hellfyre (1512)
+lost to maxoplata (1511)

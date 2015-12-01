@@ -1,0 +1,42 @@
+Player: botb|tampa bison
+Rating: 1647
+Played: 28
+Won: 19
+Lost: 9
+%: 67
+
+Results:
+::::Final Round::::
+defeated ph|lpn (1587)
+defeated r/kappa|infilitration (1736)
+defeated mcz|mago (1645)
+lost to ts|arturo sanchez (1631)
+::::Texas Showdown::::
+defeated tss hbic (1503)
+defeated re: dandy cage (1515)
+defeated brolylegs (1515)
+defeated brolylegs (1519)
+lost to eg|ricki ortiz (1719)
+lost to pxg|vgp|integra (1576)
+::::CEO::::
+defeated krs t3p valiant (1492)
+defeated drake von duke (1492)
+defeated ranmasama (1536)
+defeated hamad (1606)
+defeated qanba douyu|xiaohai (1677)
+lost to snake eyez (1726)
+lost to liquid|nuckledu (1766)
+::::EVO::::
+lost to gonzales (1579)
+::::TFC::::
+defeated noelbhungry (1503)
+defeated redpanda knuckledust (1503)
+defeated spabobin (1460)
+defeated redpanda knuckledust (1528)
+defeated shotty (1539)
+defeated wfx|801 strider (1697)
+defeated rb|snake eyez (1736)
+lost to tsc|yomi|dieminion (1719)
+lost to rb|snake eyez (1746)
+::::Canada Cup::::
+lost to ocv|12m.ocv|riceata (1611)

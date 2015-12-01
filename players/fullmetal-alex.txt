@@ -1,0 +1,12 @@
+Player: fullmetal-alex
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Northwest Majors::::
+defeated pote (1487)
+lost to dogura (1561)
+lost to phd zeal (1499)

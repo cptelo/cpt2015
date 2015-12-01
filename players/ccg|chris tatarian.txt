@@ -1,0 +1,32 @@
+Player: ccg|chris tatarian
+Rating: 1650
+Played: 20
+Won: 11
+Lost: 9
+%: 55
+
+Results:
+::::Final Round::::
+defeated qanba douyu|xiaohai (1641)
+lost to rzr|fuudo (1718)
+defeated rzr|itabashi zangief (1658)
+lost to snake eyez (1703)
+::::NorCal Regionals::::
+defeated flapjacket (1492)
+defeated joser (1515)
+lost to bj unchained (1587)
+defeated shbl tim (1527)
+defeated krash! (1520)
+lost to bonchan (1705)
+::::EVO::::
+defeated be|nemo (1719)
+lost to r/kappa|infilitration (1779)
+lost to be|nemo (1726)
+::::SCR::::
+defeated flaquito (1505)
+defeated akg shinji (1515)
+lost to eg|momochi (1772)
+defeated akg shinji (1531)
+lost to eg|momochi (1775)
+defeated rzr|fuudo (1715)
+lost to hsien chang (1602)

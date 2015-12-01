@@ -1,0 +1,13 @@
+Player: 00g juiceman
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated insidious vince (1487)
+lost to alex myers (1623)
+defeated gentle cam (1475)
+lost to hero of time (1525)

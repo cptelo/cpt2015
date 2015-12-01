@@ -1,0 +1,13 @@
+Player: greedychun
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+lost to tgl giefkid (1512)
+defeated silverhydra (1474)
+defeated ddrsensation (1486)
+lost to izzy (1523)

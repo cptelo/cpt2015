@@ -1,0 +1,13 @@
+Player: reversal|chuchu
+Rating: 1678
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPT Brazil::::
+defeated sft|guiller br (1510)
+lost to keoma (1623)
+defeated soa|xr prometo (1505)
+lost to soa|ibukiman (1563)

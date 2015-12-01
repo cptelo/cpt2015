@@ -1,0 +1,14 @@
+Player: axlshingo
+Rating: 1517
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+defeated og killatofu (1487)
+lost to eg|momochi (1768)
+defeated wl chris king (1486)
+defeated sherryjenix (1512)
+lost to akg shinji (1528)

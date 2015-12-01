@@ -1,0 +1,13 @@
+Player: zaybak
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+lost to ohgrr (1512)
+defeated recon elite (1474)
+defeated hadokenfieds (1486)
+lost to danny boy peru (1524)

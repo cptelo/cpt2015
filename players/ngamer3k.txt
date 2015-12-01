@@ -1,0 +1,16 @@
+Player: ngamer3k
+Rating: 1477
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to ccg|air (1604)
+defeated phantom miria (1474)
+lost to nando tovar (1555)
+::::Combo Breaker::::
+defeated ee eseif (1487)
+lost to spriggan (1512)
+lost to j fabulous (1499)

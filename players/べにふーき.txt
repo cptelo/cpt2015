@@ -1,0 +1,13 @@
+Player: べにふーき
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Nine States::::
+defeated キッド (1487)
+lost to pepeday (1664)
+defeated えにてょ (1475)
+lost to つけめん (1523)

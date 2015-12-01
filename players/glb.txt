@@ -1,0 +1,29 @@
+Player: glb
+Rating: 1548
+Played: 17
+Won: 9
+Lost: 8
+%: 52
+
+Results:
+::::NorCal Regionals::::
+defeated c-los (1489)
+defeated ambush (1501)
+lost to avm|gamerbee (1644)
+defeated phdinspd (1511)
+defeated ph|jame (1515)
+lost to filipinoman (1626)
+::::Combo Breaker::::
+defeated blaqacid (1489)
+defeated m a d w a k (1501)
+lost to jebailey (1538)
+lost to corn ace king (1537)
+::::CEO::::
+defeated usin (1501)
+defeated tosfhq sj (1501)
+lost to mcz|tokido (1715)
+lost to judge ashen (1550)
+::::SCR::::
+lost to bcw_bushinstyle (1514)
+defeated biobillybonez (1500)
+lost to cartoon hero (1530)

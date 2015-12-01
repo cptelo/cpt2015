@@ -1,0 +1,13 @@
+Player: ivanpants
+Rating: 1475
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Texas Showdown::::
+lost to ua|m.betty (1512)
+defeated team seaslug (1490)
+lost to illoopail (1524)
+lost to illoopail (1535)

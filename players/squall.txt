@@ -1,0 +1,15 @@
+Player: squall
+Rating: 1523
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Combo Breaker::::
+defeated schmoo (1487)
+defeated pills (1499)
+lost to royalphlush (1536)
+defeated yomi glass sword (1511)
+defeated pills (1522)
+lost to royalphlush (1537)

@@ -1,0 +1,17 @@
+Player: evb ds ray
+Rating: 1541
+Played: 8
+Won: 5
+Lost: 3
+%: 62
+
+Results:
+::::First Attack::::
+defeated m. crash (1499)
+defeated zoke16 (1499)
+lost to liquid|nuckledu (1753)
+defeated solrac naej (1527)
+lost to liquid|nuckledu (1755)
+defeated ranmasama (1554)
+defeated cocaneta (1534)
+lost to eg|k-brad (1677)

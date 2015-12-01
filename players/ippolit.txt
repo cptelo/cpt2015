@@ -1,0 +1,13 @@
+Player: ippolit
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Dreamhack Winter::::
+lost to forward dash (1483)
+defeated kilmer (1474)
+defeated shonk (1489)
+lost to gxc|damascus (1604)

@@ -1,0 +1,13 @@
+Player: juicyjoe
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Dreamhack Winter::::
+defeated atrosh (1487)
+lost to um|btm|rmz (1605)
+defeated fgdojo|ninio (1470)
+lost to bx3|phenom (1659)

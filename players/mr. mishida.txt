@@ -1,0 +1,13 @@
+Player: mr. mishida
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+lost to ta|chris g (1618)
+defeated da doomsday (1474)
+defeated epic|narcissistic (1486)
+lost to idgaf nytmare_raven (1512)

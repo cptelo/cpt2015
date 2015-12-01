@@ -1,0 +1,14 @@
+Player: combo kash
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+lost to ph|nando tovar (1589)
+defeated pmoney (1474)
+defeated shinobee (1467)
+defeated doctorstantz (1486)
+lost to ccg|air (1632)

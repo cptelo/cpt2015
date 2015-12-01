@@ -1,0 +1,22 @@
+Player: brick
+Rating: 1562
+Played: 12
+Won: 7
+Lost: 5
+%: 58
+
+Results:
+::::Dreamhack Summer::::
+lost to rize|ind|pro fluke (1633)
+defeated paranoiar (1478)
+defeated iki (1500)
+defeated iahadima (1479)
+defeated ettelman (1555)
+defeated doxus (1496)
+lost to avm|gamerbee (1717)
+lost to ind.king funk (1517)
+::::Dreamhack Winter::::
+defeated gtr (1538)
+lost to kreymore (1539)
+defeated prowners (1474)
+lost to md|luffy (1790)

@@ -1,0 +1,18 @@
+Player: kyoku
+Rating: 1560
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Tokyo Game Show::::
+lost to fgc|pepeday (1642)
+defeated sabohani (1553)
+defeated mcz|tokido (1705)
+lost to be|nemo (1737)
+::::Ultra Hyakkishu Cup::::
+defeated hanamaruki (1489)
+lost to ybk|dashio (1666)
+defeated foolycooly2 (1488)
+lost to ninomae (1576)

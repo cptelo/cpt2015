@@ -1,0 +1,12 @@
+Player: rinda wan
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+defeated g.y.r.o (1486)
+lost to silg@st (1524)
+lost to peanutryu (1525)

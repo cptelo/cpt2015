@@ -1,0 +1,10 @@
+Player: rm|saltface
+Rating: 1490
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::Final Round::::
+lost to brentt (1598)

@@ -1,0 +1,11 @@
+Player: 陈智聪 坑头仔
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::HK::::
+lost to cheungyik memory (1512)
+lost to 梁伟知 todayceo (1524)

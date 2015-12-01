@@ -1,0 +1,12 @@
+Player: aron mike
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated troja (1487)
+lost to epic|boi toi (1561)
+lost to nhem lee (1499)

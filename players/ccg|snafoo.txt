@@ -1,0 +1,15 @@
+Player: ccg|snafoo
+Rating: 1505
+Played: 5
+Won: 2
+Lost: 3
+%: 40
+
+Results:
+::::EVO::::
+lost to damdai (1543)
+::::Canada Cup::::
+defeated fa|ryan hart (1692)
+defeated /r/sf|rawbertson (1502)
+lost to eg|momochi (1773)
+lost to ccg|air (1635)

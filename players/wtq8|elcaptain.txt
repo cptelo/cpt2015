@@ -1,0 +1,14 @@
+Player: wtq8|elcaptain
+Rating: 1520
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::KO Fighting Game Festival::::
+defeated fujiq8 (1499)
+lost to ybk|r (1571)
+defeated armageddon (1515)
+defeated noob_player (1511)
+lost to rzr|xian (1766)

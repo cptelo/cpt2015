@@ -1,0 +1,22 @@
+Player: rockpon
+Rating: 1546
+Played: 11
+Won: 7
+Lost: 4
+%: 63
+
+Results:
+::::EVO::::
+defeated kdit|ren (1485)
+::::Taiwan::::
+defeated 泰瑞鴿 (1487)
+defeated cn (1499)
+lost to tonpy (1642)
+defeated atom (1515)
+defeated 五股淫棍王 (1514)
+lost to tonpy (1640)
+::::HK::::
+defeated 黄洁 shermie（虾米） (1488)
+defeated 周怿 angle (1500)
+lost to kok (1616)
+lost to ip hoi wang xft_whip (1536)

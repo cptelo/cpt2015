@@ -1,0 +1,15 @@
+Player: cj truth
+Rating: 1539
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated alex turner (1499)
+defeated snoop (1499)
+defeated gg|epic l.gg|onisan (1584)
+lost to r/kappa|kazunoko (1728)
+defeated ag|native impact (1640)
+lost to ts|arturo sanchez (1681)

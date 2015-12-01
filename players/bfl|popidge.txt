@@ -1,0 +1,17 @@
+Player: bfl|popidge
+Rating: 1486
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Hypespotting::::
+lost to benners (1512)
+defeated rst|ryrie (1474)
+lost to rs|ayjayirl (1511)
+::::VS Fighting::::
+defeated volkmair (1486)
+lost to btm|real menace (1560)
+defeated goukki (1474)
+lost to tws|tws gibbo (1488)

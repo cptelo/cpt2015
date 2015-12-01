@@ -1,0 +1,25 @@
+Player: rm emp kdz
+Rating: 1567
+Played: 15
+Won: 11
+Lost: 4
+%: 73
+
+Results:
+::::Combo Breaker::::
+defeated aquamandog (1487)
+defeated jean (1499)
+defeated wanderlust g33k (1511)
+lost to eg|justin wong (1741)
+defeated wanderlust g33k (1523)
+defeated a$ap rabbitos (1489)
+defeated derrick legend (1526)
+defeated jebailey (1540)
+lost to bab khangaroo (1569)
+::::CEO::::
+defeated cltn sl1m (1489)
+lost to r/kappa|infilitration (1769)
+defeated 0ctopus0nfire (1477)
+defeated cg projo (1465)
+defeated jono dori (1503)
+lost to brian_f (1537)

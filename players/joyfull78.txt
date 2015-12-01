@@ -1,0 +1,13 @@
+Player: joyfull78
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA KR::::
+defeated fender (1487)
+lost to r/kappa|infilitration (1749)
+defeated ink7 (1486)
+lost to ink7 (1499)

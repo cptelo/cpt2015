@@ -1,0 +1,12 @@
+Player: shakugan
+Rating: 1484
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to spabobin (1460)
+defeated ph emberandroses (1474)
+lost to bcw-gaara_sand (1513)

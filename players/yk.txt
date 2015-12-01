@@ -1,0 +1,12 @@
+Player: yk
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to ybk|shin (1512)
+defeated meisai ningyo (1476)
+lost to nyanshi (1515)

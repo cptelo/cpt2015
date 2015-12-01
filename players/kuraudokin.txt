@@ -1,0 +1,12 @@
+Player: kuraudokin
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+defeated kilink/kk (1487)
+lost to codynp (1535)
+lost to lin先生 (1511)

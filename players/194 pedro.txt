@@ -1,0 +1,13 @@
+Player: 194 pedro
+Rating: 1477
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Dreamhack Winter::::
+defeated opostrophe (1487)
+lost to rize|ind|pro fluke (1637)
+lost to knix (1515)
+lost to riktigsfivspelare (1502)

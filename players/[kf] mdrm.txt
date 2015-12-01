@@ -1,0 +1,11 @@
+Player: [kf] mdrm
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Texas Showdown::::
+lost to re: dandy cage (1512)
+lost to ren (1511)

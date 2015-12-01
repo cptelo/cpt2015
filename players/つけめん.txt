@@ -1,0 +1,14 @@
+Player: つけめん
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Nine States::::
+defeated お花畑 (1487)
+lost to はげじん (1512)
+defeated キヌイト (1490)
+defeated べにふーき (1502)
+lost to 大分人 (1526)

@@ -1,0 +1,19 @@
+Player: jns
+Rating: 1478
+Played: 9
+Won: 3
+Lost: 6
+%: 33
+
+Results:
+::::Dreamhack Summer::::
+lost to dreadleif (1512)
+lost to jet (1516)
+lost to avm|gamerbee (1710)
+defeated pylo (1443)
+lost to ind.saltykid (1529)
+::::Dreamhack Winter::::
+defeated 196|patrik (1486)
+defeated ettelman (1514)
+lost to afi (1520)
+lost to rzr|xian (1785)

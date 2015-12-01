@@ -1,0 +1,15 @@
+Player: tommy gunzss
+Rating: 1504
+Played: 6
+Won: 3
+Lost: 3
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated gmd daydreamer (1499)
+defeated ua|wholio (1511)
+lost to nashfan (1525)
+defeated bsida (1510)
+lost to vgp|nashfan (1537)
+lost to liquid|nuckledu (1742)

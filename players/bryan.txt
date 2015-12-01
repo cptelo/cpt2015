@@ -1,0 +1,13 @@
+Player: bryan
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::FV Cup::::
+defeated dikdik (1487)
+lost to fv bison wong (1523)
+defeated voltrix (1500)
+lost to stekoh (1534)

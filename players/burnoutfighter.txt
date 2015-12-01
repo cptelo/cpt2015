@@ -1,0 +1,12 @@
+Player: burnoutfighter
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to leslie (1574)
+defeated sbk (1474)
+lost to rodney (1514)

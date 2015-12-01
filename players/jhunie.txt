@@ -1,0 +1,13 @@
+Player: jhunie
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated arcadedreams (1487)
+defeated groceryoutletjustin (1499)
+lost to eg|justin wong (1683)
+lost to jared (1537)

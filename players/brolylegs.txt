@@ -1,0 +1,19 @@
+Player: brolylegs
+Rating: 1530
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::Texas Showdown::::
+defeated ren (1499)
+defeated online scrub|kaos (1511)
+lost to tampa bison (1652)
+defeated hypersurge (1521)
+lost to tampa bison (1660)
+defeated gol|krucial b (1521)
+lost to ccg|air (1631)
+::::EVO::::
+defeated dogura (1558)
+lost to mcz|daigo (1753)

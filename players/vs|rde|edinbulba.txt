@@ -1,0 +1,22 @@
+Player: vs|rde|edinbulba
+Rating: 1581
+Played: 12
+Won: 8
+Lost: 4
+%: 66
+
+Results:
+::::Hypespotting::::
+defeated ymb9 dutchie (1489)
+defeated boltstrike (1547)
+defeated frostynuggs (1513)
+lost to codynp (1554)
+defeated btm brian (1551)
+defeated wiseblade (1564)
+lost to rize|ind|pro fluke (1630)
+::::EGX::::
+defeated rize|ind|boltstrike (1561)
+lost to gonzales (1615)
+defeated sfo brylarke (1494)
+defeated deku deku tree (1506)
+lost to um|btm|imstilldadaddy (1638)

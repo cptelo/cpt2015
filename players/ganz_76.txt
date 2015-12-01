@@ -1,0 +1,11 @@
+Player: ganz_76
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Milan Games Week::::
+lost to lucamago (1512)
+lost to coccocco713 (1514)

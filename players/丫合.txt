@@ -1,0 +1,12 @@
+Player: 丫合
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to ts|reiketsu (1631)
+defeated fake hd (1474)
+lost to 龜仙人 (1511)

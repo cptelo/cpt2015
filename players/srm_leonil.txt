@@ -1,0 +1,13 @@
+Player: srm_leonil
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated ok-gandy (1487)
+defeated ctrl|unknown (1499)
+lost to eg|ricki ortiz (1728)
+lost to miamix-alex (1539)

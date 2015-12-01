@@ -1,0 +1,12 @@
+Player: cg_sonicboom
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated dtjb (1487)
+lost to cj tajh (1524)
+lost to damurgood (1526)

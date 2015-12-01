@@ -1,0 +1,13 @@
+Player: havocvstheworld
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated u_no_hoo (1487)
+defeated simplyktg (1487)
+lost to ryder (1524)
+lost to holdy (1546)

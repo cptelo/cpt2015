@@ -1,0 +1,17 @@
+Player: emp|hiro
+Rating: 1577
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::Final Round::::
+defeated mcz|mago (1641)
+defeated rzr|itabashi zangief (1664)
+lost to eg|momochi (1725)
+defeated eg|ricki ortiz (1688)
+lost to r/kappa|kazunoko (1696)
+::::Defend the North::::
+defeated pag|glitch (1490)
+lost to l1|zaferino (1603)

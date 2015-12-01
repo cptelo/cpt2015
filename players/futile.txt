@@ -1,0 +1,14 @@
+Player: futile
+Rating: 1518
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+defeated legendarygamer (1487)
+defeated filipinoman (1617)
+lost to smbg|tangent (1547)
+defeated dkt (1525)
+lost to filipinoman (1629)

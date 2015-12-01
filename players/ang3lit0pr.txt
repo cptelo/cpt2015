@@ -1,0 +1,12 @@
+Player: ang3lit0pr
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+defeated od|dbiohazard (1487)
+lost to yeral (1512)
+lost to msd xavi (1499)

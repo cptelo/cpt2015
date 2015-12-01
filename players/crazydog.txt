@@ -1,0 +1,12 @@
+Player: crazydog
+Rating: 1498
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated ganguro (1524)
+lost to eg|pr balrog (1686)
+lost to rzr|gackt (1671)

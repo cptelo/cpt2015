@@ -1,0 +1,12 @@
+Player: j fabulous
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to wfga higgs bison (1512)
+defeated ngamer3k (1477)
+lost to callisto (1513)

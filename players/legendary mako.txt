@@ -1,0 +1,11 @@
+Player: legendary mako
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::First Attack::::
+lost to ig|zonvolt (1512)
+lost to sa justice (1511)

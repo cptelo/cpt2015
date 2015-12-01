@@ -1,0 +1,13 @@
+Player: smash
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated sddowns (1487)
+lost to emersion (1563)
+defeated flicky (1486)
+lost to tyrant (1612)

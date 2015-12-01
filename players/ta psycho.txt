@@ -1,0 +1,17 @@
+Player: ta psycho
+Rating: 1548
+Played: 8
+Won: 6
+Lost: 2
+%: 75
+
+Results:
+::::CEO::::
+defeated bigbates (1487)
+defeated theblackhombre (1499)
+lost to tsc|sanford kelly (1597)
+defeated arson (1499)
+defeated bigbates (1522)
+defeated realistic (1516)
+defeated bronxpuertorock (1515)
+lost to tsc|sanford kelly (1606)

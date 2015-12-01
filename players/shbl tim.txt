@@ -1,0 +1,15 @@
+Player: shbl tim
+Rating: 1527
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::NorCal Regionals::::
+lost to bj unchained (1562)
+defeated beamsprouts (1474)
+defeated caderax (1475)
+defeated el ben (1486)
+defeated willgetpaid (1504)
+lost to ccg|chris tatarian (1657)

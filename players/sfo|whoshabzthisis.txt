@@ -1,0 +1,14 @@
+Player: sfo|whoshabzthisis
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::VS Fighting::::
+defeated ds|gutsy (1487)
+lost to btm|isam (1571)
+defeated noodles (1498)
+defeated fi3nd x godmode (1500)
+lost to rize|ind|boltstrike (1568)

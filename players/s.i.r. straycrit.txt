@@ -1,0 +1,12 @@
+Player: s.i.r. straycrit
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to wyseguy (1512)
+defeated naryx (1474)
+lost to banto (1511)

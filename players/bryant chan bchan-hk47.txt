@@ -1,0 +1,12 @@
+Player: bryant chan bchan-hk47
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::HK::::
+lost to bosco bosmoko (1512)
+defeated ken yeung kenyeung (1474)
+lost to akimoto akimo (1511)

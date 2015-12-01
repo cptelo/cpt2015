@@ -1,0 +1,12 @@
+Player: david cameron.gov
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to rize|ind|mug|rdubstepper (1512)
+defeated tws gibbo (1474)
+lost to cex|goukifafa (1511)

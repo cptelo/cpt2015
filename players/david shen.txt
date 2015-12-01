@@ -1,0 +1,13 @@
+Player: david shen
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated rm9 (1487)
+defeated 龜仙人 (1499)
+lost to qanba douyu|dark jiewa (1636)
+lost to 可樂ヤン (1539)

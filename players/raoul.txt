@@ -1,0 +1,13 @@
+Player: raoul
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated tsp|timtastic (1487)
+lost to blockbuster jon (1524)
+defeated codeserial (1486)
+lost to pieguy (1523)

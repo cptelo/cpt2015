@@ -1,0 +1,16 @@
+Player: scc|lark0
+Rating: 1481
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to phoenix (1512)
+lost to rde|sleight (1511)
+::::VS Fighting::::
+defeated tekkon (1486)
+lost to md|luffy (1734)
+defeated jwoods (1473)
+lost to noodles (1511)

@@ -1,0 +1,22 @@
+Player: hadoukenmd
+Rating: 1527
+Played: 12
+Won: 7
+Lost: 5
+%: 58
+
+Results:
+::::CEO::::
+defeated zee rinkato (1487)
+lost to yomi|shin phoenix (1524)
+defeated noggy (1474)
+defeated pxg wiseguy (1506)
+defeated polarbite (1502)
+lost to a-team pag ne glitch (1526)
+::::TFC::::
+defeated gungnir (1488)
+defeated xdsc-knowledge (1500)
+lost to wave foomy (1547)
+defeated xero (1522)
+lost to wave foomy (1559)
+lost to pie|smug (1686)

@@ -1,0 +1,13 @@
+Player: ua|m.betty
+Rating: 1473
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Texas Showdown::::
+defeated ivanpants (1487)
+lost to the professional (1512)
+lost to setx|dlowe (1487)
+lost to swirlyglasses (1522)

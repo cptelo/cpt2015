@@ -1,0 +1,51 @@
+Player: eita
+Rating: 1615
+Played: 35
+Won: 20
+Lost: 15
+%: 57
+
+Results:
+::::CPTA KR::::
+defeated cptmaumau (1491)
+defeated volg (1502)
+defeated kim1234 (1567)
+defeated kim1234 (1566)
+lost to humanbomb (1650)
+defeated dbkoopa (1553)
+lost to bonchan (1714)
+::::KSB 2015::::
+defeated spabobin (1458)
+lost to tonpy (1636)
+defeated もづく (1495)
+defeated nishikin (1664)
+defeated anton (1549)
+lost to neogaf|koji kog (1682)
+::::Stunfest::::
+lost to r/kappa|infilitration (1783)
+lost to avm|gamerbee (1702)
+::::South East Asia Major::::
+lost to humanbomb (1645)
+defeated papatiwawa (1486)
+lost to rb (1616)
+::::EVO::::
+lost to mc|xsk samurai (1574)
+defeated lu|alex valle (1512)
+lost to misse (1647)
+::::Tokyo Game Show::::
+lost to inco (1678)
+::::Ultra Hyakkishu Cup::::
+defeated zenny (1490)
+defeated super uriajjo (1502)
+lost to eg|momochi (1770)
+defeated sasaki (1557)
+defeated g.y.r.o (1482)
+lost to yossan (1590)
+::::Milan Games Week::::
+defeated cameraman (1467)
+defeated rize|ind|pro fluke (1629)
+lost to mf|tonpy (1679)
+defeated splendidnull (1518)
+defeated gl|rb|valmaster (1698)
+defeated ybk|shiro (1655)
+lost to md|luffy (1793)

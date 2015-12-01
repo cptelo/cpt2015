@@ -1,0 +1,13 @@
+Player: fv bison wong
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::FV Cup::::
+defeated sketch (1471)
+defeated bryan (1499)
+lost to qanba douyu|dark jiewa (1638)
+lost to stekoh (1545)

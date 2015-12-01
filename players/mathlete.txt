@@ -1,0 +1,11 @@
+Player: mathlete
+Rating: 1477
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to julio (1592)
+lost to sir reginald (1499)

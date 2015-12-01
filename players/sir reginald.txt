@@ -1,0 +1,12 @@
+Player: sir reginald
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to xtr sd|alexis (1512)
+defeated mathlete (1477)
+lost to wolf street (1511)

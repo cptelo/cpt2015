@@ -1,0 +1,12 @@
+Player: スコア
+Rating: 1495
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KSB 2015::::
+defeated たいがー (1487)
+lost to mcz|tokido (1697)
+lost to gonzales (1603)

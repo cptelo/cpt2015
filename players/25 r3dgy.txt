@@ -1,0 +1,12 @@
+Player: 25 r3dgy
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated baker (1487)
+lost to nacer (1523)
+lost to dmansland (1508)

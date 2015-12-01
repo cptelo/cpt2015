@@ -1,0 +1,11 @@
+Player: a4|andre
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Hypespotting::::
+lost to boltstrike (1560)
+lost to ymb9 dutchie (1501)

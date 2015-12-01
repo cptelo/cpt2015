@@ -1,0 +1,14 @@
+Player: huanlin
+Rating: 1559
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA Shanghai::::
+defeated gz-ben (1489)
+defeated qanba douyu|cuishao (1501)
+defeated tonpy (1635)
+lost to qanba douyu|dakou (1628)
+lost to gz-ben (1565)

@@ -1,0 +1,13 @@
+Player: summer xft_summer
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::HK::::
+defeated 何文泉 中山泉仔 (1487)
+defeated 著名旅游玩家sky (1499)
+lost to 谢文斌 dudu (1525)
+lost to akimoto akimo (1535)

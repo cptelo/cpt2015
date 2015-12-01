@@ -1,0 +1,15 @@
+Player: xtr sd|alexis
+Rating: 1527
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::NorCal Regionals::::
+defeated sir reginald (1487)
+lost to julio (1601)
+defeated daft (1486)
+defeated yogadon (1505)
+defeated haywad (1505)
+lost to julio (1607)

@@ -1,0 +1,14 @@
+Player: falcomist
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+lost to blockbuster jon (1512)
+defeated tsp|timtastic (1474)
+defeated koryu (1493)
+defeated onslaught (1498)
+lost to blockbuster jon (1523)

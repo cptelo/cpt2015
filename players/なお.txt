@@ -1,0 +1,12 @@
+Player: なお
+Rating: 1495
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KSB 2015::::
+lost to kindo (1591)
+defeated まーやー (1479)
+lost to nishikin (1679)

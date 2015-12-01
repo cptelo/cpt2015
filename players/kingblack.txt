@@ -1,0 +1,12 @@
+Player: kingblack
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to iusedoom (1512)
+defeated mrgrreatness (1474)
+lost to be|kane blueriver (1522)

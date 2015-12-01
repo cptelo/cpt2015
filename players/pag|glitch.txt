@@ -1,0 +1,10 @@
+Player: pag|glitch
+Rating: 1490
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::Defend the North::::
+lost to emp|hiro (1590)

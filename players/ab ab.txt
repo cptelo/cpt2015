@@ -1,0 +1,16 @@
+Player: ab ab
+Rating: 1531
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::CPTA Shanghai::::
+defeated 章毅骏 阿骏 (1498)
+defeated 赵渭炯 小迷 (1511)
+lost to rzr|xian (1754)
+defeated 刘斌 sandro (1528)
+lost to rzr|xian (1756)
+defeated gz-ben (1551)
+lost to rzr|fuudo (1715)

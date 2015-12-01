@@ -1,0 +1,11 @@
+Player: unggul
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Abuget Cup::::
+lost to chuan (1608)
+lost to saman (1501)

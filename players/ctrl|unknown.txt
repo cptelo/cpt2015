@@ -1,0 +1,20 @@
+Player: ctrl|unknown
+Rating: 1524
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::CEO::::
+defeated crazed rice (1487)
+lost to srm_leonil (1524)
+defeated teaseeoh (1474)
+defeated rao (1504)
+lost to sp anbu kpb teiga (1529)
+::::TFC::::
+defeated tombstone (1487)
+lost to pie|smug (1689)
+defeated rick masters (1487)
+defeated j8slim (1493)
+lost to mob|princess slim (1541)

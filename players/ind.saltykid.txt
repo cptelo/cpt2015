@@ -1,0 +1,18 @@
+Player: ind.saltykid
+Rating: 1545
+Played: 9
+Won: 6
+Lost: 3
+%: 66
+
+Results:
+::::Dreamhack Summer::::
+defeated pylo (1474)
+defeated jet (1514)
+lost to avm|gamerbee (1712)
+defeated jns (1469)
+defeated dreadleif (1491)
+defeated lyhs (1493)
+lost to rize|ind|pro fluke (1649)
+defeated nayte (1542)
+lost to ryan hart (1687)

@@ -1,0 +1,14 @@
+Player: wong ho ching river
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::HK::::
+defeated niceblock skenming (1487)
+defeated po yuen chan xft_nana (1499)
+lost to rzr|rb (1623)
+defeated wong hin chung saisak (1515)
+lost to po yuen chan xft_nana (1547)

@@ -1,0 +1,11 @@
+Player: aag|baby brasil
+Rating: 1499
+Played: 2
+Won: 1
+Lost: 1
+%: 50
+
+Results:
+::::CPT Brazil::::
+defeated sft|jacare (1487)
+lost to sft|guiller br (1522)

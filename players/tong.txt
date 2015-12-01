@@ -1,0 +1,13 @@
+Player: tong
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated dmc macc (1487)
+defeated lfgc maul (1499)
+lost to alucard (1580)
+lost to wfga higgs bison (1535)

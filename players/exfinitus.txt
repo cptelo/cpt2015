@@ -1,0 +1,14 @@
+Player: exfinitus
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated blitzking109 (1487)
+lost to drenxan (1524)
+defeated ryer (1474)
+defeated krs t3p valiant (1491)
+lost to udlr painbot (1526)

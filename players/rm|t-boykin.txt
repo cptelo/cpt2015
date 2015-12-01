@@ -1,0 +1,14 @@
+Player: rm|t-boykin
+Rating: 1509
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Texas Showdown::::
+defeated iyokuu (1487)
+lost to justrun (1512)
+defeated nick rb (1474)
+defeated el maleman (1486)
+lost to krucial b (1518)

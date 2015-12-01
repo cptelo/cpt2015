@@ -1,0 +1,15 @@
+Player: hypersurge
+Rating: 1521
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Texas Showdown::::
+lost to online scrub|kaos (1524)
+defeated ucc|mattikus (1474)
+defeated ren (1498)
+defeated re: dandy cage (1502)
+defeated online scrub|kaos (1510)
+lost to brolylegs (1528)

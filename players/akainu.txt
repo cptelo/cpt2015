@@ -1,0 +1,12 @@
+Player: akainu
+Rating: 1539
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Cannes Winter Clash::::
+lost to valmaster (1707)
+defeated starnab (1528)
+lost to ninja shackz (1520)

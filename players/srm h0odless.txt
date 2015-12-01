@@ -1,0 +1,12 @@
+Player: srm h0odless
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated b&b venison (1487)
+lost to kas_shadow (1524)
+lost to ee eseif (1523)

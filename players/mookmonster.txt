@@ -1,0 +1,14 @@
+Player: mookmonster
+Rating: 1517
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated marquezsf (1487)
+defeated dkt (1499)
+lost to eg|momochi (1741)
+defeated trevonte (1510)
+lost to steeeeve (1537)

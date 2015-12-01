@@ -1,0 +1,13 @@
+Player: redmage138
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::TFC::::
+defeated kristougher (1487)
+lost to yg|joel (1653)
+defeated formerlyunknown (1498)
+lost to rikkafresh (1523)

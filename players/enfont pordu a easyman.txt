@@ -1,0 +1,13 @@
+Player: enfont pordu a easyman
+Rating: 1497
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Red Fight District::::
+defeated confz (1474)
+lost to iplay halibel (1524)
+defeated cevo (1491)
+lost to keftaroz (1527)

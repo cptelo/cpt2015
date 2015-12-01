@@ -1,0 +1,14 @@
+Player: hyde
+Rating: 1457
+Played: 4
+Won: 0
+Lost: 4
+%: 0
+
+Results:
+::::Nine States::::
+lost to もふもふ (1524)
+lost to 無刑 (1511)
+::::Ultra Hyakkishu Cup::::
+lost to kenzou (1559)
+lost to misse (1664)

@@ -1,0 +1,15 @@
+Player: brian_f
+Rating: 1531
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated 0ctopus0nfire (1487)
+defeated gohancachat (1487)
+lost to ts min (1524)
+defeated better metal dingo (1509)
+defeated rm emp kdz (1567)
+lost to r/kappa|infilitration (1763)

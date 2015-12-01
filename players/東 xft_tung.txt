@@ -1,0 +1,14 @@
+Player: 東 xft_tung
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::HK::::
+defeated 罗国樑 robert仔 (1487)
+lost to 许永宽 斗鱼tv/阿包 (1524)
+defeated harris yung kuchi82 (1489)
+defeated leung yau chun tomo (1503)
+lost to gl|saunic (1581)

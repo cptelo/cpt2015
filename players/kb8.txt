@@ -1,0 +1,12 @@
+Player: kb8
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to ybk|shiro (1629)
+defeated vetash32 (1474)
+lost to twmsp (1511)

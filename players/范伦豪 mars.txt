@@ -1,0 +1,11 @@
+Player: 范伦豪 mars
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to qanba douyu|bei bei (1512)
+lost to kang 康 (1511)

@@ -1,0 +1,13 @@
+Player: japf
+Rating: 1475
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Dreamhack Winter::::
+defeated kavorca (1487)
+lost to frametrap|the prince (1500)
+lost to sfo brylarke (1507)
+lost to fa|big bird (1578)

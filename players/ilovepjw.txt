@@ -1,0 +1,11 @@
+Player: ilovepjw
+Rating: 1477
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA KR::::
+lost to kok (1606)
+lost to iim83man (1503)

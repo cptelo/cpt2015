@@ -1,0 +1,22 @@
+Player: ph|jame
+Rating: 1541
+Played: 12
+Won: 8
+Lost: 4
+%: 66
+
+Results:
+::::NorCal Regionals::::
+defeated zero_hour (1487)
+defeated phdinspd (1499)
+lost to filipinoman (1627)
+defeated kwyjibo (1514)
+lost to glb (1580)
+::::Northwest Majors::::
+defeated pdx waifu mobile (goggles) (1488)
+lost to kaleo (1525)
+defeated ipg|dcb staticgorilla (1498)
+defeated joeycl (1510)
+defeated german luger (1545)
+defeated kaleo (1516)
+lost to eg|pr balrog (1664)

@@ -1,0 +1,11 @@
+Player: itsther
+Rating: 1482
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to liquid|nuckledu (1742)
+lost to flocker (1507)

@@ -1,0 +1,22 @@
+Player: doxus
+Rating: 1460
+Played: 12
+Won: 4
+Lost: 8
+%: 33
+
+Results:
+::::Dreamhack Summer::::
+defeated archiba (1487)
+defeated remes (1491)
+lost to um|imstilldadaddy (1618)
+lost to ind.spb|ixion (1575)
+lost to um|imstilldadaddy (1621)
+defeated james deen (1475)
+lost to brick (1591)
+lost to forward dash (1495)
+::::Dreamhack Winter::::
+lost to raego (1511)
+lost to cuongster (1586)
+defeated gustavo (1460)
+lost to warbio (1469)

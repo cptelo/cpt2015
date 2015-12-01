@@ -1,0 +1,11 @@
+Player: sanjo
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::KSB 2015::::
+lost to gachikun (1608)
+lost to パスタ3 (1499)

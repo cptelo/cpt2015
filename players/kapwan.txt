@@ -1,0 +1,13 @@
+Player: kapwan
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated idiocy (1487)
+lost to eg|k-brad (1610)
+defeated t-venom (1486)
+lost to hf|hainix (1523)

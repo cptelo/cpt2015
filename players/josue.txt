@@ -1,0 +1,15 @@
+Player: josue
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Texas Showdown::::
+lost to starwin (1524)
+defeated kermit alexander (1474)
+defeated king koopa (1486)
+defeated setx 199x survivor pro (1493)
+defeated assan chop (1511)
+lost to starwin (1542)

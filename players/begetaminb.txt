@@ -1,0 +1,11 @@
+Player: begetaminb
+Rating: 1557
+Played: 2
+Won: 1
+Lost: 1
+%: 50
+
+Results:
+::::EVO::::
+defeated neogaf|r/kappa|koji kog (1671)
+lost to eg|pr balrog (1691)

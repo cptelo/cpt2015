@@ -1,0 +1,14 @@
+Player: zakotou
+Rating: 1516
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Northwest Majors::::
+defeated gs|gllty (1502)
+lost to mc|xsk samurai (1575)
+defeated yeti (1500)
+defeated ac riki-oh (1497)
+lost to 801|jayce the ace (1613)

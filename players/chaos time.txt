@@ -1,0 +1,22 @@
+Player: chaos time
+Rating: 1538
+Played: 12
+Won: 8
+Lost: 4
+%: 66
+
+Results:
+::::VS Fighting::::
+defeated ed|neodurge (1487)
+lost to mba|rize|ind|infexious (1624)
+defeated jeebius (1475)
+defeated sfo|nargrull (1487)
+defeated jiji (1491)
+defeated ed|kyros (1513)
+lost to um|btm|rmz (1611)
+::::EGX::::
+lost to lom|warteacher (1537)
+defeated sfo broodoo (1490)
+defeated sfo ghost (1491)
+defeated syn chuck (1505)
+lost to gonzales (1614)

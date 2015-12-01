@@ -1,0 +1,10 @@
+Player: ch|nigma
+Rating: 1487
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::True Challengers Costa Rica::::
+lost to 507 doomsday (1512)

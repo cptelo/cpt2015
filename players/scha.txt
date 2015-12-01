@@ -1,0 +1,13 @@
+Player: scha
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated guro_loli (1487)
+lost to eg|ricki ortiz (1723)
+defeated mr. (1486)
+lost to boeken (1522)

@@ -1,0 +1,14 @@
+Player: mazinkaiser
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Milan Games Week::::
+defeated vaca89 (1487)
+lost to alexarandom (1524)
+defeated mateo fratus (1474)
+defeated joker (1494)
+lost to neopunisher (1531)

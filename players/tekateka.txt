@@ -1,0 +1,12 @@
+Player: tekateka
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated eg|chocoblanka (1486)
+lost to nishikin (1656)
+lost to spanky (1510)

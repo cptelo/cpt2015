@@ -1,0 +1,13 @@
+Player: hydro
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated fuzz lightyear (1487)
+lost to 200yen (1524)
+defeated gpl - tommy pickles (1486)
+lost to clim (1529)

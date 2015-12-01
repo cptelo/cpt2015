@@ -1,0 +1,10 @@
+Player: rsd|momi
+Rating: 1539
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::FFM-Rumble::::
+lost to um|rmz (1618)

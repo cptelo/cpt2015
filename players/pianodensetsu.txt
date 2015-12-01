@@ -1,0 +1,12 @@
+Player: pianodensetsu
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated bigboss dayasha (1487)
+lost to job gdx (1524)
+lost to condit (1499)

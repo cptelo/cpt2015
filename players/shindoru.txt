@@ -1,0 +1,11 @@
+Player: shindoru
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to rob zfr (1512)
+lost to bsc|hadoshrooms (1499)

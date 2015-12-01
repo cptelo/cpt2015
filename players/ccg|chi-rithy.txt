@@ -1,0 +1,21 @@
+Player: ccg|chi-rithy
+Rating: 1593
+Played: 10
+Won: 7
+Lost: 3
+%: 70
+
+Results:
+::::NorCal Regionals::::
+defeated juantonimobay (1489)
+defeated k/d_heyzeus775 (1501)
+lost to vicious (1582)
+defeated sherryjenix (1513)
+defeated crackfiend (1560)
+lost to vicious (1586)
+::::EVO::::
+defeated eg|justin wong (1719)
+::::Canada Cup::::
+defeated vgp|chaotix (1566)
+defeated ed ma (1484)
+lost to mov (1670)

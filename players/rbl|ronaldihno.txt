@@ -1,0 +1,15 @@
+Player: rbl|ronaldihno
+Rating: 1525
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::First Attack::::
+defeated prk|razor (1487)
+lost to eg|k-brad (1667)
+defeated joker (1486)
+defeated javy jitters (1498)
+defeated borralí (1499)
+lost to prk ts|huracán azura (1529)

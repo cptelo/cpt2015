@@ -1,0 +1,11 @@
+Player: 陆祁仁 johnny
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to 夏伟 minaさん (1512)
+lost to 方思 ice (1512)

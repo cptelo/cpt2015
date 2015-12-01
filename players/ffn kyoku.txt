@@ -1,0 +1,13 @@
+Player: ffn kyoku
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated bluesy (1487)
+lost to el cubano loco (1539)
+defeated dragon ninja (1486)
+lost to ce|cd|kumo (1519)

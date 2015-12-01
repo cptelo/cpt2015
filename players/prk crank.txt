@@ -1,0 +1,15 @@
+Player: prk crank
+Rating: 1524
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::First Attack::::
+defeated goku (1487)
+lost to ranmasama (1567)
+defeated pmp revostylez (1475)
+defeated kenneth hernandez (1486)
+defeated seedogpoo (1502)
+lost to ranmasama (1560)

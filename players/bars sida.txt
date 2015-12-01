@@ -1,0 +1,17 @@
+Player: bars sida
+Rating: 1552
+Played: 8
+Won: 6
+Lost: 2
+%: 75
+
+Results:
+::::CEO::::
+defeated dr. z (1487)
+lost to rzr|fuudo (1717)
+defeated emmcub3d (1475)
+defeated khadell (1498)
+defeated delfonik (1503)
+defeated nyc yuusha (1511)
+defeated sherryjenix (1523)
+lost to mom|velociraptor (1652)

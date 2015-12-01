@@ -1,0 +1,15 @@
+Player: steeeeve
+Rating: 1525
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::NorCal Regionals::::
+defeated threecentipedes (1487)
+defeated trevonte (1499)
+lost to choiboy (1580)
+defeated dkt (1510)
+defeated mookmonster (1517)
+lost to choiboy (1583)

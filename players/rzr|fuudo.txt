@@ -1,0 +1,119 @@
+Player: rzr|fuudo
+Rating: 1759
+Played: 96
+Won: 67
+Lost: 29
+%: 69
+
+Results:
+::::Final Round::::
+defeated ta|chris g (1591)
+defeated ccg|chris tatarian (1651)
+defeated mcz|daigo (1699)
+defeated ts|arturo sanchez (1618)
+defeated tsc|dieminion (1681)
+lost to rzr|xian (1752)
+lost to eg|momochi (1745)
+::::NorCal Regionals::::
+defeated audriolen (1494)
+defeated ultima (1506)
+defeated kizzie kay (1518)
+defeated hoodaman (1617)
+defeated hoodaman (1618)
+defeated hoodaman (1609)
+lost to eg|justin wong (1720)
+lost to marq teddy (1634)
+::::CPTA KR::::
+lost to almond42 (1519)
+lost to kage (1505)
+::::Stunfest::::
+defeated r/kappa|kazunoko (1714)
+defeated rzr|xian (1757)
+lost to poongko (1757)
+::::South East Asia Major::::
+defeated qqel (1543)
+defeated r/kappa|poongko (1745)
+lost to mcz|mago (1700)
+lost to eg|momochi (1748)
+::::CEO::::
+defeated bars sida (1506)
+defeated darkhonor90 (1517)
+defeated sherryjenix (1528)
+defeated espr fga mono (1544)
+lost to tsc|dieminion (1692)
+defeated ts|arturo sanchez (1676)
+lost to qanba douyu|xiaohai (1696)
+::::EVO::::
+defeated r/kappa|poongko (1737)
+defeated ts|arturo sanchez (1671)
+lost to liquid|nuckledu (1769)
+lost to eg|pr balrog (1696)
+::::CPTA Shanghai::::
+defeated 黄之均 mustarday2 (1506)
+defeated jojo (1517)
+defeated qanba douyu|abang (1529)
+lost to qanba douyu|xiaohai (1701)
+defeated ab ab (1531)
+lost to qanba douyu|qqel (1603)
+::::Tokyo Game Show::::
+lost to ybk|dashio (1616)
+defeated kyabetsu (1547)
+defeated mcz|daigo (1751)
+defeated r/kappa|poongko (1722)
+defeated gachikun (1591)
+defeated mf|tonpy (1674)
+lost to -6 (1635)
+::::KO Fighting Game Festival::::
+defeated trainerfox (1506)
+defeated boochi (1517)
+defeated arika (1563)
+defeated arika (1566)
+defeated wtq8|dudebag (1551)
+defeated ybk|r (1611)
+defeated latif (1663)
+lost to rzr|xian (1778)
+lost to rzr|xian (1782)
+::::Ze Fighting Game Champion::::
+defeated latiamattner29 (1494)
+defeated 海龙 (1506)
+defeated 眉山拳王 (1520)
+lost to ccg|humanbomb (1670)
+defeated fdy|devil_reapers|stormkubo (1669)
+defeated qanba douyu|god of sky (1580)
+lost to qanba douyu|xiaohai (1722)
+::::SCR::::
+defeated sd|feist (1494)
+defeated chris nguyen (1506)
+defeated el cubano loco (1532)
+lost to tsc|yomi|dieminion (1721)
+defeated r/kappa|alex myers (1626)
+lost to tsc|yomi|dieminion (1726)
+lost to ccg|chris tatarian (1656)
+::::Ultra Hyakkishu Cup::::
+defeated usami mushiko (1494)
+defeated izumi kouta (1506)
+defeated fgc|ex pugera (1670)
+defeated fgc|dunhill (1542)
+lost to ybk|kawaguchi (1634)
+defeated ybk|dashio (1672)
+defeated r/kappa|poongko (1725)
+lost to be|nemo (1759)
+::::Milan Games Week::::
+defeated jimmy89 (1506)
+defeated sfo|brylarke (1523)
+defeated mba|rize|ind|infexious (1640)
+defeated ybk|shiro (1661)
+defeated gonzales (1645)
+lost to rzr|xian (1818)
+defeated rzr|rb (1640)
+defeated rzr|xian (1811)
+defeated rzr|xian (1805)
+::::Canada Cup::::
+defeated ts|arturo sanchez (1651)
+defeated eg|justin wong (1708)
+defeated rb|bonchan (1769)
+defeated rzr|itabashi zangief (1704)
+lost to mcz|tokido (1728)
+defeated eg|momochi (1776)
+defeated mcz|tokido (1723)
+lost to mcz|tokido (1728)

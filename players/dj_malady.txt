@@ -1,0 +1,16 @@
+Player: dj_malady
+Rating: 1532
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::Texas Showdown::::
+defeated styxtbm (1487)
+lost to pauly z (1512)
+defeated setx spurs21 (1474)
+defeated cupcake panda (1487)
+defeated lost boy (1491)
+defeated pauly z (1501)
+lost to pxg|integra (1561)

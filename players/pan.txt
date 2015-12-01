@@ -1,0 +1,11 @@
+Player: pan
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Milan Games Week::::
+lost to cenerebb (1512)
+lost to fancylaine (1514)

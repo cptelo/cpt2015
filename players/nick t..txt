@@ -1,0 +1,13 @@
+Player: nick t.
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated e-town lord steezer (1487)
+lost to royalphlush (1524)
+defeated jonodori (1488)
+lost to pills (1523)

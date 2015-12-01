@@ -1,0 +1,12 @@
+Player: carzydog
+Rating: 1538
+Played: 3
+Won: 3
+Lost: 0
+%: 100
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated goodjazz (1487)
+defeated wongtoutou (1499)
+defeated brawl|haitani (1581)

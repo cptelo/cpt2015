@@ -1,0 +1,22 @@
+Player: pokchop
+Rating: 1527
+Played: 11
+Won: 6
+Lost: 5
+%: 54
+
+Results:
+::::Final Round::::
+lost to bj unchained (1552)
+::::CEO::::
+defeated better metal dingo (1498)
+defeated revolver dropsalot (1510)
+defeated r/kappa|infilitration (1761)
+lost to julio (1621)
+lost to r/kappa|infilitration (1766)
+::::TFC::::
+defeated dbc (1499)
+lost to shotty (1525)
+defeated final tick (1498)
+defeated dbc (1510)
+lost to dcb|afterdeath (1536)

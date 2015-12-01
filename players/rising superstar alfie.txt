@@ -1,0 +1,13 @@
+Player: rising superstar alfie
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::EGX::::
+defeated lom|luckboxq (1507)
+lost to bx3|phenom (1651)
+defeated smbf nebbiez (1489)
+lost to smbf walkerfam (1516)

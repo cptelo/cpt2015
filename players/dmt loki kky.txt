@@ -1,0 +1,11 @@
+Player: dmt loki kky
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to brentt (1626)
+lost to maxoplata (1499)

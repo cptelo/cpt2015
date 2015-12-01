@@ -1,0 +1,13 @@
+Player: hf yoga
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated audriolen (1469)
+defeated ghodere (1475)
+lost to eg|momochi (1769)
+lost to flaquito (1541)

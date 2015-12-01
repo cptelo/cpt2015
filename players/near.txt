@@ -1,0 +1,11 @@
+Player: near
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to snx (1512)
+lost to fatso_523 (1514)

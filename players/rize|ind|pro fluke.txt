@@ -1,0 +1,87 @@
+Player: rize|ind|pro fluke
+Rating: 1635
+Played: 67
+Won: 43
+Lost: 24
+%: 64
+
+Results:
+::::Cannes Winter Clash::::
+defeated will2pac (1587)
+lost to infilitration (1716)
+defeated taunt (1497)
+lost to valmaster (1710)
+::::Hypespotting::::
+defeated rde oscar (1491)
+defeated apollo steed (1549)
+defeated rde sefsins (1514)
+defeated afii (1622)
+lost to um|imstilldadaddy (1617)
+defeated vs|rde|edinbulba (1579)
+defeated rize|ind|sfo|omh (1544)
+defeated andreas (1628)
+defeated shoryusengan (1601)
+lost to ryan hart (1694)
+::::FFM-Rumble::::
+lost to starnab (1544)
+defeated bonchan (1701)
+lost to mba|infexious (1606)
+::::Dreamhack Summer::::
+defeated brick (1540)
+defeated ettelman (1558)
+defeated paranoiar (1446)
+defeated iki (1492)
+defeated iahadima (1471)
+defeated remes (1466)
+defeated ind.saltykid (1541)
+defeated phenom (1641)
+lost to avm|gamerbee (1724)
+lost to ryan hart (1699)
+::::EVO::::
+lost to hori|sako (1664)
+lost to dl|hamad (1632)
+::::VS Fighting::::
+defeated rob zfr (1503)
+defeated jiji (1503)
+defeated mmg|abswing (1521)
+lost to btm|hurricane (1650)
+defeated um|btm|rmz (1609)
+defeated sfo|ghost (1560)
+lost to btm|hurricane (1649)
+::::EGX::::
+defeated lom buffalo (1503)
+defeated deku deku tree (1505)
+defeated gonzales (1610)
+lost to md|luffy (1765)
+lost to raygo blayde|afii (1651)
+::::Call of Ragnarok::::
+defeated rbn|duppsko (1504)
+lost to gonzales (1632)
+defeated rbn|bliredd (1493)
+defeated rize|ind|thunderbear (1507)
+lost to ybk|shiro (1646)
+::::Red Fight District::::
+defeated hlm (1492)
+defeated iplay|yougenius (1486)
+lost to eg|k-brad (1675)
+lost to cdv|melty|will2pac (1602)
+::::Milan Games Week::::
+defeated daddario (1503)
+lost to eita (1609)
+defeated daniel ta87 (1518)
+defeated dr thomas (1525)
+defeated easyman (1564)
+defeated bx3|phenom (1652)
+lost to eg|k-brad (1682)
+::::Canada Cup::::
+lost to pg|filipino champ (1572)
+defeated pg|filipino champ (1563)
+lost to esr|gonzales (1641)
+::::Dreamhack Winter::::
+defeated riktigsfivspelare (1478)
+defeated 194 pedro (1503)
+defeated opostrophe (1454)
+defeated knix (1506)
+defeated sfo brylarke (1508)
+lost to fgcbr|keoma (1687)
+lost to ts|reiketsu (1660)

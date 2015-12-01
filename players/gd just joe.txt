@@ -1,0 +1,12 @@
+Player: gd just joe
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated paulkamezou (1499)
+lost to bj unchained (1613)
+lost to t3p|wrathmatics (1542)

@@ -1,0 +1,14 @@
+Player: weirdoneo
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA KR::::
+lost to dunbine (1512)
+defeated themulverine (1481)
+defeated madana pc (1490)
+defeated dunbine (1504)
+lost to chuan (1621)

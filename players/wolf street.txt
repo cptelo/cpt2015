@@ -1,0 +1,19 @@
+Player: wolf street
+Rating: 1513
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::NorCal Regionals::::
+defeated daft (1487)
+lost to haywad (1524)
+defeated sir reginald (1486)
+lost to smbg|tangent (1523)
+::::SCR::::
+defeated shockbeast (1487)
+defeated eg|justin wong (1693)
+lost to nekromantik187 (1517)
+defeated shockbeast (1499)
+lost to sd|ilija (1540)

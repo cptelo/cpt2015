@@ -1,0 +1,14 @@
+Player: clev
+Rating: 1509
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::VS Fighting::::
+lost to ed|aixy (1512)
+defeated mba|revenge (1486)
+defeated mrbungle (1476)
+defeated bfl|mowatman (1475)
+lost to sww|thebirdlives (1529)

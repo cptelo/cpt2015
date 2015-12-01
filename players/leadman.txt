@@ -1,0 +1,13 @@
+Player: leadman
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+lost to bonkler (1512)
+defeated mardon (1474)
+defeated aquamandog (1474)
+lost to mn somemexicanguy (1511)

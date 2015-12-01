@@ -1,0 +1,16 @@
+Player: twiggy
+Rating: 1529
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::Tokyo Game Show::::
+defeated misse (1674)
+lost to r/kappa|infilitration (1801)
+defeated wao (1525)
+lost to shimauta (1576)
+::::Ultra Hyakkishu Cup::::
+lost to torimeshi (1514)
+lost to very good tanaka (1501)

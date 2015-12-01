@@ -1,0 +1,12 @@
+Player: mattdaddy916
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated ghodere (1487)
+lost to filipinoman (1618)
+lost to c-los (1513)

@@ -1,0 +1,12 @@
+Player: phd zeal
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Northwest Majors::::
+lost to ebomb (1512)
+defeated fullmetal-alex (1487)
+lost to kizzie kay (1529)

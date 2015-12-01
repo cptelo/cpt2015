@@ -1,0 +1,13 @@
+Player: da 206 80z
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated niceguyngo (1487)
+lost to ts|arturo sanchez (1643)
+defeated slappytheninja (1476)
+lost to cxr|@dk_brawler (1515)

@@ -1,0 +1,10 @@
+Player: myndgamez
+Rating: 1512
+Played: 1
+Won: 1
+Lost: 0
+%: 100
+
+Results:
+::::CEO::::
+defeated bobcustomgamer (1487)

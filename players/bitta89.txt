@@ -1,0 +1,12 @@
+Player: bitta89
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+defeated sater_s1 (1487)
+lost to splendidnull (1512)
+lost to minoxxx (1499)

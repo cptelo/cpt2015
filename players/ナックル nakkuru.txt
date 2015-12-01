@@ -1,0 +1,13 @@
+Player: ナックル nakkuru
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Nine States::::
+lost to めろんそーだ meronn soda (1512)
+defeated ニア (1476)
+defeated ２４７ (1489)
+lost to ほるもん (1523)

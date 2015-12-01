@@ -1,0 +1,14 @@
+Player: ganguro
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated moonrider (1487)
+defeated arika (1557)
+defeated skz (1511)
+lost to crazydog (1513)
+lost to chuan (1636)

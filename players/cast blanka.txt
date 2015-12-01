@@ -1,0 +1,14 @@
+Player: cast blanka
+Rating: 1565
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated yomi excited beast (1500)
+defeated shin oni (1501)
+defeated ta|chris g (1627)
+lost to pie|smug (1706)
+lost to ta|chris g (1638)

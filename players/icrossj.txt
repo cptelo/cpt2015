@@ -1,0 +1,13 @@
+Player: icrossj
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated dragon ninja (1487)
+lost to tsc|yomi|dieminion (1713)
+defeated g. summer (1487)
+lost to hnh kizzie kay (1527)

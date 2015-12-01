@@ -1,0 +1,26 @@
+Player: nacer
+Rating: 1525
+Played: 15
+Won: 9
+Lost: 6
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated otaku strawberryball (1487)
+lost to pie|smug (1650)
+defeated ex (1486)
+lost to peejay (1526)
+::::Northwest Majors::::
+defeated vilmon (1487)
+lost to lushylushy (1524)
+defeated samblack (1486)
+defeated shorjewken (1502)
+lost to ph|crackfiend (1578)
+::::SCR::::
+defeated v.s. lorde gamer (1488)
+defeated 25 r3dgy (1499)
+lost to sd|pnoy (1597)
+defeated ghos7dini (1516)
+defeated mel (1516)
+lost to mcz|mago (1703)

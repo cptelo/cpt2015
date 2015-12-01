@@ -1,0 +1,10 @@
+Player: pie|sci
+Rating: 1494
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::Defend the North::::
+lost to liquid|nuckledu (1722)

@@ -1,0 +1,13 @@
+Player: ローキン
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KSB 2015::::
+lost to tonpy (1624)
+defeated spabobin (1453)
+defeated kim1234 (1555)
+lost to kindo (1588)

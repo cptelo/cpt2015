@@ -1,0 +1,13 @@
+Player: lamas
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Dreamhack Winter::::
+lost to jojo (1522)
+lost to cdv|melty|will2pac (1601)
+defeated ronnyrundspark (1462)
+defeated namcore (1477)

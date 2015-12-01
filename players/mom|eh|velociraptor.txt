@@ -1,0 +1,41 @@
+Player: mom|eh|velociraptor
+Rating: 1627
+Played: 27
+Won: 16
+Lost: 11
+%: 59
+
+Results:
+::::Final Round::::
+defeated coin up|ludovic (1539)
+defeated driftwood (1491)
+lost to eg|momochi (1709)
+lost to r/kappa|kazunoko (1653)
+::::NorCal Regionals::::
+defeated sba big arch (1490)
+defeated mikey r (1502)
+defeated cublanco (1514)
+defeated snake eyez (1695)
+defeated snake eyez (1687)
+defeated snake eyez (1681)
+lost to avm|gamerbee (1687)
+lost to bonchan (1690)
+::::CEO::::
+defeated ralstaanley (1504)
+defeated delfonik (1515)
+lost to espr fga mono (1551)
+defeated flash metroid (1515)
+defeated bars sida (1552)
+defeated espr fga mono (1535)
+lost to alex myers (1642)
+::::EVO::::
+lost to filipinoman (1614)
+::::Summer Jam::::
+lost to a-team pag ne glitch (1542)
+defeated ag|luckyd (1519)
+defeated pie|smug (1687)
+lost to julio (1621)
+::::SCR::::
+lost to botb|jester (1528)
+defeated akg jedisalazar (1479)
+lost to kelvin jeon (1566)

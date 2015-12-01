@@ -1,0 +1,20 @@
+Player: sasa
+Rating: 1509
+Played: 10
+Won: 5
+Lost: 5
+%: 50
+
+Results:
+::::Taiwan::::
+defeated allenk (1487)
+defeated 睡大/sleeplong (1499)
+defeated willy (1511)
+lost to onigiri kai (1552)
+defeated ccg|humanbomb (1644)
+lost to onigiri kai (1564)
+lost to kok (1611)
+::::Ultra Hyakkishu Cup::::
+lost to rokkun (1609)
+defeated flat (1476)
+lost to ybk|shiro (1659)

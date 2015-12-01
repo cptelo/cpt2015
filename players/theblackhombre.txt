@@ -1,0 +1,12 @@
+Player: theblackhombre
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated ken-kots (1487)
+lost to ta psycho (1524)
+lost to jblaze (1499)

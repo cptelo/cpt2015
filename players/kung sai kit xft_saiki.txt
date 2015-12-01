@@ -1,0 +1,13 @@
+Player: kung sai kit xft_saiki
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::HK::::
+defeated joe chau jeono (1487)
+lost to rzr|rb (1620)
+defeated gala tse dabugala (1486)
+lost to po yuen chan xft_nana (1523)

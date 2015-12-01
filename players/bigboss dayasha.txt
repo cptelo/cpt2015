@@ -1,0 +1,12 @@
+Player: bigboss dayasha
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to pianodensetsu (1512)
+defeated liquid chillin (1474)
+lost to usin (1513)

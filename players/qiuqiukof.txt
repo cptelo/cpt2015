@@ -1,0 +1,13 @@
+Player: qiuqiukof
+Rating: 1558
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::South East Asia Major::::
+lost to eg|momochi (1745)
+defeated codynp (1527)
+defeated gachikun (1592)
+lost to rb (1626)

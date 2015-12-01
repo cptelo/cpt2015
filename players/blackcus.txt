@@ -1,0 +1,12 @@
+Player: blackcus
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+lost to battousai (1512)
+defeated haw seow (1489)
+lost to bram (1511)

@@ -1,0 +1,12 @@
+Player: dm|casual phil
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated smbg|tangent (1487)
+lost to mc|xsk samurai (1570)
+lost to yogadon (1518)

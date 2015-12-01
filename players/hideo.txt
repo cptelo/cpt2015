@@ -1,0 +1,13 @@
+Player: hideo
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Saigon Cup::::
+defeated gg|alioufe (1487)
+lost to qanba douyu|dark jiewa (1654)
+defeated duy (1486)
+lost to ck-vnz (1516)

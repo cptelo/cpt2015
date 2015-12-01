@@ -1,0 +1,12 @@
+Player: dm|nothing man
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to blaqskillz (1512)
+defeated dmf (1474)
+lost to pnoy (1557)

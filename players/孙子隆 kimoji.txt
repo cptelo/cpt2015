@@ -1,0 +1,12 @@
+Player: 孙子隆 kimoji
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+lost to 赵渭炯 小迷 (1512)
+defeated ah xi (1474)
+lost to 梁伟知 todayceo (1518)

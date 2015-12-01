@@ -1,0 +1,12 @@
+Player: willis
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::HK::::
+lost to ccg|humanbomb (1647)
+defeated あうぇ４ ｈｇｓｄが (1474)
+lost to 周怿 angle (1512)

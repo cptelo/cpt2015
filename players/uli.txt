@@ -1,0 +1,12 @@
+Player: uli
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated notbab hadoukant (1487)
+lost to dan krolikowski (1524)
+lost to omg itz andre (1511)

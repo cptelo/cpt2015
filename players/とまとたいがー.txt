@@ -1,0 +1,12 @@
+Player: とまとたいがー
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Nine States::::
+defeated みやこ (1487)
+lost to chiaki (1524)
+lost to korea player (1499)

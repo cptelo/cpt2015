@@ -1,0 +1,11 @@
+Player: the american dream
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Texas Showdown::::
+lost to blakrevolver (1512)
+lost to king koopa (1499)

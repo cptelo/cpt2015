@@ -1,0 +1,11 @@
+Player: bk9999
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to somniac (1552)
+lost to venomkiller (1499)

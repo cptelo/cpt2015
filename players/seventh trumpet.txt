@@ -1,0 +1,15 @@
+Player: seventh trumpet
+Rating: 1463
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::NorCal Regionals::::
+defeated bigdamaul (1486)
+lost to marq teddy (1617)
+lost to suddenblackout (1511)
+::::Northwest Majors::::
+lost to srkuw you know who it is (1512)
+lost to mr. (1499)

@@ -1,0 +1,25 @@
+Player: sfo|brylarke
+Rating: 1524
+Played: 14
+Won: 8
+Lost: 6
+%: 57
+
+Results:
+::::Hypespotting::::
+defeated flupty (1487)
+lost to rde sefsins (1524)
+defeated rde oscar (1490)
+lost to apollo steed (1569)
+::::VS Fighting::::
+defeated mba|the bp tank (1474)
+defeated jason (1511)
+lost to btm|tyrant (1625)
+defeated sww|thebirdlives (1515)
+lost to raygo blayde|afii (1636)
+::::Milan Games Week::::
+defeated zutroi (1488)
+defeated dr thomas (1499)
+lost to rzr|fuudo (1726)
+defeated superfabiano (1510)
+lost to bx3|veggey (1610)

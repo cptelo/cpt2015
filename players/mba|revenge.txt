@@ -1,0 +1,12 @@
+Player: mba|revenge
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated irep shadz (1487)
+lost to bsc|shek (1525)
+lost to clev (1499)

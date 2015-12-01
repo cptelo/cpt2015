@@ -1,0 +1,18 @@
+Player: ocv|12m.ocv|riceata
+Rating: 1593
+Played: 8
+Won: 5
+Lost: 3
+%: 62
+
+Results:
+::::Defend the North::::
+defeated dcb|afterdeath (1515)
+defeated pxg|vgp|integra (1571)
+defeated ag|ltod|tlod|native impact (1637)
+defeated tsc|yomi|dieminion (1715)
+lost to rb|snake eyez (1744)
+::::Canada Cup::::
+defeated botb|tampa bison (1647)
+lost to eg|momochi (1772)
+lost to fa|ryan hart (1695)

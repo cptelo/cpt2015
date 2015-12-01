@@ -1,0 +1,18 @@
+Player: dchong
+Rating: 1499
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to clim (1512)
+defeated lamune (1486)
+defeated demonlos (1498)
+defeated 200yen (1504)
+lost to clim (1551)
+::::SCR::::
+lost to ph|crackfiend (1576)
+defeated c. chavez (1474)
+lost to roman (1518)

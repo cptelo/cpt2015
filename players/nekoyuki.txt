@@ -1,0 +1,12 @@
+Player: nekoyuki
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated keth (1487)
+lost to the time dictator (1524)
+lost to funnylookinwhat (1499)

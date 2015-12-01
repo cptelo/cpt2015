@@ -1,0 +1,13 @@
+Player: deja fait
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated feedthehead (1487)
+lost to @deejonious (1524)
+defeated svr ascender (1474)
+lost to tbr last dragon (1528)

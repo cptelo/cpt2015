@@ -1,0 +1,12 @@
+Player: kung_fru
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+lost to maxipoo (1512)
+defeated c88_tbn daymein (1474)
+lost to llama (1523)

@@ -1,0 +1,13 @@
+Player: m a d w a k
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated eb mars312xd (1487)
+lost to glb (1588)
+defeated hola bird (1486)
+lost to viscant (1523)

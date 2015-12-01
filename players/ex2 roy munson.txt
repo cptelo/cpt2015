@@ -1,0 +1,11 @@
+Player: ex2 roy munson
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Hypespotting::::
+lost to afii (1608)
+lost to rs|mikenyan (1499)

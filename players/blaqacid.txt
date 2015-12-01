@@ -1,0 +1,12 @@
+Player: blaqacid
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to glb (1578)
+defeated eb mars312xd (1474)
+lost to saltybetts (1511)

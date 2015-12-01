@@ -1,0 +1,16 @@
+Player: hunter
+Rating: 1518
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::KO Fighting Game Festival::::
+defeated lord devil (1499)
+lost to wtq8|fizzie (1524)
+defeated alafasy_23 (1499)
+defeated finalzero (1501)
+defeated wtq8|fizzie (1501)
+lost to akimo (1605)
+lost to rzr|xian (1760)

@@ -1,0 +1,12 @@
+Player: jaytag
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to k/d_heyzeus775 (1512)
+defeated juantonimobay (1476)
+lost to sherryjenix (1513)

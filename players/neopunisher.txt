@@ -1,0 +1,14 @@
+Player: neopunisher
+Rating: 1521
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Milan Games Week::::
+defeated tissuemon (1487)
+defeated the lyl3 (1499)
+lost to md|luffy (1794)
+defeated mazinkaiser (1510)
+lost to packz (1624)

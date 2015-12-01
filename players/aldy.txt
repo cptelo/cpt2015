@@ -1,0 +1,11 @@
+Player: aldy
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Abuget Cup::::
+lost to dian (1512)
+lost to susubabi (1503)

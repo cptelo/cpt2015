@@ -1,0 +1,16 @@
+Player: jared
+Rating: 1537
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::NorCal Regionals::::
+defeated mr|jetpackjohnny (1487)
+lost to kelvin jeon (1566)
+defeated kaynewesker (1486)
+defeated rice_crackers (1498)
+defeated jhunie (1503)
+defeated wa|dm salpacino (1512)
+lost to kelvin jeon (1578)

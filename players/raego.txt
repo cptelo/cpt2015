@@ -1,0 +1,13 @@
+Player: raego
+Rating: 1497
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Dreamhack Winter::::
+defeated doxus (1470)
+defeated gustavo (1473)
+lost to warbio (1464)
+lost to cuongster (1595)

@@ -1,0 +1,13 @@
+Player: @deejonious
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated rjd (1487)
+defeated deja fait (1499)
+lost to pie|smug (1701)
+lost to kbb mad titan (1534)

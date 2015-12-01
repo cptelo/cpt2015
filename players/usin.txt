@@ -1,0 +1,13 @@
+Player: usin
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated condit (1487)
+lost to glb (1562)
+defeated bigboss dayasha (1486)
+lost to judge ashen (1512)

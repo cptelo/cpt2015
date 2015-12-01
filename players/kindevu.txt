@@ -1,0 +1,47 @@
+Player: kindevu
+Rating: 1648
+Played: 33
+Won: 22
+Lost: 11
+%: 66
+
+Results:
+::::South East Asia Major::::
+lost to shiro (1642)
+lost to kim1234 (1557)
+::::EVO::::
+defeated jewelman (1490)
+defeated m.b. (1538)
+defeated dl|hamad (1618)
+defeated fgc|pepeday (1639)
+lost to be|nemo (1729)
+::::Ultra Hyakkishu Cup::::
+lost to mov (1677)
+defeated nashi (1483)
+defeated matsuri (1523)
+defeated shimauta (1565)
+defeated koichi (1508)
+lost to hagejin (1591)
+::::Milan Games Week::::
+defeated canesmoke (1503)
+defeated mov (1666)
+lost to ybk|shiro (1666)
+defeated raygo blayde|afii (1639)
+lost to fa|ryan hart (1694)
+::::CPTA Last Chance Qualifier::::
+defeated mflo (1491)
+defeated haw seow (1492)
+defeated koji miyake (1539)
+defeated rzr|gackt (1663)
+defeated iz|kaiser (1585)
+defeated eg|pr balrog (1680)
+defeated rzr|gackt (1673)
+::::CPTA Finals::::
+defeated qanba douyu|xiaohai (1722)
+defeated qanba douyu|dakou (1645)
+lost to rzr|xian (1796)
+lost to be|nemo (1764)
+lost to r/kappa|poongko (1742)
+defeated mov (1656)
+defeated rb|bonchan (1757)
+lost to r/kappa|misse (1681)

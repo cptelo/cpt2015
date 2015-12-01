@@ -1,0 +1,13 @@
+Player: bomsa
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated talal eg (1487)
+lost to wtq8|boxer4ever (1512)
+defeated almulla (1487)
+lost to failichawy iori-q8 (1517)

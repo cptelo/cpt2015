@@ -1,0 +1,11 @@
+Player: geronimo
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to cartoon hero (1512)
+lost to panoptic (1511)

@@ -1,0 +1,12 @@
+Player: job mr. travis
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to sgc mwisk (1512)
+defeated eyoh_ajax (1474)
+lost to swk fbruce (1511)

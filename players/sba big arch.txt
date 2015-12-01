@@ -1,0 +1,13 @@
+Player: sba big arch
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to mom|velociraptor (1605)
+defeated toneloki (1474)
+defeated dm|soothsayer (1492)
+lost to lilsicx (1523)

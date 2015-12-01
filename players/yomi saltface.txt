@@ -1,0 +1,11 @@
+Player: yomi saltface
+Rating: 1500
+Played: 2
+Won: 1
+Lost: 1
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated guiseppe (1487)
+lost to jebailey (1553)

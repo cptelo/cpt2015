@@ -1,0 +1,12 @@
+Player: 666
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated across (1487)
+lost to koichi (1526)
+lost to fgc|sekiganryu (1513)

@@ -1,0 +1,12 @@
+Player: 小捷
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+defeated 吉米 (1487)
+lost to kumasa (1524)
+lost to 謝漢傑 (1514)

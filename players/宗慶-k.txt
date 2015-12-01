@@ -1,0 +1,15 @@
+Player: 宗慶/k
+Rating: 1530
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Taiwan::::
+defeated tony cha cha (1487)
+lost to ccg|humanbomb (1652)
+defeated 園長 (1486)
+defeated 小布 (1498)
+defeated willy (1499)
+lost to ccg|humanbomb (1651)

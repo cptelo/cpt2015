@@ -1,0 +1,13 @@
+Player: daddario
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Milan Games Week::::
+defeated minoxxx (1487)
+lost to rize|ind|pro fluke (1635)
+defeated sater_s1 (1475)
+lost to cameraman (1493)

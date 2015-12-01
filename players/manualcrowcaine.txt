@@ -1,0 +1,14 @@
+Player: manualcrowcaine
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated dmv makoto (1487)
+lost to hsien chang (1587)
+defeated nopo shrub treks (1474)
+defeated sa karu (1498)
+lost to the time dictator (1530)

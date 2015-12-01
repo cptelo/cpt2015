@@ -1,0 +1,11 @@
+Player: duke
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to daniel dillips (1512)
+lost to ds|jamusan (1499)

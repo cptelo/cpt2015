@@ -1,0 +1,12 @@
+Player: meo wei meo.w
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+lost to chengfei (1512)
+defeated 鲁俊 水表 (1474)
+lost to chenxin gouzi (1499)

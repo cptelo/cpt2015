@@ -1,0 +1,14 @@
+Player: m. crash
+Rating: 1509
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::First Attack::::
+defeated msd xavi (1487)
+lost to evb ds ray (1512)
+defeated od|dbiohazard (1474)
+defeated ig|legendario drak (1486)
+lost to yeral (1519)

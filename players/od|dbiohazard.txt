@@ -1,0 +1,11 @@
+Player: od|dbiohazard
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::First Attack::::
+lost to ang3lit0pr (1512)
+lost to m. crash (1511)

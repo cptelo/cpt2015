@@ -1,0 +1,14 @@
+Player: shazy
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Hypespotting::::
+lost to vs gm punk (1512)
+defeated steve (1474)
+defeated rde|wonder ham (1486)
+defeated ash (1498)
+lost to vs gm punk (1523)

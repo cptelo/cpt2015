@@ -1,0 +1,12 @@
+Player: nb slimetime
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to ric104 (1512)
+defeated ne.pxg synapsse (1488)
+lost to gs|gllty (1512)

@@ -1,0 +1,76 @@
+Player: bx3|phenom
+Rating: 1671
+Played: 59
+Won: 41
+Lost: 18
+%: 69
+
+Results:
+::::Cannes Winter Clash::::
+defeated butterbeefbison (1491)
+lost to jehosan (1580)
+defeated perplex (1494)
+lost to imstilldadaddy (1619)
+::::Dreamhack Summer::::
+defeated nake (1489)
+defeated tyrant (1609)
+defeated tm robofobe (1454)
+defeated zelpher (1502)
+defeated team.veggey bliredd (1502)
+defeated papz (1480)
+defeated warbio (1483)
+defeated ryan hart (1682)
+lost to rize|ind|pro fluke (1653)
+defeated bashfest (1554)
+lost to lll|mbr (1611)
+::::EVO::::
+defeated 801|jayce the ace (1618)
+lost to r/kappa|zv|kazunoko (1756)
+lost to latif (1638)
+::::Summer Jam::::
+defeated rig elchakotay (1492)
+defeated brentt (1612)
+lost to eg|k-brad (1675)
+defeated wfx|801 strider (1681)
+defeated zaferino (1609)
+defeated yg|joel (1647)
+defeated kig|problem x (1709)
+lost to snake eyez (1723)
+::::EGX::::
+defeated rising superstar alfie (1505)
+lost to flawless deku (1582)
+defeated vws|j miller (1518)
+defeated rize|ind|zain (1519)
+defeated mba|rize|ind|infexious (1637)
+lost to gonzales (1619)
+::::Call of Ragnarok::::
+defeated badi lootion (1492)
+defeated bashfest (1554)
+defeated ybk|shiro (1641)
+lost to gonzales (1641)
+lost to ybk|shiro (1656)
+::::Red Fight District::::
+defeated mdz ricky (1492)
+defeated iplay demulant (1504)
+defeated fa|ryan hart (1685)
+defeated packz (1620)
+lost to gl|rb|valmaster (1709)
+lost to eg|k-brad (1684)
+::::Milan Games Week::::
+defeated dario (1504)
+lost to rzr|rb (1624)
+defeated vaca89 (1514)
+defeated shin87 (1522)
+defeated um|btm|imstilldadaddy (1628)
+lost to rize|ind|pro fluke (1644)
+::::Dreamhack Winter::::
+defeated fgdojo|ninio (1482)
+defeated atrosh (1480)
+defeated juicyjoe (1505)
+defeated um|btm|rmz (1603)
+defeated yagami (1525)
+defeated bx3|veggey (1606)
+defeated fa|ryan hart (1700)
+defeated mba|rize|ind|infexious (1653)
+lost to rzr|xian (1800)
+lost to md|luffy (1802)

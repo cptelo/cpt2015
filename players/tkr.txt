@@ -1,0 +1,12 @@
+Player: tkr
+Rating: 1538
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Cannes Winter Clash::::
+defeated renegad (1489)
+lost to tonpy (1620)
+lost to imstilldadaddy (1607)

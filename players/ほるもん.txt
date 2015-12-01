@@ -1,0 +1,14 @@
+Player: ほるもん
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Nine States::::
+lost to りゅうきち (1512)
+defeated チキチキン (1474)
+defeated ぬ。nu (1489)
+defeated ナックル nakkuru (1498)
+lost to りゅうきち (1525)

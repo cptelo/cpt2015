@@ -1,0 +1,14 @@
+Player: jarbo
+Rating: 1518
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::First Attack::::
+defeated fadcant pr (1487)
+lost to r/kappa|infilitration (1790)
+defeated od|hollow (1498)
+defeated pag|sabo (1505)
+lost to javits (1531)

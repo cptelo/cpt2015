@@ -1,0 +1,11 @@
+Player: px|doomed
+Rating: 1499
+Played: 2
+Won: 1
+Lost: 1
+%: 50
+
+Results:
+::::True Challengers Costa Rica::::
+defeated berzack (1474)
+lost to tg|bebedero (1512)

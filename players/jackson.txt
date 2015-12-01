@@ -1,0 +1,13 @@
+Player: jackson
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated sbk (1487)
+lost to leslie (1578)
+defeated me shane (1475)
+lost to rodney (1526)

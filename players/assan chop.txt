@@ -1,0 +1,14 @@
+Player: assan chop
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Texas Showdown::::
+lost to starwin (1512)
+defeated money martinez (1492)
+defeated fullbring (1486)
+defeated big poe (1498)
+lost to josue (1535)

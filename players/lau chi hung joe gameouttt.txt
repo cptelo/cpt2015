@@ -1,0 +1,13 @@
+Player: lau chi hung joe gameouttt
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::HK::::
+defeated tony tyrant (1487)
+defeated chan shing chi xft_sonicbeta (1499)
+lost to gz-ben (1568)
+lost to chan sau cheong terry (1538)

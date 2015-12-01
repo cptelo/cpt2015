@@ -1,0 +1,14 @@
+Player: dm john b
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+lost to el ben (1512)
+defeated calmspaghetti (1474)
+defeated my mom says i'm pro (1488)
+defeated biobillybonez (1514)
+lost to krash! (1529)

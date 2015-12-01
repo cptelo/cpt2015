@@ -1,0 +1,79 @@
+Player: ta|chris g
+Rating: 1633
+Played: 62
+Won: 40
+Lost: 22
+%: 64
+
+Results:
+::::Final Round::::
+lost to rzr|fuudo (1708)
+lost to qanba douyu|xiaohai (1658)
+::::NorCal Regionals::::
+defeated n4us (1490)
+defeated ks|cbrn|nighttwo (1502)
+lost to r/kappa|infilitration (1740)
+defeated pieguy (1512)
+defeated blockbuster jon (1513)
+defeated sd|tempest (1520)
+lost to r/kappa|infilitration (1745)
+lost to r/kappa|infilitration (1748)
+defeated hsien chang (1555)
+lost to eg|momochi (1742)
+::::Northwest Majors::::
+defeated [anet]nightmare2450 (1502)
+defeated frisco (1502)
+defeated noc|leviathan (1516)
+defeated julio (1608)
+lost to julio (1613)
+defeated chaotix (1575)
+lost to julio (1618)
+defeated dickson (1527)
+defeated nando tovar (1586)
+defeated srkuw|fawwaz (1562)
+lost to neogaf|koji kog (1663)
+::::Texas Showdown::::
+defeated mr. mishida (1491)
+defeated detroit coco (1503)
+defeated solidxpanda (1526)
+defeated solidxpanda (1528)
+defeated mlswear (1584)
+defeated eg|justin wong (1741)
+lost to eg|k-brad (1658)
+lost to 801 strider (1675)
+::::CEO::::
+defeated papo (1503)
+defeated fsr wupai (1515)
+lost to cast blanka (1585)
+defeated white gun (1542)
+defeated tbr last dragon (1551)
+defeated cast blanka (1565)
+defeated hsien chang (1588)
+lost to qanba douyu|dakou (1634)
+::::EVO::::
+lost to 801|jayce the ace (1618)
+::::Summer Jam::::
+defeated remybleu (1491)
+lost to eg|k-brad (1671)
+defeated pag dragongod (1496)
+lost to brentt (1621)
+::::First Attack::::
+defeated ig|zonvolt (1503)
+defeated honda tropical (1503)
+lost to cocaneta (1540)
+defeated uvg|noel brown (1515)
+lost to cocaneta (1555)
+defeated prk famous (1523)
+defeated liquid|nuckledu (1741)
+defeated prk ts|huracán azura (1535)
+lost to wfx|801 strider (1693)
+::::TFC::::
+defeated marshall king (1491)
+defeated shonuff122 (1479)
+lost to eg|k-brad (1680)
+defeated ace unlimited (1522)
+lost to eg|k-brad (1684)
+defeated mx mad (1480)
+defeated eg|justin wong (1701)
+defeated yomi|shin phoenix (1513)
+lost to wfx|801 strider (1701)

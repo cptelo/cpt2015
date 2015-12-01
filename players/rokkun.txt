@@ -1,0 +1,17 @@
+Player: rokkun
+Rating: 1643
+Played: 8
+Won: 6
+Lost: 2
+%: 75
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated sasa (1506)
+defeated matsuri (1533)
+lost to ybk|kawaguchi (1624)
+defeated kenzou (1558)
+defeated wao (1558)
+defeated neogaf|r/kappa|koji kog (1657)
+defeated fgc|ex pugera (1673)
+lost to r/kappa|poongko (1731)

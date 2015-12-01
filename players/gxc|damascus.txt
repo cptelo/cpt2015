@@ -1,0 +1,34 @@
+Player: gxc|damascus
+Rating: 1600
+Played: 23
+Won: 16
+Lost: 7
+%: 69
+
+Results:
+::::Hypespotting::::
+defeated hagen (1489)
+defeated incognitus (1547)
+lost to milligano (1526)
+defeated incognitus (1554)
+defeated ymb9|sho (1516)
+lost to luffy (1693)
+defeated the street writer (1510)
+defeated flawless deku (1573)
+defeated rmz (1608)
+lost to vs|milligano (1571)
+::::VS Fighting::::
+defeated vapourzz i (1501)
+defeated sww|rycroft (1513)
+defeated um|btm|rmz (1607)
+lost to mba|rize|ind|infexious (1634)
+lost to sfo|ghost (1571)
+::::Dreamhack Winter::::
+defeated forward dash (1479)
+defeated shonk (1502)
+defeated kilmer (1453)
+defeated ippolit (1500)
+lost to lll|mbr (1637)
+defeated jojo (1515)
+defeated rize|ind|kwiddo (1526)
+lost to fa|big bird (1608)

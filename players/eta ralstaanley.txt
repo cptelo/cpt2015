@@ -1,0 +1,13 @@
+Player: eta ralstaanley
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated el maleman (1487)
+lost to eg|ricki ortiz (1709)
+defeated rbr|ecchi mane (1475)
+lost to gameguys naughty munkey (1523)

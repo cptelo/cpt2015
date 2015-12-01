@@ -1,0 +1,15 @@
+Player: bagelobo
+Rating: 1530
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated hedgiex (1487)
+defeated krhs tan-tan (1499)
+defeated blazing (1518)
+defeated alucard (1601)
+lost to qanba douyu|dakou (1631)
+lost to alucard (1611)

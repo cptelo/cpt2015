@@ -1,0 +1,15 @@
+Player: 天津飯
+Rating: 1482
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::Nine States::::
+defeated ムラヲ (1487)
+lost to itabashi zangief (1664)
+lost to ちゃー (1510)
+defeated ムラヲ (1462)
+lost to itabashi zangief (1679)
+lost to ちゃー (1517)

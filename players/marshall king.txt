@@ -1,0 +1,13 @@
+Player: marshall king
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::TFC::::
+lost to ta|chris g (1630)
+defeated jesse hamilton (1474)
+defeated jesse munoz (1474)
+lost to ace unlimited (1522)

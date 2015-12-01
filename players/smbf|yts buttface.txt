@@ -1,0 +1,13 @@
+Player: smbf|yts buttface
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated sfo|nargrull (1487)
+lost to mba|rize|ind|infexious (1627)
+defeated rob zfr (1511)
+lost to sfo|ghost (1535)

@@ -1,0 +1,15 @@
+Player: yuki
+Rating: 1464
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::CEO::::
+lost to google_deez (1512)
+lost to morphtoxic (1499)
+::::Saigon Cup::::
+lost to shaun (1511)
+defeated spano (1489)
+lost to noobiex (1510)

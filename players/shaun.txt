@@ -1,0 +1,15 @@
+Player: shaun
+Rating: 1509
+Played: 6
+Won: 3
+Lost: 3
+%: 50
+
+Results:
+::::Saigon Cup::::
+defeated yuki (1462)
+defeated noobiex (1487)
+lost to tonpy (1677)
+defeated noobiex (1497)
+lost to tonpy (1679)
+lost to gonzales (1603)

@@ -1,0 +1,12 @@
+Player: ldo
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to eg|ricki ortiz (1694)
+defeated j.baysik (1474)
+lost to thrillhouse (1511)

@@ -1,0 +1,14 @@
+Player: op|sick bubblegum
+Rating: 1496
+Played: 5
+Won: 2
+Lost: 3
+%: 40
+
+Results:
+::::Dreamhack Winter::::
+lost to fa|ryan hart (1692)
+lost to op|flcl (1523)
+lost to ind.spb|rize|ind|ixion (1581)
+defeated fruit (1498)
+defeated qphj (1447)

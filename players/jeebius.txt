@@ -1,0 +1,11 @@
+Player: jeebius
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to lom|luckboxq (1512)
+lost to chaos time (1514)

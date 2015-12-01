@@ -1,0 +1,13 @@
+Player: iplay halibel
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Red Fight District::::
+defeated daddy-sensei (1487)
+defeated enfont pordu a easyman (1498)
+lost to raygo blayde|afii (1654)
+lost to iplay demulant (1540)

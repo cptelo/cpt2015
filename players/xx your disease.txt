@@ -1,0 +1,13 @@
+Player: xx your disease
+Rating: 1507
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated dmansland (1499)
+defeated tierproblem (1511)
+lost to r/kappa|infilitration (1770)
+lost to chairman (1544)

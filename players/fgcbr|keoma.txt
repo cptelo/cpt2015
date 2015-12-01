@@ -1,0 +1,23 @@
+Player: fgcbr|keoma
+Rating: 1680
+Played: 13
+Won: 11
+Lost: 2
+%: 84
+
+Results:
+::::CPT Brazil::::
+defeated ww|camizakof (1491)
+defeated reversal|chuchu (1690)
+defeated brawl|haitani (1574)
+defeated brawl|haitani (1573)
+::::Dreamhack Winter::::
+defeated jet (1497)
+defeated maven (1479)
+defeated c0ckman007 (1496)
+defeated ts|reiketsu (1660)
+defeated chinoooo (1517)
+defeated rize|ind|pro fluke (1640)
+lost to ccg|humanbomb (1683)
+defeated fa|big bird (1598)
+lost to md|luffy (1793)

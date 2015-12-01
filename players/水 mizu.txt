@@ -1,0 +1,12 @@
+Player: 水 mizu
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Nine States::::
+defeated ジュリカス jurikasu (1487)
+lost to dunhill (1524)
+lost to okome man (1511)

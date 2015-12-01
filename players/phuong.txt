@@ -1,0 +1,12 @@
+Player: phuong
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Saigon Cup::::
+lost to tuan mario (1524)
+defeated sennette (1474)
+lost to baotrung3108 (1526)

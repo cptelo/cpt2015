@@ -1,0 +1,11 @@
+Player: ok-gandy
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to srm_leonil (1512)
+lost to crazed rice (1499)

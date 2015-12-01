@@ -1,0 +1,13 @@
+Player: gtr
+Rating: 1530
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Dreamhack Winter::::
+lost to brick (1577)
+lost to md|luffy (1786)
+lost to kreymore (1543)
+defeated prowners (1463)

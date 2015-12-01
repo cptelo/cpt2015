@@ -1,0 +1,13 @@
+Player: dm|burn notice
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to disabel (1512)
+defeated asimulation (1480)
+defeated schowda (1488)
+lost to k/d_heyzeus775 (1525)

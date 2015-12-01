@@ -1,0 +1,14 @@
+Player: sonydafa
+Rating: 1509
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA Shanghai::::
+defeated lorichumley05 15 (1487)
+lost to 何琪 heqi0129 (1524)
+defeated 潘权迪 xiaoye (1474)
+defeated 方思 ice (1499)
+lost to dante dt (1506)

@@ -1,0 +1,11 @@
+Player: ギャズ
+Rating: 1477
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::KSB 2015::::
+lost to anton (1550)
+lost to harideshi (1549)

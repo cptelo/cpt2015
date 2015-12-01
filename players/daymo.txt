@@ -1,0 +1,13 @@
+Player: daymo
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+lost to bringbackiceclimbers (1524)
+defeated freddie m. (1475)
+defeated jh maxninja (1498)
+lost to thereflexwonder (1525)

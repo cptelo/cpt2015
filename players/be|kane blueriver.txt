@@ -1,0 +1,29 @@
+Player: be|kane blueriver
+Rating: 1516
+Played: 17
+Won: 9
+Lost: 8
+%: 52
+
+Results:
+::::Northwest Majors::::
+defeated 30f|teyah (1487)
+lost to julio (1611)
+defeated [anet]nightmare2450 (1500)
+lost to clim (1544)
+::::Texas Showdown::::
+lost to gg|onisan (1560)
+defeated hibiki (1474)
+defeated 2iq|dangerous person (1486)
+defeated kungfutreachery (1487)
+defeated pts kool-aid (1522)
+lost to gg|onisan (1567)
+::::Combo Breaker::::
+lost to ishotto (1513)
+lost to spree (1500)
+::::CEO::::
+defeated misfitpenguin (1488)
+lost to dafeetlee (1624)
+defeated jay (1487)
+defeated kingblack (1487)
+lost to ao omega tom hanks (1514)

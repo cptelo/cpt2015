@@ -1,0 +1,12 @@
+Player: flapjacket
+Rating: 1467
+Played: 3
+Won: 0
+Lost: 3
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to ccg|chris tatarian (1658)
+lost to joser (1523)
+lost to funplayer3s (1499)

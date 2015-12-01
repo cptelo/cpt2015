@@ -1,0 +1,20 @@
+Player: dl|hamad
+Rating: 1618
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::CEO::::
+defeated dionis8534 (1502)
+defeated udlr painbot (1514)
+lost to tampa bison (1646)
+defeated louzy (1514)
+defeated ranmasama (1557)
+lost to qanba douyu|xiaohai (1681)
+::::EVO::::
+lost to rzr|itabashi zangief (1668)
+defeated eg|justin wong (1712)
+defeated rize|ind|pro fluke (1632)
+lost to kindevu (1607)

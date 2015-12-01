@@ -1,0 +1,16 @@
+Player: chrisdat
+Rating: 1513
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::Texas Showdown::::
+defeated swirlyglasses (1499)
+lost to the professional (1524)
+defeated illoopail (1521)
+defeated swirlyglasses (1519)
+defeated the professional (1491)
+lost to dl|four wude (1613)
+lost to ip man (1558)

@@ -1,0 +1,15 @@
+Player: rodney
+Rating: 1530
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated me shane (1487)
+lost to kok (1613)
+defeated burnoutfighter (1489)
+defeated jackson (1499)
+defeated leslie (1567)
+lost to chuan (1633)

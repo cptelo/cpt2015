@@ -1,0 +1,15 @@
+Player: triiifector
+Rating: 1525
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated mikej (1487)
+lost to mcz|tokido (1710)
+defeated uptempo87 (1475)
+defeated design (1498)
+defeated job gdx (1500)
+lost to judge ashen (1537)

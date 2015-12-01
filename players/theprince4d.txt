@@ -1,0 +1,10 @@
+Player: theprince4d
+Rating: 1493
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::Canada Cup::::
+lost to r/kappa|misse (1671)

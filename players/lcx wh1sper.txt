@@ -1,0 +1,15 @@
+Player: lcx wh1sper
+Rating: 1529
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CPTA Shanghai::::
+defeated chenzhou (1487)
+defeated 陳政宏 bemechen (1499)
+lost to mcz|tokido (1716)
+defeated chenzhou (1510)
+defeated 陳政宏 bemechen (1522)
+lost to qanba douyu|hurtch_vr (1583)

@@ -1,0 +1,16 @@
+Player: starwin
+Rating: 1524
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::Texas Showdown::::
+defeated assan chop (1487)
+defeated josue (1487)
+defeated big poe (1511)
+lost to eg|justin wong (1743)
+defeated josue (1522)
+lost to eg|justin wong (1745)
+lost to pxg|vgp|integra (1561)

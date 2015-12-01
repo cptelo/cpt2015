@@ -1,0 +1,13 @@
+Player: icg redvelvet
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated daisuketensei (1487)
+lost to txs raph (1512)
+defeated swoopcoupe (1474)
+lost to jayto (1511)

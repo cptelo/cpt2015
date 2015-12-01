@@ -1,0 +1,10 @@
+Player: tsc|ifc yipes
+Rating: 1492
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::Final Round::::
+lost to qanba douyu|xiaohai (1648)

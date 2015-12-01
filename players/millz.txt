@@ -1,0 +1,12 @@
+Player: millz
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to tay soul (1512)
+defeated v12 hypnos (1474)
+lost to danphan (1517)

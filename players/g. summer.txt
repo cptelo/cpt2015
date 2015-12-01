@@ -1,0 +1,12 @@
+Player: g. summer
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to el cubano loco (1528)
+defeated bluesy (1474)
+lost to icrossj (1517)

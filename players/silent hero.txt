@@ -1,0 +1,11 @@
+Player: silent hero
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to dcb|afterdeath (1526)
+lost to final tick (1511)

@@ -1,0 +1,12 @@
+Player: マスタング
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Nine States::::
+defeated やまやん (1487)
+lost to anton (1524)
+lost to 和泉康太 (1499)

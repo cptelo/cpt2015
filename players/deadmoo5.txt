@@ -1,0 +1,15 @@
+Player: deadmoo5
+Rating: 1525
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Northwest Majors::::
+defeated samblack (1487)
+lost to ph|crackfiend (1580)
+defeated vilmon (1498)
+defeated srkuw|kpop (1501)
+defeated lushylushy (1501)
+lost to ph|crackfiend (1582)

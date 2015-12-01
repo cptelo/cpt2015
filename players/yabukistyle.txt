@@ -1,0 +1,14 @@
+Player: yabukistyle
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Northwest Majors::::
+defeated 801 mr gork (1485)
+lost to dickson (1524)
+defeated shogundo (1486)
+defeated dean of games (1499)
+lost to bunsen burner (1529)

@@ -1,0 +1,12 @@
+Player: tsid n8theoreat
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to shogunn (1512)
+defeated chase (1474)
+lost to filipinoman (1620)

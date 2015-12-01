@@ -1,0 +1,12 @@
+Player: martin s
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to isg|eightgrade (1512)
+defeated bklynexpress (1489)
+lost to jc (1515)

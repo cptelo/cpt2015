@@ -1,0 +1,13 @@
+Player: wmd|mom's spaghetti
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated laziepokekai (1487)
+lost to cublanco (1524)
+defeated hardtymze (1486)
+lost to mikey r (1525)

@@ -1,0 +1,21 @@
+Player: kyabetsu
+Rating: 1548
+Played: 10
+Won: 5
+Lost: 5
+%: 50
+
+Results:
+::::Nine States::::
+defeated デップー (1500)
+lost to kindo (1573)
+defeated でぇご (1499)
+defeated トモ (1525)
+lost to gattikun (1539)
+::::Tokyo Game Show::::
+lost to rzr|fuudo (1704)
+::::Ultra Hyakkishu Cup::::
+defeated dawgtanian (1513)
+defeated kai (1515)
+lost to neogaf|r/kappa|koji kog (1667)
+lost to r/kappa|aiai (1621)

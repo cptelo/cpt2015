@@ -1,0 +1,13 @@
+Player: jaguar_murad
+Rating: 1497
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated q8tyloco (1487)
+lost to wtq8|mrkingvega (1512)
+defeated yousef84 (1486)
+lost to wtq8|ramadan (1502)

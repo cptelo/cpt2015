@@ -1,0 +1,12 @@
+Player: drunkenbanana
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Northwest Majors::::
+lost to filipino champ (1574)
+defeated cxhwang (1474)
+lost to gedub|ce|jabdrunk (1518)

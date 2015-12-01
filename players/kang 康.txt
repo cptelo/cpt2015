@@ -1,0 +1,14 @@
+Player: kang 康
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA Shanghai::::
+defeated tyson (1487)
+lost to 邢岚 烤鱼 (1524)
+defeated 范伦豪 mars (1474)
+defeated jing (1498)
+lost to qanba douyu|dark jiewa (1629)

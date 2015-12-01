@@ -1,0 +1,17 @@
+Player: apocaalypse
+Rating: 1490
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::NorCal Regionals::::
+lost to eg|momochi (1737)
+defeated jt (1474)
+lost to trevonte (1511)
+::::Northwest Majors::::
+lost to ac riki-oh (1512)
+defeated 385wdb|beermir (1474)
+defeated srkuw|future trunks (1474)
+lost to schowda (1502)

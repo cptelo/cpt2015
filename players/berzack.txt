@@ -1,0 +1,11 @@
+Player: berzack
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::True Challengers Costa Rica::::
+lost to tc507|kakaroto (1512)
+lost to px|doomed (1512)

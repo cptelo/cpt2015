@@ -1,0 +1,12 @@
+Player: abelity
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+defeated kenneth (1487)
+lost to qanba douyu|dark jiewa (1635)
+lost to stekoh (1522)

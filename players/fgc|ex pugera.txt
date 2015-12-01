@@ -1,0 +1,43 @@
+Player: fgc|ex pugera
+Rating: 1673
+Played: 31
+Won: 23
+Lost: 8
+%: 74
+
+Results:
+::::NorCal Regionals::::
+defeated el smith (1491)
+defeated brasssmunkye (1502)
+defeated ce jabdrunk (1490)
+defeated lamerboi (1515)
+defeated ph|lpn (1612)
+defeated ph|lpn (1609)
+defeated ph|lpn (1598)
+lost to r/kappa|kazunoko (1711)
+defeated iperu (1560)
+lost to r/kappa|infilitration (1748)
+::::CEO::::
+defeated twitch.tv/tuboware (1504)
+defeated xzalis (1504)
+defeated yg|joel (1646)
+lost to snake eyez (1723)
+defeated yg|joel (1647)
+lost to qanba douyu|xiaohai (1685)
+::::First Attack::::
+defeated tacaño2dgod (1504)
+defeated seedogpoo (1515)
+defeated shadowchild (1518)
+defeated ranmasama (1560)
+defeated liquid|nuckledu (1748)
+defeated snake eyez (1717)
+lost to r/kappa|infilitration (1801)
+lost to rb|snake eyez (1729)
+::::Ultra Hyakkishu Cup::::
+defeated ojisan (1493)
+defeated shinto~ (1504)
+lost to rzr|fuudo (1723)
+defeated nyanshi (1519)
+defeated kindo (1588)
+defeated sabohani (1565)
+lost to rokkun (1653)

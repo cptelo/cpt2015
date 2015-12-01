@@ -1,0 +1,12 @@
+Player: samuraispirit
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KO Fighting Game Festival::::
+lost to armageddon (1512)
+defeated fujiq8 (1486)
+lost to noob_player (1512)

@@ -1,0 +1,13 @@
+Player: namcore
+Rating: 1477
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Dreamhack Winter::::
+defeated ronnyrundspark (1487)
+lost to cdv|melty|will2pac (1604)
+lost to jojo (1544)
+lost to lamas (1502)

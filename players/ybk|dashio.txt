@@ -1,0 +1,32 @@
+Player: ybk|dashio
+Rating: 1672
+Played: 21
+Won: 15
+Lost: 6
+%: 71
+
+Results:
+::::Tokyo Game Show::::
+defeated rzr|fuudo (1701)
+defeated gachikun (1595)
+defeated -6 (1619)
+defeated avm|gamerbee (1742)
+defeated r/kappa|infilitration (1798)
+lost to rb|bonchan (1740)
+defeated rb|bonchan (1733)
+::::KO Fighting Game Festival::::
+defeated tekkablade (1504)
+defeated failichawy iori-q8 (1505)
+lost to ybk|kichiken (1587)
+defeated wtq8|boxer4ever (1518)
+lost to ybk|kichiken (1602)
+lost to wtq8|gannoon (1576)
+::::Ultra Hyakkishu Cup::::
+defeated kisaran (1492)
+defeated kyoku (1563)
+lost to r/kappa|poongko (1730)
+defeated ikari no k bison (1517)
+defeated nishikin (1647)
+defeated -6 (1633)
+defeated mf|tonpy (1671)
+lost to rzr|fuudo (1722)

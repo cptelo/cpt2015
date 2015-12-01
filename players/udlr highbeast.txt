@@ -1,0 +1,14 @@
+Player: udlr highbeast
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated lucius (1487)
+defeated team seaslug (1478)
+lost to stephen (1536)
+defeated micronukex (1510)
+lost to ace unlimited (1530)

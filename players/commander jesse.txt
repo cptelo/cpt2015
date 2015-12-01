@@ -1,0 +1,17 @@
+Player: commander jesse
+Rating: 1577
+Played: 8
+Won: 5
+Lost: 3
+%: 62
+
+Results:
+::::SCR::::
+defeated ckd/ds babushas (1500)
+lost to rb|bonchan (1737)
+defeated viennahotdog (1522)
+defeated ckd/ds babushas (1533)
+defeated coach steve (1508)
+lost to rb|bonchan (1741)
+defeated ma lung fan (1527)
+lost to ph|lpn (1623)

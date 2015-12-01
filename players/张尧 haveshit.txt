@@ -1,0 +1,14 @@
+Player: 张尧 haveshit
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA Shanghai::::
+defeated 潘权迪 xiaoye (1487)
+lost to kok (1604)
+defeated 马天健 ultrakiller (1486)
+defeated 沈艺洵 dabaipang (1487)
+lost to 何琪 heqi0129 (1525)

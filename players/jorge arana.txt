@@ -1,0 +1,12 @@
+Player: jorge arana
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+defeated kiandres (1487)
+lost to md|luffy (1793)
+lost to bushido (1499)

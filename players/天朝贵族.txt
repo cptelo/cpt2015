@@ -1,0 +1,12 @@
+Player: 天朝贵族
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated 杰克逊 (1487)
+lost to pepeding (1529)
+lost to lutak (1511)

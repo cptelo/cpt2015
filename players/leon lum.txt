@@ -1,0 +1,13 @@
+Player: leon lum
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::FV Cup::::
+lost to silg@duncan (1512)
+defeated koh kok sun (1489)
+defeated tommy chiam (1490)
+lost to silg@duncan (1527)

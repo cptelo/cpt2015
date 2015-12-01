@@ -1,0 +1,12 @@
+Player: ひかりん
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KSB 2015::::
+defeated 様式美 (1487)
+lost to r/kappa|kazunoko (1717)
+lost to こま (1517)

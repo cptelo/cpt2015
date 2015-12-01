@@ -1,0 +1,10 @@
+Player: ks|tali
+Rating: 1493
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::Defend the North::::
+lost to kig|problem x (1698)

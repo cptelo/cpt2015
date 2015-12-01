@@ -1,0 +1,11 @@
+Player: hagen
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Hypespotting::::
+lost to damascus (1560)
+lost to rs|d4rk onion (1501)

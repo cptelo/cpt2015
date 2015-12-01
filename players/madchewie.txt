@@ -1,0 +1,12 @@
+Player: madchewie
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to hoodaman (1608)
+defeated gorillapino (1474)
+lost to dm|katzu (1511)

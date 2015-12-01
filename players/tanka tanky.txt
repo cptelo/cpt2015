@@ -1,0 +1,17 @@
+Player: tanka tanky
+Rating: 1506
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to daniel thia (1512)
+lost to wuming (1501)
+defeated dj storm (1486)
+lost to rzr|gackt (1666)
+defeated shane (1486)
+defeated elton (1502)
+defeated lenard (1503)
+lost to koji (1561)

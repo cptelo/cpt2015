@@ -1,0 +1,13 @@
+Player: sion
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated 手把老桑 (1487)
+lost to misse (1649)
+defeated 泰瑞鴿 (1486)
+lost to atom (1528)

@@ -1,0 +1,11 @@
+Player: pote
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to fullmetal-alex (1512)
+lost to gdlk.co|churro (1499)

@@ -1,0 +1,34 @@
+Player: kelvin jeon
+Rating: 1575
+Played: 22
+Won: 13
+Lost: 9
+%: 59
+
+Results:
+::::Final Round::::
+defeated r/kappa|kazunoko (1633)
+lost to tsc|dieminion (1664)
+lost to r/kappa|kazunoko (1642)
+::::NorCal Regionals::::
+defeated macfaltine (1489)
+defeated jared (1501)
+defeated wa|dm salpacino (1513)
+lost to eg|justin wong (1691)
+defeated jared (1537)
+lost to eg|justin wong (1699)
+lost to eg|justin wong (1707)
+lost to hoodaman (1619)
+::::EVO::::
+defeated buktooth (1489)
+::::SCR::::
+defeated lemon pie (1489)
+lost to r/sf|v.s. cjbqulix (1526)
+defeated l.grinta (1475)
+defeated mom|eh|velociraptor (1627)
+defeated sd legend (1495)
+defeated r/sf|v.s. cjbqulix (1514)
+defeated botb|jester (1521)
+lost to qanba douyu|xiaohai (1725)
+defeated valiant (1532)
+lost to eg|momochi (1771)

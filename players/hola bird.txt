@@ -1,0 +1,12 @@
+Player: hola bird
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to mean saltine (1524)
+defeated dex masters (1474)
+lost to m a d w a k (1513)

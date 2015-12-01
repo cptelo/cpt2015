@@ -1,0 +1,13 @@
+Player: venomkiller
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to gambleboxer (1512)
+defeated bk9999 (1476)
+defeated coffee (1488)
+lost to gambleboxer (1524)

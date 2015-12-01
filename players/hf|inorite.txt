@@ -1,0 +1,11 @@
+Player: hf|inorite
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to pie|smug (1643)
+lost to otaku strawberryball (1499)

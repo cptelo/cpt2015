@@ -1,0 +1,16 @@
+Player: sww|phoenix
+Rating: 1479
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::Hypespotting::::
+defeated lark0 (1487)
+lost to problem x (1655)
+lost to armdevil (1511)
+::::VS Fighting::::
+defeated ed|wilksy15 (1478)
+lost to vs|rize|ind|milligano (1573)
+lost to sml|shinmael (1511)

@@ -1,0 +1,14 @@
+Player: ts min
+Rating: 1521
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated anbu exking (1498)
+defeated brian_f (1511)
+lost to julio (1618)
+defeated sa teamkhris (1535)
+lost to r/kappa|infilitration (1765)

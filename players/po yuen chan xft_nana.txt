@@ -1,0 +1,16 @@
+Player: po yuen chan xft_nana
+Rating: 1537
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::HK::::
+defeated 章毅骏 屠jo奇 (1487)
+lost to wong ho ching river (1524)
+defeated 张翔渝 freeman (1492)
+defeated kung sai kit xft_saiki (1502)
+defeated ray (1503)
+defeated wong ho ching river (1514)
+lost to rzr|rb (1621)

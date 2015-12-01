@@ -1,0 +1,12 @@
+Player: noriyasu
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated dath (1487)
+lost to hagejin (1570)
+lost to ttl|shinba (1556)

@@ -1,0 +1,13 @@
+Player: misak
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated terrymc (1487)
+lost to #bajaboys fullbleed (1511)
+defeated darealsteven (1486)
+lost to 「346pro|ＹＡＳＥ」 fog_e (1523)

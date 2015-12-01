@@ -1,0 +1,11 @@
+Player: ds|pak_mei
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to sfo|the pro fka pro ho (1512)
+lost to firefist (1499)

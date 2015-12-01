@@ -1,0 +1,13 @@
+Player: falling charlie
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated sonimatic14 (1487)
+defeated sir reginald bigglesworth (1499)
+lost to tsc|dieminion (1680)
+lost to hero of time (1537)

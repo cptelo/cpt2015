@@ -1,0 +1,17 @@
+Player: valiant
+Rating: 1532
+Played: 8
+Won: 5
+Lost: 3
+%: 62
+
+Results:
+::::SCR::::
+defeated mysticnamja (1487)
+defeated panoptic (1499)
+lost to hsien chang (1591)
+defeated cartoon hero (1516)
+defeated bcw_bushinstyle (1526)
+defeated eg|k-brad (1673)
+lost to hsien chang (1601)
+lost to kelvin jeon (1578)

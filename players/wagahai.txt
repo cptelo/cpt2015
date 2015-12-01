@@ -1,0 +1,13 @@
+Player: wagahai
+Rating: 1497
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::TFC::::
+lost to redninja (1512)
+defeated dwe|mcbae (1474)
+defeated d.veritas (1466)
+lost to xdsc-knowledge (1512)

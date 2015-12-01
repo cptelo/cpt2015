@@ -1,0 +1,12 @@
+Player: flicky
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to ymb 9 big boss (1512)
+defeated space problems (1479)
+lost to smash (1512)

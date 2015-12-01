@@ -1,0 +1,12 @@
+Player: shinra
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to miamix-alex (1512)
+defeated bcw big tone (1474)
+lost to totallydrew (1523)

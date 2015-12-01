@@ -1,0 +1,14 @@
+Player: rr|mr gork
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::First Attack::::
+defeated flan (1487)
+defeated olivo (1487)
+lost to godzilla (1536)
+defeated flan (1498)
+lost to prk famous (1529)

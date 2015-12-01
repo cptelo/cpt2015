@@ -1,0 +1,12 @@
+Player: 徐云龙 shinxcloud
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+lost to 梁伟知 todayceo (1512)
+defeated ilsenewton 19 (1486)
+lost to 郑凯 znk (1523)

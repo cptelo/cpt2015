@@ -1,0 +1,11 @@
+Player: vt mgt
+Rating: 1482
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Red Fight District::::
+lost to md|luffy (1774)
+lost to annoobilation (1500)

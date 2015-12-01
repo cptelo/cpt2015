@@ -1,0 +1,21 @@
+Player: pg|coach steve
+Rating: 1496
+Played: 10
+Won: 4
+Lost: 6
+%: 40
+
+Results:
+::::Summer Jam::::
+defeated shine (1583)
+lost to dcb dark child (1524)
+lost to rig elchakotay (1516)
+::::SCR::::
+defeated khio (1487)
+defeated viennahotdog (1499)
+defeated f99|driftwood (1484)
+lost to rb|bonchan (1739)
+lost to commander jesse (1586)
+::::Defend the North::::
+lost to liquid|nuckledu (1724)
+lost to tsc|yomi|dieminion (1718)

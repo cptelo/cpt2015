@@ -1,0 +1,17 @@
+Player: mlswear
+Rating: 1560
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::Texas Showdown::::
+defeated tss cambam (1500)
+defeated chaotix (1571)
+defeated beastchan23 (1501)
+defeated vgp|chaotix (1573)
+lost to ta|chris g (1631)
+lost to liquid|nuckledu (1744)
+::::EVO::::
+lost to el cubano loco (1517)

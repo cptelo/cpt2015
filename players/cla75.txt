@@ -1,0 +1,15 @@
+Player: cla75
+Rating: 1527
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Milan Games Week::::
+defeated nicoy tiengo (1487)
+lost to raygo blayde|afii (1645)
+defeated lorenzo pieracci (1475)
+defeated moor (1502)
+defeated moor (1490)
+lost to packz (1621)

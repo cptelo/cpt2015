@@ -1,0 +1,11 @@
+Player: newbtrait
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to filipino champ (1570)
+lost to dirty paws (1501)

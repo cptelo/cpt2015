@@ -1,0 +1,15 @@
+Player: tuan mario
+Rating: 1509
+Played: 6
+Won: 3
+Lost: 3
+%: 50
+
+Results:
+::::Saigon Cup::::
+defeated mdzor (1487)
+defeated phuong (1487)
+lost to ccg|humanbomb (1668)
+defeated baotrung3108 (1513)
+lost to ccg|humanbomb (1671)
+lost to qanba douyu|god of sky (1569)

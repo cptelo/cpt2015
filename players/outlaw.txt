@@ -1,0 +1,13 @@
+Player: outlaw
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+lost to jkazuma (1512)
+defeated shadowofmath (1474)
+defeated volibear (1502)
+lost to wtq8|yoni (1511)

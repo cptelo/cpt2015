@@ -1,0 +1,12 @@
+Player: 郭大喜
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to fdy|devil_reapers|stormkubo (1671)
+defeated 豆奶 (1474)
+lost to 嘟嘟 (1515)

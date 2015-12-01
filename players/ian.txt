@@ -1,0 +1,10 @@
+Player: ian
+Rating: 1513
+Played: 1
+Won: 1
+Lost: 0
+%: 100
+
+Results:
+::::Canada Cup::::
+defeated lu|alex valle (1525)

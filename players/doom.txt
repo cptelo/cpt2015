@@ -1,0 +1,13 @@
+Player: doom
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated senseisoul (1487)
+defeated chewmandinga (1487)
+lost to ed|kyros (1538)
+lost to btm brian (1575)

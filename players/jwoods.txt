@@ -1,0 +1,11 @@
+Player: jwoods
+Rating: 1473
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to mba|dread (1499)
+lost to scc|lark0 (1494)

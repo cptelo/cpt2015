@@ -1,0 +1,19 @@
+Player: lom|warteacher
+Rating: 1513
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::VS Fighting::::
+defeated shaggy (1487)
+defeated smbf|vertigo (1487)
+lost to rize|ind|alaughinggoblin (1526)
+defeated scc|unw4nt3d (1499)
+defeated sml|shinmael (1498)
+lost to raygo blayde|afii (1633)
+::::EGX::::
+defeated chaos time (1524)
+lost to btm|tyrant (1636)
+lost to ngi lom wiseblade (1512)

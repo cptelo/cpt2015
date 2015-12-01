@@ -1,0 +1,13 @@
+Player: jimmy hon maskjimmy
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::HK::::
+defeated ip hoi wang xft_whip (1487)
+lost to kok (1612)
+defeated wong chun yin denesis (1486)
+lost to 周怿 angle (1524)

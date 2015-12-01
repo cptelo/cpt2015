@@ -1,0 +1,12 @@
+Player: hold dat l
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+lost to redpanda knuckledust (1512)
+defeated l4 (1474)
+lost to noelbhungry (1515)

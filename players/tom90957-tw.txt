@@ -1,0 +1,12 @@
+Player: tom90957-tw
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+defeated andywuzc (1487)
+lost to kok (1611)
+lost to wataru (japan) (1511)

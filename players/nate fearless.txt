@@ -1,0 +1,13 @@
+Player: nate fearless
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+lost to yomi da knut (1512)
+defeated lupasan (1474)
+defeated sa ghost (1489)
+lost to yomi|stan (1523)

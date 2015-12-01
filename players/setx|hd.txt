@@ -1,0 +1,11 @@
+Player: setx|hd
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Texas Showdown::::
+lost to bsida (1524)
+lost to chris belman (1499)

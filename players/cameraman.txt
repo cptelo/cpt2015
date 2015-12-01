@@ -1,0 +1,21 @@
+Player: cameraman
+Rating: 1484
+Played: 10
+Won: 4
+Lost: 6
+%: 40
+
+Results:
+::::Abuget Cup::::
+defeated aho (1487)
+lost to saunic (1570)
+lost to saman (1513)
+::::CPTA KR::::
+lost to mullen (1512)
+lost to al (1505)
+::::Milan Games Week::::
+defeated nutri96 (1486)
+lost to eita (1604)
+defeated marco mazzanti (1473)
+defeated daddario (1500)
+lost to bx3|veggey (1601)

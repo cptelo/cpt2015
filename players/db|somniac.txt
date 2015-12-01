@@ -1,0 +1,19 @@
+Player: db|somniac
+Rating: 1568
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::South East Asia Major::::
+lost to gachikun (1615)
+defeated bean (1484)
+lost to eg|momochi (1741)
+::::CPTA Last Chance Qualifier::::
+defeated bk9999 (1489)
+defeated gambleboxer (1500)
+defeated qanba douyu|god of sky (1578)
+lost to eg|pr balrog (1684)
+defeated koji (1548)
+lost to chuan (1640)

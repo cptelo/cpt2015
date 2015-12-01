@@ -1,0 +1,12 @@
+Player: jean
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated mardon (1487)
+lost to rm emp kdz (1524)
+lost to battlefelde (1511)

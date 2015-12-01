@@ -1,0 +1,12 @@
+Player: xft jin tai xft jin tai
+Rating: 1485
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::HK::::
+lost to 黃勇 rc (1512)
+defeated lee chun ho lee (1474)
+lost to 刘锦发 chilunsin (1492)

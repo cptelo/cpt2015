@@ -1,0 +1,12 @@
+Player: cord krohn ahgama
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::HK::::
+defeated 李博 b春 (1487)
+lost to ho wai kit cs/u2 (1524)
+lost to gonzales (1595)

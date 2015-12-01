@@ -1,0 +1,12 @@
+Player: collusion spark
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Northwest Majors::::
+lost to kaleo (1512)
+defeated mrxrubin (1474)
+lost to pdx waifu mobile (goggles) (1500)

@@ -1,0 +1,13 @@
+Player: dm|katzu
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated romeo (1487)
+lost to kizzie kay (1524)
+defeated madchewie (1490)
+lost to ultima (1530)

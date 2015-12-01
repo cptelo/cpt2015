@@ -1,0 +1,15 @@
+Player: winchester
+Rating: 1527
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Texas Showdown::::
+defeated joshua alexander (1487)
+lost to r/kappa|infilitration (1768)
+defeated alex-23 (1475)
+defeated (setx) willcola (1498)
+defeated tierproblem (1499)
+lost to chairman (1533)

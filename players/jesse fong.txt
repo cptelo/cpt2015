@@ -1,0 +1,11 @@
+Player: jesse fong
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to sd|ilija (1524)
+lost to shockbeast (1499)

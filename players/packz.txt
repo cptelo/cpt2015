@@ -1,0 +1,43 @@
+Player: packz
+Rating: 1620
+Played: 29
+Won: 17
+Lost: 12
+%: 58
+
+Results:
+::::FFM-Rumble::::
+lost to mba|infexious (1610)
+::::VS Fighting::::
+defeated downbackbro (1502)
+defeated ed|the claw of god (1514)
+defeated rize|ind|boltstrike (1564)
+lost to md|luffy (1741)
+defeated ikimashouu (1549)
+defeated btm|isam (1570)
+defeated btm|gunslinga (1575)
+lost to md|luffy (1747)
+defeated sml|solidjin (1593)
+lost to kig|problem x (1703)
+::::EGX::::
+lost to rs|cobelcog (1512)
+defeated sfo willo (1490)
+lost to rize|ind|zain (1528)
+::::Call of Ragnarok::::
+lost to gonzales (1627)
+defeated rbn|duppsko (1500)
+defeated bashfest (1549)
+lost to kig|problem x (1709)
+::::Red Fight District::::
+defeated cex|goukifafa (1512)
+defeated dn sf4killedus (1503)
+defeated cuongster (1582)
+lost to bx3|phenom (1661)
+defeated kig|problem x (1704)
+lost to lll|mbr (1630)
+::::Milan Games Week::::
+defeated confz (1466)
+lost to um|btm|imstilldadaddy (1636)
+defeated cla75 (1527)
+defeated neopunisher (1521)
+lost to gl|rb|valmaster (1705)

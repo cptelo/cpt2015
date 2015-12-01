@@ -1,0 +1,11 @@
+Player: rhinostarr
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to wso|logan (1515)
+lost to oenomaus (1499)

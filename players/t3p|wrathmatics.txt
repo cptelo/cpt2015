@@ -1,0 +1,21 @@
+Player: t3p|wrathmatics
+Rating: 1537
+Played: 11
+Won: 7
+Lost: 4
+%: 63
+
+Results:
+::::NorCal Regionals::::
+lost to eg|k-brad (1601)
+defeated idiocy (1474)
+defeated sd_watt (1486)
+defeated fera (1498)
+lost to kineda (1526)
+::::SCR::::
+defeated david alvarez (1487)
+lost to ts|reiketsu (1639)
+defeated kit sbk (1475)
+defeated bombskeez (1500)
+defeated gd just joe (1490)
+lost to pg|filipino champ (1571)

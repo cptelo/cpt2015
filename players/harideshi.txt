@@ -1,0 +1,20 @@
+Player: harideshi
+Rating: 1562
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::KSB 2015::::
+lost to kok (1614)
+defeated ギャズ (1477)
+defeated みだれねこ (1491)
+lost to rzr|itabashi zangief (1667)
+::::EVO::::
+defeated goldencen (1489)
+::::Ultra Hyakkishu Cup::::
+defeated oni. (1489)
+lost to rzr|xian (1786)
+defeated hishow rabbit (1490)
+lost to r/kappa|aiai (1617)

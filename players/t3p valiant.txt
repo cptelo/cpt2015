@@ -1,0 +1,15 @@
+Player: t3p valiant
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::NorCal Regionals::::
+lost to g-dragon (1512)
+defeated vdon (1474)
+defeated cyberchink (1492)
+defeated willpower (1498)
+defeated g-dragon (1501)
+lost to thrillhouse (1547)

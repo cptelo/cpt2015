@@ -1,0 +1,12 @@
+Player: groceryoutletjustin
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated kaynewesker (1487)
+lost to jhunie (1524)
+lost to mr|jetpackjohnny (1511)

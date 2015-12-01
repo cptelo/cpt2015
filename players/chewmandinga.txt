@@ -1,0 +1,12 @@
+Player: chewmandinga
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to doom (1524)
+defeated jlc (1487)
+lost to btm brian (1565)

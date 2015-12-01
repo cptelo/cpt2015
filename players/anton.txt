@@ -1,0 +1,21 @@
+Player: anton
+Rating: 1549
+Played: 11
+Won: 7
+Lost: 4
+%: 63
+
+Results:
+::::Nine States::::
+defeated 無刑 (1487)
+defeated マスタング (1499)
+defeated まいけるたん (1499)
+defeated chiaki (1523)
+defeated chiaki (1522)
+lost to nishikin (1713)
+lost to gattikun (1556)
+::::KSB 2015::::
+defeated ギャズ (1488)
+defeated kok (1608)
+lost to gachikun (1627)
+lost to eita (1629)

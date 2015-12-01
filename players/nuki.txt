@@ -1,0 +1,10 @@
+Player: nuki
+Rating: 1517
+Played: 1
+Won: 1
+Lost: 0
+%: 100
+
+Results:
+::::EVO::::
+defeated tonpy (1639)

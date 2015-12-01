@@ -1,0 +1,13 @@
+Player: shonk
+Rating: 1476
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Dreamhack Winter::::
+defeated kilmer (1487)
+lost to gxc|damascus (1598)
+lost to ippolit (1510)
+lost to forward dash (1488)

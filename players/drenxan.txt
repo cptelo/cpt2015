@@ -1,0 +1,14 @@
+Player: drenxan
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated rst sinful (1487)
+defeated exfinitus (1499)
+lost to qanba douyu|xiaohai (1681)
+defeated violent repent (1499)
+lost to louzy (1524)

@@ -1,0 +1,17 @@
+Player: nayte
+Rating: 1542
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Dreamhack Summer::::
+defeated agilo (1489)
+defeated ind.king funk (1482)
+defeated pr0digy_013 (1467)
+lost to um|rmz (1601)
+lost to ryan hart (1682)
+lost to lll|mbr (1598)
+defeated zelpher (1486)
+lost to ind.saltykid (1554)

@@ -1,0 +1,11 @@
+Player: たいがー
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::KSB 2015::::
+lost to スコア (1512)
+lost to 大分人 (1532)

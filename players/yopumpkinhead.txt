@@ -1,0 +1,11 @@
+Player: yopumpkinhead
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to bokkin (1512)
+lost to saturnize (1511)

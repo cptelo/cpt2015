@@ -1,0 +1,12 @@
+Player: marcher29
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+lost to starkillershane (1512)
+defeated radirgy (1474)
+lost to ikimashouu (1511)

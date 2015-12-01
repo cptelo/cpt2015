@@ -1,0 +1,13 @@
+Player: naio
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated kaara (1487)
+lost to sabohani (1573)
+defeated narudo (1486)
+lost to ojisan (1529)

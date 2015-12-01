@@ -1,0 +1,16 @@
+Player: dangief
+Rating: 1513
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::Hypespotting::::
+defeated mmg|spuck (1487)
+lost to sfo broodoo (1524)
+defeated onemorething (1474)
+defeated eruxiahou (1486)
+defeated sfo broodoo (1498)
+lost to afii (1635)
+lost to alioune85 (1554)

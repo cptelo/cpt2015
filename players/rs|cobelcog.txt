@@ -1,0 +1,21 @@
+Player: rs|cobelcog
+Rating: 1494
+Played: 10
+Won: 4
+Lost: 6
+%: 40
+
+Results:
+::::Hypespotting::::
+defeated rde shiftingshadows (1499)
+lost to rize|ind|sfo|omh (1538)
+lost to um|imstilldadaddy (1604)
+::::VS Fighting::::
+defeated kubisa (1497)
+defeated bsc|ruok (1500)
+lost to um|btm|imstilldadaddy (1641)
+lost to pun pun (1534)
+::::EGX::::
+defeated packz (1621)
+lost to btm|gunslinga (1593)
+lost to raygo blayde|afii (1636)

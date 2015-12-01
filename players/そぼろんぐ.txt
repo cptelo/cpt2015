@@ -1,0 +1,17 @@
+Player: そぼろんぐ
+Rating: 1501
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Nine States::::
+defeated spabobin (1487)
+lost to misse (1609)
+defeated ちーたん (1487)
+lost to のえ (1527)
+defeated spabobin (1474)
+lost to misse (1640)
+defeated ちーたん (1475)
+lost to のえ (1539)

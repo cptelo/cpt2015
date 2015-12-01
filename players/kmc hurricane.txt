@@ -1,0 +1,12 @@
+Player: kmc hurricane
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated leafyboy12 (1487)
+lost to lil evil (1512)
+lost to mikey g (1511)

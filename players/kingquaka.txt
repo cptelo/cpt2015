@@ -1,0 +1,14 @@
+Player: kingquaka
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Hypespotting::::
+lost to alaughinggoblin (1512)
+defeated chris gillon (1479)
+defeated rde|porcupine (1486)
+defeated alaughinggoblin (1502)
+lost to strider (1527)

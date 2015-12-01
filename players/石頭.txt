@@ -1,0 +1,11 @@
+Player: 石頭
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to ccg|humanbomb (1649)
+lost to tony cha cha (1499)

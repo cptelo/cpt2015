@@ -1,0 +1,15 @@
+Player: shotty
+Rating: 1526
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::TFC::::
+defeated highlevelnovice (1487)
+defeated pokchop (1517)
+defeated dcb|afterdeath (1524)
+defeated dcb|afterdeath (1523)
+lost to tampa bison (1651)
+lost to damdai (1557)

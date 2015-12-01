@@ -1,0 +1,13 @@
+Player: kobra
+Rating: 1480
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Dreamhack Winter::::
+defeated bashfest (1543)
+lost to ccg|humanbomb (1664)
+lost to gingerv1k1ng (1489)
+lost to rize|ind|kwiddo (1529)

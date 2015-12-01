@@ -1,0 +1,22 @@
+Player: team seaslug
+Rating: 1491
+Played: 11
+Won: 5
+Lost: 6
+%: 45
+
+Results:
+::::NorCal Regionals::::
+defeated misteranthropy (1487)
+defeated nando tovar (1545)
+lost to 801 strider (1626)
+defeated smbg|bakedmotatoes (1510)
+lost to alex myers (1629)
+::::Texas Showdown::::
+lost to samzo (1513)
+lost to ivanpants (1500)
+::::CEO::::
+lost to udlr highbeast (1523)
+defeated rush digital (1485)
+defeated rbr anbu deadlyclaw (1486)
+lost to vgp|andre west (1538)

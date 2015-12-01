@@ -1,0 +1,23 @@
+Player: yagami
+Rating: 1519
+Played: 13
+Won: 7
+Lost: 6
+%: 53
+
+Results:
+::::Dreamhack Summer::::
+defeated jeparianen (1487)
+defeated lyhs (1487)
+defeated dr. cat (1475)
+lost to wso|andreas (1614)
+defeated forward dash (1486)
+lost to jet (1527)
+lost to iki (1497)
+::::Dreamhack Winter::::
+defeated op|kayjay (1479)
+defeated james deen (1443)
+defeated tm robofobe (1466)
+lost to dafeetlee (1612)
+lost to bx3|phenom (1666)
+lost to afi (1532)

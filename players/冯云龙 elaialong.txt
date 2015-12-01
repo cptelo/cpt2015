@@ -1,0 +1,11 @@
+Player: 冯云龙 elaialong
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to jojo (1512)
+lost to chris tweten ctwtn (1499)

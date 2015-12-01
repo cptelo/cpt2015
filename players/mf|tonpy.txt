@@ -1,0 +1,101 @@
+Player: mf|tonpy
+Rating: 1668
+Played: 80
+Won: 54
+Lost: 26
+%: 67
+
+Results:
+::::Cannes Winter Clash::::
+defeated madjestik (1539)
+defeated tkr (1549)
+lost to jehosan (1593)
+defeated ninja shackz (1525)
+defeated dieminion (1655)
+lost to sako (1637)
+::::KSB 2015::::
+defeated ローキン (1491)
+defeated eita (1618)
+defeated tarezou (1521)
+defeated nemo (1663)
+defeated bonchan (1726)
+defeated mcz|tokido (1697)
+lost to nemo (1722)
+lost to nemo (1726)
+::::EVO::::
+lost to r/kappa|kazunoko (1752)
+lost to nuki (1517)
+::::CPTA Shanghai::::
+defeated 胡寅辰 justin hu (1503)
+lost to huanlin (1585)
+lost to gz-ben (1540)
+::::FV Cup::::
+defeated haw seow (1503)
+defeated battousai (1503)
+defeated fitri amir (1515)
+defeated stanick (1492)
+lost to rzr|itabashi zangief (1690)
+defeated leslie (1571)
+lost to rzr|gackt (1610)
+::::Taiwan::::
+defeated atom (1492)
+defeated 玩具 (1503)
+defeated rockpon (1527)
+lost to misse (1656)
+defeated rockpon (1541)
+lost to misse (1660)
+defeated ybk|kim1234 (1561)
+defeated sketch (1488)
+defeated ts|reiketsu (1638)
+lost to chuan (1645)
+::::HK::::
+defeated leung philip yu fat philip leung (1492)
+defeated lai chun wai neverdiewai (1504)
+defeated 何浩华 gz.roadman (1515)
+lost to codynp (1549)
+defeated lee g.y.r.o (1527)
+defeated rzr|rb (1616)
+defeated chuan (1642)
+defeated qanba douyu|xiaohai (1702)
+defeated misse (1681)
+defeated qanba douyu|dark jiewa (1656)
+lost to mov (1684)
+::::Manila Cup::::
+defeated james (1492)
+defeated ybk|kim1234 (1562)
+defeated ts|reiketsu (1636)
+defeated ccg|humanbomb (1658)
+lost to ccg|humanbomb (1668)
+defeated ccg|humanbomb (1663)
+::::Saigon Cup::::
+defeated spano (1504)
+defeated shaun (1515)
+defeated shaun (1519)
+defeated rzr|gackt (1612)
+lost to qanba douyu|xiaohai (1716)
+defeated gonzales (1608)
+lost to rzr|gackt (1630)
+::::Tokyo Game Show::::
+defeated r/kappa|poongko (1724)
+lost to gachikun (1600)
+defeated mov (1673)
+lost to rzr|fuudo (1721)
+::::Ze Fighting Game Champion::::
+defeated 大盗 (1504)
+defeated 天下人 (1516)
+lost to 罗晓虎 (1559)
+lost to qanba douyu|god of sky (1584)
+::::Ultra Hyakkishu Cup::::
+defeated white fang (1492)
+defeated kuroda (1504)
+lost to rzr|xian (1789)
+defeated okkun (1516)
+defeated fdy|devil_reapers|stormkubo (1664)
+defeated inco (1675)
+lost to ybk|dashio (1677)
+::::Milan Games Week::::
+defeated john (1504)
+defeated templar (1516)
+defeated eita (1604)
+lost to rzr|rb (1635)
+lost to fa|ryan hart (1698)

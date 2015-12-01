@@ -1,0 +1,11 @@
+Player: tam
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Saigon Cup::::
+lost to spano (1512)
+lost to noobiex (1499)

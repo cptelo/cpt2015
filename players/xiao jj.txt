@@ -1,0 +1,13 @@
+Player: xiao jj
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+defeated lcx lcx1988 (1487)
+defeated zhudongyu (1499)
+lost to humanbomb (1648)
+lost to quiquikof rank 11 (1525)

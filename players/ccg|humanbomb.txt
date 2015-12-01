@@ -1,0 +1,95 @@
+Player: ccg|humanbomb
+Rating: 1679
+Played: 75
+Won: 51
+Lost: 24
+%: 68
+
+Results:
+::::Abuget Cup::::
+defeated ardi (1491)
+defeated xiaolong (1549)
+defeated chuan (1605)
+lost to dark jiewa (1639)
+defeated chuan (1612)
+lost to dark jiewa (1651)
+::::CPTA KR::::
+defeated iim83man (1491)
+defeated kok (1594)
+defeated bigdamaul (1491)
+defeated kok (1610)
+defeated eita (1624)
+lost to poongko (1756)
+lost to r/kappa|kazunoko (1719)
+::::South East Asia Major::::
+defeated eita (1612)
+lost to rzr|xian (1761)
+defeated misse (1643)
+lost to eg|momochi (1744)
+::::CPTA Shanghai::::
+defeated qanba douyu|红中大大 (1503)
+defeated xiao jj (1515)
+defeated qanba douyu|qqel (1567)
+defeated qanba douyu|god of sky (1580)
+lost to rzr|xian (1762)
+defeated qanba douyu|qqel (1598)
+lost to qanba douyu|xiaohai (1704)
+::::FV Cup::::
+defeated fv tkc (1492)
+defeated rv_raihan (1504)
+lost to koji miyake (1541)
+defeated rv_raihan (1519)
+lost to chuan (1626)
+::::Taiwan::::
+defeated 石頭 (1492)
+defeated 宗慶/k (1504)
+lost to onigiri kai (1540)
+defeated 歐妹/omega (1514)
+defeated 宗慶/k (1530)
+lost to sasa (1539)
+::::HK::::
+defeated willis (1492)
+defeated kenneth lai thunder 9 (1504)
+defeated kay zhong kay(fs) (1515)
+defeated kok (1611)
+defeated qanba douyu|xiaohai (1704)
+lost to mov (1690)
+lost to qanba douyu|dark jiewa (1661)
+::::Manila Cup::::
+defeated ikatsui yarou (1492)
+defeated stormkubo (1675)
+defeated qanba douyu|dark jiewa (1656)
+lost to tonpy (1675)
+defeated nishikin (1659)
+defeated tonpy (1669)
+lost to tonpy (1673)
+::::Saigon Cup::::
+defeated baotrung3108 (1504)
+defeated tuan mario (1516)
+defeated tuan mario (1520)
+defeated chuan (1642)
+lost to qanba douyu|dark jiewa (1669)
+lost to rzr|gackt (1625)
+::::Tokyo Game Show::::
+lost to be|nemo (1737)
+defeated matsuri (1533)
+lost to mcz|tokido (1713)
+::::Ze Fighting Game Champion::::
+defeated zemerick (1492)
+defeated 班禅 (1504)
+defeated kok (1609)
+defeated rzr|fuudo (1723)
+defeated 罗晓虎 (1550)
+lost to qanba douyu|dakou (1657)
+lost to rzr|gackt (1666)
+::::Dreamhack Winter::::
+defeated kobra (1506)
+defeated rize|ind|kwiddo (1504)
+defeated gingerv1k1ng (1482)
+defeated bashfest (1537)
+defeated jojo (1525)
+defeated lll|mbr (1632)
+defeated fgcbr|keoma (1681)
+lost to rzr|xian (1797)
+defeated um|btm|rmz (1619)
+lost to md|luffy (1799)

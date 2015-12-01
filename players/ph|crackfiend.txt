@@ -1,0 +1,31 @@
+Player: ph|crackfiend
+Rating: 1578
+Played: 19
+Won: 11
+Lost: 8
+%: 57
+
+Results:
+::::NorCal Regionals::::
+defeated joutai (1489)
+defeated sherryjenix (1501)
+lost to mcz|daigo (1713)
+defeated k/d_heyzeus775 (1513)
+lost to ccg|chi-rithy (1580)
+::::Northwest Majors::::
+defeated badguy (1489)
+defeated deadmoo5 (1501)
+lost to koji kog (1629)
+defeated nacer (1515)
+defeated deadmoo5 (1525)
+lost to brentt (1624)
+::::EVO::::
+lost to mor|rico suave (1611)
+::::SCR::::
+defeated dchong (1500)
+defeated boeken (1512)
+defeated brentt (1623)
+lost to r/kappa|zv|kazunoko (1743)
+defeated brentt (1623)
+lost to r/kappa|zv|kazunoko (1745)
+lost to mc|xsk samurai (1587)

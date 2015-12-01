@@ -1,0 +1,13 @@
+Player: harumii
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated score (1487)
+lost to fgc|dunhill (1537)
+defeated ryutarou (1486)
+lost to sasaki (1569)

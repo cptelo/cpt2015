@@ -1,0 +1,20 @@
+Player: dkt
+Rating: 1525
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated l.grinta (1487)
+lost to mookmonster (1524)
+defeated muratto (1488)
+defeated threecentipedes (1498)
+lost to steeeeve (1525)
+::::SCR::::
+defeated yg|joel (1645)
+lost to corn|alucard (1615)
+defeated jed (1475)
+defeated shogunn (1499)
+lost to futile (1528)

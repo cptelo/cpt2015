@@ -1,0 +1,15 @@
+Player: dr thomas
+Rating: 1525
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Milan Games Week::::
+defeated sonny (1487)
+lost to sfo|brylarke (1526)
+defeated marcorydah (1474)
+defeated rawpower (1487)
+defeated templar (1503)
+lost to rize|ind|pro fluke (1635)

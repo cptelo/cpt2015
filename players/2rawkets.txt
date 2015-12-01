@@ -1,0 +1,12 @@
+Player: 2rawkets
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to tomarre (1512)
+defeated kalbibeef (1487)
+lost to iplay4food (1523)

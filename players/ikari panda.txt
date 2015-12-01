@@ -1,0 +1,15 @@
+Player: ikari panda
+Rating: 1523
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Combo Breaker::::
+defeated tones (^_^) (1499)
+defeated swk kaker (1499)
+defeated wyseguy (1511)
+lost to derrick legend (1548)
+defeated tones (^_^) (1544)
+lost to cj tajh (1552)

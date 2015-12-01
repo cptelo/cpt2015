@@ -1,0 +1,12 @@
+Player: uvg the professional
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to d.veritas (1512)
+defeated court (1474)
+lost to micronukex (1524)

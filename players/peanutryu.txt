@@ -1,0 +1,14 @@
+Player: peanutryu
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::FV Cup::::
+defeated suryan nair (1487)
+lost to ybk|shiro (1627)
+defeated zeal (1475)
+defeated rinda wan (1487)
+lost to ybk|shiro (1626)

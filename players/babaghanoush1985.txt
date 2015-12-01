@@ -1,0 +1,12 @@
+Player: babaghanoush1985
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated pinecone (1487)
+lost to liquid|nuckledu (1735)
+lost to noc|leviathan (1515)

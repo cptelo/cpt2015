@@ -1,0 +1,15 @@
+Player: espr fga mono
+Rating: 1535
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated pootytangfl (1487)
+defeated flash metroid (1475)
+defeated nyc yuusha (1511)
+defeated mom|velociraptor (1646)
+lost to rzr|fuudo (1723)
+lost to mom|velociraptor (1655)

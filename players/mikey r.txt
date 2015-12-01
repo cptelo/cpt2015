@@ -1,0 +1,15 @@
+Player: mikey r
+Rating: 1524
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::NorCal Regionals::::
+defeated toneloki (1487)
+lost to mom|velociraptor (1614)
+defeated bluebomber (1475)
+defeated wmd|mom's spaghetti (1498)
+defeated kino (1504)
+lost to cublanco (1538)

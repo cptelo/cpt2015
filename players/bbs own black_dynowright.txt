@@ -1,0 +1,11 @@
+Player: bbs own black_dynowright
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to ks|cbrn|nighttwo (1512)
+lost to n4us (1502)

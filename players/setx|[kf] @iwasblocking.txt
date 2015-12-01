@@ -1,0 +1,11 @@
+Player: setx|[kf] @iwasblocking
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Texas Showdown::::
+lost to crisium (1512)
+lost to hebrew hammer (1511)

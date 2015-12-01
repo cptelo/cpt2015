@@ -1,0 +1,23 @@
+Player: leslie
+Rating: 1567
+Played: 13
+Won: 9
+Lost: 4
+%: 69
+
+Results:
+::::FV Cup::::
+defeated suktuck (1487)
+lost to kok (1617)
+defeated leong teng fai (1502)
+defeated suktuck (1510)
+defeated kok (1605)
+defeated stekoh (1532)
+defeated rzr|rb (1613)
+defeated gonzales (1586)
+lost to tonpy (1639)
+::::CPTA Last Chance Qualifier::::
+defeated burnoutfighter (1490)
+defeated jackson (1501)
+lost to kok (1617)
+lost to rodney (1540)

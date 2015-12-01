@@ -1,0 +1,13 @@
+Player: eugene yap
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::FV Cup::::
+defeated aldenteoh (1487)
+lost to rzr|gackt (1581)
+defeated two75 (1502)
+lost to scott k wai kit (1529)

@@ -1,0 +1,13 @@
+Player: mr.magiclove
+Rating: 1478
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Dreamhack Winter::::
+lost to moe (1512)
+lost to salty kid (1523)
+defeated crosshatched (1465)
+lost to bx3|veggey (1605)

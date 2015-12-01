@@ -1,0 +1,11 @@
+Player: beastbamba
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to nando tovar (1560)
+lost to misteranthropy (1499)

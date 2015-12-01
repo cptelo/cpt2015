@@ -1,0 +1,11 @@
+Player: tyson
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to kang 康 (1512)
+lost to 屠双奇 t mug (1499)

@@ -1,0 +1,11 @@
+Player: のび太
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Nine States::::
+lost to サエ (1512)
+lost to コーヒー乳牛 coffee gyuunyuu (1503)

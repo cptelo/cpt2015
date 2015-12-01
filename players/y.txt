@@ -1,0 +1,11 @@
+Player: y
+Rating: 1520
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to koichi (1514)
+lost to across (1501)

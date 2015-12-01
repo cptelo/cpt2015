@@ -1,0 +1,13 @@
+Player: demonlos
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to 200yen (1512)
+defeated fuzz lightyear (1474)
+defeated jkd (1488)
+lost to dchong (1511)

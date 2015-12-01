@@ -1,0 +1,25 @@
+Player: gachikun
+Rating: 1591
+Played: 13
+Won: 6
+Lost: 7
+%: 46
+
+Results:
+::::KSB 2015::::
+defeated sanjo (1491)
+defeated jeppa~ (1502)
+defeated anton (1553)
+lost to mcz|tokido (1703)
+lost to pepeday (1650)
+::::South East Asia Major::::
+defeated somniac (1539)
+lost to r/kappa|infilitration (1777)
+lost to qiuqiukof (1569)
+::::EVO::::
+defeated coin up|ludovic (1528)
+lost to mcz|daigo (1755)
+::::Tokyo Game Show::::
+defeated mf|tonpy (1674)
+lost to ybk|dashio (1627)
+lost to rzr|fuudo (1717)

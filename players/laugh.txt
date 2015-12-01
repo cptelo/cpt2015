@@ -1,0 +1,15 @@
+Player: laugh
+Rating: 1551
+Played: 6
+Won: 3
+Lost: 3
+%: 50
+
+Results:
+::::CPTA KR::::
+defeated phdeejay (no psn id) (1489)
+defeated mintcheerios (1501)
+lost to r/kappa|kazunoko (1711)
+defeated mintcheerios (1513)
+lost to r/kappa|kazunoko (1714)
+lost to dbkoopa (1564)

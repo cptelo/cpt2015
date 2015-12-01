@@ -1,0 +1,19 @@
+Player: shimauta
+Rating: 1565
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::Tokyo Game Show::::
+defeated wao (1537)
+lost to ybk|kawaguchi (1616)
+defeated r/kappa|ebi (1556)
+defeated twiggy (1559)
+lost to ybk|kawaguchi (1617)
+::::Ultra Hyakkishu Cup::::
+lost to be|nemo (1748)
+defeated mizoguchi akikimi (1476)
+defeated charisma (1491)
+lost to kindevu (1615)

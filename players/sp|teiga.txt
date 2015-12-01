@@ -1,0 +1,10 @@
+Player: sp|teiga
+Rating: 1488
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::Defend the North::::
+lost to kreymore (1534)

@@ -1,0 +1,13 @@
+Player: arson
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+lost to frank lotion (1512)
+defeated itzspammy (1486)
+defeated anbu gasstationhobo (1504)
+lost to ta psycho (1525)

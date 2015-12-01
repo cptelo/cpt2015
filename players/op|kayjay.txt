@@ -1,0 +1,13 @@
+Player: op|kayjay
+Rating: 1451
+Played: 4
+Won: 0
+Lost: 4
+%: 0
+
+Results:
+::::Dreamhack Winter::::
+lost to dafeetlee (1604)
+lost to yagami (1519)
+lost to tm robofobe (1477)
+lost to james deen (1448)

@@ -1,0 +1,14 @@
+Player: vaca89
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Milan Games Week::::
+lost to mazinkaiser (1512)
+defeated squibb (1474)
+defeated danilo (1491)
+defeated canesmoke (1501)
+lost to bx3|phenom (1651)

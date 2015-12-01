@@ -1,0 +1,15 @@
+Player: 豪鬼王/tomy huang
+Rating: 1527
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Taiwan::::
+defeated eltrouble (1487)
+defeated 阿德 (1499)
+lost to gonzales (1596)
+defeated toby lin (1515)
+defeated 阿德 (1522)
+lost to gonzales (1596)

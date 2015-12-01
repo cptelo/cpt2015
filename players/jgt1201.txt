@@ -1,0 +1,12 @@
+Player: jgt1201
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to vsf|justinxavier (1512)
+defeated ornstein (1474)
+lost to flawless deku (1558)

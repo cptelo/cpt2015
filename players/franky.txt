@@ -1,0 +1,12 @@
+Player: franky
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to sd|ilija (1512)
+defeated eg|justin wong (1685)
+lost to kingdomkey92 (1511)

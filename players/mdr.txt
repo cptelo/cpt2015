@@ -1,0 +1,12 @@
+Player: mdr
+Rating: 1495
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated rokotsu (1487)
+lost to r/kappa|poongko (1726)
+lost to ninomae (1564)

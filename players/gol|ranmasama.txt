@@ -1,0 +1,30 @@
+Player: gol|ranmasama
+Rating: 1559
+Played: 18
+Won: 10
+Lost: 8
+%: 55
+
+Results:
+::::Final Round::::
+lost to kreymore (1514)
+::::CEO::::
+defeated ishotto (1487)
+lost to tampa bison (1642)
+defeated burnside the gr8 (1510)
+defeated udlr painbot (1514)
+defeated vivaldi (1505)
+lost to hamad (1625)
+::::First Attack::::
+defeated prk crank (1501)
+lost to shadowchild (1526)
+defeated dranor (1500)
+defeated prk crank (1524)
+defeated shadowchild (1507)
+lost to ex pugera (1669)
+lost to evb ds ray (1538)
+::::Canada Cup::::
+lost to fdy|devil_reapers|dr|stormkubo (1667)
+defeated fdy|devil_reapers|dr|stormkubo (1655)
+defeated tsc|yomi|dieminion (1702)
+lost to eg|justin wong (1711)

@@ -1,0 +1,13 @@
+Player: ムラヲ
+Rating: 1451
+Played: 4
+Won: 0
+Lost: 4
+%: 0
+
+Results:
+::::Nine States::::
+lost to 天津飯 (1512)
+lost to のえ (1504)
+lost to 天津飯 (1502)
+lost to のえ (1517)

@@ -1,0 +1,12 @@
+Player: hii 5 ghost
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to the time dictator (1512)
+defeated keth (1474)
+lost to eminent (1511)

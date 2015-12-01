@@ -1,0 +1,12 @@
+Player: du ma guile
+Rating: 1462
+Played: 3
+Won: 0
+Lost: 3
+%: 0
+
+Results:
+::::SCR::::
+lost to bcw|c3g|blaqskillz (1525)
+lost to ckd/ds babushas (1512)
+lost to ckd/ds babushas (1523)

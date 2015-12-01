@@ -1,0 +1,15 @@
+Player: sfo|zxmx
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::VS Fighting::::
+defeated happyton (1487)
+defeated sww|crumpets (1487)
+lost to sml|solidjin (1572)
+defeated daniel dillips (1498)
+defeated tws|tws gibbo (1488)
+lost to bfl|zaus (1540)

@@ -1,0 +1,11 @@
+Player: pmoney
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to surruso (1512)
+lost to combo kash (1502)

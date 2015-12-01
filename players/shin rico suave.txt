@@ -1,0 +1,13 @@
+Player: shin rico suave
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated peterson (1487)
+defeated yomi|stan (1499)
+lost to qanba douyu|dakou (1613)
+lost to krhs tan-tan (1541)

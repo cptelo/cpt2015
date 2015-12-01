@@ -1,0 +1,14 @@
+Player: majinshinken musa
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::KO Fighting Game Festival::::
+defeated mortal_comebax (1487)
+defeated gunner85 (1499)
+lost to ybk|santarouman (1647)
+defeated wtq8|ramadan (1489)
+lost to wtq8|mrkingvega (1526)

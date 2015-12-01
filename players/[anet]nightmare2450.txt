@@ -1,0 +1,13 @@
+Player: [anet]nightmare2450
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated saturnize (1487)
+lost to ta|chris g (1604)
+defeated s-blade (1475)
+lost to be|kane blueriver (1514)

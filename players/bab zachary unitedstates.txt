@@ -1,0 +1,15 @@
+Player: bab zachary unitedstates
+Rating: 1524
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Combo Breaker::::
+defeated spree (1487)
+defeated ishotto (1500)
+defeated jacky cannons (1510)
+lost to corn sethlolol (1548)
+defeated tgl giefkid (1532)
+lost to danny boy peru (1570)

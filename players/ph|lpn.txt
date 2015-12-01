@@ -1,0 +1,39 @@
+Player: ph|lpn
+Rating: 1622
+Played: 27
+Won: 18
+Lost: 9
+%: 66
+
+Results:
+::::Final Round::::
+lost to tampa bison (1612)
+defeated pxg|integra (1538)
+::::NorCal Regionals::::
+defeated jigsaw (1490)
+defeated nicktanella (1502)
+defeated tyram (1514)
+lost to ex pugera (1645)
+defeated ce jabdrunk (1528)
+lost to ex pugera (1656)
+lost to ex pugera (1666)
+lost to pnoy (1586)
+::::Northwest Majors::::
+defeated unclesatan (1490)
+defeated schowda (1489)
+defeated 801|jayce the ace (1604)
+defeated mc|xsk samurai (1574)
+defeated 801|jayce the ace (1618)
+defeated nando tovar (1591)
+defeated ts|arturo sanchez (1664)
+lost to eg|justin wong (1733)
+lost to neogaf|koji kog (1679)
+::::SCR::::
+defeated clowd (1502)
+defeated blockbuster jon (1543)
+defeated wfx|801 strider (1696)
+defeated wfx|801 strider (1692)
+lost to ts|reiketsu (1654)
+defeated commander jesse (1577)
+defeated 801|jayce the ace (1622)
+lost to corn|alucard (1631)

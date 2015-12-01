@@ -1,0 +1,12 @@
+Player: sacred
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to j miller (1512)
+defeated drewmorri7 (1474)
+lost to alioune85 (1514)

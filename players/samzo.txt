@@ -1,0 +1,12 @@
+Player: samzo
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated team seaslug (1504)
+lost to dl|four wude (1584)
+lost to swirlyglasses (1533)

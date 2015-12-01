@@ -1,0 +1,13 @@
+Player: lushylushy
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated spenttime (1487)
+defeated nacer (1502)
+lost to brentt (1625)
+lost to deadmoo5 (1537)

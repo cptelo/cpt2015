@@ -1,0 +1,13 @@
+Player: chg combo kin
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated hawt salsa (1487)
+lost to 801|jayce the ace (1618)
+defeated gs|gllty (1501)
+lost to schowda (1514)

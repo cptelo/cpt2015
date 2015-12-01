@@ -1,0 +1,13 @@
+Player: oitajin
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to nishikin (1653)
+defeated eg|chocoblanka (1481)
+defeated meu (1525)
+lost to nyanshi (1527)

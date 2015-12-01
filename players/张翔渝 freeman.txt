@@ -1,0 +1,12 @@
+Player: 张翔渝 freeman
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::HK::::
+lost to misse (1680)
+defeated alfredoedwards 25 alfredoedwards (1474)
+lost to po yuen chan xft_nana (1511)

@@ -1,0 +1,12 @@
+Player: my mom says i'm pro
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated caderax (1487)
+lost to bj unchained (1572)
+lost to dm john b (1511)

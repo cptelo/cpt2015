@@ -1,0 +1,15 @@
+Player: kbb mad titan
+Rating: 1521
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated locojoe (1474)
+lost to fsr wupai (1524)
+defeated ferny (1474)
+defeated aes|nolafrog (1488)
+defeated @deejonious (1504)
+lost to white gun (1546)

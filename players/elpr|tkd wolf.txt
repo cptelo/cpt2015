@@ -1,0 +1,12 @@
+Player: elpr|tkd wolf
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+lost to fgr ts|murarob (1512)
+defeated dpgl menard (1474)
+lost to brz rattosai (1511)

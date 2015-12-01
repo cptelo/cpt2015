@@ -1,0 +1,13 @@
+Player: n1 kupo
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated biscuit (1487)
+defeated boeken (1498)
+lost to eg|ricki ortiz (1725)
+lost to muscle steel sex appeal (1536)

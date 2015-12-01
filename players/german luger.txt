@@ -1,0 +1,21 @@
+Player: german luger
+Rating: 1575
+Played: 11
+Won: 7
+Lost: 4
+%: 63
+
+Results:
+::::Northwest Majors::::
+defeated joeycl (1500)
+defeated chg joeystorm (1501)
+lost to ccg|air (1607)
+lost to ph|jame (1541)
+::::Combo Breaker::::
+defeated neogaf shackzam (1489)
+defeated zachinabox (1501)
+defeated sherryjenix (1523)
+defeated elchakotay (1576)
+lost to wolfkrone (1602)
+defeated holdy (1538)
+lost to gg|epic l.gg|onisan (1589)

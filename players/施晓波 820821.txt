@@ -1,0 +1,11 @@
+Player: 施晓波 820821
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to 沈震宇 凶肯 (1512)
+lost to vincent (1511)

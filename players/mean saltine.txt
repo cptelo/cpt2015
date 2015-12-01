@@ -1,0 +1,22 @@
+Player: mean saltine
+Rating: 1539
+Played: 12
+Won: 8
+Lost: 4
+%: 66
+
+Results:
+::::Northwest Majors::::
+defeated shogundo (1487)
+lost to bunsen burner (1524)
+defeated 801 mr gork (1496)
+defeated gedub|ce|jabdrunk (1505)
+lost to filipino champ (1573)
+::::Combo Breaker::::
+defeated hola bird (1487)
+defeated saltybetts (1499)
+lost to kermit alexander (1513)
+defeated viscant (1510)
+defeated corn ace king (1524)
+defeated kermit alexander (1489)
+lost to yg|joel (1642)

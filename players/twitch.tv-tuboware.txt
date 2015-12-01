@@ -1,0 +1,14 @@
+Player: twitch.tv/tuboware
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated shogun dynamite (1487)
+lost to ex pugera (1656)
+defeated frogboat (1475)
+defeated jarocka (1487)
+lost to stvg crespo (1529)

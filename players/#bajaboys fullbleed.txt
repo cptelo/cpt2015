@@ -1,0 +1,17 @@
+Player: #bajaboys fullbleed
+Rating: 1486
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Northwest Majors::::
+lost to white gun (1530)
+defeated artemis (1476)
+lost to duncan (1511)
+::::Combo Breaker::::
+defeated q (1487)
+defeated misak (1499)
+lost to srm|the white beast (1536)
+lost to @speedbrkr (1534)

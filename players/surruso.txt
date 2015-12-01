@@ -1,0 +1,14 @@
+Player: surruso
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+defeated pmoney (1487)
+lost to ph|nando tovar (1592)
+defeated viscant (1523)
+defeated pd|n4us (1456)
+lost to mister keebler (1542)

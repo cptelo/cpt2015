@@ -1,0 +1,12 @@
+Player: tgu zhedloo
+Rating: 1503
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::South East Asia Major::::
+lost to mcz|mago (1693)
+defeated bonchan (1693)
+lost to shiro (1641)

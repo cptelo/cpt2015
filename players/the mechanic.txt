@@ -1,0 +1,14 @@
+Player: the mechanic
+Rating: 1518
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated rm narwhal (1487)
+defeated aof e-dawg (1487)
+defeated derrick legend (1524)
+lost to tsc|dieminion (1683)
+lost to alex myers (1628)

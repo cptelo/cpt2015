@@ -1,0 +1,11 @@
+Player: sfo|savant
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to vs|the janitor (1524)
+lost to mba|dread (1510)

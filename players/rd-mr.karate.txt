@@ -1,0 +1,11 @@
+Player: rd/mr.karate
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to alex myers (1623)
+lost to edgyjohnny (1499)

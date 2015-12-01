@@ -1,0 +1,14 @@
+Player: ifd tuboware
+Rating: 1517
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Combo Breaker::::
+defeated battlefelde (1487)
+defeated mn somemexicanguy (1499)
+lost to eg|justin wong (1739)
+defeated hogosha (1511)
+lost to wanderlust g33k (1536)

@@ -1,0 +1,11 @@
+Player: 金デヴ
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::KSB 2015::::
+lost to kim1234 (1565)
+lost to もづく (1504)

@@ -1,0 +1,78 @@
+Player: kok
+Rating: 1610
+Played: 60
+Won: 37
+Lost: 23
+%: 61
+
+Results:
+::::Nine States::::
+defeated 相楽じあじい souraku jiaji (1491)
+defeated ２４７ (1502)
+lost to inco (1629)
+defeated 相楽じあじい souraku jiaji (1517)
+lost to りゅうきち (1540)
+::::CPTA KR::::
+defeated ilovepjw (1490)
+lost to humanbomb (1635)
+defeated kage (1495)
+defeated iim83man (1505)
+defeated bigdamaul (1482)
+lost to humanbomb (1646)
+defeated kim1234 (1561)
+lost to r/kappa|kazunoko (1711)
+::::KSB 2015::::
+defeated harideshi (1539)
+lost to anton (1564)
+lost to たーやん (1519)
+::::CPTA Shanghai::::
+defeated 张尧 haveshit (1502)
+defeated dante dt (1502)
+defeated dante dt (1493)
+lost to xiaolong (1604)
+defeated 何琪 heqi0129 (1525)
+defeated qanba douyu|hurtch_vr (1571)
+defeated qanba douyu|god of sky (1568)
+lost to qanba douyu|dakou (1632)
+::::FV Cup::::
+defeated shazli (1491)
+defeated leslie (1503)
+lost to rzr|itabashi zangief (1682)
+lost to leslie (1542)
+::::Taiwan::::
+defeated maxima (1491)
+defeated tom90957-tw (1502)
+defeated criminaldada (1514)
+lost to chuan (1638)
+defeated wataru (japan) (1536)
+lost to chuan (1642)
+defeated sasa (1516)
+lost to ts|reiketsu (1644)
+::::HK::::
+defeated teddy xft_teddybear (1491)
+defeated jimmy hon maskjimmy (1502)
+defeated rockpon (1552)
+lost to ccg|humanbomb (1657)
+defeated kay zhong kay(fs) (1529)
+lost to gonzales (1613)
+::::Saigon Cup::::
+defeated hismit (1491)
+lost to ybk|shiro (1649)
+defeated hismit (1505)
+lost to ybk|shiro (1653)
+defeated ck-vnz (1498)
+defeated rzr|itabashi zangief (1688)
+lost to rzr|gackt (1620)
+::::Ze Fighting Game Champion::::
+defeated 张灂曦 (1491)
+defeated ceo (1502)
+lost to ccg|humanbomb (1665)
+defeated 班禅 (1518)
+defeated 眉山拳王1 (1491)
+lost to rzr|gackt (1648)
+::::CPTA Last Chance Qualifier::::
+defeated rodney (1502)
+defeated leslie (1573)
+lost to iz|kaiser (1597)
+defeated brawl|haitani (1584)
+lost to rzr|gackt (1669)

@@ -1,0 +1,52 @@
+Player: gl|rb|valmaster
+Rating: 1698
+Played: 37
+Won: 24
+Lost: 13
+%: 64
+
+Results:
+::::Cannes Winter Clash::::
+defeated akainu (1542)
+lost to problem x (1672)
+defeated mbr (1589)
+defeated rize|ind|pro fluke (1601)
+defeated ryan hart (1643)
+defeated xiaohai (1654)
+lost to jehosan (1602)
+::::Stunfest::::
+lost to poongko (1749)
+::::FFM-Rumble::::
+lost to mcz|tokido (1698)
+defeated mdz|emtpysys (1493)
+defeated r/kappa|ebi (1554)
+defeated wso|andreas (1608)
+lost to mcz|tokido (1700)
+::::EVO::::
+defeated bj unchained (1607)
+lost to eg|momochi (1750)
+lost to eg|pr balrog (1683)
+::::EGX::::
+defeated flb azizul (1493)
+defeated syn chuck (1505)
+defeated um|btm|imstilldadaddy (1634)
+defeated flawless deku (1582)
+defeated kig|problem x (1715)
+defeated md|luffy (1762)
+lost to md|luffy (1770)
+lost to md|luffy (1773)
+::::Red Fight District::::
+defeated forward dash (1478)
+defeated niine90 (1505)
+defeated starnab (1556)
+defeated wso|andreas (1645)
+defeated bx3|phenom (1656)
+lost to md|luffy (1789)
+defeated eg|k-brad (1683)
+lost to md|luffy (1792)
+::::Milan Games Week::::
+defeated lucamago (1505)
+defeated shin87 (1519)
+lost to rzr|rb (1630)
+defeated packz (1620)
+lost to eita (1613)

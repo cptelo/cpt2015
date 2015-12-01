@@ -1,0 +1,15 @@
+Player: zoro
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Taiwan::::
+lost to criminaldada (1512)
+defeated 皮皮/pipi (1474)
+defeated winston chen (1490)
+defeated crustiestwolf33 (1498)
+defeated criminaldada (1501)
+lost to wataru (japan) (1547)

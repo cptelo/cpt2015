@@ -1,0 +1,13 @@
+Player: gatk dr sloan
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated terra (1487)
+defeated robbieq_108 (1499)
+lost to andreas (1626)
+lost to robbieq_108 (1535)

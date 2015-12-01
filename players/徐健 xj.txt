@@ -1,0 +1,12 @@
+Player: 徐健 xj
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+defeated 沈鹏 triple-k (1487)
+lost to mcz|tokido (1714)
+lost to 吴浩群 gz维尼 (1502)

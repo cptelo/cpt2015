@@ -1,0 +1,14 @@
+Player: hargi
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated graystump (1487)
+lost to kurokiba (1524)
+defeated otaku strawberryball (1486)
+defeated revolver sagod (1498)
+lost to brentt (1613)

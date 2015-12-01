@@ -1,0 +1,13 @@
+Player: jinzou
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated chanson (1487)
+lost to kitasenju dj (1619)
+defeated very good tanaka (1488)
+lost to ikari no k bison (1525)

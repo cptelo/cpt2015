@@ -1,0 +1,11 @@
+Player: kenneth
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::FV Cup::::
+lost to abelity (1512)
+lost to voltrix (1514)

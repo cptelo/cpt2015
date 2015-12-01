@@ -1,0 +1,12 @@
+Player: lom|slim
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated usfal|boony12 (1487)
+lost to rize|ind|btm brian (1572)
+lost to tws|tws gibbo (1500)

@@ -1,0 +1,14 @@
+Player: 黄祥 been gor
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::HK::::
+lost to chow chin pang xft_baoice (1512)
+defeated japhk (1474)
+defeated bosco bosmoko (1486)
+defeated anthony bluesy (1486)
+lost to chow chin pang xft_baoice (1531)

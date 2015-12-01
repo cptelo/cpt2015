@@ -1,0 +1,13 @@
+Player: moony blues
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+lost to stuntastic (1512)
+defeated rudetuna (1474)
+defeated the last hairbender (1474)
+lost to ohgrr (1511)

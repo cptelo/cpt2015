@@ -1,0 +1,12 @@
+Player: rs|simon “the truth” lau
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to sfo broodoo (1512)
+defeated mmg|spuck (1474)
+lost to eruxiahou (1499)

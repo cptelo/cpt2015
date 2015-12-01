@@ -1,0 +1,14 @@
+Player: cartoon hero
+Rating: 1516
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+defeated geronimo (1487)
+lost to eg|k-brad (1685)
+defeated mysticnamja (1486)
+defeated glb (1548)
+lost to valiant (1526)

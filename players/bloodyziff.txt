@@ -1,0 +1,13 @@
+Player: bloodyziff
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+lost to mikejay (1512)
+defeated retro glacius (1474)
+defeated stiqman (1489)
+lost to dmansland (1520)

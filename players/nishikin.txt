@@ -1,0 +1,36 @@
+Player: nishikin
+Rating: 1647
+Played: 23
+Won: 13
+Lost: 10
+%: 56
+
+Results:
+::::Nine States::::
+defeated hikarin (1493)
+defeated anton (1552)
+lost to infilitration (1734)
+lost to inco (1675)
+::::KSB 2015::::
+defeated ぷりん (1493)
+lost to tarezou (1530)
+defeated なお (1495)
+lost to eita (1626)
+::::Manila Cup::::
+lost to gonzales (1613)
+defeated ipt.garret (1484)
+defeated ipt.dru (1484)
+defeated qanba douyu|god of sky (1571)
+defeated qanba douyu|dark jiewa (1651)
+defeated ts|reiketsu (1636)
+lost to ccg|humanbomb (1663)
+::::Tokyo Game Show::::
+defeated matsuri (1542)
+lost to be|nemo (1740)
+lost to fgc|ooitajin (1566)
+::::Ultra Hyakkishu Cup::::
+defeated oitajin (1492)
+defeated tekateka (1504)
+lost to yossan (1585)
+defeated ojisan (1520)
+lost to ybk|dashio (1668)

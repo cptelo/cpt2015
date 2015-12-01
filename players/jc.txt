@@ -1,0 +1,13 @@
+Player: jc
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated ebomb (1475)
+lost to dl|four wude (1616)
+defeated martin s (1486)
+lost to tamashiro (1526)

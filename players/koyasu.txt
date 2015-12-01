@@ -1,0 +1,12 @@
+Player: koyasu
+Rating: 1494
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to fdy|devil_reapers|stormkubo (1671)
+defeated 1p (1474)
+lost to kenzou (1560)

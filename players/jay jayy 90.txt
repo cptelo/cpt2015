@@ -1,0 +1,13 @@
+Player: jay jayy 90
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated ed|big man baird (1487)
+lost to raygo blayde|afii (1641)
+defeated ssrcg|van slab (1474)
+lost to firefist (1512)

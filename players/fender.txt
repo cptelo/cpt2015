@@ -1,0 +1,12 @@
+Player: fender
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA KR::::
+lost to joyfull78 (1512)
+defeated ddungemi43 (1482)
+lost to rinbo7 (1511)

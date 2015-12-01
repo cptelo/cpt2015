@@ -1,0 +1,11 @@
+Player: koji
+Rating: 1548
+Played: 2
+Won: 1
+Lost: 1
+%: 50
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated tanka tanky (1506)
+lost to db|somniac (1579)

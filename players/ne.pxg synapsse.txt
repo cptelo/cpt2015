@@ -1,0 +1,12 @@
+Player: ne.pxg synapsse
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated sjbm (1487)
+lost to mor|rico suave (1594)
+lost to nb slimetime (1500)

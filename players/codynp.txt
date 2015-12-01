@@ -1,0 +1,42 @@
+Player: codynp
+Rating: 1541
+Played: 29
+Won: 17
+Lost: 12
+%: 58
+
+Results:
+::::Hypespotting::::
+defeated armdevil (1487)
+defeated rde|sleight (1499)
+lost to problem x (1662)
+defeated rde|sleight (1510)
+defeated strider (1514)
+defeated vs|rde|edinbulba (1567)
+lost to shoryusengan (1610)
+lost to afii (1647)
+::::CPTA KR::::
+defeated matune (1488)
+lost to kim1234 (1572)
+defeated cptmaumau (1491)
+defeated sorawings (1501)
+lost to kim1234 (1571)
+::::South East Asia Major::::
+lost to r/kappa|kazunoko (1716)
+lost to qiuqiukof (1555)
+::::Taiwan::::
+defeated minos (1488)
+defeated kuraudokin (1500)
+lost to ben-nu (1536)
+defeated minos (1516)
+defeated giezoe (1508)
+defeated ben-nu (1509)
+lost to sketch (1494)
+lost to gonzales (1596)
+::::HK::::
+defeated choi chak choi chak gs base 10/hr (1488)
+defeated 陈俊宇 藏人 (1500)
+defeated lee g.y.r.o (1512)
+defeated tonpy (1642)
+lost to misse (1691)
+lost to qanba douyu|dark jiewa (1652)

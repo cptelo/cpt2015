@@ -1,0 +1,14 @@
+Player: goldteamrules
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+lost to dayosha (1512)
+defeated ctrl rayray (1485)
+defeated xanoz (1487)
+defeated jun-ichi11 (1485)
+lost to doomsday507 (1523)

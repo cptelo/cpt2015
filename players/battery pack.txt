@@ -1,0 +1,12 @@
+Player: battery pack
+Rating: 1484
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated ph emberandroses (1487)
+lost to spabobin (1465)
+lost to fillossofherr (1499)

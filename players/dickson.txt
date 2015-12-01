@@ -1,0 +1,21 @@
+Player: dickson
+Rating: 1522
+Played: 11
+Won: 6
+Lost: 5
+%: 54
+
+Results:
+::::Northwest Majors::::
+defeated tuan (1487)
+defeated yabukistyle (1499)
+defeated filipino champ (1569)
+lost to eg|justin wong (1721)
+defeated filipino champ (1571)
+lost to eg|justin wong (1723)
+lost to ta|chris g (1612)
+::::CEO::::
+defeated siamawich (1488)
+lost to sp anbu kpb teiga (1525)
+defeated clxjames (1475)
+lost to miamix-alex (1527)

@@ -1,0 +1,13 @@
+Player: kenshiro
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated @theb00st (1487)
+lost to sherryjenix (1528)
+defeated shogun17 (1486)
+lost to vgp|andre west (1525)

@@ -1,0 +1,14 @@
+Player: asc.sd alexis pinto
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+defeated tgz|wt kami (1487)
+defeated the time dictator (1524)
+lost to iperu (1576)
+defeated tgz|wt kami (1510)
+lost to ma lung fan (1534)

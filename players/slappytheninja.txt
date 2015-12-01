@@ -1,0 +1,11 @@
+Player: slappytheninja
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to hf|hainix (1533)
+lost to da 206 80z (1514)

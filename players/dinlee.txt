@@ -1,0 +1,14 @@
+Player: dinlee
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+defeated dm|mayho (1487)
+lost to arrow (1530)
+defeated honestabe (1474)
+defeated plu (1487)
+lost to mc|xsk samurai (1579)

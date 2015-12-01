@@ -1,0 +1,13 @@
+Player: shogun dynamite
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+lost to twitch.tv/tuboware (1512)
+defeated doscubanos (1474)
+defeated og bunch (1474)
+lost to flocker (1516)

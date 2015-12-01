@@ -1,0 +1,14 @@
+Player: ed|aixy
+Rating: 1508
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::VS Fighting::::
+defeated clev (1487)
+lost to rize|ind|alaughinggoblin (1514)
+defeated irep shadz (1474)
+defeated rst|launchpad mcross (1462)
+lost to wso|logan (1519)

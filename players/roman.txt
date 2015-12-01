@@ -1,0 +1,14 @@
+Player: roman
+Rating: 1520
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+defeated waffle slapper (1487)
+lost to r/kappa|zv|kazunoko (1739)
+defeated dchong (1499)
+defeated maxoplata (1498)
+lost to brentt (1626)

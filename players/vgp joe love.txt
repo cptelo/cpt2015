@@ -1,0 +1,13 @@
+Player: vgp joe love
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated hebrew hammer (1499)
+defeated phs slip n slide (1499)
+lost to cublanco (1563)
+lost to marsh d teach (1547)

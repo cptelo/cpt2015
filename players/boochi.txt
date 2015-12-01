@@ -1,0 +1,14 @@
+Player: boochi
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::KO Fighting Game Festival::::
+defeated blue kaizer (1487)
+defeated salem akuma (1487)
+lost to rzr|fuudo (1718)
+defeated blue kaizer (1498)
+lost to wtq8|aziz (1526)

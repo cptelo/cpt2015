@@ -1,0 +1,14 @@
+Player: minos
+Rating: 1516
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Taiwan::::
+lost to codynp (1531)
+defeated kilink/kk (1474)
+defeated 清哥 (1486)
+defeated neogaf|r/kappa|koji kog (1659)
+lost to codynp (1534)

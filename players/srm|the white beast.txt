@@ -1,0 +1,20 @@
+Player: srm|the white beast
+Rating: 1520
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::Combo Breaker::::
+defeated @speedbrkr (1487)
+defeated 「346pro|ＹＡＳＥ」 fog_e (1499)
+defeated #bajaboys fullbleed (1498)
+lost to bab khangaroo (1548)
+defeated 「346pro|ＹＡＳＥ」 fog_e (1533)
+lost to holdy (1550)
+::::CEO::::
+defeated kinetic semiij (1488)
+defeated tryken (1488)
+lost to magnegro (1572)
+lost to kwyjibo (1536)

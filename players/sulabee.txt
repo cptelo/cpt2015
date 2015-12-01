@@ -1,0 +1,13 @@
+Player: sulabee
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated 內子宮崎葵 (1487)
+lost to et (1524)
+defeated jian hua (1486)
+lost to tkd (1529)

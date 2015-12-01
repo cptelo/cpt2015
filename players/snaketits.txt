@@ -1,0 +1,11 @@
+Player: snaketits
+Rating: 1477
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to srkuw|botb|fawwaz (1577)
+lost to 1atk.lxg.infrit (1499)

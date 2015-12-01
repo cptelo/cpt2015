@@ -1,0 +1,16 @@
+Player: iz|kaiser
+Rating: 1589
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated bravery (1489)
+defeated sachiko (1501)
+defeated chuan (1627)
+defeated kok (1611)
+lost to kindevu (1633)
+defeated chuan (1634)
+lost to rzr|gackt (1674)

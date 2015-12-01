@@ -1,0 +1,13 @@
+Player: leong teng fai
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::FV Cup::::
+defeated anotheryou (1487)
+lost to rzr|itabashi zangief (1676)
+defeated bon weiu (1475)
+lost to leslie (1515)

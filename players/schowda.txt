@@ -1,0 +1,19 @@
+Player: schowda
+Rating: 1516
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::NorCal Regionals::::
+defeated professor beef (1487)
+lost to vicious (1570)
+lost to dm|burn notice (1511)
+::::Northwest Majors::::
+defeated pewpewu (1462)
+lost to ph|lpn (1590)
+defeated apocaalypse (1490)
+defeated chg combo kin (1501)
+defeated 30f|slayer-san (1500)
+lost to 801|jayce the ace (1622)

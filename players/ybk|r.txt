@@ -1,0 +1,21 @@
+Player: ybk|r
+Rating: 1594
+Played: 11
+Won: 7
+Lost: 4
+%: 63
+
+Results:
+::::KO Fighting Game Festival::::
+defeated noob_player (1500)
+defeated wtq8|elcaptain (1501)
+defeated rzr|xian (1764)
+defeated rzr|xian (1758)
+defeated akimo (1600)
+lost to rzr|fuudo (1729)
+lost to rzr|xian (1768)
+::::Ultra Hyakkishu Cup::::
+defeated moto (1491)
+lost to r/kappa|ebi (1580)
+defeated across (1491)
+lost to misse (1670)

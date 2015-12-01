@@ -1,0 +1,15 @@
+Player: domo
+Rating: 1480
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to brawl|haitani (1584)
+defeated kim il songbo (1474)
+lost to wongtoutou (1511)
+lost to chuan (1630)
+defeated gnixer (1474)
+lost to sachiko (1513)

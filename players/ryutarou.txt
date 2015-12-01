@@ -1,0 +1,12 @@
+Player: ryutarou
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to ikari no k bison (1512)
+defeated unsu (1477)
+lost to harumii (1511)

@@ -1,0 +1,14 @@
+Player: vs|the janitor
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::VS Fighting::::
+defeated harpzx007 (1487)
+defeated sfo|savant (1487)
+defeated sww|axythetaxi (1499)
+lost to btm|gunslinga (1582)
+lost to rh|f4rhann (1542)

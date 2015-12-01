@@ -1,0 +1,13 @@
+Player: boahmad
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated avernaus (1487)
+lost to arika (1561)
+defeated 7ussein_alsalmam (1474)
+lost to blue kaizer (1511)

@@ -1,0 +1,12 @@
+Player: rs nutrient
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::EGX::::
+lost to btm|isam (1580)
+defeated kdit|ren (1461)
+lost to rs doom (1513)

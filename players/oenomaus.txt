@@ -1,0 +1,12 @@
+Player: oenomaus
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+lost to o|< (stickman) (1512)
+defeated rhinostarr (1474)
+lost to scc|unw4nt3d (1512)

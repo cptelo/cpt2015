@@ -1,0 +1,13 @@
+Player: yeral
+Rating: 1506
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::First Attack::::
+defeated ang3lit0pr (1499)
+lost to liquid|nuckledu (1751)
+defeated m. crash (1509)
+lost to solrac naej (1541)

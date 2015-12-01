@@ -1,0 +1,18 @@
+Player: platinum kid
+Rating: 1499
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated mk tux (1499)
+lost to um|btm|rmz (1613)
+defeated flb|victor (1499)
+defeated lom|luckboxq (1521)
+defeated mmg|abswing (1508)
+lost to sfo|ghost (1558)
+::::EGX::::
+lost to sfo broodoo (1511)
+lost to ed|lavell up (1519)

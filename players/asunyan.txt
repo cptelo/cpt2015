@@ -1,0 +1,12 @@
+Player: asunyan
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to dogura (1562)
+defeated jay (1472)
+lost to shinto~ (1516)

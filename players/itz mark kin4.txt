@@ -1,0 +1,12 @@
+Player: itz mark kin4
+Rating: 1464
+Played: 3
+Won: 0
+Lost: 3
+%: 0
+
+Results:
+::::Texas Showdown::::
+lost to gmd daydreamer (1512)
+lost to rida (1523)
+lost to rida (1533)

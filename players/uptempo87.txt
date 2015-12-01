@@ -1,0 +1,11 @@
+Player: uptempo87
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to metal bender (1512)
+lost to triiifector (1516)

@@ -1,0 +1,15 @@
+Player: joe shyne
+Rating: 1523
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated schmidt (1487)
+lost to dl|four wude (1611)
+defeated hnh rs huggybear (1475)
+defeated sa shank (1498)
+defeated rugalitarian (1504)
+lost to ao omega tom hanks (1527)

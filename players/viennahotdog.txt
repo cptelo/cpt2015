@@ -1,0 +1,15 @@
+Player: viennahotdog
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::SCR::::
+defeated derek magee (1487)
+lost to coach steve (1514)
+defeated elicota (1474)
+defeated elicota (1462)
+defeated bcw|c3g|blaqskillz (1508)
+lost to commander jesse (1565)

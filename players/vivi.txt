@@ -1,0 +1,10 @@
+Player: vivi
+Rating: 1539
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::EVO::::
+lost to brentt (1618)

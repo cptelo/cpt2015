@@ -1,0 +1,13 @@
+Player: thwisteh
+Rating: 1460
+Played: 4
+Won: 0
+Lost: 4
+%: 0
+
+Results:
+::::Dreamhack Winter::::
+lost to tekei (1512)
+lost to kig|problem x (1701)
+lost to lll|mbr (1638)
+lost to quaka (1498)

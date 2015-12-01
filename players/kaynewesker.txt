@@ -1,0 +1,12 @@
+Player: kaynewesker
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to groceryoutletjustin (1512)
+defeated arcadedreams (1474)
+lost to jared (1513)

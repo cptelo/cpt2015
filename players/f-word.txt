@@ -1,0 +1,22 @@
+Player: f-word
+Rating: 1640
+Played: 12
+Won: 8
+Lost: 4
+%: 66
+
+Results:
+::::Cannes Winter Clash::::
+defeated cuongster (1587)
+lost to xiaohai (1667)
+defeated will2pac (1584)
+lost to ninja shackz (1535)
+::::VS Fighting::::
+defeated ninja shinryu (1502)
+defeated sfo|benners (1512)
+defeated bfl|zaus (1528)
+defeated btm|real menace (1570)
+defeated um|btm|imstilldadaddy (1639)
+defeated sml|solidjin (1605)
+lost to md|luffy (1750)
+lost to btm|tyrant (1635)

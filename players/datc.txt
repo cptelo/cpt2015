@@ -1,0 +1,13 @@
+Player: datc
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated moist (1487)
+lost to koji kog (1609)
+defeated 30f|nagai (1475)
+lost to shorjewken (1515)

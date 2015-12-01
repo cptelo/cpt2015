@@ -1,0 +1,13 @@
+Player: magnegro
+Rating: 1551
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated haber (1500)
+defeated srm|the white beast (1533)
+lost to mcz|daigo (1770)
+lost to a-team pag ne glitch (1539)

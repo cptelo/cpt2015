@@ -1,0 +1,19 @@
+Player: clangers
+Rating: 1517
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::Hypespotting::::
+lost to um|imstilldadaddy (1606)
+defeated zombie brian (1474)
+defeated rde shiftingshadows (1486)
+lost to um|imstilldadaddy (1601)
+::::VS Fighting::::
+defeated radirgy (1487)
+lost to btm|gunslinga (1571)
+defeated adzi (1510)
+defeated sww|baconjacob (1510)
+lost to vws|j miller (1530)

@@ -1,0 +1,11 @@
+Player: crash
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Milan Games Week::::
+lost to moor (1512)
+lost to ba b_5 (1511)

@@ -1,0 +1,14 @@
+Player: 何浩华 gz.roadman
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::HK::::
+defeated kwok sui tak barrytak (1487)
+defeated christopher lo greenboxer (1499)
+lost to tonpy (1649)
+defeated leung philip yu fat philip leung (1515)
+lost to lee g.y.r.o (1536)

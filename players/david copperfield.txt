@@ -1,0 +1,12 @@
+Player: david copperfield
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to rzr|itabashi zangief (1685)
+defeated ohdomai (1474)
+lost to 阿德 (1511)

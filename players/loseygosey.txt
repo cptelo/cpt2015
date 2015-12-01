@@ -1,0 +1,12 @@
+Player: loseygosey
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to tal (1512)
+defeated phantom (1474)
+lost to anbu exking (1510)

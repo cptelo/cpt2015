@@ -1,0 +1,13 @@
+Player: cc
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated geenoh (1487)
+defeated biobillybonez (1512)
+lost to eg|k-brad (1687)
+lost to bcw_bushinstyle (1539)

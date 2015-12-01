@@ -1,0 +1,15 @@
+Player: kas_shadow
+Rating: 1523
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Combo Breaker::::
+defeated vs roy (1487)
+defeated srm h0odless (1499)
+lost to spriggan (1536)
+defeated callisto (1511)
+defeated wfga higgs bison (1522)
+lost to spriggan (1537)

@@ -1,0 +1,17 @@
+Player: rde|sddowns
+Rating: 1492
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Hypespotting::::
+lost to smash (1512)
+lost to tyrant (1594)
+::::VS Fighting::::
+defeated deibu (1486)
+lost to lom|wiseblade (1573)
+defeated pmcc (1474)
+defeated mba|sono (1473)
+lost to cex|goukifafa (1522)

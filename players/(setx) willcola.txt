@@ -1,0 +1,13 @@
+Player: (setx) willcola
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated three6d (1487)
+lost to chairman (1512)
+defeated ins aj tucker (1474)
+lost to winchester (1530)

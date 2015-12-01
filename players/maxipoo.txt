@@ -1,0 +1,12 @@
+Player: maxipoo
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated kung_fru (1487)
+lost to chaotix (1585)
+lost to masterninja (1511)

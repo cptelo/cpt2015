@@ -1,0 +1,13 @@
+Player: eminent
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated funnylookinwhat (1487)
+lost to afterdeath (1512)
+defeated hii 5 ghost (1486)
+lost to ep1cp33 (1511)

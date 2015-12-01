@@ -1,0 +1,53 @@
+Player: ybk|kim1234
+Rating: 1557
+Played: 38
+Won: 20
+Lost: 18
+%: 52
+
+Results:
+::::Nine States::::
+defeated ちーたん (1489)
+defeated めりっぷ (1500)
+lost to itabashi zangief (1673)
+defeated のえ (1515)
+lost to アミユ (1539)
+defeated ちーたん (1476)
+defeated めりっぷ (1487)
+lost to itabashi zangief (1687)
+defeated のえ (1527)
+lost to アミユ (1549)
+::::CPTA KR::::
+defeated sorawings (1489)
+defeated codynp (1532)
+lost to eita (1627)
+defeated codynp (1535)
+lost to eita (1637)
+lost to kok (1614)
+::::KSB 2015::::
+defeated 金デヴ (1489)
+lost to misse (1653)
+lost to ローキン (1516)
+::::South East Asia Major::::
+lost to mcz|daigo (1770)
+defeated kindevu (1574)
+defeated g.y.r.o (1499)
+lost to avm|gamerbee (1716)
+::::FV Cup::::
+defeated wahlau (1489)
+defeated kevin lee (1501)
+lost to gonzales (1591)
+defeated silg@shaun (1527)
+lost to rzr|gackt (1593)
+::::Taiwan::::
+defeated satc1014 (1489)
+defeated daimon (1501)
+defeated 小靠 (1513)
+lost to ybk|shiro (1639)
+defeated daimon (1537)
+lost to ybk|shiro (1643)
+lost to tonpy (1639)
+::::Manila Cup::::
+defeated keno (1586)
+lost to tonpy (1667)
+lost to qanba douyu|god of sky (1581)

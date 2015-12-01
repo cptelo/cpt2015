@@ -1,0 +1,14 @@
+Player: haber
+Rating: 1509
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated dark hokage (1487)
+lost to magnegro (1561)
+defeated ifd delusion (1450)
+defeated tryken (1487)
+lost to a-team pag ne glitch (1513)

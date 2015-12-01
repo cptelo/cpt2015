@@ -1,0 +1,11 @@
+Player: bobcustomgamer
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to myndgamez (1512)
+lost to holdy (1538)

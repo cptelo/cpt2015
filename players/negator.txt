@@ -1,0 +1,13 @@
+Player: negator
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated reco (1487)
+lost to hitbox rose (1524)
+defeated blue (1486)
+lost to 可樂ヤン (1527)

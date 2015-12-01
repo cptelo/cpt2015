@@ -1,0 +1,65 @@
+Player: mcz|mago
+Rating: 1696
+Played: 48
+Won: 34
+Lost: 14
+%: 70
+
+Results:
+::::Final Round::::
+defeated damdai (1541)
+lost to emp|hiro (1566)
+defeated damdai (1532)
+defeated qanba douyu|dakou (1595)
+lost to tampa bison (1642)
+::::Hypespotting::::
+defeated bsc nevillebamshew (1492)
+defeated wso|logan (1504)
+defeated ymb 9 shinzou (1516)
+defeated infexious (1588)
+defeated rize|ind|sfo|omh (1541)
+defeated um|imstilldadaddy (1612)
+defeated ryan hart (1690)
+defeated mcz|tokido (1689)
+defeated mcz|tokido (1688)
+::::Stunfest::::
+lost to gagapa (1615)
+::::South East Asia Major::::
+defeated tgu zhedloo (1493)
+defeated g.y.r.o (1510)
+defeated rzr|fuudo (1720)
+defeated mcz|tokido (1699)
+defeated qanba douyu|xiaohai (1682)
+defeated mcz|tokido (1708)
+::::CEO::::
+defeated iusedoom (1506)
+defeated rugalitarian (1517)
+defeated srkuw|fawwaz (1574)
+defeated dl|four wude (1615)
+defeated qanba douyu|dakou (1621)
+defeated bonchan (1703)
+lost to 801 strider (1700)
+lost to eg|pr balrog (1682)
+::::EVO::::
+defeated ceo|jebailey (1533)
+lost to blockbuster jon (1532)
+lost to sd|pnoy (1590)
+::::Tokyo Game Show::::
+defeated rzr|itabashi zangief (1683)
+defeated r/kappa|aiai (1621)
+lost to r/kappa|infilitration (1806)
+lost to be|nemo (1752)
+::::SCR::::
+defeated ghos7dini (1505)
+defeated mel (1517)
+lost to sd|pnoy (1603)
+defeated nacer (1525)
+lost to sd|pnoy (1609)
+lost to filipinoman (1631)
+::::Canada Cup::::
+defeated tosfhq|general luke (1493)
+defeated vgp|chaotix (1571)
+defeated wfx|801 strider (1691)
+lost to avm|gamerbee (1747)
+defeated r/kappa|zv|kazunoko (1752)
+lost to eg|momochi (1774)

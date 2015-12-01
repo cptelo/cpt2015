@@ -1,0 +1,15 @@
+Player: rst|launchpad mcross
+Rating: 1462
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::Hypespotting::::
+lost to abswing (1512)
+lost to glasgow kev (1507)
+::::VS Fighting::::
+lost to mrbungle (1490)
+defeated smbf|vertigo (1473)
+lost to ed|aixy (1522)

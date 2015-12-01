@@ -1,0 +1,12 @@
+Player: 陈俊宇 藏人
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::HK::::
+defeated xft_fire xft_fire (1487)
+lost to codynp (1539)
+lost to kwok sui tak barrytak (1511)

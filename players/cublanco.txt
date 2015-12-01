@@ -1,0 +1,22 @@
+Player: cublanco
+Rating: 1558
+Played: 12
+Won: 8
+Lost: 4
+%: 66
+
+Results:
+::::NorCal Regionals::::
+defeated lilsicx (1487)
+defeated wmd|mom's spaghetti (1499)
+lost to mom|velociraptor (1623)
+defeated lilsicx (1510)
+defeated mikey r (1524)
+lost to snake eyez (1702)
+::::Texas Showdown::::
+defeated marsh d teach (1488)
+defeated gameguys danny express (1500)
+defeated vgp joe love (1512)
+defeated tss|marsh d teach (1535)
+lost to snake eyez (1699)
+lost to gg|epic l.gg|onisan (1576)

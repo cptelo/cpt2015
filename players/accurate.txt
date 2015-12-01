@@ -1,0 +1,11 @@
+Player: accurate
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to 801 strider (1608)
+lost to antman (1499)

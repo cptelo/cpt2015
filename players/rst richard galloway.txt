@@ -1,0 +1,14 @@
+Player: rst richard galloway
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Hypespotting::::
+defeated fairlysadpanda (1487)
+lost to ymb9|sho (1524)
+defeated shiro (1638)
+defeated fairlysadpanda (1498)
+lost to ymb9|sho (1528)

@@ -1,0 +1,12 @@
+Player: pnd|i2 gaug3
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated cheese (1487)
+lost to btm|isam (1561)
+lost to s1ngho (1499)

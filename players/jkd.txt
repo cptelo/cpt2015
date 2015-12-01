@@ -1,0 +1,12 @@
+Player: jkd
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated gpl - tommy pickles (1487)
+lost to hsien chang (1570)
+lost to demonlos (1511)

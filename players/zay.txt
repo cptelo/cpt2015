@@ -1,0 +1,12 @@
+Player: zay
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated gentle cam (1487)
+lost to derrick legend (1537)
+lost to wa private joker (1515)

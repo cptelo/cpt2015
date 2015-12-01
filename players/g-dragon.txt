@@ -1,0 +1,13 @@
+Player: g-dragon
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated t3p valiant (1487)
+defeated thrillhouse (1499)
+lost to marq teddy (1626)
+lost to t3p valiant (1535)

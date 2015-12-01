@@ -1,0 +1,13 @@
+Player: 근성frs
+Rating: 1530
+Played: 4
+Won: 3
+Lost: 1
+%: 75
+
+Results:
+::::CPTA KR::::
+defeated ink7 (1487)
+defeated rinbo7 (1499)
+lost to r/kappa|infilitration (1751)
+defeated ink7 (1498)

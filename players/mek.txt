@@ -1,0 +1,12 @@
+Player: mek
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Northwest Majors::::
+lost to hoodaman (1613)
+defeated masapiyo (1486)
+lost to [62-bit] finelikewine49 (1511)

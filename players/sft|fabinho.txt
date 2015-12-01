@@ -1,0 +1,10 @@
+Player: sft|fabinho
+Rating: 1491
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::CPT Brazil::::
+lost to fgc|r/kappa|pepeday (1629)

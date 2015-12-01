@@ -1,0 +1,13 @@
+Player: gvoice
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated failakawi (1487)
+lost to wtq8|meshal (1512)
+defeated pain (1476)
+lost to hamu chan (1515)

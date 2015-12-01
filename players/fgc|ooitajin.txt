@@ -1,0 +1,11 @@
+Player: fgc|ooitajin
+Rating: 1559
+Played: 2
+Won: 1
+Lost: 1
+%: 50
+
+Results:
+::::Tokyo Game Show::::
+defeated nishikin (1651)
+lost to r/kappa|zv|kazunoko (1740)

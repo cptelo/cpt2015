@@ -1,0 +1,12 @@
+Player: sfo|willo
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to flawless deku (1560)
+defeated vsf|justinxavier (1486)
+lost to flawless deku (1568)

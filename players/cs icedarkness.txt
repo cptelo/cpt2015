@@ -1,0 +1,14 @@
+Player: cs icedarkness
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated the demonofmist (1487)
+lost to pag lionheart (1512)
+defeated belmont (1486)
+defeated gailim (1486)
+lost to yomi da knut (1526)

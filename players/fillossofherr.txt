@@ -1,0 +1,12 @@
+Player: fillossofherr
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to bcw-gaara_sand (1512)
+defeated battery pack (1484)
+lost to tgz|wt kami (1523)

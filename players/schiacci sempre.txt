@@ -1,0 +1,12 @@
+Player: schiacci sempre
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+lost to ruben (1524)
+defeated laoghe (1474)
+lost to fa|ryan hart (1681)

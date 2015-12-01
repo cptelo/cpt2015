@@ -1,0 +1,13 @@
+Player: prk benji
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::First Attack::::
+defeated brz rattosai (1499)
+defeated fgr ts|murarob (1499)
+lost to goldman (1536)
+lost to kreymore (1538)

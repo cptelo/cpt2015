@@ -1,0 +1,13 @@
+Player: javy jitters
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::First Attack::::
+defeated shin oni (1475)
+defeated borralí (1487)
+lost to prk ts|huracán azura (1524)
+lost to rbl|ronaldihno (1528)

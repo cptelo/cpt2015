@@ -1,0 +1,16 @@
+Player: ex
+Rating: 1474
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to kurokiba (1512)
+defeated graystump (1474)
+lost to nacer (1516)
+::::CEO::::
+lost to hero of time (1511)
+defeated aof e-dawg (1474)
+lost to wa private joker (1526)

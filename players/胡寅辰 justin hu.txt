@@ -1,0 +1,13 @@
+Player: 胡寅辰 justin hu
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+defeated 朱忠旻 ps手柄渣 (1487)
+lost to tonpy (1642)
+defeated 蔡钦 烈火麦当劳 (1475)
+lost to qanba douyu|cuishao (1524)

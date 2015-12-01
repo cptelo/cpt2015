@@ -1,0 +1,12 @@
+Player: かいひも
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Nine States::::
+lost to inco (1608)
+defeated r.mitake (1474)
+lost to 豆腐 tofu (1511)

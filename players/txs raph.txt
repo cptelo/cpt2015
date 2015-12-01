@@ -1,0 +1,13 @@
+Player: txs raph
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated icg redvelvet (1499)
+defeated dawgenhower (1511)
+lost to eg|k-brad (1642)
+lost to ip man (1557)

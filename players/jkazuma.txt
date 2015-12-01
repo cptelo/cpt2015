@@ -1,0 +1,13 @@
+Player: jkazuma
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated outlaw (1487)
+lost to wtq8|dudebag (1512)
+defeated wtq8|ibraheem (1474)
+lost to noornabelsi (1523)

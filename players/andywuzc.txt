@@ -1,0 +1,11 @@
+Player: andywuzc
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to tom90957-tw (1512)
+lost to maxima (1503)

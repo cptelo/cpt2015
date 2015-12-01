@@ -1,0 +1,12 @@
+Player: nefarious al
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to nicktanella (1512)
+defeated jigsaw (1477)
+lost to ce jabdrunk (1502)

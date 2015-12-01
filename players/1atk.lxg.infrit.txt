@@ -1,0 +1,12 @@
+Player: 1atk.lxg.infrit
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to cprbeastlybubble (1512)
+defeated snaketits (1477)
+lost to plu (1500)

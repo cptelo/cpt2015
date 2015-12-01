@@ -1,0 +1,13 @@
+Player: rs|ladnopoka
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated cex|goukifafa (1499)
+defeated rize|ind|mug|rdubstepper (1511)
+lost to vs|bigfool (1547)
+lost to bsc nevillebamshew (1540)

@@ -1,0 +1,29 @@
+Player: ph|hoodaman
+Rating: 1611
+Played: 18
+Won: 10
+Lost: 8
+%: 55
+
+Results:
+::::NorCal Regionals::::
+defeated madchewie (1491)
+defeated ramen addict (1502)
+defeated sailor venus (1514)
+lost to rzr|fuudo (1737)
+defeated ultima (1542)
+lost to rzr|fuudo (1740)
+lost to rzr|fuudo (1743)
+defeated kelvin jeon (1555)
+lost to eg|ricki ortiz (1725)
+::::Northwest Majors::::
+defeated mek (1491)
+defeated jimli (1503)
+defeated alex myers (1617)
+lost to ts|arturo sanchez (1663)
+defeated alex myers (1617)
+lost to ts|arturo sanchez (1667)
+lost to eg|ricki ortiz (1714)
+::::Tokyo Game Show::::
+defeated uryo (1543)
+lost to rzr|itabashi zangief (1687)

@@ -1,0 +1,13 @@
+Player: noodles
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+lost to rh|f4rhann (1512)
+defeated harpzx007 (1474)
+defeated scc|lark0 (1481)
+lost to sfo|whoshabzthisis (1513)

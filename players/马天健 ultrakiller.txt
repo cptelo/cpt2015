@@ -1,0 +1,12 @@
+Player: 马天健 ultrakiller
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+lost to 何琪 heqi0129 (1512)
+defeated lorichumley05 15 (1474)
+lost to 张尧 haveshit (1514)

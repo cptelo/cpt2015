@@ -1,0 +1,18 @@
+Player: ind.king funk
+Rating: 1507
+Played: 9
+Won: 4
+Lost: 5
+%: 44
+
+Results:
+::::Dreamhack Summer::::
+lost to ryan hart (1686)
+lost to nayte (1570)
+defeated agilo (1487)
+defeated pr0digy_013 (1455)
+lost to um|rmz (1604)
+lost to md|luffy (1729)
+defeated team.veggey bliredd (1477)
+defeated brick (1566)
+lost to um|rmz (1612)

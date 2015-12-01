@@ -1,0 +1,13 @@
+Player: veym|noobster
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated spencerjs (1487)
+lost to hsien chang (1565)
+defeated hero504 (1498)
+lost to ctrl rayray (1525)

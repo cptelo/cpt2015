@@ -1,0 +1,12 @@
+Player: 765p fizzykups
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated wrongonred (1487)
+lost to qanba douyu|xiaohai (1679)
+lost to krs t3p valiant (1504)

@@ -1,0 +1,17 @@
+Player: ma lung fan
+Rating: 1527
+Played: 8
+Won: 5
+Lost: 3
+%: 62
+
+Results:
+::::SCR::::
+lost to tatsushoryu (1512)
+defeated the time dictator (1510)
+defeated bcw-gaara_sand (1500)
+defeated spabobin (1457)
+defeated asc.sd alexis pinto (1513)
+defeated iperu (1566)
+lost to eg|pr balrog (1698)
+lost to commander jesse (1589)

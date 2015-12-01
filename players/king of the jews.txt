@@ -1,0 +1,12 @@
+Player: king of the jews
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to the street writer (1512)
+defeated sol (1487)
+lost to the street writer (1523)

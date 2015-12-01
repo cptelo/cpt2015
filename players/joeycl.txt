@@ -1,0 +1,14 @@
+Player: joeycl
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Northwest Majors::::
+defeated mrxrubin (1487)
+lost to german luger (1561)
+defeated n4us (1464)
+defeated gutter trash (1491)
+lost to ph|jame (1536)

@@ -1,0 +1,11 @@
+Player: dry captain ook
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::EGX::::
+lost to lom buffalo (1512)
+lost to sfo jlm (1499)

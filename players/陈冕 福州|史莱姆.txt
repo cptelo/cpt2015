@@ -1,0 +1,11 @@
+Player: 陈冕 福州|史莱姆
+Rating: 1481
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to 黄之均 mustarday2 (1512)
+lost to snake eyez (1714)

@@ -1,0 +1,14 @@
+Player: botb|jester
+Rating: 1521
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+defeated srm mad king (1487)
+defeated mom|eh|velociraptor (1631)
+defeated r/sf|v.s. cjbqulix (1513)
+lost to qanba douyu|xiaohai (1722)
+lost to kelvin jeon (1578)

@@ -1,0 +1,14 @@
+Player: gibran
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::First Attack::::
+lost to brz rattosai (1512)
+defeated ig|bole (1474)
+defeated nexon (1486)
+defeated fgr ts|murarob (1486)
+lost to kreymore (1527)

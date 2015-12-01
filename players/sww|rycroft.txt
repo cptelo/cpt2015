@@ -1,0 +1,13 @@
+Player: sww|rycroft
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated plats (1487)
+defeated bsc|hadoshrooms (1487)
+lost to gxc|damascus (1598)
+lost to lom|luckboxq (1535)

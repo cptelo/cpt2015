@@ -1,0 +1,27 @@
+Player: white gun
+Rating: 1542
+Played: 16
+Won: 10
+Lost: 6
+%: 62
+
+Results:
+::::NorCal Regionals::::
+defeated v12 hypnos (1487)
+defeated tay soul (1499)
+defeated filipino champ (1567)
+lost to r/kappa|kazunoko (1701)
+lost to pnoy (1599)
+::::Northwest Majors::::
+defeated #bajaboys fullbleed (1488)
+lost to nando tovar (1565)
+defeated gdlk.co|churro (1498)
+defeated emo (1500)
+defeated el cubano loco (1502)
+lost to dogura (1580)
+::::CEO::::
+defeated sa projectsik (1500)
+lost to j campos (1537)
+defeated yomi excited beast (1512)
+defeated kbb mad titan (1521)
+lost to ta|chris g (1630)

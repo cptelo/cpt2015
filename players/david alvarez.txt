@@ -1,0 +1,12 @@
+Player: david alvarez
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to t3p|wrathmatics (1525)
+defeated paulkamezou (1486)
+lost to cwalker special (1524)

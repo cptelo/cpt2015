@@ -1,0 +1,12 @@
+Player: そらネコ
+Rating: 1513
+Played: 3
+Won: 2
+Lost: 1
+%: 66
+
+Results:
+::::Nine States::::
+defeated いす市長 (1487)
+lost to shiro (1617)
+defeated お花畑 (1475)

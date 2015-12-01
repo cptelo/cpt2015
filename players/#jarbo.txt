@@ -1,0 +1,14 @@
+Player: #jarbo
+Rating: 1516
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated gi_vantinel (1487)
+defeated knifelife (1487)
+defeated rlbs (1547)
+lost to ccg|air (1643)
+lost to hero of time (1560)

@@ -1,0 +1,11 @@
+Player: akg jedisalazar
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to thoth (1512)
+lost to mom|eh|velociraptor (1634)

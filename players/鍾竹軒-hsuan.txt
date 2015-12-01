@@ -1,0 +1,11 @@
+Player: 鍾竹軒/hsuan
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to chuan (1628)
+lost to lele (1499)

@@ -1,0 +1,15 @@
+Player: 何琪 heqi0129
+Rating: 1525
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CPTA Shanghai::::
+defeated 马天健 ultrakiller (1487)
+defeated sonydafa (1499)
+lost to xiaolong (1591)
+defeated 张尧 haveshit (1512)
+defeated dante dt (1494)
+lost to kok (1608)

@@ -1,0 +1,14 @@
+Player: r/sf|v.s. cjbqulix
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+defeated donsanity (1487)
+defeated kelvin jeon (1557)
+lost to botb|jester (1540)
+defeated srm mad king (1499)
+lost to kelvin jeon (1574)

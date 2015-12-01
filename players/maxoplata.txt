@@ -1,0 +1,13 @@
+Player: maxoplata
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+lost to yo_snax (1512)
+defeated dmt loki kky (1478)
+defeated reno (1486)
+lost to roman (1530)

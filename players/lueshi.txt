@@ -1,0 +1,12 @@
+Player: lueshi
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Northwest Majors::::
+defeated 765pro (1487)
+lost to eg|pr balrog (1662)
+lost to canjs|cxr|bionicfraud (1500)

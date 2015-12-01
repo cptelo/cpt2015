@@ -1,0 +1,11 @@
+Player: 杰克逊
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to 天朝贵族 (1512)
+lost to chuan (1632)

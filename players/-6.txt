@@ -1,0 +1,20 @@
+Player: -6
+Rating: 1633
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::Tokyo Game Show::::
+defeated mcz|daigo (1757)
+defeated mov (1679)
+lost to ybk|dashio (1639)
+defeated rzr|fuudo (1714)
+lost to be|nemo (1748)
+::::Ultra Hyakkishu Cup::::
+defeated ts|reiketsu (1642)
+defeated nyanshi (1503)
+defeated g.y.r.o (1481)
+lost to eg|momochi (1773)
+lost to ybk|dashio (1672)

@@ -1,0 +1,12 @@
+Player: dianminion
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+lost to silg@st (1512)
+defeated suryan nair (1486)
+lost to ybk|shiro (1623)

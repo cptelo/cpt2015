@@ -1,0 +1,13 @@
+Player: fatso_523
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated tiger zebra (1487)
+lost to um|btm|imstilldadaddy (1635)
+defeated near (1475)
+lost to ds|jamusan (1512)

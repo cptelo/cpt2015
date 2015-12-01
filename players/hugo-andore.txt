@@ -1,0 +1,11 @@
+Player: hugo-andore
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::First Attack::::
+lost to solrac naej (1512)
+lost to ig|legendario drak (1499)

@@ -1,0 +1,11 @@
+Player: rain
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to big betty swalls (1512)
+lost to 801 mr gork (1497)

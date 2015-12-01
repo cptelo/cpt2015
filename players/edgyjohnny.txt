@@ -1,0 +1,13 @@
+Player: edgyjohnny
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+lost to cxr|@dk_brawler (1512)
+defeated rd/mr.karate (1478)
+defeated hf|hainix (1510)
+lost to [62-bit] finelikewine49 (1523)

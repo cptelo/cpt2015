@@ -1,0 +1,17 @@
+Player: kit potato salad
+Rating: 1488
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::CEO::::
+lost to chemical ali (1512)
+defeated ralstaanley (1490)
+defeated mike cue (1486)
+defeated darkhonor90 (1504)
+lost to flash metroid (1524)
+::::TFC::::
+lost to brentt (1620)
+lost to frank the tank (1500)

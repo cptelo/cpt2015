@@ -1,0 +1,13 @@
+Player: seinken
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated nwm lueshi (1487)
+defeated itzspammy (1499)
+lost to bonchan (1697)
+lost to viscant (1537)

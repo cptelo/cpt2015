@@ -1,0 +1,15 @@
+Player: chan sau cheong terry
+Rating: 1529
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::HK::::
+defeated lee siu kwan dbj_john (1487)
+lost to qanba douyu|dark jiewa (1642)
+defeated hacken law xft_hacken_jp (1486)
+defeated chan king kiu cs|fa (1502)
+defeated lau chi hung joe gameouttt (1500)
+lost to qanba douyu|dark jiewa (1643)

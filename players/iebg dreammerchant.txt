@@ -1,0 +1,11 @@
+Player: iebg dreammerchant
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to bokkin (1516)
+lost to romfinite (1503)

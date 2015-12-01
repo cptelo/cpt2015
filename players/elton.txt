@@ -1,0 +1,13 @@
+Player: elton
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to rzr|gackt (1664)
+defeated dj storm (1473)
+defeated jd (1485)
+lost to tanka tanky (1506)

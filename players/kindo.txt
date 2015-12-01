@@ -1,0 +1,29 @@
+Player: kindo
+Rating: 1588
+Played: 18
+Won: 12
+Lost: 6
+%: 66
+
+Results:
+::::Nine States::::
+defeated トモ (1500)
+defeated kyabetsu (1548)
+defeated gattikun (1525)
+defeated gattikun (1528)
+lost to shiro (1663)
+defeated chiaki (1522)
+lost to inco (1662)
+::::KSB 2015::::
+defeated なお (1490)
+lost to inco (1669)
+defeated ペルシャ (1489)
+defeated ローキン (1505)
+lost to pepeday (1643)
+::::Ultra Hyakkishu Cup::::
+defeated mast (1490)
+lost to eg|momochi (1768)
+defeated mohamedo (1496)
+defeated super uriajjo (1504)
+defeated nakahara (1501)
+lost to fgc|ex pugera (1676)

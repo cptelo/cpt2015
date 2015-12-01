@@ -1,0 +1,12 @@
+Player: elliot heath
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated thariddler (1487)
+lost to gg|epic l.gg|onisan (1587)
+lost to devon scheer (1516)

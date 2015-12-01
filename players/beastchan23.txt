@@ -1,0 +1,12 @@
+Player: beastchan23
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated llama (1499)
+lost to mlswear (1584)
+lost to chaotix (1578)

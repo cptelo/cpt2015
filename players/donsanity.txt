@@ -1,0 +1,12 @@
+Player: donsanity
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to r/sf|v.s. cjbqulix (1512)
+defeated lemon pie (1476)
+lost to bruin (1518)

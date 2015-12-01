@@ -1,0 +1,14 @@
+Player: ao omega tom hanks
+Rating: 1517
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated sabo (1499)
+lost to srkuw|fawwaz (1582)
+defeated be|kane blueriver (1516)
+defeated joe shyne (1523)
+lost to dafeetlee (1627)

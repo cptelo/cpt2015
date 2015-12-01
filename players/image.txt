@@ -1,0 +1,13 @@
+Player: image
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated ip man (1499)
+lost to eg|k-brad (1639)
+defeated jayto (1498)
+lost to ip man (1546)

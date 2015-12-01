@@ -1,0 +1,13 @@
+Player: big poe
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated fullbring (1487)
+defeated king koopa (1487)
+lost to starwin (1536)
+lost to assan chop (1524)

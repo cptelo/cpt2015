@@ -1,0 +1,11 @@
+Player: chris len
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to ninja shinryu (1512)
+lost to sww|crumpets (1499)

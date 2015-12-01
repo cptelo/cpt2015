@@ -1,0 +1,13 @@
+Player: sfo zxmx
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated tws gibbo (1487)
+lost to rize|ind|mug|rdubstepper (1524)
+defeated hosea fidel (1474)
+lost to cex|goukifafa (1523)

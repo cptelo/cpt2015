@@ -1,0 +1,17 @@
+Player: haw seow
+Rating: 1491
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::FV Cup::::
+defeated nigel lee (1487)
+lost to tonpy (1631)
+lost to blackcus (1500)
+::::CPTA Last Chance Qualifier::::
+defeated squid kid (1487)
+lost to kindevu (1621)
+defeated choobacca (1474)
+lost to mflo (1527)

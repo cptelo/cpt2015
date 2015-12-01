@@ -1,0 +1,11 @@
+Player: madjestik
+Rating: 1524
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Cannes Winter Clash::::
+lost to tonpy (1610)
+lost to renegad (1503)

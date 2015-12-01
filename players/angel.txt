@@ -1,0 +1,12 @@
+Player: angel
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+lost to rida (1512)
+defeated gmd daydreamer (1486)
+lost to sherryjenix (1534)

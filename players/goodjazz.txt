@@ -1,0 +1,12 @@
+Player: goodjazz
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to carzydog (1512)
+defeated jayson (1474)
+lost to sherman (1514)

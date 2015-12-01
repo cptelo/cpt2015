@@ -1,0 +1,13 @@
+Player: emerald chaos
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+lost to gl|saunic (1556)
+defeated thunderlips (1476)
+defeated mba yingah (1486)
+lost to wiseblade (1567)

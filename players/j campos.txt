@@ -1,0 +1,14 @@
+Player: j campos
+Rating: 1517
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated aes|nolafrog (1488)
+defeated seedogpoo (1487)
+defeated white gun (1538)
+lost to pie|smug (1703)
+lost to tbr last dragon (1562)

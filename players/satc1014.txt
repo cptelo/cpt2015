@@ -1,0 +1,11 @@
+Player: satc1014
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to kim1234 (1564)
+lost to jay (1487)

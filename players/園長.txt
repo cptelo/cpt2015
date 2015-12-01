@@ -1,0 +1,12 @@
+Player: 園長
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to willy (1512)
+defeated 阿豪 (1474)
+lost to 宗慶/k (1516)

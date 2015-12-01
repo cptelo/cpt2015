@@ -1,0 +1,12 @@
+Player: 直播弟
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated py (1487)
+lost to qanba douyu|dakou (1638)
+lost to 必然也 (1512)

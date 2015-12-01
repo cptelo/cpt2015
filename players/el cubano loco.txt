@@ -1,0 +1,21 @@
+Player: el cubano loco
+Rating: 1534
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::Northwest Majors::::
+defeated welcome to you're doom! (1487)
+defeated duncan (1499)
+lost to native impact (1626)
+lost to white gun (1545)
+::::EVO::::
+defeated mlswear (1560)
+::::SCR::::
+defeated g. summer (1488)
+defeated ffn kyoku (1500)
+lost to rzr|fuudo (1730)
+defeated hnh kizzie kay (1514)
+lost to r/kappa|alex myers (1630)

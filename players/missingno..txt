@@ -1,0 +1,11 @@
+Player: missingno.
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to kaising (1512)
+lost to iplay4food (1499)

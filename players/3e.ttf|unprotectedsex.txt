@@ -1,0 +1,13 @@
+Player: 3e.ttf|unprotectedsex
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated chase (1487)
+defeated shogunn (1499)
+lost to corn|alucard (1618)
+lost to filipinoman (1626)

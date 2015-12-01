@@ -1,0 +1,29 @@
+Player: dafeetlee
+Rating: 1603
+Played: 17
+Won: 11
+Lost: 6
+%: 64
+
+Results:
+::::Final Round::::
+defeated eg|pr balrog (1678)
+::::CEO::::
+defeated be|kane blueriver (1514)
+defeated buttermilk chris (1515)
+lost to dl|four wude (1619)
+defeated ao omega tom hanks (1517)
+defeated srkuw|fawwaz (1574)
+defeated dl|four wude (1610)
+lost to alucard (1616)
+::::Defend the North::::
+lost to coin up|ludovic (1544)
+lost to stvg|flocker (1530)
+::::Dreamhack Winter::::
+defeated op|kayjay (1491)
+defeated tm robofobe (1464)
+defeated james deen (1435)
+defeated yagami (1529)
+lost to um|btm|rmz (1608)
+defeated salty kid (1509)
+lost to bx3|veggey (1611)

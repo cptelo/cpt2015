@@ -1,0 +1,12 @@
+Player: zachinabox
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated azteczar (1487)
+lost to german luger (1565)
+lost to vgp|andre west (1513)

@@ -1,0 +1,11 @@
+Player: eunbeen
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Call of Ragnarok::::
+lost to bx3|veggey (1608)
+lost to pedram (1499)

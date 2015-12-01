@@ -1,0 +1,15 @@
+Player: krhs tan-tan
+Rating: 1527
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated belmont (1487)
+lost to bagelobo (1524)
+defeated the demonofmist (1474)
+defeated eg|justin wong (1727)
+defeated shin rico suave (1502)
+lost to mister keebler (1525)

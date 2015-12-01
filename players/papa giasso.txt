@@ -1,0 +1,11 @@
+Player: papa giasso
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to themanseries (1512)
+lost to kristougher (1499)

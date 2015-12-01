@@ -1,0 +1,14 @@
+Player: krash!
+Rating: 1520
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated calmspaghetti (1487)
+defeated el ben (1499)
+lost to bonchan (1711)
+defeated dm john b (1511)
+lost to ccg|chris tatarian (1665)

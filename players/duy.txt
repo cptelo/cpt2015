@@ -1,0 +1,12 @@
+Player: duy
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Saigon Cup::::
+lost to ck-vnz (1512)
+defeated gg|alioufe (1474)
+lost to hideo (1516)

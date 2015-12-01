@@ -1,0 +1,13 @@
+Player: rde ind gillstolemyride
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated drewmorri7 (1487)
+defeated j miller (1499)
+lost to rmz (1626)
+lost to alioune85 (1538)

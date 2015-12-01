@@ -1,0 +1,12 @@
+Player: eog rico
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+lost to j8slim (1512)
+defeated tombstone (1474)
+lost to mob|princess slim (1517)

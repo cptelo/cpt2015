@@ -1,0 +1,15 @@
+Player: 陳政宏 bemechen
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CPTA Shanghai::::
+defeated 么么小吉吉 么么小吉吉 (1487)
+lost to lcx wh1sper (1524)
+defeated 汪俊峰 fei-long (1474)
+defeated 吴浩群 gz维尼 (1489)
+defeated 张嘉程 fat dog (1500)
+lost to lcx wh1sper (1541)

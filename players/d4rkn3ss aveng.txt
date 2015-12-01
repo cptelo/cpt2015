@@ -1,0 +1,13 @@
+Player: d4rkn3ss aveng
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated lom|luckboxq (1499)
+lost to btm|hurricane (1643)
+defeated bsc|hadoshrooms (1498)
+lost to ed|vsf|jinty (1527)

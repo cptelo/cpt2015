@@ -1,0 +1,13 @@
+Player: spanky
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to g.y.r.o (1478)
+defeated jeppa~ (1477)
+defeated tekateka (1491)
+lost to ts|reiketsu (1650)

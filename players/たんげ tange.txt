@@ -1,0 +1,15 @@
+Player: たんげ tange
+Rating: 1531
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Nine States::::
+defeated 霧雨 kirisame (1487)
+defeated くりぱぱ kuripapa (1499)
+lost to poongko (1730)
+defeated okome man (1510)
+defeated dunhill (1513)
+lost to kawaguchi (1626)

@@ -1,0 +1,14 @@
+Player: will
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::First Attack::::
+defeated ramonachan (1487)
+lost to r/kappa|infilitration (1789)
+defeated metaldb (1475)
+defeated brz|dj basket (1487)
+lost to pag|sabo (1510)

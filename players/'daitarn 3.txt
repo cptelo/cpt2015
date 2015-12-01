@@ -1,0 +1,11 @@
+Player: 'daitarn 3
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to big5ive (1512)
+lost to jun10r123 (1499)

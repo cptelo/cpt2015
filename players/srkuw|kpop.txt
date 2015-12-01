@@ -1,0 +1,13 @@
+Player: srkuw|kpop
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated 30f|nagai (1487)
+lost to koji kog (1618)
+defeated cpt.marvel (1486)
+lost to deadmoo5 (1525)

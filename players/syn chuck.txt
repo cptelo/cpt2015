@@ -1,0 +1,13 @@
+Player: syn chuck
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::EGX::::
+defeated sfo jlm (1487)
+lost to gl|rb|valmaster (1686)
+defeated bsc|shek (1511)
+lost to chaos time (1543)

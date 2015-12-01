@@ -1,0 +1,11 @@
+Player: tsm|leffen
+Rating: 1481
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Call of Ragnarok::::
+lost to kig|problem x (1710)
+lost to rize|ind|thunderbear (1504)

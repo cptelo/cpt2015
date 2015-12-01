@@ -1,0 +1,15 @@
+Player: pills
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Combo Breaker::::
+defeated s.i.r. dinky (1487)
+lost to squall (1524)
+defeated mto (1486)
+defeated nick t. (1498)
+defeated nb sol ronin (1500)
+lost to squall (1536)

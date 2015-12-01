@@ -1,0 +1,64 @@
+Player: ccg|air
+Rating: 1631
+Played: 48
+Won: 31
+Lost: 17
+%: 64
+
+Results:
+::::Final Round::::
+defeated ace unlimited (1491)
+lost to eg|k-brad (1612)
+::::NorCal Regionals::::
+defeated ngamer3k (1490)
+defeated skullied (1502)
+defeated ce|kumo (1518)
+lost to 801 strider (1638)
+defeated alex myers (1615)
+lost to 801 strider (1649)
+lost to 801 strider (1660)
+defeated hellamindgames choi (1486)
+lost to r/kappa|infilitration (1745)
+::::Northwest Majors::::
+defeated dragonglove (1490)
+defeated droomighty (1502)
+defeated german luger (1559)
+defeated eg|pr balrog (1661)
+defeated eg|pr balrog (1658)
+defeated eg|pr balrog (1652)
+lost to neogaf|koji kog (1663)
+defeated eg|ricki ortiz (1707)
+lost to native impact (1644)
+::::Texas Showdown::::
+defeated finalsweek (1503)
+defeated lost boy (1503)
+defeated pxg|integra (1549)
+defeated pxg|vgp|integra (1550)
+lost to eg|justin wong (1748)
+defeated brolylegs (1522)
+defeated liquid|nuckledu (1737)
+lost to 801 strider (1667)
+::::Combo Breaker::::
+defeated big marcus (1492)
+lost to eg|justin wong (1746)
+defeated gg|epic l.gg|onisan (1584)
+defeated bab khangaroo (1558)
+lost to wolfkrone (1620)
+::::CEO::::
+defeated hero of time (1502)
+defeated alex myers (1618)
+defeated #jarbo (1528)
+lost to tsc|dieminion (1687)
+lost to alex myers (1637)
+::::SCR::::
+defeated bidoofshock (1503)
+lost to ph|nando tovar (1597)
+defeated combo kash (1515)
+defeated mister keebler (1532)
+lost to rb|snake eyez (1739)
+::::Canada Cup::::
+lost to pie|poem (1504)
+defeated pie|poem (1488)
+defeated pie|smug (1673)
+defeated ccg|snafoo (1505)
+lost to rb|snake eyez (1748)

@@ -1,0 +1,12 @@
+Player: pragmag
+Rating: 1484
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to ghodere (1487)
+defeated audriolen (1457)
+lost to flaquito (1517)

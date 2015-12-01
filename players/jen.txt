@@ -1,0 +1,12 @@
+Player: jen
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to arika (1563)
+defeated moonrider (1474)
+lost to iz juri (1511)

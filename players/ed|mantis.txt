@@ -1,0 +1,11 @@
+Player: ed|mantis
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to adzi (1512)
+lost to mba|sono (1486)

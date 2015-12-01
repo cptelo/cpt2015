@@ -1,0 +1,38 @@
+Player: 801|ybk|jayce the ace
+Rating: 1636
+Played: 26
+Won: 17
+Lost: 9
+%: 65
+
+Results:
+::::Northwest Majors::::
+defeated yeti (1502)
+defeated chg combo kin (1502)
+lost to ph|lpn (1595)
+defeated zakotou (1516)
+defeated schowda (1516)
+defeated mc|xsk samurai (1569)
+lost to ph|lpn (1604)
+lost to native impact (1620)
+::::EVO::::
+defeated ta|chris g (1630)
+defeated ybk|shiro (1630)
+lost to bx3|phenom (1642)
+::::SCR::::
+defeated dirty dan (1503)
+lost to isg|eightgrade (1539)
+defeated tamashiro (1516)
+defeated dl|four wude (1609)
+defeated botb|marq teddy (1617)
+lost to isg|eightgrade (1569)
+defeated liquid|nuckledu (1720)
+defeated nekromantik187 (1529)
+lost to ph|lpn (1628)
+::::Canada Cup::::
+defeated tsc|yomi|dieminion (1710)
+lost to avm|gamerbee (1743)
+defeated r/kappa|kitasenju dj (1623)
+defeated eg|ricki ortiz (1700)
+defeated r/kappa|misse (1670)
+lost to rb|snake eyez (1756)

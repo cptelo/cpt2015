@@ -1,0 +1,15 @@
+Player: spriggan
+Rating: 1525
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Combo Breaker::::
+defeated ngamer3k (1490)
+defeated wfga higgs bison (1499)
+defeated kas_shadow (1511)
+lost to alucard (1590)
+defeated kas_shadow (1523)
+lost to gg|epic l.gg|onisan (1581)

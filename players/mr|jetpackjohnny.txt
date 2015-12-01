@@ -1,0 +1,13 @@
+Player: mr|jetpackjohnny
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to jared (1512)
+defeated macfaltine (1476)
+defeated groceryoutletjustin (1486)
+lost to qed (1523)

@@ -1,0 +1,13 @@
+Player: snake belmont
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::EGX::::
+defeated lom|vegedow (1485)
+lost to kig|problem x (1711)
+defeated rob zfr (1497)
+lost to deku deku tree (1517)

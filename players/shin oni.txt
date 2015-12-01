@@ -1,0 +1,15 @@
+Player: shin oni
+Rating: 1462
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::CEO::::
+defeated zack gademark mohadi (1499)
+lost to cast blanka (1571)
+lost to seedogpoo (1523)
+::::First Attack::::
+lost to javy jitters (1512)
+lost to joker (1499)

@@ -1,0 +1,12 @@
+Player: perplex
+Rating: 1494
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Cannes Winter Clash::::
+lost to ryan hart (1657)
+defeated lior (1479)
+lost to phenom (1603)

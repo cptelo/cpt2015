@@ -1,0 +1,19 @@
+Player: mba|dread
+Rating: 1509
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::Hypespotting::::
+lost to ed|lavell up (1512)
+defeated dr hype (1474)
+lost to benners (1511)
+::::VS Fighting::::
+defeated jwoods (1486)
+lost to sww|axythetaxi (1512)
+defeated tekkon (1473)
+defeated sfo|savant (1474)
+defeated ed|the claw of god (1501)
+lost to ikimashouu (1535)

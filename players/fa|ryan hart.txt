@@ -1,0 +1,93 @@
+Player: fa|ryan hart
+Rating: 1693
+Played: 74
+Won: 51
+Lost: 23
+%: 68
+
+Results:
+::::Cannes Winter Clash::::
+defeated perplex (1492)
+defeated dieminion (1644)
+lost to sako (1636)
+lost to valmaster (1720)
+::::Hypespotting::::
+defeated shiro (1643)
+defeated shredded manlet (1504)
+defeated ymb9|sho (1516)
+defeated tyrant (1620)
+defeated hurricane (1627)
+defeated luffy (1688)
+lost to mcz|mago (1688)
+defeated rize|ind|pro fluke (1637)
+lost to luffy (1712)
+::::Stunfest::::
+lost to avm|gamerbee (1699)
+::::Dreamhack Summer::::
+defeated ind.king funk (1493)
+lost to um|rmz (1597)
+defeated nayte (1558)
+defeated agilo (1480)
+defeated pr0digy_013 (1449)
+defeated brillz (1511)
+lost to phenom (1646)
+defeated iki (1490)
+defeated ind.saltykid (1545)
+defeated wso|andreas (1624)
+defeated um|imstilldadaddy (1632)
+defeated rize|ind|pro fluke (1643)
+lost to problem x (1689)
+::::EVO::::
+lost to r/kappa|infilitration (1776)
+lost to latif (1626)
+::::KO Fighting Game Festival::::
+defeated volibear (1505)
+defeated semboosa (1516)
+lost to wtq8|dudebag (1541)
+defeated wtq8|yoni (1516)
+lost to wtq8|dudebag (1558)
+defeated arika (1557)
+defeated ybk|kichiken (1581)
+lost to rzr|xian (1766)
+::::EGX::::
+defeated bsc|shek (1513)
+defeated cdv|will2pac (1571)
+defeated btm|tyrant (1631)
+defeated wso|andreas (1629)
+lost to md|luffy (1768)
+defeated gonzales (1623)
+defeated wso|andreas (1639)
+lost to md|luffy (1766)
+::::Red Fight District::::
+defeated deku deku tree (1499)
+defeated tr mac (1500)
+lost to bx3|phenom (1657)
+defeated keftaroz (1519)
+defeated cuongster (1583)
+lost to eg|k-brad (1676)
+::::Milan Games Week::::
+lost to easyman (1576)
+defeated yoshio (1492)
+defeated schiacci sempre (1492)
+defeated um|btm|rmz (1599)
+defeated pahn (1507)
+defeated mba|rize|ind|infexious (1635)
+defeated kindevu (1615)
+defeated mf|tonpy (1668)
+defeated eg|k-brad (1677)
+defeated gonzales (1640)
+lost to rzr|rb (1644)
+::::Canada Cup::::
+lost to ccg|snafoo (1507)
+defeated ocv|12m.ocv|riceata (1593)
+lost to r/kappa|zv|kazunoko (1753)
+::::Dreamhack Winter::::
+defeated op|sick bubblegum (1493)
+defeated fruit (1502)
+defeated op|flcl (1516)
+defeated qphj (1459)
+defeated ind.spb|rize|ind|ixion (1581)
+defeated bobbis (1520)
+defeated cuongster (1595)
+lost to bx3|phenom (1675)
+lost to um|btm|rmz (1618)

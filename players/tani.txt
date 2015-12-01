@@ -1,0 +1,12 @@
+Player: tani
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+defeated ed|undeadjim (1487)
+lost to rize|ind|btm brian (1562)
+lost to pun pun (1487)

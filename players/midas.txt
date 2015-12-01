@@ -1,0 +1,11 @@
+Player: midas
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Milan Games Week::::
+lost to daniel ta87 (1512)
+lost to sephro8h89 (1511)

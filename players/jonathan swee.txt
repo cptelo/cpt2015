@@ -1,0 +1,11 @@
+Player: jonathan swee
+Rating: 1477
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::FV Cup::::
+lost to gonzales (1582)
+lost to silg@shaun (1513)

@@ -1,0 +1,12 @@
+Player: ks|cbrn|nighttwo
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated bbs own black_dynowright (1487)
+lost to ta|chris g (1598)
+lost to onslaught (1511)

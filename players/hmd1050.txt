@@ -1,0 +1,12 @@
+Player: hmd1050
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Red Fight District::::
+defeated ettelman (1527)
+lost to lll doomdomainn (1524)
+lost to big mara ramiz (1516)

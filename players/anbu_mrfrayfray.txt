@@ -1,0 +1,13 @@
+Player: anbu_mrfrayfray
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::TFC::::
+lost to noelbhungry (1512)
+defeated dark mavid (1472)
+defeated aimforthefeet (1486)
+lost to redpanda knuckledust (1515)

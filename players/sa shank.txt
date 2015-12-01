@@ -1,0 +1,13 @@
+Player: sa shank
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated rpd mcz alex smith (1487)
+lost to j. caesar ii (1524)
+defeated guitar7s (1474)
+lost to joe shyne (1525)

@@ -1,0 +1,12 @@
+Player: ddrsensation
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated krono (1487)
+lost to jacky cannons (1523)
+lost to greedychun (1511)

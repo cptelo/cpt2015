@@ -1,0 +1,13 @@
+Player: firefist
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+lost to lk sobat (1512)
+defeated ds|pak_mei (1474)
+defeated jay jayy 90 (1500)
+lost to sww|thebirdlives (1517)

@@ -1,0 +1,58 @@
+Player: be|nemo
+Rating: 1753
+Played: 45
+Won: 34
+Lost: 11
+%: 75
+
+Results:
+::::KSB 2015::::
+defeated sketch (1482)
+defeated matsuri (1550)
+defeated shiro (1636)
+lost to tonpy (1649)
+defeated misse (1651)
+defeated neogaf|koji kog (1680)
+defeated r/kappa|kazunoko (1720)
+defeated mcz|tokido (1692)
+defeated tonpy (1655)
+defeated tonpy (1650)
+::::EVO::::
+lost to ccg|chris tatarian (1659)
+defeated brentt (1614)
+defeated ccg|chris tatarian (1650)
+defeated kindevu (1611)
+defeated ybk|santarouman (1632)
+defeated eg|pr balrog (1700)
+defeated r/kappa|aiai (1588)
+lost to avm|gamerbee (1732)
+::::Tokyo Game Show::::
+defeated ccg|humanbomb (1658)
+defeated nishikin (1658)
+lost to avm|gamerbee (1746)
+defeated kyoku (1563)
+defeated r/kappa|zv|kazunoko (1737)
+defeated neogaf|r/kappa|koji kog (1660)
+defeated -6 (1626)
+defeated mcz|mago (1704)
+lost to rb|bonchan (1731)
+::::Ultra Hyakkishu Cup::::
+defeated shimauta (1557)
+defeated shougai adashi-ku min (1506)
+defeated mov (1676)
+defeated neogaf|r/kappa|koji kog (1663)
+defeated kitasenju dj (1631)
+lost to rb|bonchan (1774)
+defeated rzr|fuudo (1722)
+defeated eg|momochi (1770)
+lost to rb|bonchan (1773)
+::::CPTA Finals::::
+defeated mov (1661)
+defeated rb|bonchan (1760)
+lost to r/kappa|poongko (1731)
+defeated kindevu (1646)
+lost to r/kappa|misse (1677)
+lost to rzr|xian (1786)
+defeated qanba douyu|dakou (1631)
+defeated qanba douyu|xiaohai (1713)
+lost to r/kappa|poongko (1754)

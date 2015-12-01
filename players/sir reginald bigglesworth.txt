@@ -1,0 +1,14 @@
+Player: sir reginald bigglesworth
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated 2002 pt cruiser (1487)
+lost to falling charlie (1524)
+defeated kyorikusagami (1474)
+defeated starks (1502)
+lost to alex myers (1621)

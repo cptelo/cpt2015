@@ -1,0 +1,12 @@
+Player: sonny
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Milan Games Week::::
+lost to dr thomas (1512)
+defeated zutroi (1475)
+lost to dimmer (1516)

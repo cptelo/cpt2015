@@ -1,0 +1,15 @@
+Player: sa justice
+Rating: 1520
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::First Attack::::
+defeated yeison (1487)
+lost to uvg|noel brown (1512)
+defeated legendary mako (1474)
+defeated wizlife69 (1486)
+defeated honda tropical (1491)
+lost to uvg|noel brown (1525)

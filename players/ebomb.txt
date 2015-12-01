@@ -1,0 +1,17 @@
+Player: ebomb
+Rating: 1492
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Northwest Majors::::
+defeated phd zeal (1487)
+lost to dogura (1571)
+lost to emo (1512)
+::::SCR::::
+lost to jc (1512)
+defeated soulless (1485)
+defeated dirty dan (1500)
+lost to dl|four wude (1614)

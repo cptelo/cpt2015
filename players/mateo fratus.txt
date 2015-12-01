@@ -1,0 +1,11 @@
+Player: mateo fratus
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Milan Games Week::::
+lost to danilo (1512)
+lost to mazinkaiser (1511)

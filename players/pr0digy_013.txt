@@ -1,0 +1,14 @@
+Player: pr0digy_013
+Rating: 1449
+Played: 5
+Won: 0
+Lost: 5
+%: 0
+
+Results:
+::::Dreamhack Summer::::
+lost to um|rmz (1591)
+lost to agilo (1501)
+lost to nayte (1579)
+lost to ind.king funk (1506)
+lost to ryan hart (1686)

@@ -1,0 +1,13 @@
+Player: the steam co|bacardi
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::First Attack::::
+lost to godzilla (1524)
+defeated colonel suave (1474)
+defeated raxory.pr (1486)
+lost to prk famous (1517)

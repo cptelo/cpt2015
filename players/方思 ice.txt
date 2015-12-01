@@ -1,0 +1,13 @@
+Player: 方思 ice
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+defeated 沈艺洵 dabaipang (1487)
+lost to xiaolong (1581)
+defeated 陆祁仁 johnny (1475)
+lost to sonydafa (1523)

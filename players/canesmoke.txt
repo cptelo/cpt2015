@@ -1,0 +1,13 @@
+Player: canesmoke
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Milan Games Week::::
+defeated pand089 (1487)
+lost to kindevu (1615)
+defeated kush95 (1474)
+lost to vaca89 (1523)

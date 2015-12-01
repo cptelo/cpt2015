@@ -1,0 +1,13 @@
+Player: mulverrine
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA KR::::
+defeated kec|sl burnout (1487)
+lost to shiro (1644)
+defeated shinobee (1470)
+lost to saulabis (1530)

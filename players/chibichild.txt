@@ -1,0 +1,12 @@
+Player: chibichild
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to top hat (1512)
+defeated chima (1473)
+lost to viscant (1511)

@@ -1,0 +1,11 @@
+Player: nz|notinal
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to ninjamatic (1512)
+lost to mr. sparkle (1501)

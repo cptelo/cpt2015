@@ -1,0 +1,11 @@
+Player: dark mavid
+Rating: 1472
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to spabobin (1458)
+lost to anbu_mrfrayfray (1499)

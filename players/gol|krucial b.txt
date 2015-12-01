@@ -1,0 +1,16 @@
+Player: gol|krucial b
+Rating: 1521
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::Texas Showdown::::
+defeated gameguys naughty munkey (1499)
+lost to eg|ricki ortiz (1711)
+defeated rm|t-boykin (1509)
+defeated justrun (1499)
+defeated ua nori (1504)
+lost to eg|ricki ortiz (1715)
+lost to brolylegs (1532)

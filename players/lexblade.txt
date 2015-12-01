@@ -1,0 +1,12 @@
+Player: lexblade
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated gnixer (1487)
+lost to chuan (1633)
+lost to bravery (1513)

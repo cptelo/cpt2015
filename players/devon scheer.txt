@@ -1,0 +1,13 @@
+Player: devon scheer
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+lost to ag|native impact (1635)
+defeated exg convictedoffun (1474)
+defeated elliot heath (1489)
+lost to holdy (1542)

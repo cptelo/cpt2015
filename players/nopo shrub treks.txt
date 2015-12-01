@@ -1,0 +1,13 @@
+Player: nopo shrub treks
+Rating: 1474
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::CEO::::
+defeated jun-ichi11 (1487)
+lost to bklynexpress (1511)
+lost to jun-ichi11 (1499)
+lost to manualcrowcaine (1513)

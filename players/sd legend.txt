@@ -1,0 +1,12 @@
+Player: sd legend
+Rating: 1495
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated thoth (1499)
+lost to qanba douyu|xiaohai (1720)
+lost to kelvin jeon (1570)

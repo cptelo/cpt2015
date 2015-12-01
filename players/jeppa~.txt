@@ -1,0 +1,16 @@
+Player: jeppa~
+Rating: 1477
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::KSB 2015::::
+defeated パスタ3 (1487)
+lost to gachikun (1617)
+defeated きょく (1492)
+lost to たーやん (1531)
+::::Ultra Hyakkishu Cup::::
+lost to meu (1555)
+lost to spanky (1498)

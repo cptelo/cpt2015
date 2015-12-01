@@ -1,0 +1,12 @@
+Player: shido_
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KO Fighting Game Festival::::
+lost to noob_player (1512)
+defeated faisalalmutairi (1474)
+lost to armageddon (1529)

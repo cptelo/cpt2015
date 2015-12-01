@@ -1,0 +1,22 @@
+Player: boeken
+Rating: 1539
+Played: 12
+Won: 8
+Lost: 4
+%: 66
+
+Results:
+::::Northwest Majors::::
+defeated vdon (1462)
+lost to n1 kupo (1524)
+defeated tez (1498)
+defeated scha (1505)
+lost to vicious (1569)
+::::SCR::::
+defeated c. chavez (1487)
+lost to ph|crackfiend (1580)
+defeated waffle slapper (1475)
+defeated yo_snax (1501)
+defeated yo_snax (1489)
+defeated ugc hellfyre (1494)
+lost to brentt (1629)

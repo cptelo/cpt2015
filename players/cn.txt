@@ -1,0 +1,14 @@
+Player: cn
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Taiwan::::
+defeated sman (1487)
+lost to rockpon (1536)
+defeated minde (1491)
+defeated 玩具 (1502)
+lost to 五股淫棍王 (1527)

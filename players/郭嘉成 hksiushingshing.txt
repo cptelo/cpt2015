@@ -1,0 +1,12 @@
+Player: 郭嘉成 hksiushingshing
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::HK::::
+lost to gz-ben (1561)
+defeated hon yu sum troublemaker (1473)
+lost to chan king kiu cs|fa (1515)

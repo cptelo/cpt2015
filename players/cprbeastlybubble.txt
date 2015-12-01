@@ -1,0 +1,14 @@
+Player: cprbeastlybubble
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+defeated 1atk.lxg.infrit (1487)
+lost to srkuw|botb|fawwaz (1581)
+defeated jctustin (1475)
+defeated bcw-carlos danger (1498)
+lost to gedub|ce|gdb|jabdrunk (1527)

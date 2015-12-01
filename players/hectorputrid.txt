@@ -1,0 +1,12 @@
+Player: hectorputrid
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated set (1487)
+lost to rugalitarian (1524)
+lost to misfitpenguin (1500)

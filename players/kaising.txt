@@ -1,0 +1,13 @@
+Player: kaising
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated missingno. (1487)
+defeated ttf|jamaal jackson (1499)
+lost to wfx|801 strider (1703)
+lost to iplay4food (1535)

@@ -1,0 +1,15 @@
+Player: xero
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::TFC::::
+lost to wave foomy (1512)
+defeated gungnir (1475)
+defeated dr. atomic (1486)
+defeated redninja (1486)
+defeated xdsc-knowledge (1499)
+lost to hadoukenmd (1535)

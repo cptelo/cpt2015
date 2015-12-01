@@ -1,0 +1,16 @@
+Player: daimon
+Rating: 1537
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::Taiwan::::
+defeated jay (1474)
+lost to kim1234 (1568)
+defeated millertime(usa) (1486)
+defeated twmsp (1498)
+defeated yoro (1502)
+defeated 小靠 (1512)
+lost to kim1234 (1571)

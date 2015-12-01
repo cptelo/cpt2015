@@ -1,0 +1,13 @@
+Player: bryan papa
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated t-venom (1487)
+defeated sd_watt (1499)
+lost to iperu (1580)
+lost to hf|hainix (1535)

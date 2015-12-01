@@ -1,0 +1,92 @@
+Player: kig|problem x
+Rating: 1702
+Played: 74
+Won: 54
+Lost: 20
+%: 72
+
+Results:
+::::Cannes Winter Clash::::
+defeated starnab (1541)
+defeated valmaster (1692)
+lost to infilitration (1726)
+lost to dieminion (1670)
+::::Hypespotting::::
+defeated phoenix (1504)
+defeated codynp (1516)
+defeated rize|ind|zain (1527)
+lost to mcz|tokido (1679)
+defeated infexious (1597)
+defeated afii (1635)
+lost to luffy (1699)
+::::Dreamhack Summer::::
+defeated warbio (1493)
+defeated bashfest (1493)
+defeated knix (1467)
+defeated dragonfangs (1456)
+defeated duppsko (1502)
+defeated zelpher (1497)
+defeated lll|mbr (1594)
+defeated um|imstilldadaddy (1633)
+lost to md|luffy (1738)
+defeated lll|mbr (1606)
+defeated ryan hart (1693)
+defeated avm|gamerbee (1713)
+lost to md|luffy (1746)
+::::VS Fighting::::
+defeated bye (1505)
+defeated sww|thebirdlives (1505)
+defeated o|< (stickman) (1527)
+defeated vs|rize|ind|milligano (1573)
+defeated btm|tyrant (1624)
+defeated btm|tyrant (1625)
+lost to mba|rize|ind|infexious (1649)
+defeated packz (1628)
+defeated btm|tyrant (1630)
+defeated mba|rize|ind|infexious (1640)
+lost to md|luffy (1757)
+::::Summer Jam::::
+defeated sabo (1503)
+defeated corn|alucard (1613)
+lost to yg|joel (1658)
+defeated brentt (1617)
+defeated julio (1620)
+defeated eg|k-brad (1665)
+lost to bx3|phenom (1653)
+::::EGX::::
+defeated snake belmont (1505)
+defeated incognitus (1556)
+defeated um|btm|rmz (1611)
+defeated btm|hurricane (1642)
+lost to gl|rb|valmaster (1698)
+lost to wso|andreas (1644)
+::::Call of Ragnarok::::
+defeated tsm|leffen (1494)
+lost to ybk|shiro (1646)
+defeated pedram (1493)
+defeated packz (1615)
+defeated bx3|veggey (1596)
+lost to ybk|shiro (1651)
+::::Red Fight District::::
+defeated street4game master ziane (1494)
+defeated devil reapers jimmy (1507)
+lost to md|luffy (1780)
+defeated um|btm|imstilldadaddy (1629)
+defeated cdv|melty|will2pac (1598)
+lost to packz (1626)
+::::Defend the North::::
+lost to fno|bobbyblunts (1519)
+defeated ks|tali (1493)
+defeated bifu|spabrog (1509)
+defeated yg|yomi|joel (1636)
+lost to og|shine (1590)
+::::Dreamhack Winter::::
+defeated quaka (1473)
+defeated thwisteh (1481)
+defeated tekei (1483)
+defeated lll|mbr (1633)
+defeated forward dash (1485)
+defeated rize|ind|kwiddo (1537)
+lost to mba|rize|ind|infexious (1658)
+defeated lll|mbr (1636)
+lost to um|btm|rmz (1624)

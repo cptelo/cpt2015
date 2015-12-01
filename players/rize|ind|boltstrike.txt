@@ -1,0 +1,33 @@
+Player: rize|ind|boltstrike
+Rating: 1571
+Played: 22
+Won: 14
+Lost: 8
+%: 63
+
+Results:
+::::Hypespotting::::
+defeated a4|andre (1489)
+lost to vs|rde|edinbulba (1572)
+defeated dinasaur king (1488)
+defeated bsc|hadoshrooms (1500)
+lost to frostynuggs (1527)
+defeated vs gm punk (1511)
+lost to mcz|tokido (1667)
+defeated ed|kyros (1514)
+defeated ymb9|sho (1516)
+lost to rize|ind|sfo|omh (1554)
+::::VS Fighting::::
+defeated adzi (1501)
+defeated blag (1512)
+lost to packz (1616)
+defeated sfo|whoshabzthisis (1513)
+defeated vws|j miller (1518)
+lost to btm|isam (1582)
+::::EGX::::
+lost to vs|rde|edinbulba (1591)
+defeated citizen (1476)
+defeated ed|kyros (1498)
+defeated gamachan (1492)
+defeated incognitus (1554)
+lost to btm|tyrant (1635)

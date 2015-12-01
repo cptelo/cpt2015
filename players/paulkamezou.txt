@@ -1,0 +1,12 @@
+Player: paulkamezou
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated kit sbk (1487)
+lost to gd just joe (1512)
+lost to david alvarez (1499)

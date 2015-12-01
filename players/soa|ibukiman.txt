@@ -1,0 +1,15 @@
+Player: soa|ibukiman
+Rating: 1550
+Played: 6
+Won: 5
+Lost: 1
+%: 83
+
+Results:
+::::CPT Brazil::::
+defeated ltwins|xitao (1487)
+defeated ww|camizakof (1479)
+defeated sft|guiller br (1509)
+defeated aag|pr3da (1489)
+defeated reversal|chuchu (1678)
+lost to brawl|haitani (1578)

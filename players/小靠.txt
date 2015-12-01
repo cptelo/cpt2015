@@ -1,0 +1,14 @@
+Player: 小靠
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Taiwan::::
+defeated hke|toyz(hong kong) (1487)
+defeated twmsp (1499)
+lost to kim1234 (1572)
+defeated jay (1498)
+lost to daimon (1549)

@@ -1,0 +1,11 @@
+Player: pez man 81
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to nb sol ronin (1512)
+lost to mto (1499)

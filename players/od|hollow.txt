@@ -1,0 +1,13 @@
+Player: od|hollow
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::First Attack::::
+lost to pag|sabo (1518)
+defeated ramonachan (1474)
+defeated saito (1486)
+lost to jarbo (1519)

@@ -1,0 +1,14 @@
+Player: diddy sinatra
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Combo Breaker::::
+lost to swk fbruce (1512)
+defeated gr redbaron (1474)
+defeated deathtattoo83 (1474)
+defeated sgc mwisk (1486)
+lost to cb master splinter (1528)

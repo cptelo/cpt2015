@@ -1,0 +1,12 @@
+Player: vs|hustle crowe
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+lost to mk tux (1512)
+defeated ds|rythla (1474)
+lost to sfo|ghost (1511)

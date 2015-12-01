@@ -1,0 +1,13 @@
+Player: lord devil
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated abodora (1487)
+lost to hunter (1512)
+defeated jacopdr (1474)
+lost to tkr_doukhi (1511)

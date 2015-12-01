@@ -1,0 +1,11 @@
+Player: keijin
+Rating: 1520
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to okkun (1507)
+lost to oppoi (1506)

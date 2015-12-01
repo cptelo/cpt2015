@@ -1,0 +1,11 @@
+Player: ohdomai
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to toby lin (1512)
+lost to david copperfield (1505)

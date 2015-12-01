@@ -1,0 +1,11 @@
+Player: kenmike
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Abuget Cup::::
+lost to saunic (1560)
+lost to aho (1499)

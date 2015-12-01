@@ -1,0 +1,13 @@
+Player: shockbeast
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+lost to wolf street (1510)
+defeated jesse fong (1474)
+defeated solphum (1501)
+lost to wolf street (1526)

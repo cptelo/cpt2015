@@ -1,0 +1,24 @@
+Player: bsc|shek
+Rating: 1511
+Played: 13
+Won: 7
+Lost: 6
+%: 53
+
+Results:
+::::Hypespotting::::
+defeated marzipan (1487)
+defeated rde|wonder ham (1499)
+defeated vs gm punk (1511)
+lost to shoryusengan (1600)
+lost to wiseblade (1577)
+::::VS Fighting::::
+defeated mba|revenge (1499)
+lost to fuzzy (1524)
+defeated kaworu (1508)
+lost to sfo|the pro fka pro ho (1527)
+::::EGX::::
+defeated rob zfr (1498)
+lost to fa|ryan hart (1677)
+defeated lom|vegedow (1487)
+lost to syn chuck (1517)

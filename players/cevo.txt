@@ -1,0 +1,12 @@
+Player: cevo
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Red Fight District::::
+lost to um|btm|imstilldadaddy (1634)
+defeated sinical (1475)
+lost to enfont pordu a easyman (1510)

@@ -1,0 +1,14 @@
+Player: ben-nu
+Rating: 1509
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Taiwan::::
+defeated f99|tim (1480)
+defeated jnana (1487)
+defeated codynp (1529)
+lost to sketch (1489)
+lost to codynp (1542)

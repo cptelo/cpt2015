@@ -1,0 +1,12 @@
+Player: パスタ3
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KSB 2015::::
+lost to jeppa~ (1512)
+defeated sanjo (1478)
+lost to rzr|itabashi zangief (1664)

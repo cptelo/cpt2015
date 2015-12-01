@@ -1,0 +1,15 @@
+Player: 阿德
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Taiwan::::
+defeated 格雷特 (1487)
+lost to 豪鬼王/tomy huang (1524)
+defeated david copperfield (1492)
+defeated ssvs-allen (1501)
+defeated kumasa (1503)
+lost to 豪鬼王/tomy huang (1538)

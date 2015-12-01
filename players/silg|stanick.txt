@@ -1,0 +1,22 @@
+Player: silg|stanick
+Rating: 1487
+Played: 11
+Won: 4
+Lost: 7
+%: 36
+
+Results:
+::::FV Cup::::
+lost to tonpy (1640)
+lost to rzr|gackt (1596)
+::::Saigon Cup::::
+defeated fv|mark (1488)
+lost to qanba douyu|xiaohai (1706)
+defeated flashy (1503)
+lost to qanba douyu|xiaohai (1708)
+defeated ultrabram (1497)
+lost to ybk|shiro (1651)
+::::CPTA Last Chance Qualifier::::
+lost to iz juri (1512)
+defeated ke3m07 (1474)
+lost to arika (1561)

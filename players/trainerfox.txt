@@ -1,0 +1,13 @@
+Player: trainerfox
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated 7ussein_alsalmam (1487)
+lost to rzr|fuudo (1716)
+defeated avernaus (1475)
+lost to salem akuma (1512)

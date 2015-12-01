@@ -1,0 +1,14 @@
+Player: sww|thebirdlives
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::VS Fighting::::
+defeated sfo|tiger flowsion (1487)
+lost to kig|problem x (1693)
+defeated firefist (1499)
+defeated clev (1509)
+lost to sfo|brylarke (1527)

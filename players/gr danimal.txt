@@ -1,0 +1,11 @@
+Player: gr danimal
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to banto (1512)
+lost to t.j. bison (1499)

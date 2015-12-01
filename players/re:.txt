@@ -1,0 +1,12 @@
+Player: re:
+Rating: 1496
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated 1p (1487)
+lost to fdy|devil_reapers|stormkubo (1673)
+lost to misse (1666)

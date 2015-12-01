@@ -1,0 +1,14 @@
+Player: noornabelsi
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::KO Fighting Game Festival::::
+defeated bader almahmeed (1487)
+lost to wtq8|yoni (1512)
+defeated hamad_ahli (1474)
+defeated jkazuma (1498)
+lost to semboosa (1528)

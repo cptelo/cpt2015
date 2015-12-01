@@ -1,0 +1,11 @@
+Player: j king tha 1st
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to jthamind (1512)
+lost to darealsteven (1499)

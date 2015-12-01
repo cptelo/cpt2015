@@ -1,0 +1,12 @@
+Player: sgc mwisk
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated job mr. travis (1487)
+lost to cc armoredx (1524)
+lost to diddy sinatra (1523)

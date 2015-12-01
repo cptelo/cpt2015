@@ -1,0 +1,14 @@
+Player: 陈佳锋 幻镜/magic mirror
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA Shanghai::::
+defeated 大力 3 3之神大力 (1487)
+defeated vincent (1499)
+defeated 王辉 dexter hui (1511)
+lost to qanba douyu|xiaohai (1696)
+lost to chengfei (1553)

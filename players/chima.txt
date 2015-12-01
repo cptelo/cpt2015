@@ -1,0 +1,11 @@
+Player: chima
+Rating: 1473
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to kermit alexander (1487)
+lost to chibichild (1499)

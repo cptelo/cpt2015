@@ -1,0 +1,13 @@
+Player: nicktanella
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated nefarious al (1487)
+lost to ph|lpn (1616)
+defeated hf|tang (1486)
+lost to el smith (1527)

@@ -1,0 +1,12 @@
+Player: no-leaf_clover76
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA KR::::
+defeated dark jiewa (1647)
+lost to dbkoopa (1555)
+lost to ninja musik g (1511)

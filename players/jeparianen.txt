@@ -1,0 +1,14 @@
+Player: jeparianen
+Rating: 1441
+Played: 5
+Won: 0
+Lost: 5
+%: 0
+
+Results:
+::::Dreamhack Summer::::
+lost to yagami (1512)
+lost to lyhs (1490)
+lost to wso|andreas (1617)
+lost to dr. cat (1487)
+lost to forward dash (1497)

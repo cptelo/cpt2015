@@ -1,0 +1,14 @@
+Player: silg@duncan
+Rating: 1517
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::FV Cup::::
+defeated leon lum (1487)
+lost to chuan (1623)
+defeated mark (1490)
+defeated leon lum (1499)
+lost to chuan (1621)

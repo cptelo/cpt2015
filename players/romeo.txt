@@ -1,0 +1,12 @@
+Player: romeo
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to dm|katzu (1512)
+defeated hf|tierney (1474)
+lost to ramen addict (1514)

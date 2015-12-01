@@ -1,0 +1,13 @@
+Player: ric104
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated nb slimetime (1487)
+lost to mor|rico suave (1603)
+defeated fibonacci (1486)
+lost to bab yee kwang soo (1523)

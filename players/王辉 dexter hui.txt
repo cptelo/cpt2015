@@ -1,0 +1,14 @@
+Player: 王辉 dexter hui
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA Shanghai::::
+defeated 张文亮 happyport (1487)
+defeated chenxin gouzi (1487)
+lost to 陈佳锋 幻镜/magic mirror (1536)
+defeated 倪康 duang (1510)
+lost to chengfei (1541)

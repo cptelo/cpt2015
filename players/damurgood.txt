@@ -1,0 +1,16 @@
+Player: damurgood
+Rating: 1534
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::Combo Breaker::::
+defeated gr redbaron (1487)
+lost to ts|arturo sanchez (1664)
+defeated grasshoppa (1475)
+defeated cg_sonicboom (1487)
+defeated swk fbruce (1499)
+defeated cc armoredx (1504)
+lost to mjb (1537)

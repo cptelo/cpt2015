@@ -1,0 +1,13 @@
+Player: こま
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KSB 2015::::
+lost to neogaf|koji kog (1676)
+defeated 島唄 (1479)
+defeated ひかりん (1493)
+lost to haitani (1557)

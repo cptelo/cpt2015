@@ -1,0 +1,14 @@
+Player: op|flcl
+Rating: 1517
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Dreamhack Winter::::
+defeated qphj (1487)
+defeated op|sick bubblegum (1481)
+lost to fa|ryan hart (1696)
+lost to ind.spb|rize|ind|ixion (1585)
+defeated fruit (1485)

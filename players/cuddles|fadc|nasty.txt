@@ -1,0 +1,12 @@
+Player: cuddles|fadc|nasty
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Northwest Majors::::
+lost to noc|leviathan (1512)
+defeated derick s (1476)
+lost to clim (1540)

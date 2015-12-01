@@ -1,0 +1,11 @@
+Player: 大力 3 3之神大力
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to 陈佳锋 幻镜/magic mirror (1512)
+lost to dylan campbell dcampb (1499)

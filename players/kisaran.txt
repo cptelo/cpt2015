@@ -1,0 +1,12 @@
+Player: kisaran
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to ybk|dashio (1663)
+defeated hanamaruki (1476)
+lost to super uriajjo (1514)

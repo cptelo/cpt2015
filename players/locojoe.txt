@@ -1,0 +1,16 @@
+Player: locojoe
+Rating: 1474
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to luis (1512)
+defeated sjbm (1474)
+lost to bab yee kwang soo (1499)
+::::CEO::::
+lost to kbb mad titan (1511)
+defeated pag vgcj maestro (1474)
+lost to sa projectsik (1511)

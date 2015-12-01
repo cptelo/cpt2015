@@ -1,0 +1,12 @@
+Player: matashoo
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to faisaldante23 (1512)
+defeated wilksy15 (1478)
+lost to robbieq_108 (1511)

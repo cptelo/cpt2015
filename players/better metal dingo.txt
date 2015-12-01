@@ -1,0 +1,14 @@
+Player: better metal dingo
+Rating: 1509
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated premiumtax (1487)
+lost to pokchop (1501)
+defeated morphtoxic (1486)
+defeated tokles (1486)
+lost to brian_f (1523)

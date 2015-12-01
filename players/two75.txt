@@ -1,0 +1,13 @@
+Player: two75
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::FV Cup::::
+defeated terry kok (1487)
+lost to bonchan (1693)
+defeated fv edwin (1475)
+lost to eugene yap (1514)

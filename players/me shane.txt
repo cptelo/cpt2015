@@ -1,0 +1,11 @@
+Player: me shane
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to rodney (1512)
+lost to jackson (1512)

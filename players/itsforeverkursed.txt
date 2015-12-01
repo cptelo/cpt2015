@@ -1,0 +1,11 @@
+Player: itsforeverkursed
+Rating: 1480
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA KR::::
+lost to dbkoopa (1544)
+lost to dark jiewa (1649)

@@ -1,0 +1,13 @@
+Player: swk fbruce
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated diddy sinatra (1487)
+lost to mjb (1524)
+defeated job mr. travis (1486)
+lost to damurgood (1537)

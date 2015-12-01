@@ -1,0 +1,15 @@
+Player: クンスト
+Rating: 1464
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::Nine States::::
+defeated 昼下がりの団地妻 (1487)
+lost to gattikun (1524)
+lost to ぢぢ@くろねこ (1499)
+::::KSB 2015::::
+lost to akimo (1590)
+lost to rf (1502)

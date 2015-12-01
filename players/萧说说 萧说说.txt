@@ -1,0 +1,12 @@
+Player: 萧说说 萧说说
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+lost to qanba douyu|红中大大 (1512)
+defeated justin chu darkras (1474)
+lost to quiquikof rank 11 (1513)

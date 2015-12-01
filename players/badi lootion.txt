@@ -1,0 +1,11 @@
+Player: badi lootion
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Call of Ragnarok::::
+lost to bx3|phenom (1650)
+lost to rbn|bliredd (1501)

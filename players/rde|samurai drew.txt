@@ -1,0 +1,13 @@
+Player: rde|samurai drew
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated rs|ko|kiki (1487)
+defeated jlm (1499)
+lost to rize|ind|zain (1524)
+lost to butterbeefbison (1536)

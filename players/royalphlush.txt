@@ -1,0 +1,15 @@
+Player: royalphlush
+Rating: 1526
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Combo Breaker::::
+defeated frootloop (1487)
+defeated nick t. (1499)
+defeated squall (1511)
+lost to wolfkrone (1590)
+defeated squall (1523)
+lost to elchakotay (1597)

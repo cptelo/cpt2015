@@ -1,0 +1,13 @@
+Player: chemical ali
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated kit potato salad (1487)
+defeated juniblaze xxx (1487)
+lost to sherryjenix (1531)
+lost to flash metroid (1512)

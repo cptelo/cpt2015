@@ -1,0 +1,10 @@
+Player: 507 doomsday
+Rating: 1512
+Played: 1
+Won: 1
+Lost: 0
+%: 100
+
+Results:
+::::True Challengers Costa Rica::::
+defeated ch|nigma (1487)

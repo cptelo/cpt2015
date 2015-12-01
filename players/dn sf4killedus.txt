@@ -1,0 +1,13 @@
+Player: dn sf4killedus
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Red Fight District::::
+defeated md calin (1487)
+lost to packz (1621)
+defeated agilo (1465)
+lost to lll|mbr (1614)

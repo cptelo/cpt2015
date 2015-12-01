@@ -1,0 +1,17 @@
+Player: joker
+Rating: 1494
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::First Attack::::
+lost to peluco (1512)
+defeated shin oni (1462)
+lost to rbl|ronaldihno (1516)
+::::Milan Games Week::::
+defeated kush95 (1486)
+lost to rzr|xian (1806)
+defeated pand089 (1474)
+lost to mazinkaiser (1523)

@@ -1,0 +1,17 @@
+Player: doctorstantz
+Rating: 1486
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Combo Breaker::::
+defeated rudetuna (1487)
+defeated hadokenfieds (1499)
+lost to joshua alexander (1523)
+lost to ohgrr (1535)
+::::SCR::::
+lost to mister keebler (1536)
+defeated ovo demonhead (1474)
+lost to combo kash (1524)

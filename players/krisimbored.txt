@@ -1,0 +1,12 @@
+Player: krisimbored
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated swoopcoupe (1487)
+lost to eg|k-brad (1636)
+lost to daisuketensei (1500)

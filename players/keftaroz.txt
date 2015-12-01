@@ -1,0 +1,14 @@
+Player: keftaroz
+Rating: 1519
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Red Fight District::::
+defeated hashshashiyyin (1487)
+lost to raygo blayde|afii (1651)
+defeated forward dash (1478)
+defeated enfont pordu a easyman (1497)
+lost to fa|ryan hart (1687)

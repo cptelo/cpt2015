@@ -1,0 +1,16 @@
+Player: tarezou
+Rating: 1485
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::KSB 2015::::
+defeated ペルシャ (1487)
+defeated nishikin (1673)
+lost to tonpy (1644)
+lost to たーやん (1543)
+::::Ultra Hyakkishu Cup::::
+lost to ybk|kawaguchi (1616)
+lost to fgc|bean (1485)

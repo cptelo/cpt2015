@@ -1,0 +1,16 @@
+Player: ral
+Rating: 1536
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::Combo Breaker::::
+defeated cities (1487)
+lost to liquid|nuckledu (1739)
+defeated hotsoup (1475)
+defeated sho thesolgoodguy (1489)
+defeated omegastriker (1499)
+defeated mr.c (1506)
+lost to bab ura bitchassbitch (1538)

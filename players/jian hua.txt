@@ -1,0 +1,12 @@
+Player: jian hua
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to 小武 (1512)
+defeated pompom (1478)
+lost to sulabee (1511)

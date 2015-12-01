@@ -1,0 +1,13 @@
+Player: moe
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Dreamhack Winter::::
+defeated mr.magiclove (1487)
+lost to bx3|veggey (1602)
+lost to salty kid (1534)
+defeated crosshatched (1453)

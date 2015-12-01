@@ -1,0 +1,12 @@
+Player: もづく
+Rating: 1495
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KSB 2015::::
+lost to misse (1650)
+defeated 金デヴ (1476)
+lost to eita (1621)

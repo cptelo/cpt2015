@@ -1,0 +1,11 @@
+Player: hawt salsa
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to chg combo kin (1512)
+lost to yeti (1513)

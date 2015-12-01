@@ -1,0 +1,17 @@
+Player: ctrl rayray
+Rating: 1485
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Texas Showdown::::
+defeated hero504 (1499)
+lost to hsien chang (1569)
+defeated ben ho (1498)
+defeated veym|noobster (1500)
+lost to lu|alex valle (1514)
+::::CEO::::
+lost to sa karu (1512)
+lost to goldteamrules (1499)

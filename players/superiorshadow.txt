@@ -1,0 +1,11 @@
+Player: superiorshadow
+Rating: 1473
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to ace unlimited (1493)
+lost to rush digital (1499)

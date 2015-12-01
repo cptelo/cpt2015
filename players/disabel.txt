@@ -1,0 +1,13 @@
+Player: disabel
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated dm|burn notice (1487)
+lost to mcz|daigo (1706)
+defeated militarymind510 (1488)
+lost to sherryjenix (1525)

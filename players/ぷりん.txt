@@ -1,0 +1,11 @@
+Player: ぷりん
+Rating: 1480
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::KSB 2015::::
+lost to nishikin (1692)
+lost to ペルシャ (1499)

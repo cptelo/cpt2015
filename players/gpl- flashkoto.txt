@@ -1,0 +1,13 @@
+Player: gpl- flashkoto
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to filipinoman (1609)
+defeated ghodere (1474)
+defeated ambush (1488)
+lost to kwyjibo (1527)

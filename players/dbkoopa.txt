@@ -1,0 +1,22 @@
+Player: dbkoopa
+Rating: 1557
+Played: 11
+Won: 6
+Lost: 5
+%: 54
+
+Results:
+::::Nine States::::
+defeated daniel butterworth (1500)
+lost to gattikun (1537)
+lost to トモ (1537)
+::::CPTA KR::::
+defeated itsforeverkursed (1488)
+defeated no-leaf_clover76 (1506)
+lost to mcz|tokido (1695)
+defeated kimlegend (1521)
+lost to mcz|tokido (1698)
+defeated laugh (1551)
+lost to eita (1634)
+::::EVO::::
+defeated cooki3monster (1489)

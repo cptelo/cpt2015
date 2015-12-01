@@ -1,0 +1,18 @@
+Player: jimli
+Rating: 1504
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated masapiyo (1487)
+lost to hoodaman (1616)
+defeated serpent (1486)
+lost to cxr|@dk_brawler (1527)
+::::CEO::::
+defeated doctor vicious (1487)
+defeated the beav (1488)
+lost to 801 strider (1675)
+lost to ace unlimited (1518)

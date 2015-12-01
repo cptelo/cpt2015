@@ -1,0 +1,13 @@
+Player: peatdefeat
+Rating: 1479
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Dreamhack Winter::::
+lost to eh nd|majintenshinhan (1512)
+lost to esr|gonzales (1640)
+defeated kata (1462)
+lost to bobbis (1527)

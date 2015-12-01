@@ -1,0 +1,13 @@
+Player: frisco
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated s-blade (1487)
+lost to ta|chris g (1607)
+defeated dave o (1489)
+lost to chaotix (1566)

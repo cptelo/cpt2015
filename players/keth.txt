@@ -1,0 +1,11 @@
+Player: keth
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to nekoyuki (1512)
+lost to hii 5 ghost (1499)

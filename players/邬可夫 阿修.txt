@@ -1,0 +1,11 @@
+Player: 邬可夫 阿修
+Rating: 1498
+Played: 2
+Won: 1
+Lost: 1
+%: 50
+
+Results:
+::::HK::::
+defeated 刘锦发 chilunsin (1487)
+lost to billy wong billy (1504)

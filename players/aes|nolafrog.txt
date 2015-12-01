@@ -1,0 +1,17 @@
+Player: aes|nolafrog
+Rating: 1488
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Texas Showdown::::
+defeated jebus (1487)
+lost to 801 strider (1655)
+defeated jtd (1475)
+lost to nhem lee (1512)
+::::CEO::::
+lost to j campos (1512)
+defeated papo (1489)
+lost to kbb mad titan (1522)

@@ -1,0 +1,13 @@
+Player: ifrit
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::First Attack::::
+defeated r-18 hand holding (1487)
+lost to snake eyez (1723)
+defeated prdrakwolf (1475)
+lost to amaury (1512)

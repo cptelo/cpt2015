@@ -1,0 +1,12 @@
+Player: charisma
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated fgc|bean (1472)
+lost to ybk|kawaguchi (1619)
+lost to shimauta (1577)

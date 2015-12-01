@@ -1,0 +1,13 @@
+Player: dario
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Milan Games Week::::
+defeated master sarayut (1487)
+lost to bx3|phenom (1654)
+defeated adan (1486)
+lost to ponzaman (1508)

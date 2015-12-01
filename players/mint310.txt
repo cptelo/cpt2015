@@ -1,0 +1,13 @@
+Player: mint310
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated 豆奶 (1487)
+lost to fdy|devil_reapers|stormkubo (1673)
+defeated 宅桑 (1486)
+lost to 嘟嘟 (1527)

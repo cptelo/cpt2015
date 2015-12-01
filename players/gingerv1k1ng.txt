@@ -1,0 +1,13 @@
+Player: gingerv1k1ng
+Rating: 1482
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Dreamhack Winter::::
+lost to rize|ind|kwiddo (1512)
+lost to bashfest (1547)
+defeated kobra (1492)
+lost to ccg|humanbomb (1668)

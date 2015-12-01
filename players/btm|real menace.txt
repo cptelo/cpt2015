@@ -1,0 +1,19 @@
+Player: btm|real menace
+Rating: 1553
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::VS Fighting::::
+defeated bfl|popidge (1488)
+defeated profx (1512)
+defeated smbf|nebbiez (1513)
+lost to f-word (1634)
+lost to sml|solidjin (1593)
+::::EGX::::
+defeated bsc|ultrasquaddy (1524)
+lost to mba|rize|ind|infexious (1646)
+defeated rs doom (1502)
+lost to ninja shalz (1533)

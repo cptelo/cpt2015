@@ -1,0 +1,19 @@
+Player: gagapa
+Rating: 1631
+Played: 9
+Won: 6
+Lost: 3
+%: 66
+
+Results:
+::::Stunfest::::
+defeated mcz|mago (1691)
+lost to bonchan (1717)
+::::Red Fight District::::
+defeated warbio (1463)
+defeated fuhajin (1516)
+defeated btm|tyrant (1630)
+defeated lll doomdomainn (1515)
+defeated raygo blayde|afii (1648)
+lost to md|luffy (1786)
+lost to lll|mbr (1635)

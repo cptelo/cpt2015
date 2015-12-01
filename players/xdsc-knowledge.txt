@@ -1,0 +1,13 @@
+Player: xdsc-knowledge
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::TFC::::
+defeated dr. atomic (1499)
+lost to hadoukenmd (1543)
+defeated wagahai (1497)
+lost to xero (1535)

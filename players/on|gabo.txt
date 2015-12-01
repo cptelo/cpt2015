@@ -1,0 +1,10 @@
+Player: on|gabo
+Rating: 1487
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::True Challengers Costa Rica::::
+lost to doomsday507 (1522)

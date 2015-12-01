@@ -1,0 +1,13 @@
+Player: dionis8534
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated 954_doza (1487)
+lost to hamad (1609)
+defeated 385wdb|beermir (1450)
+lost to violent repent (1512)

@@ -1,0 +1,11 @@
+Player: kilink/kk
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to kuraudokin (1512)
+lost to minos (1500)

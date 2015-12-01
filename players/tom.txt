@@ -1,0 +1,14 @@
+Player: tom
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to qanba douyu|god of sky (1568)
+defeated christian (1474)
+defeated 陈桓 (1491)
+defeated 张意 (1500)
+lost to qanba douyu|god of sky (1572)

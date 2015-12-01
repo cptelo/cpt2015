@@ -1,0 +1,11 @@
+Player: remonadonoghue3
+Rating: 1480
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to rzr|itabashi zangief (1689)
+lost to lutak (1499)

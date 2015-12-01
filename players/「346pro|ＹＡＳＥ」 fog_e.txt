@@ -1,0 +1,16 @@
+Player: 「346pro|ＹＡＳＥ」 fog_e
+Rating: 1533
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::Combo Breaker::::
+defeated ramjam (1487)
+lost to srm|the white beast (1524)
+defeated sam malone (1486)
+defeated misak (1498)
+defeated jthamind (1498)
+defeated @speedbrkr (1521)
+lost to srm|the white beast (1536)

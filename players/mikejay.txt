@@ -1,0 +1,13 @@
+Player: mikejay
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated bloodyziff (1487)
+lost to mel (1524)
+defeated señor goggles (1474)
+lost to ghos7dini (1529)

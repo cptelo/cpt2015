@@ -1,0 +1,15 @@
+Player: りゅうきち
+Rating: 1528
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Nine States::::
+defeated ほるもん (1487)
+defeated 豆腐 tofu (1499)
+lost to mizoteru (1580)
+defeated ほるもん (1510)
+defeated kok (1597)
+lost to mizoteru (1580)

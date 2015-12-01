@@ -1,0 +1,11 @@
+Player: sinical
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Red Fight District::::
+lost to starnab (1549)
+lost to cevo (1504)

@@ -1,0 +1,13 @@
+Player: 张琦 xiyiji
+Rating: 1457
+Played: 4
+Won: 0
+Lost: 4
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to snake eyez (1720)
+lost to 黄之均 mustarday2 (1518)
+lost to 章毅骏 阿骏 (1511)
+lost to 郑诚 lutak (1510)

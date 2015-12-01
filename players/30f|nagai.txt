@@ -1,0 +1,11 @@
+Player: 30f|nagai
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to srkuw|kpop (1512)
+lost to datc (1513)

@@ -1,0 +1,13 @@
+Player: bifu|spabrog
+Rating: 1509
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Defend the North::::
+defeated og|lil evil (1488)
+defeated gw|sketch (1483)
+lost to eg|justin wong (1691)
+lost to kig|problem x (1700)

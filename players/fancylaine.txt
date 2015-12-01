@@ -1,0 +1,13 @@
+Player: fancylaine
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Milan Games Week::::
+defeated manny (1535)
+lost to brawl|haitani (1580)
+defeated pan (1475)
+lost to sephro8h89 (1523)

@@ -1,0 +1,12 @@
+Player: 吴浩群 gz维尼
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+lost to qanba douyu|hurtch_vr (1560)
+defeated 徐健 xj (1491)
+lost to 陳政宏 bemechen (1523)

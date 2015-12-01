@@ -1,0 +1,28 @@
+Player: warbio
+Rating: 1464
+Played: 17
+Won: 6
+Lost: 11
+%: 35
+
+Results:
+::::Dreamhack Summer::::
+lost to problem x (1668)
+defeated dragonfangs (1474)
+defeated duppsko (1510)
+lost to bashfest (1528)
+lost to knix (1492)
+lost to duppsko (1502)
+defeated knix (1478)
+lost to phenom (1641)
+lost to brillz (1522)
+::::Red Fight District::::
+lost to gagapa (1612)
+lost to streetmonkeys hekiat (1503)
+::::Dreamhack Winter::::
+defeated gustavo (1485)
+lost to cuongster (1589)
+defeated raego (1507)
+defeated doxus (1460)
+lost to md|luffy (1791)
+lost to esr|gonzales (1644)

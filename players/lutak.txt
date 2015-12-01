@@ -1,0 +1,13 @@
+Player: lutak
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to 罗晓虎 (1512)
+defeated remonadonoghue3 (1480)
+defeated 天朝贵族 (1486)
+lost to rzr|itabashi zangief (1687)

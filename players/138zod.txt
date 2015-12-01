@@ -1,0 +1,11 @@
+Player: 138zod
+Rating: 1481
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to r/kappa|infilitration (1735)
+lost to codeserial (1499)

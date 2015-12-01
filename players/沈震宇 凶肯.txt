@@ -1,0 +1,13 @@
+Player: 沈震宇 凶肯
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+defeated 施晓波 820821 (1487)
+lost to qanba douyu|xiaohai (1692)
+defeated dylan campbell dcampb (1486)
+lost to 倪康 duang (1523)

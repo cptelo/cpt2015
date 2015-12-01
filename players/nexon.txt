@@ -1,0 +1,12 @@
+Player: nexon
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+defeated dpgl menard (1487)
+lost to kreymore (1516)
+lost to gibran (1511)

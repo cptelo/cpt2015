@@ -1,0 +1,12 @@
+Player: rick masters
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+lost to mob|princess slim (1512)
+defeated reiji (1474)
+lost to ctrl|unknown (1526)

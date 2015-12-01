@@ -1,0 +1,12 @@
+Player: minde
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to misse (1646)
+defeated 手把老桑 (1474)
+lost to cn (1511)

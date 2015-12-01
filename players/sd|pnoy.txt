@@ -1,0 +1,34 @@
+Player: sd|pnoy
+Rating: 1612
+Played: 23
+Won: 16
+Lost: 7
+%: 69
+
+Results:
+::::NorCal Regionals::::
+defeated dirty paws (1489)
+lost to filipino champ (1582)
+defeated dm|nothing man (1488)
+defeated chromo (1488)
+defeated arrow (1506)
+defeated filipino champ (1564)
+defeated white gun (1519)
+lost to r/kappa|kazunoko (1704)
+lost to r/kappa|kazunoko (1707)
+defeated ph|lpn (1584)
+defeated eg|k-brad (1633)
+lost to eg|momochi (1744)
+::::EVO::::
+lost to bonchan (1705)
+defeated mcz|mago (1706)
+::::SCR::::
+defeated stiqman (1502)
+defeated nacer (1518)
+defeated mcz|mago (1701)
+defeated mcz|mago (1696)
+lost to corn|alucard (1630)
+defeated mc|xsk samurai (1582)
+defeated hsien chang (1597)
+defeated ph|nando tovar (1603)
+lost to rb|snake eyez (1749)

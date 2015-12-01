@@ -1,0 +1,13 @@
+Player: xdsc-knowledgereup
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+lost to yomi|shin phoenix (1512)
+defeated zee rinkato (1474)
+defeated ryan-san (1486)
+lost to kwyjibo (1524)

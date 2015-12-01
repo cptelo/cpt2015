@@ -1,0 +1,11 @@
+Player: applemouse
+Rating: 1480
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to neogaf|r/kappa|koji kog (1673)
+lost to winhow.jung (1498)

@@ -1,0 +1,11 @@
+Player: gameguys nero
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Texas Showdown::::
+lost to magneto1080p (1560)
+lost to k tousen (1499)

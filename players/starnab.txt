@@ -1,0 +1,19 @@
+Player: starnab
+Rating: 1543
+Played: 8
+Won: 3
+Lost: 5
+%: 37
+
+Results:
+::::Cannes Winter Clash::::
+lost to problem x (1658)
+lost to akainu (1554)
+::::FFM-Rumble::::
+defeated rize|ind|pro fluke (1630)
+lost to r/kappa|poongko (1754)
+::::Red Fight District::::
+defeated sinical (1488)
+defeated um|btm|imstilldadaddy (1627)
+lost to gl|rb|valmaster (1701)
+lost to lll|emersion (1548)

@@ -1,0 +1,18 @@
+Player: brillz
+Rating: 1523
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::Dreamhack Summer::::
+defeated ikea_patrik (1487)
+defeated pedro unchained (1499)
+lost to lll|mbr (1582)
+defeated agi.rsd.charmingrogue (1470)
+lost to md|luffy (1727)
+lost to ryan hart (1688)
+defeated warbio (1471)
+defeated jet (1505)
+lost to lll|mbr (1601)

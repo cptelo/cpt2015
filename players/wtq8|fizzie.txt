@@ -1,0 +1,13 @@
+Player: wtq8|fizzie
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated tkr_doukhi (1499)
+defeated hunter (1499)
+lost to akimo (1601)
+lost to hunter (1535)

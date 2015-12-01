@@ -1,0 +1,12 @@
+Player: 威哥
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated oc (1487)
+lost to qanba douyu|xiaohai (1718)
+lost to wang (1511)

@@ -1,0 +1,13 @@
+Player: dirty dan
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated gatoradmiral (1487)
+lost to 801|jayce the ace (1621)
+defeated urbanexpression (1475)
+lost to ebomb (1501)

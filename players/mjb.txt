@@ -1,0 +1,15 @@
+Player: mjb
+Rating: 1524
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Combo Breaker::::
+defeated deathtattoo83 (1487)
+defeated swk fbruce (1499)
+lost to cj tajh (1536)
+defeated cb master splinter (1514)
+defeated damurgood (1534)
+lost to cj tajh (1540)

@@ -1,0 +1,12 @@
+Player: hadokenfieds
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated the last hairbender (1487)
+lost to doctorstantz (1524)
+lost to zaybak (1511)

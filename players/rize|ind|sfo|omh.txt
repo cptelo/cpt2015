@@ -1,0 +1,16 @@
+Player: rize|ind|sfo|omh
+Rating: 1544
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::Hypespotting::::
+defeated zombie brian (1487)
+defeated um|imstilldadaddy (1590)
+defeated rs|cobelcog (1500)
+defeated bsc|ultrasquaddy (1535)
+lost to mcz|mago (1679)
+defeated rize|ind|boltstrike (1561)
+lost to rize|ind|pro fluke (1633)

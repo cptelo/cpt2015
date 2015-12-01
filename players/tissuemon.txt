@@ -1,0 +1,11 @@
+Player: tissuemon
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Milan Games Week::::
+lost to neopunisher (1512)
+lost to adan (1499)

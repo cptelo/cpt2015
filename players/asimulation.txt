@@ -1,0 +1,11 @@
+Player: asimulation
+Rating: 1480
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to mcz|daigo (1700)
+lost to dm|burn notice (1499)

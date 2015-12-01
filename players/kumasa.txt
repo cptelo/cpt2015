@@ -1,0 +1,13 @@
+Player: kumasa
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated hua0915 (1487)
+defeated 小捷 (1499)
+lost to rzr|itabashi zangief (1689)
+lost to 阿德 (1535)

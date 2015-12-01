@@ -1,0 +1,15 @@
+Player: めりっぷ
+Rating: 1474
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::Nine States::::
+defeated あきやま (1462)
+lost to kim1234 (1570)
+lost to spabobin (1499)
+defeated あきやま (1438)
+lost to kim1234 (1576)
+lost to spabobin (1486)

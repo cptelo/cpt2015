@@ -1,0 +1,13 @@
+Player: ac riki-oh
+Rating: 1497
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated apocaalypse (1480)
+lost to 30f|slayer-san (1524)
+defeated pewpewu (1463)
+lost to zakotou (1526)

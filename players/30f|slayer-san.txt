@@ -1,0 +1,13 @@
+Player: 30f|slayer-san
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated srkuw|future trunks (1487)
+defeated ac riki-oh (1499)
+lost to mc|xsk samurai (1579)
+lost to schowda (1526)

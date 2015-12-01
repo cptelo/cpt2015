@@ -1,0 +1,14 @@
+Player: daniel ta87
+Rating: 1518
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Milan Games Week::::
+defeated midas (1487)
+lost to mba|rize|ind|infexious (1640)
+defeated berri (1475)
+defeated manny (1532)
+lost to rize|ind|pro fluke (1632)

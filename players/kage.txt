@@ -1,0 +1,12 @@
+Player: kage
+Rating: 1495
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA KR::::
+lost to bigdamaul (1486)
+defeated rzr|fuudo (1714)
+lost to kok (1603)

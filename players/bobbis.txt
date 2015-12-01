@@ -1,0 +1,15 @@
+Player: bobbis
+Rating: 1508
+Played: 6
+Won: 3
+Lost: 3
+%: 50
+
+Results:
+::::Dreamhack Winter::::
+defeated kata (1487)
+lost to esr|gonzales (1643)
+defeated eh nd|majintenshinhan (1509)
+defeated peatdefeat (1479)
+lost to fa|ryan hart (1703)
+lost to kreymore (1540)

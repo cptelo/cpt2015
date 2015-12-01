@@ -1,0 +1,11 @@
+Player: jayson
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to wongtoutou (1512)
+lost to goodjazz (1499)

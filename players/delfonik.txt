@@ -1,0 +1,13 @@
+Player: delfonik
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated chilli_palmer (1487)
+defeated eligtkderic (1487)
+lost to mom|velociraptor (1653)
+lost to bars sida (1540)

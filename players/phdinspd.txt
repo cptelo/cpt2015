@@ -1,0 +1,14 @@
+Player: phdinspd
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated dux_ryu (1487)
+lost to ph|jame (1524)
+defeated eddydangerous (1474)
+defeated c-los (1500)
+lost to glb (1570)

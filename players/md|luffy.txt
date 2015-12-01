@@ -1,0 +1,97 @@
+Player: md|luffy
+Rating: 1796
+Played: 78
+Won: 65
+Lost: 13
+%: 83
+
+Results:
+::::Cannes Winter Clash::::
+lost to jehosan (1567)
+lost to butterbeefbison (1509)
+::::Hypespotting::::
+defeated space problems (1492)
+defeated ymb 9 big boss (1504)
+defeated emersion (1554)
+defeated gxc|damascus (1571)
+defeated gl|saunic (1581)
+lost to ryan hart (1696)
+defeated problem x (1666)
+defeated um|imstilldadaddy (1612)
+defeated rzr|xian (1769)
+defeated ryan hart (1689)
+lost to mcz|tokido (1694)
+::::Stunfest::::
+lost to mcz|daigo (1753)
+lost to poongko (1753)
+::::FFM-Rumble::::
+defeated bonchan (1708)
+defeated wso|andreas (1618)
+defeated dark jiewa (1642)
+defeated r/kappa|poongko (1752)
+defeated r/kappa|poongko (1749)
+::::Dreamhack Summer::::
+defeated lll|mbr (1562)
+defeated ikea_patrik (1469)
+defeated agi.rsd.charmingrogue (1482)
+defeated pedro unchained (1494)
+defeated brillz (1518)
+defeated ind.king funk (1490)
+defeated bashfest (1543)
+defeated wso|andreas (1629)
+defeated problem x (1680)
+defeated avm|gamerbee (1719)
+defeated problem x (1689)
+::::EVO::::
+lost to tsc|yomi|dieminion (1697)
+lost to rzr|itabashi zangief (1674)
+::::VS Fighting::::
+defeated scc|lark0 (1482)
+defeated rh|f4rhann (1506)
+defeated vws|j miller (1518)
+defeated packz (1607)
+defeated btm|gunslinga (1586)
+defeated packz (1629)
+defeated f-word (1646)
+defeated mba|rize|ind|infexious (1645)
+defeated kig|problem x (1706)
+::::EGX::::
+defeated theory fighter (1507)
+defeated ninja shalz (1507)
+defeated mba|rize|ind|infexious (1642)
+defeated rize|ind|pro fluke (1645)
+defeated fa|ryan hart (1684)
+lost to gl|rb|valmaster (1703)
+defeated fa|ryan hart (1687)
+defeated gl|rb|valmaster (1698)
+defeated gl|rb|valmaster (1694)
+::::Red Fight District::::
+defeated vt mgt (1495)
+defeated lll|emersion (1535)
+defeated kig|problem x (1705)
+defeated eg|k-brad (1671)
+defeated gagapa (1645)
+defeated gl|rb|valmaster (1705)
+defeated gl|rb|valmaster (1705)
+::::Milan Games Week::::
+defeated jorge arana (1507)
+defeated neopunisher (1519)
+defeated um|btm|imstilldadaddy (1633)
+lost to gonzales (1649)
+defeated ts|reiketsu (1660)
+defeated eita (1615)
+lost to rzr|rb (1639)
+::::Dreamhack Winter::::
+defeated gtr (1533)
+defeated prowners (1484)
+defeated kreymore (1541)
+defeated brick (1562)
+defeated warbio (1467)
+defeated ind.spb|rize|ind|ixion (1583)
+lost to rzr|xian (1794)
+defeated esr|gonzales (1648)
+defeated fgcbr|keoma (1680)
+defeated mba|rize|ind|infexious (1649)
+defeated ccg|humanbomb (1679)
+defeated bx3|phenom (1671)
+lost to rzr|xian (1805)

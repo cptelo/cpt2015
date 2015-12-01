@@ -1,0 +1,12 @@
+Player: demulant
+Rating: 1545
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FFM-Rumble::::
+lost to mcz|tokido (1700)
+defeated um|rmz (1588)
+lost to mba|infexious (1614)

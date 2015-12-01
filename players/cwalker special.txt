@@ -1,0 +1,14 @@
+Player: cwalker special
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::SCR::::
+defeated r-gonaut (1487)
+lost to bj unchained (1610)
+defeated holding (1475)
+defeated david alvarez (1487)
+lost to pg|filipino champ (1567)

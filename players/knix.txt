@@ -1,0 +1,22 @@
+Player: knix
+Rating: 1499
+Played: 12
+Won: 5
+Lost: 7
+%: 41
+
+Results:
+::::Dreamhack Summer::::
+lost to duppsko (1524)
+lost to bashfest (1505)
+lost to problem x (1672)
+defeated dragonfangs (1443)
+defeated warbio (1491)
+lost to warbio (1491)
+::::Dreamhack Winter::::
+defeated riktigsfivspelare (1486)
+defeated opostrophe (1474)
+defeated 194 pedro (1490)
+lost to rize|ind|pro fluke (1642)
+lost to fa|big bird (1597)
+lost to ts|reiketsu (1656)

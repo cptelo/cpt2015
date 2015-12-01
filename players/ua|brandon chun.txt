@@ -1,0 +1,14 @@
+Player: ua|brandon chun
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Texas Showdown::::
+defeated raich (1499)
+lost to hunted chimera (1524)
+defeated unforunatefleshgolem (1499)
+defeated 3nigmat1c (1515)
+lost to hunted chimera (1529)

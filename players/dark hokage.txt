@@ -1,0 +1,12 @@
+Player: dark hokage
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to haber (1512)
+defeated sroasha (1474)
+lost to qanba douyu|kurenai (1526)

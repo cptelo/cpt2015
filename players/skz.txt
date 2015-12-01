@@ -1,0 +1,13 @@
+Player: skz
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated ke3m07 (1487)
+defeated iz juri (1499)
+lost to ganguro (1538)
+lost to arika (1569)

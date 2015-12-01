@@ -1,0 +1,18 @@
+Player: ajay
+Rating: 1510
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated shivryuken (1487)
+defeated pun pun (1499)
+lost to rzr|xian (1776)
+lost to akraat (1535)
+::::EGX::::
+defeated vsf jinty (1487)
+lost to btm|hurricane (1643)
+defeated quaka (1487)
+lost to btm|isam (1581)

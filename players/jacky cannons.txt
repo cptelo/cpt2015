@@ -1,0 +1,13 @@
+Player: jacky cannons
+Rating: 1497
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated bass ns (1462)
+defeated ddrsensation (1499)
+lost to bab zachary unitedstates (1536)
+lost to tgl giefkid (1534)

@@ -1,0 +1,11 @@
+Player: zombie brian
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Hypespotting::::
+lost to rize|ind|sfo|omh (1512)
+lost to clangers (1502)

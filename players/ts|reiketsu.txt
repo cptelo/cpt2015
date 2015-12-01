@@ -1,0 +1,66 @@
+Player: ts|reiketsu
+Rating: 1654
+Played: 50
+Won: 34
+Lost: 16
+%: 68
+
+Results:
+::::KSB 2015::::
+defeated rf (1491)
+lost to akimo (1603)
+defeated ずん (1491)
+defeated gonzales (1590)
+lost to shiro (1640)
+::::EVO::::
+defeated ts|arturo sanchez (1665)
+defeated r/kappa|poongko (1730)
+lost to snake eyez (1718)
+::::Taiwan::::
+defeated 丫合 (1491)
+defeated 可樂ヤン (1503)
+defeated hitbox rose (1515)
+defeated qanba douyu|dark jiewa (1631)
+defeated qanba douyu|dark jiewa (1629)
+lost to stormkubo (1669)
+defeated kok (1606)
+lost to tonpy (1646)
+::::Manila Cup::::
+defeated ipt.dru (1492)
+lost to tonpy (1671)
+defeated rzr|itabashi zangief (1694)
+lost to nishikin (1665)
+::::SCR::::
+defeated t3p|wrathmatics (1516)
+defeated pg|filipino champ (1563)
+defeated bj unchained (1608)
+defeated bj unchained (1607)
+defeated ph|lpn (1619)
+defeated ph|nando tovar (1608)
+lost to r/kappa|zv|kazunoko (1754)
+lost to filipinoman (1654)
+::::Ultra Hyakkishu Cup::::
+lost to -6 (1639)
+defeated ponzaman (1479)
+defeated ybk|shin (1493)
+defeated spanky (1502)
+defeated dogura (1557)
+defeated brawl|haitani (1576)
+defeated fgc|dunhill (1533)
+lost to r/kappa|aiai (1634)
+::::Milan Games Week::::
+defeated moor (1504)
+defeated raygo blayde|afii (1640)
+lost to rzr|xian (1810)
+defeated mov (1665)
+defeated brawl|haitani (1581)
+lost to md|luffy (1791)
+::::Dreamhack Winter::::
+defeated jet (1489)
+defeated c0ckman007 (1504)
+defeated maven (1459)
+lost to fgcbr|keoma (1676)
+lost to mba|rize|ind|infexious (1649)
+defeated knix (1499)
+defeated rize|ind|pro fluke (1635)
+lost to lll|mbr (1641)

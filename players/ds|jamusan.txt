@@ -1,0 +1,13 @@
+Player: ds|jamusan
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+lost to sfo|dragonman (1512)
+defeated duke (1474)
+defeated fatso_523 (1500)
+lost to sfo|benners (1524)

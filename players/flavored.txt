@@ -1,0 +1,13 @@
+Player: flavored
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated guitar7s (1487)
+lost to srkuw|fawwaz (1572)
+defeated rpd mcz alex smith (1486)
+lost to sabo (1523)

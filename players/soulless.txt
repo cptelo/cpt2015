@@ -1,0 +1,12 @@
+Player: soulless
+Rating: 1485
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated bklynexpress (1495)
+lost to isg|eightgrade (1524)
+lost to ebomb (1488)

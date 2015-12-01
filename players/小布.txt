@@ -1,0 +1,13 @@
+Player: 小布
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated 大俠趕羚羊 (1487)
+lost to onigiri kai (1524)
+defeated allenk (1486)
+lost to 宗慶/k (1528)

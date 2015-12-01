@@ -1,0 +1,16 @@
+Player: nerdjosh
+Rating: 1516
+Played: 7
+Won: 4
+Lost: 3
+%: 57
+
+Results:
+::::TFC::::
+defeated themanseries (1499)
+defeated rikkafresh (1499)
+lost to yg|joel (1656)
+defeated rikkafresh (1510)
+lost to yg|joel (1659)
+defeated yomi excited beast (1493)
+lost to yomi|shin phoenix (1522)

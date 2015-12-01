@@ -1,0 +1,13 @@
+Player: iz juri
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated silg|stanick (1488)
+lost to skz (1524)
+defeated jen (1488)
+lost to arika (1565)

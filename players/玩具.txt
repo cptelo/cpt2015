@@ -1,0 +1,13 @@
+Player: 玩具
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated aski (1487)
+lost to tonpy (1639)
+defeated dna (1486)
+lost to cn (1523)

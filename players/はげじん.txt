@@ -1,0 +1,13 @@
+Player: はげじん
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Nine States::::
+defeated つけめん (1499)
+lost to pepeday (1671)
+defeated bigdamaul (1499)
+lost to 大分人 (1538)

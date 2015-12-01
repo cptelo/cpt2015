@@ -1,0 +1,12 @@
+Player: chris tweten ctwtn
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+lost to qanba douyu|abang (1524)
+defeated 冯云龙 elaialong (1474)
+lost to snake eyez (1716)

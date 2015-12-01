@@ -1,0 +1,13 @@
+Player: srm mad king
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+lost to botb|jester (1512)
+defeated thoth (1486)
+defeated bruin (1504)
+lost to r/sf|v.s. cjbqulix (1525)

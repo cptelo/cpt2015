@@ -1,0 +1,13 @@
+Player: ssvs-allen
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated reco子親愛的 (1487)
+lost to gonzales (1592)
+defeated hua0915 (1486)
+lost to 阿德 (1523)

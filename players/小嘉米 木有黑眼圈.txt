@@ -1,0 +1,13 @@
+Player: 小嘉米 木有黑眼圈
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+defeated 蔡钦 烈火麦当劳 (1487)
+defeated joel hosty05 (1487)
+lost to qanba douyu|dakou (1624)
+lost to qanba douyu|cuishao (1536)

@@ -1,0 +1,12 @@
+Player: jblaze
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to realistic (1512)
+defeated theblackhombre (1486)
+lost to viscant (1533)

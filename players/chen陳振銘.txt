@@ -1,0 +1,12 @@
+Player: chen陳振銘
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to et (1512)
+defeated 內子宮崎葵 (1474)
+lost to 小武 (1515)

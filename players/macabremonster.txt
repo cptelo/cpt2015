@@ -1,0 +1,12 @@
+Player: macabremonster
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated elicota (1487)
+lost to rb|bonchan (1735)
+lost to khio (1511)

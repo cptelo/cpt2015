@@ -1,0 +1,10 @@
+Player: 30f|street11
+Rating: 1563
+Played: 1
+Won: 1
+Lost: 0
+%: 100
+
+Results:
+::::EVO::::
+defeated cdv|will2pac (1570)

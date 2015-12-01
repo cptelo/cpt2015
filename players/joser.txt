@@ -1,0 +1,13 @@
+Player: joser
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated funplayer3s (1487)
+defeated flapjacket (1480)
+lost to ccg|chris tatarian (1665)
+lost to biobillybonez (1528)

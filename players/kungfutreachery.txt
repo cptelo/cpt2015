@@ -1,0 +1,12 @@
+Player: kungfutreachery
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated pts kool-aid (1499)
+lost to hamago (1524)
+lost to be|kane blueriver (1526)

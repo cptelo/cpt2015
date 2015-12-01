@@ -1,0 +1,12 @@
+Player: dojo_got_trees
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated jt (1487)
+lost to eg|momochi (1739)
+lost to threecentipedes (1511)

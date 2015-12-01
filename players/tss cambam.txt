@@ -1,0 +1,12 @@
+Player: tss cambam
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated 2iq|mothman (1487)
+lost to mlswear (1561)
+lost to masterninja (1499)

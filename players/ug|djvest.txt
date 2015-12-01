@@ -1,0 +1,10 @@
+Player: ug|djvest
+Rating: 1487
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::EVO::::
+lost to hydebuffy (1512)

@@ -1,0 +1,19 @@
+Player: fuzzy
+Rating: 1517
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::VS Fighting::::
+defeated mrbungle (1477)
+defeated bsc|shek (1512)
+defeated raygo blayde|afii (1637)
+defeated raygo blayde|afii (1630)
+lost to btm|tyrant (1629)
+defeated rize|ind|alaughinggoblin (1526)
+lost to raygo blayde|afii (1643)
+::::EGX::::
+lost to deku deku tree (1514)
+lost to lom buffalo (1516)

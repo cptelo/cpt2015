@@ -1,0 +1,11 @@
+Player: drakefang
+Rating: 1480
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA KR::::
+lost to mcz|tokido (1690)
+lost to ninja musik g (1499)

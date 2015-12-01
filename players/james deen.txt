@@ -1,0 +1,19 @@
+Player: james deen
+Rating: 1448
+Played: 9
+Won: 2
+Lost: 7
+%: 22
+
+Results:
+::::Dreamhack Summer::::
+lost to remes (1512)
+defeated archiba (1453)
+lost to ind.spb|ixion (1581)
+lost to doxus (1506)
+lost to um|imstilldadaddy (1626)
+::::Dreamhack Winter::::
+lost to tm robofobe (1472)
+lost to yagami (1529)
+lost to dafeetlee (1609)
+defeated op|kayjay (1451)

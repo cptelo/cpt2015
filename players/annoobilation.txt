@@ -1,0 +1,12 @@
+Player: annoobilation
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Red Fight District::::
+lost to lll|emersion (1541)
+defeated vt mgt (1482)
+lost to iplay demulant (1516)

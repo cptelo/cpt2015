@@ -1,0 +1,11 @@
+Player: dmv makoto
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to manualcrowcaine (1512)
+lost to jun-ichi11 (1498)

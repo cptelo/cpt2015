@@ -1,0 +1,11 @@
+Player: tss atma
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Hypespotting::::
+lost to jonnyslipsin (1512)
+lost to bfl|mowatman (1499)

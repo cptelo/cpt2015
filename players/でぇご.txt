@@ -1,0 +1,13 @@
+Player: でぇご
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Nine States::::
+lost to トモ (1512)
+defeated daniel butterworth (1487)
+defeated ぢぢ@くろねこ (1486)
+lost to kyabetsu (1559)

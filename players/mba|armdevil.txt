@@ -1,0 +1,17 @@
+Player: mba|armdevil
+Rating: 1485
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::Hypespotting::::
+lost to codynp (1512)
+defeated ed|jinty (1474)
+defeated phoenix (1491)
+lost to rde|sleight (1523)
+::::VS Fighting::::
+lost to sfo|benners (1522)
+defeated thurrabred (1474)
+lost to ninja shinryu (1524)

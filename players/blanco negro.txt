@@ -1,0 +1,11 @@
+Player: blanco negro
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::First Attack::::
+lost to haizek (1512)
+lost to r-18 hand holding (1499)

@@ -1,0 +1,15 @@
+Player: hebrew hammer
+Rating: 1521
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Texas Showdown::::
+defeated moddren-l fuego (1487)
+lost to vgp joe love (1512)
+defeated setx|[kf] @iwasblocking (1474)
+defeated macto (1486)
+defeated gameguys danny express (1488)
+lost to marsh d teach (1536)

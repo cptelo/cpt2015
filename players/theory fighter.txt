@@ -1,0 +1,12 @@
+Player: theory fighter
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::EGX::::
+defeated ss king jae (1487)
+lost to md|luffy (1758)
+lost to quaka (1500)

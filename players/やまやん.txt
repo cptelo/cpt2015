@@ -1,0 +1,11 @@
+Player: やまやん
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Nine States::::
+lost to マスタング (1512)
+lost to 無刑 (1499)

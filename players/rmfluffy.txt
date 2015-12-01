@@ -1,0 +1,12 @@
+Player: rmfluffy
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated pewpewu (1487)
+lost to choiboy (1570)
+lost to l.grinta (1511)

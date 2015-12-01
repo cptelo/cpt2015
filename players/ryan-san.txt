@@ -1,0 +1,12 @@
+Player: ryan-san
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated noggy (1487)
+lost to a-team pag ne glitch (1512)
+lost to xdsc-knowledgereup (1511)

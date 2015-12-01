@@ -1,0 +1,22 @@
+Player: r/kappa|ebi
+Rating: 1583
+Played: 11
+Won: 6
+Lost: 5
+%: 54
+
+Results:
+::::FFM-Rumble::::
+defeated iplay|yougenius (1481)
+defeated um|rmz (1603)
+lost to dark jiewa (1647)
+lost to gl|valmaster (1692)
+::::Tokyo Game Show::::
+defeated misse (1667)
+lost to shimauta (1564)
+::::Ultra Hyakkishu Cup::::
+defeated fgc|sekiganryu (1489)
+defeated ybk|r (1596)
+defeated fdy|devil_reapers|stormkubo (1666)
+lost to rzr|xian (1791)
+lost to hagejin (1603)

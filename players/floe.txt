@@ -1,0 +1,13 @@
+Player: floe
+Rating: 1470
+Played: 3
+Won: 0
+Lost: 3
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to tyram (1512)
+lost to norcal joe (1499)
+::::EVO::::
+lost to liquid|nuckledu (1765)

@@ -1,0 +1,12 @@
+Player: chiu sung hong gexp
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::HK::::
+lost to chuan (1643)
+defeated maes alexis hittheplane (1474)
+lost to tong ka wing kawing (1511)

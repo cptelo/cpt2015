@@ -1,0 +1,11 @@
+Player: lorenzo pieracci
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Milan Games Week::::
+lost to ita77u (1512)
+lost to cla75 (1514)

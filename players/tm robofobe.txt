@@ -1,0 +1,20 @@
+Player: tm robofobe
+Rating: 1466
+Played: 10
+Won: 3
+Lost: 7
+%: 30
+
+Results:
+::::Dreamhack Summer::::
+lost to nake (1512)
+lost to zelpher (1499)
+lost to team.veggey bliredd (1521)
+lost to phenom (1619)
+lost to tyrant (1614)
+defeated papz (1488)
+::::Dreamhack Winter::::
+defeated james deen (1454)
+lost to dafeetlee (1607)
+defeated op|kayjay (1465)
+lost to yagami (1533)

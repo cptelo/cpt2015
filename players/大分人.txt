@@ -1,0 +1,19 @@
+Player: 大分人
+Rating: 1518
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::Nine States::::
+defeated えにてょ (1487)
+defeated bigdamaul (1487)
+lost to shiro (1626)
+defeated つけめん (1510)
+defeated はげじん (1503)
+lost to pepeday (1664)
+::::KSB 2015::::
+lost to mcz|tokido (1695)
+defeated たいがー (1475)
+lost to シロマティ (1523)

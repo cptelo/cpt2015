@@ -1,0 +1,15 @@
+Player: ghodere
+Rating: 1463
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::NorCal Regionals::::
+lost to mattdaddy916 (1512)
+lost to gpl- flashkoto (1503)
+::::SCR::::
+defeated pragmag (1486)
+lost to hf yoga (1522)
+lost to sherryjenix (1517)

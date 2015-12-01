@@ -1,0 +1,18 @@
+Player: yomi|shin phoenix
+Rating: 1513
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::CEO::::
+defeated xdsc-knowledgereup (1487)
+defeated hadoukenmd (1499)
+lost to mcz|daigo (1768)
+lost to qanba douyu|kurenai (1538)
+::::TFC::::
+defeated frank the tank (1487)
+lost to brentt (1623)
+defeated nerdjosh (1516)
+lost to ta|chris g (1638)

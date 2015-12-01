@@ -1,0 +1,12 @@
+Player: ne yooyoung
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated springwood slasher (1487)
+lost to eg|k-brad (1655)
+lost to wh vicious (1511)

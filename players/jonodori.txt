@@ -1,0 +1,12 @@
+Player: jonodori
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to wolfkrone (1560)
+defeated src grayson (1474)
+lost to nick t. (1511)

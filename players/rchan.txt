@@ -1,0 +1,12 @@
+Player: rchan
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated choobacca (1487)
+lost to koji miyake (1549)
+lost to mflo (1515)

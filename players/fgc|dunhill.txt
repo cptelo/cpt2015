@@ -1,0 +1,20 @@
+Player: fgc|dunhill
+Rating: 1533
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::Nine States::::
+defeated よしかずさん。yoshikazu san (1487)
+defeated 水 mizu (1499)
+lost to kawaguchi (1626)
+defeated コーヒー乳牛 coffee gyuunyuu (1514)
+lost to たんげ tange (1541)
+::::Ultra Hyakkishu Cup::::
+defeated 1260-tan (1487)
+defeated harumii (1499)
+defeated nakahara (1511)
+lost to rzr|fuudo (1725)
+lost to ts|reiketsu (1659)

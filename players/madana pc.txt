@@ -1,0 +1,12 @@
+Player: madana pc
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA KR::::
+defeated spiritzero (1487)
+lost to chuan (1628)
+lost to weirdoneo (1511)

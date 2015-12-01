@@ -1,0 +1,12 @@
+Player: oppoi
+Rating: 1498
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to neogaf|r/kappa|koji kog (1662)
+defeated keijin (1520)
+lost to ybk|santarouman (1648)

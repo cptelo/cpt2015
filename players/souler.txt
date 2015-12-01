@@ -1,0 +1,11 @@
+Player: souler
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to 眉山拳王 (1512)
+lost to 具体哥 (1502)

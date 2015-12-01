@@ -1,0 +1,11 @@
+Player: lemon pie
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to kelvin jeon (1563)
+lost to donsanity (1499)

@@ -1,0 +1,13 @@
+Player: lucamago
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Milan Games Week::::
+defeated ganz_76 (1487)
+lost to gl|rb|valmaster (1707)
+defeated nico (1475)
+lost to arika (1563)

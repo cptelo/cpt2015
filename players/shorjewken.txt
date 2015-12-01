@@ -1,0 +1,13 @@
+Player: shorjewken
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated cpt.marvel (1487)
+lost to brentt (1622)
+defeated datc (1500)
+lost to nacer (1526)

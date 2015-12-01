@@ -1,0 +1,13 @@
+Player: volibear
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated hamad_ahli (1487)
+lost to fa|ryan hart (1684)
+defeated bader almahmeed (1475)
+lost to outlaw (1512)

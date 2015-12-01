@@ -1,0 +1,12 @@
+Player: brz|dj basket
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+lost to saito (1512)
+defeated fadcant pr (1474)
+lost to will (1529)

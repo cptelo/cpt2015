@@ -1,0 +1,12 @@
+Player: susubabi
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Abuget Cup::::
+lost to dark jiewa (1608)
+defeated aldy (1474)
+lost to xiaolong (1559)

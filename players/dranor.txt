@@ -1,0 +1,13 @@
+Player: dranor
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::First Attack::::
+lost to seedogpoo (1523)
+defeated fgerizu (1474)
+defeated tacaño2dgod (1501)
+lost to ranmasama (1556)

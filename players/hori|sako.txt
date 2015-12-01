@@ -1,0 +1,22 @@
+Player: hori|sako
+Rating: 1653
+Played: 12
+Won: 8
+Lost: 4
+%: 66
+
+Results:
+::::Cannes Winter Clash::::
+defeated infexious (1587)
+defeated emersion (1553)
+defeated ryan hart (1654)
+lost to poongko (1689)
+defeated tonpy (1616)
+defeated jehosan (1590)
+defeated infilitration (1703)
+lost to poongko (1714)
+::::EVO::::
+defeated hsien chang (1583)
+defeated rize|ind|pro fluke (1638)
+lost to mcz|tokido (1717)
+lost to filipinoman (1623)

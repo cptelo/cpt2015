@@ -1,0 +1,13 @@
+Player: bruin
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+defeated l.grinta (1485)
+lost to qanba douyu|xiaohai (1718)
+defeated donsanity (1486)
+lost to srm mad king (1512)

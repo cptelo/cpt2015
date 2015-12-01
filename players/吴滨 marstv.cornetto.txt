@@ -1,0 +1,12 @@
+Player: 吴滨 marstv.cornetto
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+defeated 古奇 古奇 (1487)
+lost to qanba douyu|dakou (1621)
+lost to gz-ben (1513)

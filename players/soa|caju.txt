@@ -1,0 +1,12 @@
+Player: soa|caju
+Rating: 1494
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPT Brazil::::
+lost to brawl|haitani (1575)
+defeated fgc|r/kappa|pepeday (1622)
+lost to soa|xr prometo (1512)

@@ -1,0 +1,11 @@
+Player: citizen
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::EGX::::
+lost to shivryuken (1487)
+lost to rize|ind|boltstrike (1564)

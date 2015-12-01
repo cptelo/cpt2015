@@ -1,0 +1,82 @@
+Player: eg|pr balrog
+Rating: 1674
+Played: 64
+Won: 40
+Lost: 24
+%: 62
+
+Results:
+::::Final Round::::
+defeated hzy (1542)
+lost to mcz|daigo (1712)
+lost to dafeetlee (1615)
+::::NorCal Regionals::::
+defeated 775 ya0 (1493)
+defeated dm|mr. tails (1505)
+defeated kurokiba (1517)
+lost to pie|smug (1674)
+defeated brentt (1611)
+lost to pie|smug (1687)
+lost to pie|smug (1699)
+lost to bonchan (1686)
+::::Northwest Majors::::
+defeated lueshi (1504)
+defeated gutter trash (1504)
+defeated kaleo (1517)
+lost to ccg|air (1612)
+defeated ph|jame (1541)
+lost to ccg|air (1617)
+lost to ccg|air (1622)
+defeated brentt (1614)
+lost to srkuw|fawwaz (1573)
+::::CEO::::
+defeated duffman (1504)
+defeated carlos c (1515)
+defeated yomi cardell (1516)
+lost to avm|gamerbee (1722)
+defeated berserk (1545)
+defeated iperu (1568)
+defeated julio (1612)
+defeated qanba douyu|dakou (1622)
+defeated snake eyez (1715)
+defeated qanba douyu|xiaohai (1695)
+defeated mcz|mago (1719)
+defeated pie|smug (1709)
+lost to 801 strider (1699)
+::::EVO::::
+lost to rzr|xian (1757)
+defeated gl|rb|valmaster (1682)
+defeated okkun (1493)
+defeated rzr|gackt (1561)
+defeated begetaminb (1557)
+defeated rzr|fuudo (1713)
+defeated qanba douyu|xiaohai (1690)
+defeated r/kappa|zv|kazunoko (1744)
+lost to be|nemo (1736)
+::::Tokyo Game Show::::
+lost to mov (1685)
+lost to r/kappa|poongko (1728)
+::::SCR::::
+defeated tatsushoryu (1505)
+defeated spabobin (1462)
+defeated iperu (1572)
+defeated ma lung fan (1539)
+lost to rb|bonchan (1745)
+defeated wfx|801 strider (1689)
+lost to rb|snake eyez (1742)
+::::True Challengers Costa Rica::::
+defeated tc507|kakaroto (1505)
+lost to rzr|itabashi zangief (1699)
+lost to wfx|801 strider (1693)
+::::Canada Cup::::
+defeated tosfhq|jimmy fierce (1493)
+lost to mov (1670)
+lost to eg|ricki ortiz (1703)
+::::CPTA Last Chance Qualifier::::
+defeated jan (1493)
+defeated inc rollynx (1504)
+defeated hzy (1554)
+defeated db|somniac (1567)
+defeated crazydog (1506)
+lost to kindevu (1638)
+lost to rzr|gackt (1679)

@@ -1,0 +1,13 @@
+Player: justrun
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated rm|t-boykin (1499)
+lost to ua nori (1524)
+defeated gameguys naughty munkey (1509)
+lost to krucial b (1530)

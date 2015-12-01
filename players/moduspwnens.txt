@@ -1,0 +1,12 @@
+Player: moduspwnens
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated metal bender (1499)
+lost to lil evil (1524)
+lost to judge ashen (1524)

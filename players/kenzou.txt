@@ -1,0 +1,14 @@
+Player: kenzou
+Rating: 1558
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated hyde (1464)
+lost to inco (1683)
+defeated koyasu (1494)
+defeated fgc|sekiganryu (1502)
+lost to rokkun (1617)

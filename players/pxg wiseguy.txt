@@ -1,0 +1,13 @@
+Player: pxg wiseguy
+Rating: 1506
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated kwyjibo (1500)
+lost to mcz|daigo (1767)
+defeated rm kites (1475)
+lost to hadoukenmd (1523)

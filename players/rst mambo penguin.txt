@@ -1,0 +1,12 @@
+Player: rst mambo penguin
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to shoryusengan (1560)
+defeated the bp tank (1474)
+lost to the street writer (1511)

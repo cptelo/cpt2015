@@ -1,0 +1,13 @@
+Player: sailor venus
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated tharimrattler (1487)
+defeated 801 mr gork (1499)
+lost to hoodaman (1626)
+lost to ultima (1541)

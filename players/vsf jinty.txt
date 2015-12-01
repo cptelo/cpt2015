@@ -1,0 +1,11 @@
+Player: vsf jinty
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::EGX::::
+lost to ajay (1518)
+lost to um lemon (1514)

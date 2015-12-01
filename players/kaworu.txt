@@ -1,0 +1,14 @@
+Player: kaworu
+Rating: 1508
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::VS Fighting::::
+defeated scc|unw4nt3d (1487)
+lost to bfl|mowatman (1499)
+defeated noctis_786 (1474)
+defeated skarfelt (1475)
+lost to bsc|shek (1524)

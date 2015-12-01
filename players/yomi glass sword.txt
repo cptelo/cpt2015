@@ -1,0 +1,14 @@
+Player: yomi glass sword
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Combo Breaker::::
+defeated src grayson (1487)
+lost to wolfkrone (1570)
+defeated e-town lord steezer (1486)
+defeated schmoo (1498)
+lost to squall (1524)

@@ -1,0 +1,10 @@
+Player: iplay|maruko
+Rating: 1489
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::FFM-Rumble::::
+lost to iplay|sheva (1572)

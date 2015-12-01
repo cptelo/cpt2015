@@ -1,0 +1,13 @@
+Player: khio
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::SCR::::
+lost to coach steve (1502)
+defeated derek magee (1474)
+defeated macabremonster (1493)
+lost to ckd/ds babushas (1535)

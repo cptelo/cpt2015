@@ -1,0 +1,12 @@
+Player: romfinite
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to julio (1617)
+defeated iebg dreammerchant (1474)
+lost to eg|chocoblanka (1484)

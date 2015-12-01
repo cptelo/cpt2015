@@ -1,0 +1,13 @@
+Player: sa kooky
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated rush digital (1487)
+defeated ace unlimited (1481)
+lost to liquid|nuckledu (1763)
+lost to sherm (1524)

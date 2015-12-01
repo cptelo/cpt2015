@@ -1,0 +1,12 @@
+Player: hardtymze
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to firstnevermore (1512)
+defeated hf|dreiss (1474)
+lost to wmd|mom's spaghetti (1511)

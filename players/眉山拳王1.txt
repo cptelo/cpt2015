@@ -1,0 +1,10 @@
+Player: 眉山拳王1
+Rating: 1491
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to kok (1615)

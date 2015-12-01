@@ -1,0 +1,12 @@
+Player: 小龍包
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+defeated 皮皮/pipi (1487)
+lost to criminaldada (1524)
+lost to lele (1511)

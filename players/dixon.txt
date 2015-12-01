@@ -1,0 +1,11 @@
+Player: dixon
+Rating: 1505
+Played: 2
+Won: 1
+Lost: 1
+%: 50
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated daniel thia (1523)
+lost to rzr|gackt (1665)

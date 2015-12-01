@@ -1,0 +1,12 @@
+Player: samblack
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Northwest Majors::::
+lost to deadmoo5 (1512)
+defeated badguy (1476)
+lost to nacer (1514)

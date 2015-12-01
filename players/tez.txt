@@ -1,0 +1,13 @@
+Player: tez
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+lost to dum yao ah (1512)
+defeated jackson deruloo (1474)
+defeated joe young (1476)
+lost to boeken (1510)

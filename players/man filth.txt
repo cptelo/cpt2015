@@ -1,0 +1,11 @@
+Player: man filth
+Rating: 1473
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Red Fight District::::
+lost to ctrl b (1512)
+lost to agilo (1477)

@@ -1,0 +1,15 @@
+Player: anbu exking
+Rating: 1521
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated cg projo (1462)
+lost to ts min (1512)
+defeated loseygosey (1486)
+defeated cltn sl1m (1488)
+defeated revolver dropsalot (1497)
+lost to sa teamkhris (1549)

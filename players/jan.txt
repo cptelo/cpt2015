@@ -1,0 +1,12 @@
+Player: jan
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to eg|pr balrog (1676)
+defeated paul ho (1474)
+lost to daniel thia (1512)

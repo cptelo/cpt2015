@@ -1,0 +1,15 @@
+Player: pewpewu
+Rating: 1463
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::NorCal Regionals::::
+lost to rmfluffy (1512)
+lost to muratto (1501)
+::::Northwest Majors::::
+lost to schowda (1499)
+defeated unclesatan (1476)
+lost to ac riki-oh (1510)

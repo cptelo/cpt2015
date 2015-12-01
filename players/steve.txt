@@ -1,0 +1,11 @@
+Player: steve
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Hypespotting::::
+lost to priestessos (1512)
+lost to shazy (1499)

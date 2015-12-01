@@ -1,0 +1,12 @@
+Player: rpd mcz alex smith
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to sa shank (1512)
+defeated shonuff122 (1474)
+lost to flavored (1513)

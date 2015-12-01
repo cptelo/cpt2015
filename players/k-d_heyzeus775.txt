@@ -1,0 +1,14 @@
+Player: k/d_heyzeus775
+Rating: 1513
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+defeated jaytag (1487)
+lost to ccg|chi-rithy (1570)
+defeated joutai (1488)
+defeated dm|burn notice (1498)
+lost to crackfiend (1573)

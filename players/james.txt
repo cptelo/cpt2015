@@ -1,0 +1,11 @@
+Player: james
+Rating: 1482
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Manila Cup::::
+lost to tonpy (1664)
+lost to keno (1595)

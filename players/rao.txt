@@ -1,0 +1,13 @@
+Player: rao
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated aicalier (1487)
+lost to eg|ricki ortiz (1726)
+defeated ut mr gork (1475)
+lost to ctrl|unknown (1523)

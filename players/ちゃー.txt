@@ -1,0 +1,19 @@
+Player: ちゃー
+Rating: 1515
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::Nine States::::
+lost to ニア (1489)
+defeated theflyingcheese (1474)
+defeated 天津飯 (1491)
+defeated spabobin (1486)
+lost to アミユ (1525)
+lost to ニア (1479)
+defeated theflyingcheese (1451)
+defeated 天津飯 (1482)
+defeated spabobin (1474)
+lost to アミユ (1544)

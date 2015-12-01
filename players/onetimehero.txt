@@ -1,0 +1,12 @@
+Player: onetimehero
+Rating: 1492
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated antman (1487)
+lost to 801 strider (1617)
+lost to alex myers (1601)

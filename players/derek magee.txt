@@ -1,0 +1,11 @@
+Player: derek magee
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::SCR::::
+lost to viennahotdog (1512)
+lost to khio (1499)

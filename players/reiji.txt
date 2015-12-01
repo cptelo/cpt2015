@@ -1,0 +1,11 @@
+Player: reiji
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to red_panda_0bjection (1512)
+lost to rick masters (1499)

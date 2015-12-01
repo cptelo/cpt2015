@@ -1,0 +1,13 @@
+Player: coccocco713
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Milan Games Week::::
+defeated nico (1487)
+lost to um|btm|imstilldadaddy (1632)
+defeated ganz_76 (1475)
+lost to confz (1492)

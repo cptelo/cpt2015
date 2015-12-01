@@ -1,0 +1,32 @@
+Player: btm|hurricane
+Rating: 1636
+Played: 21
+Won: 14
+Lost: 7
+%: 66
+
+Results:
+::::Hypespotting::::
+defeated flawless deku (1548)
+defeated parable greg (1514)
+defeated btm brian (1564)
+defeated vs|milligano (1517)
+lost to ryan hart (1691)
+defeated alioune85 (1554)
+defeated gl|saunic (1581)
+lost to shoryusengan (1613)
+::::VS Fighting::::
+defeated mba|ermok (1503)
+defeated d4rkn3ss aveng (1503)
+defeated shaunjs (1506)
+defeated rize|ind|pro fluke (1636)
+lost to mba|rize|ind|infexious (1639)
+defeated rize|ind|pro fluke (1639)
+lost to mba|rize|ind|infexious (1644)
+lost to btm|tyrant (1630)
+::::EGX::::
+defeated um lemon (1503)
+defeated ajay (1509)
+defeated cuongster (1582)
+lost to kig|problem x (1721)
+lost to gonzales (1624)

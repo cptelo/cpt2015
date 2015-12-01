@@ -1,0 +1,23 @@
+Player: blockbuster jon
+Rating: 1547
+Played: 12
+Won: 8
+Lost: 4
+%: 66
+
+Results:
+::::NorCal Regionals::::
+defeated falcomist (1487)
+defeated raoul (1499)
+lost to sd|tempest (1536)
+defeated falcomist (1510)
+lost to ta|chris g (1609)
+::::EVO::::
+defeated mcz|mago (1713)
+::::SCR::::
+defeated roccblaze (1488)
+defeated kalbibeef (1500)
+lost to ph|lpn (1612)
+defeated roccblaze (1512)
+defeated iplay4food (1522)
+lost to wfx|801 strider (1699)

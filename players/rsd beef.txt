@@ -1,0 +1,11 @@
+Player: rsd beef
+Rating: 1473
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Red Fight District::::
+lost to iplay|yougenius (1494)
+lost to hlm (1504)

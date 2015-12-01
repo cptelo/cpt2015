@@ -1,0 +1,13 @@
+Player: templar
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Milan Games Week::::
+defeated yoshio (1487)
+defeated superfabiano (1499)
+lost to mf|tonpy (1675)
+lost to dr thomas (1535)

@@ -1,0 +1,12 @@
+Player: ojg benjamin
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+lost to wanderlust g33k (1512)
+defeated empr.pxg daytonj (1474)
+lost to al|servo (1518)

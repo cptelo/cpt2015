@@ -1,0 +1,13 @@
+Player: wang
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to 唐医生 (1512)
+defeated heidibardon (1478)
+defeated 威哥 (1493)
+lost to 唐医生 (1525)

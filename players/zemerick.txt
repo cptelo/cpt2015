@@ -1,0 +1,11 @@
+Player: zemerick
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to ccg|humanbomb (1658)
+lost to 小宝 (1499)

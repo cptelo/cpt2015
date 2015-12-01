@@ -1,0 +1,48 @@
+Player: corn|alucard
+Rating: 1626
+Played: 34
+Won: 23
+Lost: 11
+%: 67
+
+Results:
+::::Combo Breaker::::
+defeated jiraiya kurokaze (1489)
+defeated callisto (1501)
+defeated tong (1513)
+defeated spriggan (1525)
+lost to liquid|nuckledu (1747)
+defeated danny boy peru (1557)
+defeated elchakotay (1595)
+lost to ts|arturo sanchez (1674)
+::::CEO::::
+defeated toucan steve (1502)
+defeated yomi da knut (1514)
+lost to bagelobo (1551)
+defeated mister keebler (1515)
+defeated pag lionheart (1517)
+defeated bagelobo (1530)
+defeated dafeetlee (1634)
+defeated eg|momochi (1746)
+lost to r/kappa|infilitration (1774)
+::::EVO::::
+lost to kai (1516)
+::::Summer Jam::::
+defeated julio (1610)
+lost to kig|problem x (1711)
+defeated eg|ricki ortiz (1699)
+lost to wfx|801 strider (1687)
+::::TFC::::
+defeated bcw greyskarr (1491)
+lost to eg|ricki ortiz (1704)
+defeated redpanda knuckledust (1530)
+lost to pie|smug (1693)
+::::SCR::::
+defeated dkt (1517)
+defeated 3e.ttf|unprotectedsex (1514)
+defeated smbg|tangent (1537)
+defeated filipinoman (1626)
+defeated sd|pnoy (1604)
+lost to qanba douyu|xiaohai (1731)
+defeated ph|lpn (1622)
+lost to filipinoman (1649)

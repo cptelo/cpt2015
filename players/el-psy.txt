@@ -1,0 +1,11 @@
+Player: el-psy
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to sp anbu kpb teiga (1512)
+lost to siamawich (1500)

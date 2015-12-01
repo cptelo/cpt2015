@@ -1,0 +1,13 @@
+Player: mr.c
+Rating: 1506
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated omegastriker (1487)
+defeated okira (1499)
+lost to liquid|nuckledu (1743)
+lost to ral (1550)

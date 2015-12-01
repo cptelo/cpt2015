@@ -1,0 +1,13 @@
+Player: noobiex
+Rating: 1497
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Saigon Cup::::
+lost to shaun (1523)
+defeated tam (1474)
+defeated yuki (1464)
+lost to shaun (1527)

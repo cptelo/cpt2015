@@ -1,0 +1,79 @@
+Player: eg|ricki ortiz
+Rating: 1700
+Played: 61
+Won: 40
+Lost: 21
+%: 65
+
+Results:
+::::Final Round::::
+defeated lingo (1542)
+lost to tsc|dieminion (1678)
+defeated r/kappa|infilitration (1733)
+lost to emp|hiro (1591)
+::::NorCal Regionals::::
+defeated ldo (1493)
+defeated cyberchink (1505)
+defeated ce|boba tapioca (1517)
+defeated marq teddy (1616)
+defeated marq teddy (1616)
+defeated marq teddy (1607)
+lost to poongko (1751)
+defeated hoodaman (1610)
+lost to snake eyez (1693)
+::::Northwest Majors::::
+defeated dum yao ah (1506)
+defeated scha (1506)
+defeated n1 kupo (1517)
+lost to srkuw you know who it is (1556)
+defeated vicious (1564)
+lost to srkuw|fawwaz (1568)
+defeated hoodaman (1612)
+lost to ccg|air (1623)
+::::Texas Showdown::::
+defeated eta ralstaanley (1505)
+defeated krucial b (1505)
+defeated ua nori (1517)
+defeated gol|krucial b (1535)
+defeated tampa bison (1649)
+defeated magneto1080p (1614)
+lost to r/kappa|infilitration (1781)
+lost to snake eyez (1704)
+::::Combo Breaker::::
+defeated b0tes (1494)
+defeated rockdan (1506)
+defeated matador kiririnshi25 (1517)
+defeated yg|joel (1624)
+defeated jebailey (1542)
+defeated ts|arturo sanchez (1670)
+defeated wolfkrone (1607)
+defeated liquid|nuckledu (1747)
+lost to liquid|nuckledu (1756)
+lost to liquid|nuckledu (1760)
+::::CEO::::
+defeated rao (1506)
+defeated srm_leonil (1518)
+defeated stvg asiandemon (1518)
+defeated ts|arturo sanchez (1675)
+lost to r/kappa|kazunoko (1733)
+defeated alex myers (1638)
+lost to liquid|nuckledu (1770)
+::::EVO::::
+lost to ybk|santarouman (1637)
+lost to mc|xsk samurai (1580)
+::::Summer Jam::::
+lost to anbu sonyono (1519)
+defeated derrick legend (1501)
+lost to corn|alucard (1619)
+::::TFC::::
+defeated damdai (1535)
+defeated corn|alucard (1613)
+defeated liquid|nuckledu (1739)
+lost to tsc|yomi|dieminion (1715)
+defeated wfx|801 strider (1699)
+lost to rb|snake eyez (1743)
+::::Canada Cup::::
+lost to rb|bonchan (1772)
+defeated eg|pr balrog (1674)
+defeated wfx|801 strider (1686)
+lost to 801|ybk|jayce the ace (1635)

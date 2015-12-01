@@ -1,0 +1,11 @@
+Player: jigsaw
+Rating: 1477
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::NorCal Regionals::::
+lost to ph|lpn (1607)
+lost to nefarious al (1499)

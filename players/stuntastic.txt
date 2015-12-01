@@ -1,0 +1,13 @@
+Player: stuntastic
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated moony blues (1487)
+lost to eg|k-brad (1652)
+defeated springwood slasher (1475)
+lost to danny boy peru (1512)

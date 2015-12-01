@@ -1,0 +1,12 @@
+Player: metal bender
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated uptempo87 (1487)
+lost to moduspwnens (1512)
+lost to mikej (1499)

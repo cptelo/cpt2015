@@ -1,0 +1,13 @@
+Player: omegastriker
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+lost to mr.c (1512)
+defeated julian13 (1474)
+defeated ne miasma (1486)
+lost to ral (1539)

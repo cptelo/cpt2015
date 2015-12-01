@@ -1,0 +1,11 @@
+Player: tg|bebedero
+Rating: 1505
+Played: 2
+Won: 1
+Lost: 1
+%: 50
+
+Results:
+::::True Challengers Costa Rica::::
+defeated px|doomed (1499)
+lost to wfx|801 strider (1686)

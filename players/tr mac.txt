@@ -1,0 +1,14 @@
+Player: tr mac
+Rating: 1489
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::FFM-Rumble::::
+lost to r/kappa|poongko (1752)
+::::Red Fight District::::
+defeated obake (1487)
+lost to fa|ryan hart (1691)
+lost to gamein (1556)

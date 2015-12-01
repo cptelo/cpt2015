@@ -1,0 +1,14 @@
+Player: q
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Combo Breaker::::
+lost to #bajaboys fullbleed (1499)
+defeated rapidblade05 (1474)
+defeated terrymc (1474)
+defeated no name 0_o (1486)
+lost to @speedbrkr (1523)

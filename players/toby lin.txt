@@ -1,0 +1,14 @@
+Player: toby lin
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Taiwan::::
+defeated ohdomai (1487)
+lost to rzr|itabashi zangief (1687)
+defeated eltrouble (1486)
+defeated 謝漢傑 (1501)
+lost to 豪鬼王/tomy huang (1526)

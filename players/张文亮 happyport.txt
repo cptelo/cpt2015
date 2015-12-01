@@ -1,0 +1,11 @@
+Player: 张文亮 happyport
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to 王辉 dexter hui (1512)
+lost to 倪康 duang (1511)

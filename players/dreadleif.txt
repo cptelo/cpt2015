@@ -1,0 +1,16 @@
+Player: dreadleif
+Rating: 1472
+Played: 7
+Won: 2
+Lost: 5
+%: 28
+
+Results:
+::::Dreamhack Summer::::
+defeated jns (1487)
+lost to avm|gamerbee (1706)
+lost to jet (1528)
+defeated pylo (1456)
+lost to ind.saltykid (1540)
+lost to wso|andreas (1629)
+lost to ettelman (1553)

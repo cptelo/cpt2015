@@ -1,0 +1,26 @@
+Player: akimo
+Rating: 1594
+Played: 14
+Won: 7
+Lost: 7
+%: 50
+
+Results:
+::::Nine States::::
+lost to infilitration (1711)
+lost to itabashi zangief (1673)
+::::KSB 2015::::
+defeated クンスト (1476)
+defeated reiketsu (1594)
+lost to mcz|tokido (1700)
+lost to neogaf|koji kog (1678)
+::::Tokyo Game Show::::
+defeated brawl|haitani (1572)
+lost to rb|bonchan (1715)
+::::KO Fighting Game Festival::::
+defeated thamer1977 (1502)
+defeated finalzero (1502)
+defeated wtq8|fizzie (1514)
+defeated hunter (1524)
+lost to ybk|r (1620)
+lost to wtq8|nox (1588)

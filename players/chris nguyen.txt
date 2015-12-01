@@ -1,0 +1,12 @@
+Player: chris nguyen
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+defeated lemoncrimes (1487)
+lost to rzr|fuudo (1728)
+lost to ce|cd|kumo (1507)

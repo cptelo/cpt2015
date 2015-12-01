@@ -1,0 +1,11 @@
+Player: moto
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to ybk|r (1611)
+lost to fgc|sekiganryu (1501)

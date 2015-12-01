@@ -1,0 +1,13 @@
+Player: johnnylamonte
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated batman (1487)
+lost to twg arthur (1512)
+defeated demitri (1474)
+lost to k tousen (1511)

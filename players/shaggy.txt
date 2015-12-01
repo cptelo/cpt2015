@@ -1,0 +1,11 @@
+Player: shaggy
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to lom|warteacher (1512)
+lost to mrbungle (1489)

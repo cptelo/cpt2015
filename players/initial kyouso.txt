@@ -1,0 +1,11 @@
+Player: initial kyouso
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to gonzales (1642)
+lost to tuna (1502)

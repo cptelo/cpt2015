@@ -1,0 +1,32 @@
+Player: gl|saunic
+Rating: 1575
+Played: 20
+Won: 12
+Lost: 8
+%: 60
+
+Results:
+::::Abuget Cup::::
+defeated kenmike (1489)
+defeated cameraman (1501)
+lost to dark jiewa (1627)
+lost to xiaolong (1583)
+::::Hypespotting::::
+defeated emerald chaos (1489)
+defeated wiseblade (1547)
+defeated shaunjs (1501)
+defeated flawless deku (1576)
+lost to luffy (1701)
+defeated apollo steed (1575)
+lost to hurricane (1647)
+::::FV Cup::::
+defeated silg@shaun (1501)
+lost to gonzales (1587)
+defeated wahlau (1491)
+lost to silg@shaun (1539)
+::::HK::::
+defeated harris yung kuchi82 (1490)
+defeated jabe xft jabe (1501)
+lost to kubo kazuo harideshi (1538)
+defeated 東 xft_tung (1512)
+lost to 许永宽 斗鱼tv/阿包 (1541)

@@ -1,0 +1,12 @@
+Player: jarocka
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to xzalis (1512)
+defeated bloodmasterlink (1474)
+lost to twitch.tv/tuboware (1526)

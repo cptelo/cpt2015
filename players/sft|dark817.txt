@@ -1,0 +1,10 @@
+Player: sft|dark817
+Rating: 1487
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::CPT Brazil::::
+lost to sft|alexandro (1512)

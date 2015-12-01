@@ -1,0 +1,15 @@
+Player: nake
+Rating: 1456
+Played: 6
+Won: 1
+Lost: 5
+%: 16
+
+Results:
+::::Dreamhack Summer::::
+defeated tm robofobe (1487)
+lost to team.veggey bliredd (1524)
+lost to phenom (1599)
+lost to papz (1503)
+lost to zelpher (1513)
+lost to tyrant (1619)

@@ -1,0 +1,13 @@
+Player: surgingstorm
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::TFC::::
+lost to bcw_jmendes (1512)
+defeated mclovin (1474)
+defeated kevin munoz (1474)
+lost to mx|mad (1511)

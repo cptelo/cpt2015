@@ -1,0 +1,13 @@
+Player: sorawings
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA KR::::
+lost to kim1234 (1568)
+defeated matune (1475)
+defeated volg (1489)
+lost to codynp (1540)

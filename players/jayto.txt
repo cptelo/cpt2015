@@ -1,0 +1,13 @@
+Player: jayto
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+lost to dawgenhower (1524)
+defeated ghostshock (1474)
+defeated icg redvelvet (1498)
+lost to image (1515)

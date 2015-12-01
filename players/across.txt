@@ -1,0 +1,12 @@
+Player: across
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to 666 (1512)
+defeated y (1520)
+lost to ybk|r (1599)

@@ -1,0 +1,11 @@
+Player: sonimatic14
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to falling charlie (1512)
+lost to 2002 pt cruiser (1499)

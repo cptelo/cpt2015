@@ -1,0 +1,14 @@
+Player: uvg|noel brown
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::First Attack::::
+defeated sa justice (1499)
+lost to cocaneta (1524)
+defeated ig|zonvolt (1511)
+defeated sa justice (1520)
+lost to ta|chris g (1627)

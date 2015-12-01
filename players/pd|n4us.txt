@@ -1,0 +1,19 @@
+Player: pd|n4us
+Rating: 1456
+Played: 8
+Won: 2
+Lost: 6
+%: 25
+
+Results:
+::::NorCal Regionals::::
+lost to ta|chris g (1589)
+defeated bbs own black_dynowright (1474)
+lost to pieguy (1511)
+::::Northwest Majors::::
+lost to chg joeystorm (1512)
+lost to joeycl (1511)
+::::SCR::::
+lost to mister keebler (1525)
+defeated bidoofshock (1488)
+lost to surruso (1525)

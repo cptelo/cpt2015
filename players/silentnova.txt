@@ -1,0 +1,12 @@
+Player: silentnova
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+lost to engravings (1512)
+defeated anbu bpoilspill (1474)
+lost to prototype (1518)

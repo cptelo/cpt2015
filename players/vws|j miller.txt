@@ -1,0 +1,24 @@
+Player: vws|j miller
+Rating: 1518
+Played: 13
+Won: 7
+Lost: 6
+%: 53
+
+Results:
+::::Hypespotting::::
+defeated sacred (1487)
+lost to rde ind gillstolemyride (1524)
+defeated alistarr (1490)
+lost to alioune85 (1526)
+::::VS Fighting::::
+defeated starkillershane (1498)
+defeated cex|goukifafa (1518)
+lost to md|luffy (1738)
+defeated clangers (1517)
+lost to rize|ind|boltstrike (1572)
+::::EGX::::
+defeated kdit|ren (1473)
+lost to wso|andreas (1627)
+defeated daniel dillips (1485)
+lost to bx3|phenom (1647)

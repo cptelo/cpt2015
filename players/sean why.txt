@@ -1,0 +1,12 @@
+Player: sean why
+Rating: 1499
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+lost to eg|justin wong (1714)
+defeated john a falcon (1481)
+lost to eg|k-brad (1678)

@@ -1,0 +1,13 @@
+Player: ccg|lapchi
+Rating: 1500
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::EVO::::
+lost to mov (1632)
+defeated r/kappa|alex myers (1625)
+::::Canada Cup::::
+lost to ts|arturo sanchez (1655)

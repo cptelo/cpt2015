@@ -1,0 +1,11 @@
+Player: lsteveboxl
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Hypespotting::::
+lost to bsc|hadoshrooms (1512)
+lost to dinasaur king (1499)

@@ -1,0 +1,19 @@
+Player: incognitus
+Rating: 1554
+Played: 9
+Won: 5
+Lost: 4
+%: 55
+
+Results:
+::::Hypespotting::::
+defeated rs|d4rk onion (1489)
+lost to damascus (1572)
+defeated the3rdchild (1476)
+defeated rs|d4rk onion (1502)
+lost to damascus (1569)
+::::EGX::::
+defeated hells w1nd (1489)
+lost to kig|problem x (1714)
+defeated lom buffalo (1504)
+lost to rize|ind|boltstrike (1576)

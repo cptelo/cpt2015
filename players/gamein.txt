@@ -1,0 +1,13 @@
+Player: gamein
+Rating: 1542
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Red Fight District::::
+lost to devil reapers jimmy (1514)
+defeated street4game master ziane (1482)
+defeated tr mac (1489)
+lost to iplay demulant (1529)

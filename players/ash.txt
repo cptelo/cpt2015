@@ -1,0 +1,13 @@
+Player: ash
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+lost to rde|wonder ham (1512)
+defeated marzipan (1474)
+defeated priestessos (1486)
+lost to shazy (1523)

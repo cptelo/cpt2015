@@ -1,0 +1,10 @@
+Player: tlc|saga
+Rating: 1492
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::EVO::::
+lost to eg|k-brad (1664)

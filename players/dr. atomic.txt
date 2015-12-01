@@ -1,0 +1,12 @@
+Player: dr. atomic
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+defeated dwe|mcbae (1487)
+lost to xdsc-knowledge (1512)
+lost to xero (1511)

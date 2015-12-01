@@ -1,0 +1,11 @@
+Player: jesse hamilton
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::TFC::::
+lost to nyc vega (1512)
+lost to marshall king (1503)

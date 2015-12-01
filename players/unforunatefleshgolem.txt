@@ -1,0 +1,13 @@
+Player: unforunatefleshgolem
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+lost to raich (1512)
+defeated botb mr.v (1474)
+defeated da|scottfree (1502)
+lost to ua|brandon chun (1511)

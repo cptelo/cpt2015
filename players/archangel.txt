@@ -1,0 +1,11 @@
+Player: archangel
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to downbackbro (1512)
+lost to ds|gutsy (1499)

@@ -1,0 +1,11 @@
+Player: cuby
+Rating: 1486
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Summer Jam::::
+lost to pie|smug (1700)
+lost to wfx|801 strider (1681)

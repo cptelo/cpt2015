@@ -1,0 +1,11 @@
+Player: thunderlips
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Hypespotting::::
+lost to wiseblade (1560)
+lost to emerald chaos (1501)

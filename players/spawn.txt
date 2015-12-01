@@ -1,0 +1,12 @@
+Player: spawn
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+defeated raxory.pr (1487)
+lost to prk famous (1512)
+lost to flan (1499)

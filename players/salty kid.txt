@@ -1,0 +1,15 @@
+Player: salty kid
+Rating: 1509
+Played: 6
+Won: 3
+Lost: 3
+%: 50
+
+Results:
+::::Dreamhack Winter::::
+defeated crosshatched (1487)
+defeated mr.magiclove (1475)
+defeated moe (1490)
+lost to bx3|veggey (1608)
+lost to rzr|xian (1787)
+lost to dafeetlee (1609)

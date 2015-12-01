@@ -1,0 +1,14 @@
+Player: flako
+Rating: 1516
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CEO::::
+defeated ut mr gork (1487)
+defeated nb elithecurry (1487)
+defeated chocoblanka (1499)
+lost to ts|arturo sanchez (1680)
+lost to image0/nobody (1558)

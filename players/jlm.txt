@@ -1,0 +1,13 @@
+Player: jlm
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated rst|ruffdawg (1487)
+lost to rde|samurai drew (1524)
+defeated underage (1474)
+lost to butterbeefbison (1524)

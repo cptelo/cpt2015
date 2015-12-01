@@ -1,0 +1,11 @@
+Player: remybleu
+Rating: 1480
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Summer Jam::::
+lost to ta|chris g (1633)
+lost to italdan (1551)

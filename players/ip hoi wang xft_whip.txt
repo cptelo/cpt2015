@@ -1,0 +1,15 @@
+Player: ip hoi wang xft_whip
+Rating: 1523
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::HK::::
+lost to jimmy hon maskjimmy (1512)
+defeated teddy xft_teddybear (1478)
+defeated du yong quan fslong (1486)
+defeated 黄洁 shermie（虾米） (1499)
+defeated rockpon (1546)
+lost to kay zhong kay(fs) (1539)

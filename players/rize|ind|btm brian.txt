@@ -1,0 +1,23 @@
+Player: rize|ind|btm brian
+Rating: 1571
+Played: 13
+Won: 8
+Lost: 5
+%: 61
+
+Results:
+::::Hypespotting::::
+defeated jlc (1489)
+lost to ed|kyros (1526)
+defeated senseisoul (1476)
+defeated chewmandinga (1489)
+defeated doom (1500)
+lost to hurricane (1630)
+lost to vs|rde|edinbulba (1579)
+::::VS Fighting::::
+defeated tani (1500)
+defeated lom|slim (1501)
+defeated sml|solidjin (1559)
+lost to um|btm|imstilldadaddy (1645)
+defeated ninja shinryu (1555)
+lost to sml|solidjin (1604)

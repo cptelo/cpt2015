@@ -1,0 +1,13 @@
+Player: lenard
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated shige (1487)
+defeated jd (1498)
+lost to rzr|gackt (1669)
+lost to tanka tanky (1518)

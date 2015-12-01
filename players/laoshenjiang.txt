@@ -1,0 +1,12 @@
+Player: laoshenjiang
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+defeated xiaowei xia mohai (1487)
+lost to 司超 群顿 (1524)
+lost to 谢文斌 dudu (1501)

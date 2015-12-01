@@ -1,0 +1,14 @@
+Player: saman
+Rating: 1515
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Abuget Cup::::
+lost to cody (1560)
+defeated unggul (1478)
+defeated cameraman (1488)
+defeated dian (1501)
+lost to chuan (1614)

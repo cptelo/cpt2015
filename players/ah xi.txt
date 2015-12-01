@@ -1,0 +1,11 @@
+Player: ah xi
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to ilsenewton 19 (1512)
+lost to 孙子隆 kimoji (1499)

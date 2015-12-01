@@ -1,0 +1,13 @@
+Player: 张意
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated christian (1487)
+lost to qanba douyu|god of sky (1572)
+defeated 阿翰 (1486)
+lost to tom (1525)

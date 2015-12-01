@@ -1,0 +1,14 @@
+Player: the professional
+Rating: 1491
+Played: 5
+Won: 2
+Lost: 3
+%: 40
+
+Results:
+::::Texas Showdown::::
+defeated ua|m.betty (1499)
+defeated chrisdat (1499)
+lost to dl|four wude (1594)
+lost to dl|four wude (1603)
+lost to chrisdat (1536)

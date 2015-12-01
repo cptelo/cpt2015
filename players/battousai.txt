@@ -1,0 +1,15 @@
+Player: battousai
+Rating: 1529
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::FV Cup::::
+defeated blackcus (1487)
+lost to tonpy (1634)
+defeated taitsu (1486)
+defeated bram (1498)
+defeated fitri amir (1502)
+lost to ybk|shiro (1632)

@@ -1,0 +1,11 @@
+Player: hikarin
+Rating: 1481
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Nine States::::
+lost to nishikin (1706)
+lost to chiaki (1533)

@@ -1,0 +1,12 @@
+Player: hishow rabbit
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to hagejin (1560)
+defeated dath (1474)
+lost to harideshi (1574)

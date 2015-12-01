@@ -1,0 +1,13 @@
+Player: rize|ind|thunderbear
+Rating: 1507
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Call of Ragnarok::::
+lost to ybk|shiro (1641)
+defeated tsm|leffen (1481)
+defeated rosso (1489)
+lost to rize|ind|pro fluke (1643)

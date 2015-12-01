@@ -1,0 +1,12 @@
+Player: rde oscar
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to rize|ind|pro fluke (1609)
+defeated madvillain (1476)
+lost to brylarke (1511)

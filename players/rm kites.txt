@@ -1,0 +1,11 @@
+Player: rm kites
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to ramen addict (1525)
+lost to pxg wiseguy (1519)

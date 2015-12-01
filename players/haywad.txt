@@ -1,0 +1,13 @@
+Player: haywad
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated ifd delusion (1487)
+defeated wolf street (1499)
+lost to poongko (1741)
+lost to xtr sd|alexis (1538)

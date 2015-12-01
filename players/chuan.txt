@@ -1,0 +1,69 @@
+Player: chuan
+Rating: 1634
+Played: 52
+Won: 34
+Lost: 18
+%: 65
+
+Results:
+::::Abuget Cup::::
+defeated unggul (1491)
+defeated cody (1549)
+lost to humanbomb (1630)
+defeated saman (1515)
+defeated xiaolong (1571)
+lost to humanbomb (1629)
+::::CPTA KR::::
+defeated realvocalist (1491)
+defeated madana pc (1503)
+lost to bonchan (1709)
+defeated weirdoneo (1513)
+lost to bonchan (1712)
+defeated shiro (1633)
+lost to rzr|itabashi zangief (1671)
+::::FV Cup::::
+defeated koh kok sun (1503)
+defeated silg@duncan (1503)
+lost to rzr|rb (1646)
+defeated silg@duncan (1517)
+defeated ccg|humanbomb (1646)
+defeated qanba douyu|dark jiewa (1627)
+lost to rzr|gackt (1601)
+::::Taiwan::::
+defeated 鍾竹軒/hsuan (1491)
+defeated winston chen (1503)
+defeated 快打傳奇lanlan (1515)
+defeated kok (1609)
+defeated kok (1608)
+defeated onigiri kai (1554)
+lost to misse (1668)
+defeated tonpy (1640)
+lost to stormkubo (1679)
+::::HK::::
+defeated chiu sung hong gexp (1492)
+defeated leung yau chun tomo (1504)
+defeated 许永宽 斗鱼tv/阿包 (1515)
+defeated kubo kazuo harideshi (1529)
+lost to mov (1679)
+lost to tonpy (1653)
+::::Manila Cup::::
+lost to rzr|itabashi zangief (1693)
+::::Saigon Cup::::
+defeated tiger uppercut (1505)
+defeated qanba douyu|god of sky (1569)
+defeated qanba douyu|god of sky (1565)
+lost to ccg|humanbomb (1675)
+lost to gonzales (1608)
+::::Ze Fighting Game Champion::::
+lost to pepeding (1517)
+defeated 杰克逊 (1479)
+lost to rzr|itabashi zangief (1685)
+::::CPTA Last Chance Qualifier::::
+defeated domo (1481)
+defeated lexblade (1503)
+lost to kaiser (1584)
+defeated bravery (1516)
+defeated rodney (1530)
+defeated ganguro (1515)
+defeated db|somniac (1568)
+lost to iz|kaiser (1599)

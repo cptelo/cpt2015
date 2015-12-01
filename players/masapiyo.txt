@@ -1,0 +1,12 @@
+Player: masapiyo
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Northwest Majors::::
+lost to jimli (1512)
+defeated niceguyngo (1474)
+lost to mek (1503)

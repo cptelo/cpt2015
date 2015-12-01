@@ -1,0 +1,13 @@
+Player: nb sol ronin
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated pez man 81 (1487)
+defeated beno (1499)
+lost to wolfkrone (1580)
+lost to pills (1535)

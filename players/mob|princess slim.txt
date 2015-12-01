@@ -1,0 +1,15 @@
+Player: mob|princess slim
+Rating: 1533
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::TFC::::
+defeated rick masters (1487)
+lost to wfx|801 strider (1690)
+defeated eog rico (1486)
+defeated red_panda_0bjection (1492)
+defeated ctrl|unknown (1524)
+lost to pie|smug (1689)

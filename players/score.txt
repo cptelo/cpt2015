@@ -1,0 +1,12 @@
+Player: score
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to harumii (1512)
+defeated 1260-tan (1474)
+lost to ikari no k bison (1513)

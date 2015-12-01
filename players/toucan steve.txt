@@ -1,0 +1,13 @@
+Player: toucan steve
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated fems (1487)
+lost to alucard (1605)
+defeated ssquirtdirt (1486)
+lost to bigvic340 (1523)

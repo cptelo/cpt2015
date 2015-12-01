@@ -1,0 +1,12 @@
+Player: kuraudo
+Rating: 1485
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+defeated aimforthefeet (1499)
+lost to spabobin (1463)
+lost to noelbhungry (1526)

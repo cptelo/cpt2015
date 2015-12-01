@@ -1,0 +1,13 @@
+Player: darkhonor90
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated teachable (1487)
+defeated khadell (1499)
+lost to rzr|fuudo (1719)
+lost to kit potato salad (1524)

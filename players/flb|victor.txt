@@ -1,0 +1,13 @@
+Player: flb|victor
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+lost to rde|akraat (1534)
+defeated smbf|oxidopamine (1474)
+defeated ed|noonez (1497)
+lost to platinum kid (1514)

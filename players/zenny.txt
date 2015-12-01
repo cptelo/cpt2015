@@ -1,0 +1,11 @@
+Player: zenny
+Rating: 1477
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to eita (1600)
+lost to foolycooly2 (1499)

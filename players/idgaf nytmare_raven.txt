@@ -1,0 +1,14 @@
+Player: idgaf nytmare_raven
+Rating: 1512
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Texas Showdown::::
+defeated jvdsc txk|mrh (1499)
+lost to solidxpanda (1536)
+defeated mr. mishida (1501)
+defeated jvdsc txk|mrh (1519)
+lost to solidxpanda (1538)

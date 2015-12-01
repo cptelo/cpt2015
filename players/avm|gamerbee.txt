@@ -1,0 +1,79 @@
+Player: avm|gamerbee
+Rating: 1741
+Played: 62
+Won: 45
+Lost: 17
+%: 72
+
+Results:
+::::Final Round::::
+lost to filipinoman (1622)
+lost to r/kappa|infilitration (1739)
+::::NorCal Regionals::::
+defeated kwyjibo (1503)
+defeated glb (1559)
+defeated filipinoman (1615)
+defeated filipinoman (1614)
+defeated filipinoman (1609)
+defeated mom|velociraptor (1652)
+lost to eg|justin wong (1731)
+defeated eg|momochi (1738)
+defeated r/kappa|kazunoko (1704)
+defeated pie|smug (1697)
+defeated bonchan (1702)
+defeated liquid|nuckledu (1748)
+lost to mcz|daigo (1749)
+::::Stunfest::::
+defeated ryan hart (1684)
+defeated eita (1617)
+defeated bonchan (1711)
+lost to mcz|daigo (1751)
+::::Dreamhack Summer::::
+defeated jet (1505)
+defeated dreadleif (1505)
+defeated pylo (1468)
+defeated jns (1469)
+defeated ind.saltykid (1518)
+defeated forward dash (1482)
+defeated brick (1582)
+defeated tyrant (1622)
+defeated rize|ind|pro fluke (1648)
+lost to md|luffy (1742)
+lost to problem x (1694)
+::::South East Asia Major::::
+lost to rzr|itabashi zangief (1666)
+defeated huomaotv jiewa (1487)
+defeated r/kappa|poongko (1739)
+defeated kim1234 (1558)
+lost to rzr|xian (1759)
+::::CEO::::
+defeated cj tajh (1542)
+defeated berserk (1506)
+defeated zaferino (1608)
+defeated eg|pr balrog (1653)
+lost to mcz|tokido (1723)
+lost to r/kappa|infilitration (1772)
+::::EVO::::
+defeated qanba douyu|dakou (1618)
+defeated fgc|pepeday (1645)
+lost to r/kappa|infilitration (1783)
+defeated mcz|daigo (1762)
+defeated liquid|nuckledu (1758)
+defeated mcz|tokido (1712)
+defeated be|nemo (1733)
+defeated r/kappa|infilitration (1773)
+defeated eg|momochi (1763)
+lost to eg|momochi (1767)
+::::Tokyo Game Show::::
+defeated r/kappa|zv|kazunoko (1738)
+defeated be|nemo (1735)
+defeated neogaf|r/kappa|koji kog (1664)
+lost to ybk|dashio (1655)
+lost to rb|bonchan (1726)
+::::Canada Cup::::
+defeated fdy|devil_reapers|dr|stormkubo (1662)
+defeated 801|ybk|jayce the ace (1624)
+defeated mcz|mago (1695)
+lost to mcz|tokido (1723)
+defeated rb|snake eyez (1750)
+lost to eg|momochi (1782)

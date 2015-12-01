@@ -1,0 +1,13 @@
+Player: willy
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated 園長 (1487)
+defeated 南哥的小戀人/陳二 (1499)
+lost to sasa (1536)
+lost to 宗慶/k (1539)

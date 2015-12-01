@@ -1,0 +1,13 @@
+Player: hamu chan
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::KO Fighting Game Festival::::
+defeated wtq8|bo bader (1487)
+lost to latif (1632)
+defeated gvoice (1498)
+lost to wtq8|meshal (1525)

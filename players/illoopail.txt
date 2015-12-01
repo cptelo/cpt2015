@@ -1,0 +1,15 @@
+Player: illoopail
+Rating: 1521
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Texas Showdown::::
+defeated setx|dlowe (1487)
+lost to dl|four wude (1574)
+defeated tss brother joshua (1475)
+defeated ivanpants (1487)
+defeated ivanpants (1475)
+lost to chrisdat (1512)

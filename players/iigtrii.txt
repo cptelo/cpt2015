@@ -1,0 +1,12 @@
+Player: iigtrii
+Rating: 1487
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::KO Fighting Game Festival::::
+lost to failichawy iori-q8 (1512)
+defeated kayto_aa (1474)
+lost to tekkablade (1526)

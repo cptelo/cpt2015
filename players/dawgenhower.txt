@@ -1,0 +1,13 @@
+Player: dawgenhower
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated readyforpowwow (1487)
+defeated jayto (1487)
+lost to txs raph (1524)
+lost to ip man (1535)

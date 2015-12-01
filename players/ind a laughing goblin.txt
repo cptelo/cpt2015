@@ -1,0 +1,13 @@
+Player: ind a laughing goblin
+Rating: 1506
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::EGX::::
+defeated raygo blayde|afii (1630)
+defeated rize|ind|zain (1512)
+lost to flawless deku (1586)
+lost to ninja shalz (1544)

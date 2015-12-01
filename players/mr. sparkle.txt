@@ -1,0 +1,12 @@
+Player: mr. sparkle
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+lost to iperu (1560)
+defeated nz|notinal (1474)
+lost to hf|hainix (1511)

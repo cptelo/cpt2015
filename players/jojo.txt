@@ -1,0 +1,20 @@
+Player: jojo
+Rating: 1515
+Played: 10
+Won: 5
+Lost: 5
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+defeated 冯云龙 elaialong (1487)
+defeated noahspencer84 19 (1487)
+lost to rzr|fuudo (1717)
+lost to snake eyez (1718)
+::::Dreamhack Winter::::
+defeated lamas (1487)
+defeated ronnyrundspark (1475)
+defeated namcore (1490)
+lost to cdv|melty|will2pac (1611)
+lost to ccg|humanbomb (1674)
+lost to gxc|damascus (1602)

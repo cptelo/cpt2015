@@ -1,0 +1,14 @@
+Player: 太虎
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated mehdi (1487)
+lost to 天下人 (1524)
+defeated 紫月 (1474)
+defeated 大盗 (1503)
+lost to 天下人 (1528)

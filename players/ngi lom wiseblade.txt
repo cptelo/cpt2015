@@ -1,0 +1,13 @@
+Player: ngi lom wiseblade
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::EGX::::
+lost to sfo ghost (1512)
+defeated shivryuken (1466)
+defeated lom|warteacher (1513)
+lost to cdv|will2pac (1591)

@@ -1,0 +1,13 @@
+Player: ricky xft_softegg
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::HK::::
+defeated yip kai cheong barlowlism (1462)
+defeated ryoji masaki chanson (1502)
+lost to cheungyik memory (1535)
+lost to gonzales (1602)

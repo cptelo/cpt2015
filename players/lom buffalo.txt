@@ -1,0 +1,13 @@
+Player: lom buffalo
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::EGX::::
+defeated dry captain ook (1487)
+lost to rize|ind|pro fluke (1642)
+defeated fuzzy (1517)
+lost to incognitus (1567)

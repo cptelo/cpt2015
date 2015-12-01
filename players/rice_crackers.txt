@@ -1,0 +1,13 @@
+Player: rice_crackers
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated pim118 (1487)
+lost to wa|dm salpacino (1524)
+defeated cult of sirlin (1474)
+lost to jared (1525)

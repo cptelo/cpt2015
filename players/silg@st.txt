@@ -1,0 +1,12 @@
+Player: silg@st
+Rating: 1536
+Played: 3
+Won: 3
+Lost: 0
+%: 100
+
+Results:
+::::FV Cup::::
+defeated dianminion (1487)
+defeated rinda wan (1499)
+defeated max ng (1515)

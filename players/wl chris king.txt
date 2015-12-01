@@ -1,0 +1,12 @@
+Player: wl chris king
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::SCR::::
+lost to akg shinji (1512)
+defeated sanchez (1474)
+lost to axlshingo (1519)

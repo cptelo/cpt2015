@@ -1,0 +1,17 @@
+Player: quaka
+Rating: 1498
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::EGX::::
+lost to ninja shalz (1512)
+defeated theory fighter (1493)
+lost to ajay (1521)
+::::Dreamhack Winter::::
+lost to lll|mbr (1633)
+lost to kig|problem x (1699)
+defeated tekei (1489)
+defeated thwisteh (1460)

@@ -1,0 +1,12 @@
+Player: small tom 細tommy
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::HK::::
+lost to rzr|rb (1617)
+defeated joe chau jeono (1474)
+lost to 林諾勤 kennklam (1511)

@@ -1,0 +1,12 @@
+Player: fv tkc
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+lost to ccg|humanbomb (1653)
+defeated shahril harith (1474)
+lost to keane_hi (1511)

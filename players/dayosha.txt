@@ -1,0 +1,15 @@
+Player: dayosha
+Rating: 1526
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated goldteamrules (1487)
+defeated sa karu (1499)
+lost to hsien chang (1591)
+defeated /r/streetfighter chaos goose (1514)
+defeated doomsday507 (1510)
+lost to nice1 (1573)

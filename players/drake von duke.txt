@@ -1,0 +1,12 @@
+Player: drake von duke
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to tampa bison (1639)
+defeated wrongonred (1474)
+lost to ishotto (1511)

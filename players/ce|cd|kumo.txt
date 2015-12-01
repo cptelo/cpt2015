@@ -1,0 +1,18 @@
+Player: ce|cd|kumo
+Rating: 1510
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated alex myers (1583)
+defeated smbg|bakedmotatoes (1499)
+lost to ccg|air (1622)
+lost to alex myers (1620)
+::::SCR::::
+lost to hnh kizzie kay (1512)
+defeated chris nguyen (1493)
+defeated ffn kyoku (1499)
+lost to r/kappa|alex myers (1627)

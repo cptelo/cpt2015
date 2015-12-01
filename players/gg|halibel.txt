@@ -1,0 +1,10 @@
+Player: gg|halibel
+Rating: 1539
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::FFM-Rumble::::
+lost to mba|infexious (1601)

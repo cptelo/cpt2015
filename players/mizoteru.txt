@@ -1,0 +1,18 @@
+Player: mizoteru
+Rating: 1583
+Played: 9
+Won: 6
+Lost: 3
+%: 66
+
+Results:
+::::Nine States::::
+defeated ニア (1489)
+defeated めろんそーだ meronn soda (1501)
+defeated りゅうきち (1513)
+lost to inco (1639)
+defeated りゅうきち (1528)
+lost to inco (1649)
+defeated kawaguchi (1602)
+defeated misse (1647)
+lost to gattikun (1570)

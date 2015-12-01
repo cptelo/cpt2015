@@ -1,0 +1,15 @@
+Player: yomi|stan
+Rating: 1522
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated ssquirtdirt (1487)
+lost to shin rico suave (1524)
+defeated fems (1474)
+defeated nate fearless (1498)
+defeated blazing (1505)
+lost to yomi da knut (1538)

@@ -1,0 +1,11 @@
+Player: べー
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::KSB 2015::::
+lost to pepeday (1640)
+lost to きょく (1505)

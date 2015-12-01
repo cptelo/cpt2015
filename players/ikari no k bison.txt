@@ -1,0 +1,14 @@
+Player: ikari no k bison
+Rating: 1517
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated ryutarou (1487)
+lost to brawl|haitani (1580)
+defeated score (1486)
+defeated jinzou (1501)
+lost to ybk|dashio (1664)

@@ -1,0 +1,15 @@
+Player: cg projo
+Rating: 1465
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::Combo Breaker::::
+lost to holdy (1512)
+lost to fibonacci (1499)
+::::CEO::::
+lost to anbu exking (1511)
+defeated exg rosiechan92 (1485)
+lost to rm emp kdz (1569)

@@ -1,0 +1,12 @@
+Player: くりぱぱ kuripapa
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Nine States::::
+defeated 髭とボイン hige to boin (1487)
+lost to たんげ tange (1524)
+lost to コーヒー乳牛 coffee gyuunyuu (1515)

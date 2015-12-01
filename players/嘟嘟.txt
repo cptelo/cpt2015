@@ -1,0 +1,14 @@
+Player: 嘟嘟
+Rating: 1519
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Ze Fighting Game Champion::::
+defeated 宅桑 (1487)
+lost to rzr|gackt (1643)
+defeated 郭大喜 (1492)
+defeated mint310 (1503)
+lost to fdy|devil_reapers|stormkubo (1670)

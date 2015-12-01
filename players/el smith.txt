@@ -1,0 +1,14 @@
+Player: el smith
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::NorCal Regionals::::
+lost to ex pugera (1608)
+defeated andrew gib (1474)
+defeated s0n1c w0lf (1486)
+defeated nicktanella (1501)
+lost to lamerboi (1527)

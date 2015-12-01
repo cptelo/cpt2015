@@ -1,0 +1,12 @@
+Player: cptmaumau
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA KR::::
+lost to eita (1608)
+defeated steve791 (1474)
+lost to codynp (1536)

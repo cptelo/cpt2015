@@ -1,0 +1,14 @@
+Player: kimlegend
+Rating: 1521
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA KR::::
+defeated ninja musik g (1487)
+lost to mcz|tokido (1692)
+defeated dark jiewa (1642)
+defeated ninja musik g (1498)
+lost to dbkoopa (1559)

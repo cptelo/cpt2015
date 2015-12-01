@@ -1,0 +1,13 @@
+Player: c0ckman007
+Rating: 1483
+Played: 4
+Won: 1
+Lost: 3
+%: 25
+
+Results:
+::::Dreamhack Winter::::
+defeated maven (1487)
+lost to ts|reiketsu (1664)
+lost to fgcbr|keoma (1664)
+lost to jet (1498)

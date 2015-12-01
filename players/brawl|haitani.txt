@@ -1,0 +1,50 @@
+Player: brawl|haitani
+Rating: 1584
+Played: 35
+Won: 21
+Lost: 14
+%: 60
+
+Results:
+::::KSB 2015::::
+lost to fubarduck (1525)
+defeated sketch (1483)
+defeated こま (1505)
+defeated dogura (1566)
+lost to pepeday (1646)
+::::EVO::::
+defeated gootecks (1489)
+lost to julio (1616)
+defeated ag|luckyd (1537)
+defeated pg|filipino champ (1563)
+lost to latif (1611)
+::::Tokyo Game Show::::
+lost to rb|bonchan (1715)
+defeated kindou (1489)
+defeated inco (1676)
+lost to akimo (1595)
+::::CPT Brazil::::
+defeated soa|caju (1490)
+defeated aag|pr3da (1501)
+lost to keoma (1633)
+defeated soa|ibukiman (1550)
+lost to keoma (1643)
+::::Ultra Hyakkishu Cup::::
+defeated unsu (1490)
+defeated ikari no k bison (1501)
+lost to kitasenju dj (1630)
+defeated ninomae (1563)
+lost to ts|reiketsu (1656)
+::::Milan Games Week::::
+defeated fancylaine (1503)
+defeated pahn (1501)
+lost to eg|k-brad (1682)
+defeated bx3|veggey (1596)
+lost to ts|reiketsu (1664)
+::::CPTA Last Chance Qualifier::::
+defeated domo (1490)
+defeated sherman (1502)
+lost to carzydog (1538)
+defeated wongtoutou (1512)
+defeated arika (1564)
+lost to kok (1615)

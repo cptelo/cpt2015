@@ -1,0 +1,11 @@
+Player: 島唄
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::KSB 2015::::
+lost to shiro (1636)
+lost to こま (1505)

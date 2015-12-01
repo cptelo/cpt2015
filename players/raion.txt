@@ -1,0 +1,13 @@
+Player: raion
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated exg convictedoffun (1487)
+lost to ag|native impact (1638)
+defeated thariddler (1475)
+lost to sda fiercekyo (1513)

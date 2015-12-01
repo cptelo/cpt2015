@@ -1,0 +1,15 @@
+Player: ink7
+Rating: 1498
+Played: 6
+Won: 3
+Lost: 3
+%: 50
+
+Results:
+::::CPTA KR::::
+lost to 근성frs (1512)
+defeated aiku (1474)
+lost to joyfull78 (1518)
+defeated joyfull78 (1504)
+defeated rinbo7 (1498)
+lost to 근성frs (1530)

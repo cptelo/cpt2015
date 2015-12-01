@@ -1,0 +1,11 @@
+Player: 沈鹏 triple-k
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA Shanghai::::
+lost to 徐健 xj (1512)
+lost to color (1501)

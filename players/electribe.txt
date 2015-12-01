@@ -1,0 +1,11 @@
+Player: electribe
+Rating: 1479
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to wao (1536)
+lost to r/kappa|aiai (1610)

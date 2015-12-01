@@ -1,0 +1,19 @@
+Player: のえ
+Rating: 1527
+Played: 10
+Won: 6
+Lost: 4
+%: 60
+
+Results:
+::::Nine States::::
+lost to itabashi zangief (1657)
+defeated ムラヲ (1474)
+defeated ニア (1465)
+defeated そぼろんぐ (1501)
+lost to kim1234 (1571)
+lost to itabashi zangief (1673)
+defeated ムラヲ (1451)
+defeated ニア (1457)
+defeated そぼろんぐ (1501)
+lost to kim1234 (1578)

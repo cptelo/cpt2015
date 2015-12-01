@@ -1,0 +1,25 @@
+Player: ace unlimited
+Rating: 1522
+Played: 14
+Won: 8
+Lost: 6
+%: 57
+
+Results:
+::::Final Round::::
+lost to ccg|air (1608)
+lost to filipino champ (1560)
+::::CEO::::
+defeated superiorshadow (1486)
+lost to sa kooky (1523)
+defeated lucius (1474)
+defeated keetro (1497)
+defeated jimli (1504)
+defeated udlr highbeast (1510)
+lost to eric m (1543)
+::::TFC::::
+defeated allen hunt (1488)
+lost to eg|k-brad (1676)
+defeated marshall king (1501)
+defeated allen hunt (1499)
+lost to ta|chris g (1631)

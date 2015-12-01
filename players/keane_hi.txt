@@ -1,0 +1,13 @@
+Player: keane_hi
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::FV Cup::::
+defeated vinness ho (1487)
+lost to koji miyake (1524)
+defeated fv tkc (1491)
+lost to rv_raihan (1528)

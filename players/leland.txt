@@ -1,0 +1,12 @@
+Player: leland
+Rating: 1494
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated deanthrax (1487)
+lost to liquid|nuckledu (1761)
+lost to keetro (1511)

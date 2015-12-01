@@ -1,0 +1,14 @@
+Player: dragonfangs
+Rating: 1443
+Played: 5
+Won: 0
+Lost: 5
+%: 0
+
+Results:
+::::Dreamhack Summer::::
+lost to duppsko (1512)
+lost to warbio (1505)
+lost to bashfest (1516)
+lost to problem x (1674)
+lost to knix (1479)

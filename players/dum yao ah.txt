@@ -1,0 +1,13 @@
+Player: dum yao ah
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Northwest Majors::::
+defeated tez (1487)
+lost to eg|ricki ortiz (1721)
+defeated guro_loli (1475)
+lost to bklynexpress (1512)

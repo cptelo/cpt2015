@@ -1,0 +1,13 @@
+Player: um makai
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::EGX::::
+defeated metalqueersolid (1487)
+lost to mba|rize|ind|infexious (1643)
+defeated lom|luckboxq (1506)
+lost to btm|isam (1577)

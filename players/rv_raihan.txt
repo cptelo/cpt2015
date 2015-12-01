@@ -1,0 +1,14 @@
+Player: rv_raihan
+Rating: 1519
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::FV Cup::::
+defeated shahril harith (1487)
+lost to ccg|humanbomb (1656)
+defeated greateacher (1486)
+defeated keane_hi (1498)
+lost to ccg|humanbomb (1652)

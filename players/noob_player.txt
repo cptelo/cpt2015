@@ -1,0 +1,14 @@
+Player: noob_player
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::KO Fighting Game Festival::::
+defeated shido_ (1487)
+lost to ybk|r (1561)
+defeated samuraispirit (1486)
+defeated wtq8|jaber (1494)
+lost to wtq8|elcaptain (1526)

@@ -1,0 +1,11 @@
+Player: pent
+Rating: 1524
+Played: 2
+Won: 2
+Lost: 0
+%: 100
+
+Results:
+::::Texas Showdown::::
+defeated c88_tbn daymein (1487)
+defeated masterninja (1498)

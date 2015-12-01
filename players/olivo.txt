@@ -1,0 +1,11 @@
+Player: olivo
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::First Attack::::
+lost to rr|mr gork (1524)
+lost to raxory.pr (1499)

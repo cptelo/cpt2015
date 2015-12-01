@@ -1,0 +1,11 @@
+Player: heidibardon
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to um|btm|rmz (1608)
+lost to wang (1499)

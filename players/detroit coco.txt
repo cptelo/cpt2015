@@ -1,0 +1,12 @@
+Player: detroit coco
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated loop|webtroy (1499)
+lost to ta|chris g (1621)
+lost to jvdsc txk|mrh (1533)

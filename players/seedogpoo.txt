@@ -1,0 +1,18 @@
+Player: seedogpoo
+Rating: 1502
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::CEO::::
+lost to j campos (1524)
+defeated adil g (1474)
+defeated sa projectsik (1498)
+defeated shin oni (1488)
+lost to tbr last dragon (1551)
+::::First Attack::::
+defeated dranor (1487)
+lost to ex pugera (1663)
+lost to prk crank (1536)

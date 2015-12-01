@@ -1,0 +1,11 @@
+Player: ashu j
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to viscant (1522)
+lost to nsm fancyyancy (1511)

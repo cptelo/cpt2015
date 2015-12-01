@@ -1,0 +1,15 @@
+Player: yomi da knut
+Rating: 1524
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::CEO::::
+defeated nate fearless (1487)
+defeated bigvic340 (1499)
+lost to alucard (1608)
+defeated cs icedarkness (1510)
+defeated yomi|stan (1522)
+lost to pag lionheart (1527)

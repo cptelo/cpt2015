@@ -1,0 +1,11 @@
+Player: hame-tamu
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to kai (1527)
+lost to dawgtanian (1524)

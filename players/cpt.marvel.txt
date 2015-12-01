@@ -1,0 +1,12 @@
+Player: cpt.marvel
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Northwest Majors::::
+lost to shorjewken (1512)
+defeated vgftaylor (1478)
+lost to srkuw|kpop (1514)

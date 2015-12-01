@@ -1,0 +1,11 @@
+Player: mortal_comebax
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::KO Fighting Game Festival::::
+lost to majinshinken musa (1512)
+lost to yousef84 (1499)

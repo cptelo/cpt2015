@@ -1,0 +1,14 @@
+Player: nyanshi
+Rating: 1519
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Ultra Hyakkishu Cup::::
+defeated ponzaman (1487)
+lost to -6 (1647)
+defeated yk (1486)
+defeated oitajin (1504)
+lost to fgc|ex pugera (1673)

@@ -1,0 +1,12 @@
+Player: j8slim
+Rating: 1493
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::TFC::::
+defeated eog rico (1487)
+lost to wfx|801 strider (1692)
+lost to ctrl|unknown (1537)

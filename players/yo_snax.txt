@@ -1,0 +1,14 @@
+Player: yo_snax
+Rating: 1489
+Played: 5
+Won: 2
+Lost: 3
+%: 40
+
+Results:
+::::SCR::::
+defeated maxoplata (1487)
+lost to brentt (1629)
+defeated urban shakedown (1475)
+lost to boeken (1535)
+lost to boeken (1539)

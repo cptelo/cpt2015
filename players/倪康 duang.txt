@@ -1,0 +1,14 @@
+Player: 倪康 duang
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA Shanghai::::
+defeated 鲁俊 水表 (1487)
+lost to chengfei (1524)
+defeated 张文亮 happyport (1474)
+defeated 沈震宇 凶肯 (1504)
+lost to 王辉 dexter hui (1523)

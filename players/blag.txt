@@ -1,0 +1,13 @@
+Player: blag
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::VS Fighting::::
+defeated pmcc (1487)
+defeated smbf|cogs quora (1487)
+lost to rize|ind|boltstrike (1569)
+lost to ikimashouu (1523)

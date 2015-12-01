@@ -1,0 +1,13 @@
+Player: carlos c
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated dgskater (1487)
+defeated jun10r123 (1487)
+lost to eg|pr balrog (1655)
+lost to cj tajh (1554)

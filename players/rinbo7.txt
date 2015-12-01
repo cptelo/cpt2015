@@ -1,0 +1,13 @@
+Player: rinbo7
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA KR::::
+defeated aiku (1487)
+lost to 근성frs (1524)
+defeated fender (1486)
+lost to ink7 (1511)

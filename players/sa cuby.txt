@@ -1,0 +1,16 @@
+Player: sa cuby
+Rating: 1538
+Played: 7
+Won: 5
+Lost: 2
+%: 71
+
+Results:
+::::CEO::::
+defeated mikey g (1487)
+defeated design (1499)
+lost to mcz|tokido (1712)
+defeated gankula (1511)
+defeated tosfhq sj (1502)
+defeated lil evil (1501)
+lost to judge ashen (1562)

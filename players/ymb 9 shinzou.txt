@@ -1,0 +1,13 @@
+Player: ymb 9 shinzou
+Rating: 1503
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated bfl|mowatman (1487)
+defeated jonnyslipsin (1499)
+lost to mcz|mago (1666)
+lost to bsc nevillebamshew (1540)

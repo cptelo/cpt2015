@@ -1,0 +1,12 @@
+Player: anubis
+Rating: 1516
+Played: 3
+Won: 2
+Lost: 1
+%: 66
+
+Results:
+::::Saigon Cup::::
+lost to qanba douyu|god of sky (1574)
+defeated fruit (1520)
+defeated tiger uppercut (1492)

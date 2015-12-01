@@ -1,0 +1,13 @@
+Player: twmsp
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated 操查理 (1487)
+lost to 小靠 (1524)
+defeated kb8 (1490)
+lost to daimon (1525)

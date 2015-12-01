@@ -1,0 +1,15 @@
+Player: rockdan
+Rating: 1528
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Combo Breaker::::
+defeated wolfie (1487)
+lost to eg|ricki ortiz (1715)
+defeated masterwho (1490)
+defeated linux (1498)
+defeated dan krolikowski (1503)
+lost to em cush (1551)

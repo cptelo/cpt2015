@@ -1,0 +1,11 @@
+Player: matune
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CPTA KR::::
+lost to codynp (1544)
+lost to sorawings (1501)

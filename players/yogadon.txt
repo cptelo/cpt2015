@@ -1,0 +1,13 @@
+Player: yogadon
+Rating: 1505
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+lost to poongko (1737)
+defeated barrazie (1474)
+defeated dm|casual phil (1488)
+lost to xtr sd|alexis (1526)

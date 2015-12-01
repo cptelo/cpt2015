@@ -1,0 +1,36 @@
+Player: cdv|melty|will2pac
+Rating: 1602
+Played: 23
+Won: 14
+Lost: 9
+%: 60
+
+Results:
+::::Cannes Winter Clash::::
+lost to rize|ind|pro fluke (1612)
+defeated lorddvd (1531)
+lost to f-word (1613)
+::::EVO::::
+lost to 30f|street11 (1563)
+::::EGX::::
+defeated ninja shinryu (1543)
+lost to fa|ryan hart (1680)
+defeated sfo jlm (1500)
+defeated ngi lom wiseblade (1501)
+defeated um|btm|rmz (1605)
+lost to raygo blayde|afii (1647)
+::::Red Fight District::::
+defeated the leoholic (1490)
+lost to wso|andreas (1646)
+defeated streetmonkeys hekiat (1493)
+defeated iplay|sheva (1559)
+defeated rize|ind|pro fluke (1632)
+lost to kig|problem x (1711)
+::::Dreamhack Winter::::
+defeated lamas (1478)
+defeated namcore (1502)
+defeated ronnyrundspark (1454)
+defeated jojo (1533)
+lost to rize|ind|kwiddo (1544)
+defeated forward dash (1481)
+lost to lll|mbr (1636)

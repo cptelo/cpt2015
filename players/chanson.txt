@@ -1,0 +1,11 @@
+Player: chanson
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to jinzou (1512)
+lost to sasaki (1549)

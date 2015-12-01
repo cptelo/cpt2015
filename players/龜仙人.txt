@@ -1,0 +1,14 @@
+Player: 龜仙人
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Taiwan::::
+defeated yanyan(japan) (1487)
+lost to david shen (1524)
+defeated 丫合 (1490)
+defeated 阿光 (1502)
+lost to hitbox rose (1527)

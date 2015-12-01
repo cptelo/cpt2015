@@ -1,0 +1,14 @@
+Player: dbc
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::TFC::::
+defeated final tick (1487)
+lost to pokchop (1531)
+defeated highlevelnovice (1474)
+defeated srd|blahblah (1487)
+lost to pokchop (1533)

@@ -1,0 +1,13 @@
+Player: 快打傳奇lanlan
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Taiwan::::
+defeated 男鴿 (1487)
+defeated crustiestwolf33 (1499)
+lost to chuan (1634)
+lost to wataru (japan) (1535)

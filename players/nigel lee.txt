@@ -1,0 +1,12 @@
+Player: nigel lee
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+lost to haw seow (1512)
+defeated renzuo (1474)
+lost to taitsu (1499)

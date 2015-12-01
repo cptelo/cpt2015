@@ -1,0 +1,11 @@
+Player: welcome to you're doom!
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to el cubano loco (1512)
+lost to gdlk.co|churro (1511)

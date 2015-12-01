@@ -1,0 +1,13 @@
+Player: tyram
+Rating: 1501
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::NorCal Regionals::::
+defeated floe (1487)
+defeated s0n1c w0lf (1499)
+lost to ph|lpn (1625)
+lost to ce jabdrunk (1526)

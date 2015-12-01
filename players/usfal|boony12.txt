@@ -1,0 +1,12 @@
+Player: usfal|boony12
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+lost to lom|slim (1512)
+defeated megaphonejones66 (1474)
+lost to pun pun (1499)

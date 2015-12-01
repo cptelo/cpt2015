@@ -1,0 +1,12 @@
+Player: aag|pr3da
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPT Brazil::::
+defeated soa|xr prometo (1487)
+lost to brawl|haitani (1579)
+lost to soa|ibukiman (1546)

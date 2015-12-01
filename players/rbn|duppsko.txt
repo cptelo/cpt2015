@@ -1,0 +1,22 @@
+Player: rbn|duppsko
+Rating: 1500
+Played: 12
+Won: 5
+Lost: 7
+%: 41
+
+Results:
+::::Dreamhack Summer::::
+defeated dragonfangs (1487)
+defeated knix (1487)
+lost to warbio (1518)
+lost to problem x (1676)
+lost to bashfest (1539)
+defeated warbio (1478)
+lost to tyrant (1622)
+defeated pedro unchained (1472)
+defeated ind.spb|ixion (1571)
+lost to bashfest (1564)
+::::Call of Ragnarok::::
+lost to rize|ind|pro fluke (1643)
+lost to packz (1615)

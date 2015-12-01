@@ -1,0 +1,12 @@
+Player: sww|crumpets
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+lost to sfo|zxmx (1524)
+defeated chris len (1474)
+lost to hcliam (1512)

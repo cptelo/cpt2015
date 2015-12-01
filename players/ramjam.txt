@@ -1,0 +1,11 @@
+Player: ramjam
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to 「346pro|ＹＡＳＥ」 fog_e (1512)
+lost to @speedbrkr (1499)

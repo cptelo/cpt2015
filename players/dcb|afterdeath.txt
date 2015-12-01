@@ -1,0 +1,25 @@
+Player: dcb|afterdeath
+Rating: 1515
+Played: 14
+Won: 7
+Lost: 7
+%: 50
+
+Results:
+::::CEO::::
+defeated eminent (1499)
+defeated doomsday507 (1511)
+lost to hsien chang (1595)
+defeated the time dictator (1527)
+lost to nice1 (1577)
+::::TFC::::
+defeated silent hero (1488)
+defeated srd|blahblah (1500)
+lost to shotty (1537)
+defeated pokchop (1527)
+lost to shotty (1549)
+lost to redpanda knuckledust (1540)
+::::Defend the North::::
+lost to pie|smug (1692)
+defeated damdai (1529)
+lost to ocv|riceata (1561)

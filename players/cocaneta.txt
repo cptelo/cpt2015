@@ -1,0 +1,15 @@
+Player: cocaneta
+Rating: 1534
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::First Attack::::
+defeated wizlife69 (1499)
+defeated uvg|noel brown (1499)
+defeated ta|chris g (1624)
+defeated ta|chris g (1620)
+lost to wfx|801 strider (1693)
+lost to evb ds ray (1550)

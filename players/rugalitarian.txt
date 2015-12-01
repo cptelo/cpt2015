@@ -1,0 +1,13 @@
+Player: rugalitarian
+Rating: 1504
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CEO::::
+defeated jay (1487)
+defeated hectorputrid (1499)
+lost to mcz|mago (1718)
+lost to joe shyne (1537)

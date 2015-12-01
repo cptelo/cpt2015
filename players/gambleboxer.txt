@@ -1,0 +1,14 @@
+Player: gambleboxer
+Rating: 1538
+Played: 5
+Won: 4
+Lost: 1
+%: 80
+
+Results:
+::::CPTA Last Chance Qualifier::::
+defeated venomkiller (1487)
+lost to somniac (1563)
+defeated alex yang (1474)
+defeated venomkiller (1498)
+defeated qanba douyu|god of sky (1572)

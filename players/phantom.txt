@@ -1,0 +1,11 @@
+Player: phantom
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::CEO::::
+lost to exg rosiechan92 (1512)
+lost to loseygosey (1499)

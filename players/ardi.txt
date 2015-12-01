@@ -1,0 +1,12 @@
+Player: ardi
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Abuget Cup::::
+lost to humanbomb (1608)
+defeated dion (1476)
+lost to dian (1514)

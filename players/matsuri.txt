@@ -1,0 +1,20 @@
+Player: matsuri
+Rating: 1523
+Played: 9
+Won: 3
+Lost: 6
+%: 33
+
+Results:
+::::KSB 2015::::
+defeated モッツェルおじさん (1489)
+lost to nemo (1666)
+defeated カリスマ (1476)
+lost to neogaf|koji kog (1675)
+::::Tokyo Game Show::::
+lost to nishikin (1662)
+lost to ccg|humanbomb (1661)
+::::Ultra Hyakkishu Cup::::
+defeated flat (1488)
+lost to rokkun (1619)
+lost to kindevu (1611)

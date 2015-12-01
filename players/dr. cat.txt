@@ -1,0 +1,14 @@
+Player: dr. cat
+Rating: 1467
+Played: 5
+Won: 1
+Lost: 4
+%: 20
+
+Results:
+::::Dreamhack Summer::::
+lost to forward dash (1512)
+lost to yagami (1535)
+defeated jeparianen (1453)
+lost to lyhs (1514)
+lost to wso|andreas (1623)

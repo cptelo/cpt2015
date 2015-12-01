@@ -1,0 +1,12 @@
+Player: ninjaspy
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Combo Breaker::::
+defeated finchomatic (1487)
+lost to dave o (1513)
+lost to bab yee kwang soo (1511)

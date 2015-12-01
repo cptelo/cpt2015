@@ -1,0 +1,11 @@
+Player: plats
+Rating: 1475
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to sww|rycroft (1512)
+lost to rob zfr (1514)

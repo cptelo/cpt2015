@@ -1,0 +1,11 @@
+Player: pompom
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to rzr|rb (1616)
+lost to jian hua (1499)

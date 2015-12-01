@@ -1,0 +1,12 @@
+Player: 具体哥
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Ze Fighting Game Champion::::
+lost to qanba douyu|hurtch_vr (1580)
+defeated souler (1474)
+lost to 海龙 (1518)

@@ -1,0 +1,12 @@
+Player: anbu sonyono
+Rating: 1503
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Summer Jam::::
+defeated eg|ricki ortiz (1704)
+lost to tsc|yomi|dieminion (1688)
+lost to julio (1616)

@@ -1,0 +1,11 @@
+Player: 吉米
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Taiwan::::
+lost to 小捷 (1512)
+lost to hua0915 (1499)

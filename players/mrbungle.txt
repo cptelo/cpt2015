@@ -1,0 +1,16 @@
+Player: mrbungle
+Rating: 1476
+Played: 6
+Won: 2
+Lost: 4
+%: 33
+
+Results:
+::::Hypespotting::::
+lost to rde shiftingshadows (1512)
+lost to um|imstilldadaddy (1598)
+::::VS Fighting::::
+defeated rst|launchpad mcross (1461)
+lost to fuzzy (1512)
+defeated shaggy (1474)
+lost to clev (1511)

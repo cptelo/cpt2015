@@ -1,0 +1,15 @@
+Player: vs gm punk
+Rating: 1500
+Played: 6
+Won: 3
+Lost: 3
+%: 50
+
+Results:
+::::Hypespotting::::
+defeated shazy (1487)
+defeated priestessos (1499)
+lost to bsc|shek (1536)
+defeated shazy (1510)
+lost to rize|ind|boltstrike (1563)
+lost to flawless deku (1586)

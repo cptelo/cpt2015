@@ -1,0 +1,12 @@
+Player: rush digital
+Rating: 1485
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+lost to sa kooky (1512)
+defeated superiorshadow (1473)
+lost to team seaslug (1491)

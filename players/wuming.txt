@@ -1,0 +1,13 @@
+Player: wuming
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to hzy (1552)
+defeated tanka tanky (1474)
+defeated inc rollynx (1491)
+lost to daniel thia (1524)

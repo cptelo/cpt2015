@@ -1,0 +1,12 @@
+Player: leonlum
+Rating: 1490
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Last Chance Qualifier::::
+lost to rzr|gackt (1662)
+defeated shige (1474)
+lost to shane (1500)

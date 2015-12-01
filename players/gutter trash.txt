@@ -1,0 +1,12 @@
+Player: gutter trash
+Rating: 1491
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Northwest Majors::::
+defeated canjs|cxr|bionicfraud (1487)
+lost to eg|pr balrog (1664)
+lost to joeycl (1523)

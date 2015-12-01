@@ -1,0 +1,12 @@
+Player: zack gademark mohadi
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CEO::::
+defeated spg squalayyy (1487)
+lost to shin oni (1512)
+lost to kaiser rose (1499)

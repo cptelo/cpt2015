@@ -1,0 +1,18 @@
+Player: wao
+Rating: 1558
+Played: 8
+Won: 4
+Lost: 4
+%: 50
+
+Results:
+::::Tokyo Game Show::::
+lost to shimauta (1562)
+lost to twiggy (1572)
+::::Ultra Hyakkishu Cup::::
+defeated electribe (1488)
+lost to rb|bonchan (1760)
+defeated white fang (1492)
+defeated ttl|shinba (1542)
+defeated gonzales (1632)
+lost to rokkun (1627)

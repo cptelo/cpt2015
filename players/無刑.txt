@@ -1,0 +1,13 @@
+Player: 無刑
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Nine States::::
+lost to anton (1512)
+defeated やまやん (1474)
+defeated hyde (1474)
+lost to korea player (1511)

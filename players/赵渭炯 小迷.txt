@@ -1,0 +1,13 @@
+Player: 赵渭炯 小迷
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+defeated 孙子隆 kimoji (1487)
+defeated ilsenewton 19 (1499)
+lost to ab ab (1524)
+lost to 梁伟知 todayceo (1541)

@@ -1,0 +1,11 @@
+Player: shazli
+Rating: 1478
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::FV Cup::::
+lost to kok (1614)
+lost to suktuck (1511)

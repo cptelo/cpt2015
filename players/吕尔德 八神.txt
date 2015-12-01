@@ -1,0 +1,12 @@
+Player: 吕尔德 八神
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+lost to zhudongyu (1512)
+defeated lcx lcx1988 (1474)
+lost to quiquikof rank 11 (1501)

@@ -1,0 +1,10 @@
+Player: a$ap rabbitos
+Rating: 1489
+Played: 1
+Won: 0
+Lost: 1
+%: 0
+
+Results:
+::::Combo Breaker::::
+lost to rm emp kdz (1552)

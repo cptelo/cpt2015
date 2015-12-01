@@ -1,0 +1,14 @@
+Player: ba b_5
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Milan Games Week::::
+defeated solda (1487)
+lost to vx (1512)
+defeated crash (1474)
+defeated ita77u (1502)
+lost to shin87 (1531)

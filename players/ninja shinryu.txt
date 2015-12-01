@@ -1,0 +1,21 @@
+Player: ninja shinryu
+Rating: 1537
+Played: 11
+Won: 7
+Lost: 4
+%: 63
+
+Results:
+::::VS Fighting::::
+defeated chris len (1487)
+lost to f-word (1606)
+defeated happyton (1475)
+defeated mba|armdevil (1485)
+defeated sfo|dragonman (1491)
+defeated bsc|ruok (1500)
+defeated smbf|nebbiez (1501)
+defeated bfl|zaus (1528)
+lost to rize|ind|btm brian (1576)
+::::EGX::::
+lost to cdv|will2pac (1581)
+lost to lom|vegedow (1499)

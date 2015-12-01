@@ -1,0 +1,13 @@
+Player: nhem lee
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+lost to raychun (1512)
+defeated aron mike (1487)
+defeated aes|nolafrog (1501)
+lost to da|johnny fraudeulent (1524)

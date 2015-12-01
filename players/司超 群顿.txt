@@ -1,0 +1,14 @@
+Player: 司超 群顿
+Rating: 1519
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::CPTA Shanghai::::
+defeated jing (1487)
+defeated laoshenjiang (1499)
+defeated qanba douyu|dark jiewa (1626)
+lost to qanba douyu|god of sky (1591)
+lost to qanba douyu|dark jiewa (1635)

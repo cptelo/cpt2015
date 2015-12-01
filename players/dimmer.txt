@@ -1,0 +1,14 @@
+Player: dimmer
+Rating: 1514
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Milan Games Week::::
+defeated marcorydah (1487)
+lost to eg|k-brad (1675)
+defeated sonny (1486)
+defeated bonehead (1500)
+lost to ruben (1526)

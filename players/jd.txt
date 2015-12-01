@@ -1,0 +1,17 @@
+Player: jd
+Rating: 1485
+Played: 7
+Won: 3
+Lost: 4
+%: 42
+
+Results:
+::::VS Fighting::::
+defeated bfl|mr stabbie (1487)
+defeated confz (1487)
+lost to rde|akraat (1542)
+lost to sfo|ghost (1523)
+::::CPTA Last Chance Qualifier::::
+defeated shane (1487)
+lost to lenard (1524)
+lost to elton (1516)

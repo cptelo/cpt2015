@@ -1,0 +1,11 @@
+Player: one2remember80
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::VS Fighting::::
+lost to mba|sono (1487)
+lost to adzi (1512)

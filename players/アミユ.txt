@@ -1,0 +1,21 @@
+Player: アミユ
+Rating: 1545
+Played: 12
+Won: 8
+Lost: 4
+%: 66
+
+Results:
+::::Nine States::::
+defeated theflyingcheese (1487)
+defeated ニア (1477)
+lost to misse (1618)
+defeated ちゃー (1509)
+defeated kim1234 (1556)
+lost to itabashi zangief (1666)
+defeated theflyingcheese (1463)
+defeated ニア (1468)
+lost to misse (1649)
+defeated ちゃー (1515)
+defeated kim1234 (1564)
+lost to itabashi zangief (1676)

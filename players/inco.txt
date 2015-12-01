@@ -1,0 +1,44 @@
+Player: inco
+Rating: 1675
+Played: 30
+Won: 22
+Lost: 8
+%: 73
+
+Results:
+::::Nine States::::
+defeated かいひも (1491)
+defeated ぬ。nu (1502)
+defeated kok (1604)
+defeated mizoteru (1569)
+defeated mizoteru (1569)
+lost to poongko (1739)
+defeated itabashi zangief (1667)
+defeated kindo (1582)
+defeated nishikin (1686)
+lost to poongko (1738)
+::::KSB 2015::::
+defeated まーやー (1492)
+defeated kindo (1581)
+defeated misse (1648)
+defeated r/kappa|kazunoko (1713)
+::::EVO::::
+defeated pie|smug (1698)
+::::Taiwan::::
+defeated ares016 (1493)
+defeated tkd (1505)
+defeated et (1516)
+lost to stormkubo (1643)
+defeated rzr|rb (1614)
+lost to stormkubo (1657)
+lost to qanba douyu|dark jiewa (1634)
+::::Tokyo Game Show::::
+defeated eita (1597)
+defeated rb|snake eyez (1740)
+lost to brawl|haitani (1577)
+::::Ultra Hyakkishu Cup::::
+defeated misse (1662)
+defeated kenzou (1550)
+defeated koichi (1518)
+lost to rb|bonchan (1765)
+lost to mf|tonpy (1677)

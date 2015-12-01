@@ -1,0 +1,12 @@
+Player: color
+Rating: 1488
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::CPTA Shanghai::::
+lost to qanba douyu|hurtch_vr (1570)
+defeated 沈鹏 triple-k (1474)
+lost to chenzhou (1523)

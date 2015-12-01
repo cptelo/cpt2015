@@ -1,0 +1,11 @@
+Player: 1260-tan
+Rating: 1474
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Ultra Hyakkishu Cup::::
+lost to fgc|dunhill (1525)
+lost to score (1499)

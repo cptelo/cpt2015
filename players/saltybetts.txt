@@ -1,0 +1,13 @@
+Player: saltybetts
+Rating: 1498
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+defeated dex masters (1487)
+lost to mean saltine (1536)
+defeated blaqacid (1488)
+lost to corn ace king (1523)

@@ -1,0 +1,13 @@
+Player: 张嘉程 fat dog
+Rating: 1500
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::CPTA Shanghai::::
+defeated 汪俊峰 fei-long (1487)
+defeated afaliq bin yusof afaliq90 (1487)
+lost to qanba douyu|hurtch_vr (1580)
+lost to 陳政宏 bemechen (1535)

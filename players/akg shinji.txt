@@ -1,0 +1,15 @@
+Player: akg shinji
+Rating: 1531
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::SCR::::
+defeated wl chris king (1487)
+defeated dmt - mr. d (1499)
+lost to ccg|chris tatarian (1656)
+defeated axlshingo (1517)
+defeated flaquito (1528)
+lost to ccg|chris tatarian (1655)

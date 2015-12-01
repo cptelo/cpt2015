@@ -1,0 +1,12 @@
+Player: 孟澤
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Taiwan::::
+lost to hitbox rose (1512)
+defeated reco (1474)
+lost to 阿光 (1515)

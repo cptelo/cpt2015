@@ -1,0 +1,15 @@
+Player: トモ
+Rating: 1525
+Played: 6
+Won: 4
+Lost: 2
+%: 66
+
+Results:
+::::Nine States::::
+defeated でぇご (1487)
+lost to kindo (1561)
+defeated brandon (1474)
+defeated デップー (1499)
+defeated dbkoopa (1533)
+lost to kyabetsu (1570)

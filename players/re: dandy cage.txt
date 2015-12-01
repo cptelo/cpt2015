@@ -1,0 +1,13 @@
+Player: re: dandy cage
+Rating: 1502
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Texas Showdown::::
+defeated [kf] mdrm (1487)
+defeated setx - mugs (1487)
+lost to tampa bison (1644)
+lost to hypersurge (1523)

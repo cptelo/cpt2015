@@ -1,0 +1,14 @@
+Player: rikkafresh
+Rating: 1510
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::TFC::::
+defeated formerlyunknown (1487)
+lost to nerdjosh (1524)
+defeated kristougher (1498)
+defeated redmage138 (1503)
+lost to nerdjosh (1527)

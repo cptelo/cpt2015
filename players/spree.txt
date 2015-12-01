@@ -1,0 +1,13 @@
+Player: spree
+Rating: 1499
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Combo Breaker::::
+lost to bab zachary unitedstates (1512)
+defeated be|kane blueriver (1514)
+defeated onilink (1486)
+lost to tgl giefkid (1522)

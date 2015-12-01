@@ -1,0 +1,12 @@
+Player: koh kok sun
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::FV Cup::::
+defeated dr rock (1487)
+lost to chuan (1620)
+lost to leon lum (1500)

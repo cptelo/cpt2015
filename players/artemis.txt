@@ -1,0 +1,11 @@
+Player: artemis
+Rating: 1476
+Played: 2
+Won: 0
+Lost: 2
+%: 0
+
+Results:
+::::Northwest Majors::::
+lost to nando tovar (1554)
+lost to #bajaboys fullbleed (1500)

@@ -1,0 +1,12 @@
+Player: skullied
+Rating: 1489
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::NorCal Regionals::::
+defeated phantom miria (1487)
+lost to ccg|air (1613)
+lost to misteranthropy (1511)

@@ -1,0 +1,12 @@
+Player: msd xavi
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::First Attack::::
+lost to m. crash (1512)
+defeated ang3lit0pr (1486)
+lost to solrac naej (1518)

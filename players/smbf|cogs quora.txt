@@ -1,0 +1,12 @@
+Player: smbf|cogs quora
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::VS Fighting::::
+lost to blag (1524)
+defeated deibu (1473)
+lost to adzi (1524)

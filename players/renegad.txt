@@ -1,0 +1,13 @@
+Player: renegad
+Rating: 1509
+Played: 4
+Won: 2
+Lost: 2
+%: 50
+
+Results:
+::::Cannes Winter Clash::::
+lost to tkr (1560)
+defeated madjestik (1524)
+defeated emersion (1538)
+lost to dieminion (1658)

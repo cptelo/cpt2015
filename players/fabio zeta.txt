@@ -1,0 +1,14 @@
+Player: fabio zeta
+Rating: 1511
+Played: 5
+Won: 3
+Lost: 2
+%: 60
+
+Results:
+::::Milan Games Week::::
+defeated marco mazzanti (1487)
+lost to gonzales (1635)
+defeated nutri96 (1474)
+defeated minoxxx (1487)
+lost to pahn (1514)

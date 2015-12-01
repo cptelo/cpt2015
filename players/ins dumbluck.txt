@@ -1,0 +1,12 @@
+Player: ins dumbluck
+Rating: 1486
+Played: 3
+Won: 1
+Lost: 2
+%: 33
+
+Results:
+::::Texas Showdown::::
+defeated hibiki (1487)
+lost to hamago (1512)
+lost to phs buster chen (1500)
