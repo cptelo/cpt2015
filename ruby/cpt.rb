@@ -3,7 +3,7 @@ require 'elo'
 
 Elo.configure do |config|
   config.default_rating = 1500
-  config.k_factor(25) { games_played < 10 }
+  config.k_factor(25) { games_played < 15 }
   config.default_k_factor = 10
   config.use_FIDE_settings = false
 end
